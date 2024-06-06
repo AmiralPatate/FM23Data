@@ -18,6 +18,10 @@ All numeric types use . as decimal separator
 
 A few models are given multiple MakeID, the first MakeID is always the in-game make.
 
+EngineConfiguration enum values include "VR" not used in-game
+
+Induction enum values include "T4" (quad-turbo) value not used in-game.
+
 ## CSV data format
 
 ### countries.csv
