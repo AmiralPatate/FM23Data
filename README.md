@@ -42,4 +42,4 @@ int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, s
 
 ## Unit conversion
 
-Unit conversion algorithm provided as C# extension class.
+Unit conversion algorithm provided as C# extension class for power, mass, torque, and power-to-mass ratio.
