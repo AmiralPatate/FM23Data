@@ -6,7 +6,7 @@ Data sources
 - [Manteo's spreadsheet](https://docs.google.com/spreadsheets/d/1ZO5HqJW_F3jBEDn9kL_YxitJs8nijTiDTxuXUHLAP9o/edit#gid=778203711)
 - Manual entry
 
-This data is mostly accurate, but I can't guarantee 100% accuracy.
+This data is as accurate as it is.
 
 Due to unit conversion and rounding, some values for power, mass and torque may be off by one from in-game data.
 
