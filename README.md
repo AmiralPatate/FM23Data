@@ -12,6 +12,8 @@ Due to unit conversion and rounding, some values for power, mass and torque may 
 
 Some models may be missing as I manually add them as they come.
 
+All comma-separated values use , as separator, as it should be
+
 All array types use ; as separator
 
 All numeric types use . as decimal separator
