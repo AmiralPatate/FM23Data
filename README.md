@@ -39,3 +39,7 @@ int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nicknam
 ### track.csv
 
 int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, string TrackName, double Length_km
+
+## Unit conversion
+
+Unit conversion algorithm provided as C# extension class.
