@@ -12,17 +12,15 @@ Due to unit conversion and rounding, some values for power, mass and torque may 
 
 Some models may be missing as I manually add them as they come.
 
-All comma-separated values use , as separator, as it should be
+All comma-separated values use `,` as separator, as it should be
 
-All array types use ; as separator
+All array types use `;` as separator
 
-All numeric types use . as decimal separator
+All numeric types use `.` as decimal separator
 
-A few models are given multiple MakeID, the first MakeID is always the in-game make.
+A few models are given multiple MakeID, the first MakeID is always the in-game make. Extra MakeIDs can be ignored if you don't agree with it.
 
-EngineConfiguration enum values include "VR" not used in-game
-
-Induction enum values include "T4" (quad-turbo) value not used in-game.
+ModelExtra and Tags are IRL/user-defined data, can be ignored if you don't agree with it.
 
 ## CSV data format
 
@@ -40,11 +38,53 @@ int MakeID, string Name, string CountryCode
 
 ### models.csv
 
-int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nickname, string ModelExtra, int DivisionID, string[] Tags, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Mass_kg, int Torque_Nm, enum Drivetrain [RWD,AWD,FWD], enum Engine position [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors, bool IsTopless, enum DriverPosition [L,C,R]
+int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nickname, string ModelExtra, int DivisionID, string[] Tags, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Mass_kg, int Torque_Nm, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors, bool IsTopless, enum DriverPosition [L,C,R]
 
 ### track.csv
 
 int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, string TrackName, double Length_km
+
+## Enum details
+
+### Drivetrain
+- RWD: Rear-wheel drive
+- AWD: All-wheel drive
+- FWD: Front-wheel drive
+
+### EnginePosition
+- R: Rear
+- MR: Mid rear (appears in-game as Mid)
+- MF: Mid front (does not appear in-game, not used)
+- F: Front
+- NA: Not-applicable (does not appear in-game, not used)
+
+### EngineConfiguration
+- I: Inline
+- F: Flat
+- V: V engine
+- VR: VR engine (does not appear in-game, used in some Volkswagen models)
+- R: Rotary
+- W: W engine
+- E: Electric
+
+### Induction
+- NA: Naturally aspirated
+- T: Turbo
+- TT: Twin-turbo
+- DSC: Supercharged (positive displacement or centrifugal)
+- T4: Quad-turbo (does not appear in-game, used for Bugatti W16 engines)
+- EV: Electric/other non applicable
+
+### ModelType
+- Race: Race-spec model
+- Factory: Production model
+- Upgraded: Stock-upgraded production model, e.g. Forza Edition
+
+### DriverPosition
+- L: Left
+- C: Centre
+- R: Right
+
 
 ## Unit conversion
 
