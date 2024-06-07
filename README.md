@@ -1,4 +1,4 @@
-## Notes
+# Main data
 
 Data sources
 - [Kudos Prime](https://www.kudosprime.com/fm/carlist.php)
@@ -14,12 +14,28 @@ Due to unit conversion and rounding, some values for power, mass and torque may 
 
 All numeric types use `.` as decimal separator.
 
----
+All array types use `;` as separator.
 
 ## CSV data format
 
 ### modelexport.csv
 int CarOrdinal, string Make, string Name, int Year, string Nickname, string Division, string CountryCode, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Power_PS, int Power_hp, int Mass_kg, int Mass_lb, int Torque_Nm, int Torque_ftlb, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors, bool IsTopless, enum DriverPosition [L,C,R]
+
+---
+
+# Standalone Toolbox
+
+C# .NET Framework 4.8 executable with 4 tools:
+
+- **Track**: Pick a track or get a random one. Estimates the number of laps for a variety of distances and race times.
+  
+- **Telemetry**: Reads telemetry packets on port 56535 (hardcoded). Displays lap times, designed for Rivals mode. Copies to clipboard the best time of each run. Pull handbrake 3 times in a lap to mark time as dirty. Dirty laps are marked as negative time. Open telemetry/timeattack.txt for a log of all times recorded.
+  
+- **Color conv.**: Converts hex or RGB color codes into Forza coordinates. Third decimal place in parentheses for reasons. Can save and load custom colors.
+  
+- **Unit conv.**: Converts mass, power, power-to-mass, and torque to/from various units.
+
+## CSV data format
 
 ### countries.csv
 string CountryCode, string Name
@@ -35,22 +51,6 @@ int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nicknam
 
 ### track.csv
 int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, string TrackName, double Length_km
-
----
-
-## Standalone Toolbox
-
-C# .NET Framework 4.8 executable with 4 tools:
-
-- **Track**: Pick a track or get a random one. Estimates the number of laps for a variety of distances and race times.
-  
-- **Telemetry**: Reads telemetry packets on port 56535 (hardcoded). Displays lap times, designed for Rivals mode. Copies to clipboard the best time of each run. Pull handbrake 3 times in a lap to mark time as dirty. Dirty laps are marked as negative time. Open telemetry/timeattack.txt for a log of all times recorded.
-  
-- **Color conv.**: Converts hex or RGB color codes into Forza coordinates. Third decimal place in parentheses for reasons. Can save and load custom colors.
-  
-- **Unit conv.**: Converts mass, power, power-to-mass, and torque to/from various units.
-
----
 
 ## Enum details
 
