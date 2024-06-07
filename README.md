@@ -4,7 +4,7 @@ This is data and tools for Forza Motorsport 2023.
 
 The main data is the `modelexport.csv` file. It contains a bunch of information about models in-game, compiled into one file. See below for more details.
 
-StandaloneToolbox is a small program that does a few useful things. It uses a different data format for models, plus some extras, and contains track data. You don't need worry about all that.
+StandaloneToolbox is a small program that does a few useful things, as detailed below. It uses a different data format, also detailed below.
 
 ----
 
@@ -37,13 +37,13 @@ int CarOrdinal, string Make, string Name, int Year, string Nickname, string Divi
 
 C# .NET Framework 4.8 executable with 4 tools:
 
-- **Track**: Pick a track or get a random one. Estimates the number of laps for a variety of distances and race times.
+- **Track**: Pick a track or get a random one. Estimates the number of laps for a variety of distances and race times. Requires `tracks.csv`.
   
-- **Telemetry**: Reads telemetry packets on port 56535 (hardcoded). Displays lap times, designed for Rivals mode. Copies to clipboard the best time of each run. Pull handbrake 3 times in a lap to mark time as dirty. Dirty laps are marked as negative time. Open telemetry/timeattack.txt for a log of all times recorded.
+- **Telemetry**: Reads telemetry packets on port 56535 (hardcoded). Displays lap times, designed for Rivals mode. Copies to clipboard the best time of each run. Pull handbrake 3 times in a lap to mark time as dirty. Dirty laps are marked as negative time. Open telemetry/timeattack.txt for a log of all times recorded. Optionally requires `tracks.csv` for track information, and `divs.csv`, `makes.csv` and `models.csv` for car information.
   
-- **Color conv.**: Converts hex or RGB color codes into Forza coordinates. Third decimal place in parentheses for reasons. Can save and load custom colors.
+- **Colours**: Converts hex or RGB color codes into Forza coordinates. Third decimal place in parentheses for reasons. Can save and load custom colors.
   
-- **Unit conv.**: Converts mass, power, power-to-mass, and torque to/from various units.
+- **Units**: Converts mass, power, power-to-mass, and torque to/from various units.
 
 ## CSV data format
 
