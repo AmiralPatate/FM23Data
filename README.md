@@ -39,7 +39,15 @@ int CarOrdinal, string Make, string Name, int Year, string Nickname, string Divi
 
 C# .NET Framework 4.8 executable with the following functions:
 
-- **Models**: Search models with pretty much any filter. Requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv`.
+- **Models**: View, edit, create model information. Use at your own risk. Requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv`.
+
+- **Makes**: View, edit, create make information. Use at your own risk. Requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv`.
+
+- **Countries**: View, edit, create country information. Use at your own risk. Requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv`.
+
+- **Divisions**: View division information. Use at your own risk. Requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv`.
+    
+- **Search**: Search models with pretty much any filter. Requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv`.
 
 - **Tracks**: Pick a track or get a random one. Estimates the number of laps for a variety of distances and race times. Requires `tracks.csv` and `country.csv`.
   
