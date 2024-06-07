@@ -171,6 +171,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 2105,Donkervoort,D8 GTO,2013,Donkervoort GTO,Track Toys,NED,717,3.5,4.6,4.5,5.2,280,381,375,695,1532,475,350,RWD,F,2.5,I,5,T,Factory,2,True,L
 462,Eagle,Talon TSi Turbo,1998,Eagle Talon,Early Sport Compact,USA,320,2.6,1.5,1.9,1.9,203,276,272,1388,3060,290,214,AWD,F,2,I,4,T,Factory,2,False,L
 2275,Eagle-Weslake,T1G,1967,Eagle T1G,Formula 60s,USA,763,5.2,4.4,4.7,6.4,313,426,420,597,1316,329,243,RWD,MR,3,V,12,NA,Race,0,True,C
+0,Elemental,Rp1,2019,,Track Toys,GBR,784,2.7,7.1,7.2,6.2,209,284,280,632,1393,475,350,RWD,MR,2,I,4,T,Factory,0,True,L
 2866,Exomotive,Exocet Sport V8 XP-5,2018,Exomotive XP-5,Track Toys,USA,776,4.2,5.3,5.1,4.2,386,525,518,769,1695,659,486,RWD,F,6.2,V,8,NA,Factory,2,True,L
 3724,Ferrari,296 GTB,2022,Ferrari 296 GTB,Modern Sport GT,ITA,786,7.6,4.5,4.2,6.4,610,829,818,1575,3472,900,664,RWD,MR,3,V,6,TT,Factory,2,False,L
 3594,Ferrari,Roma,2020,Ferrari Roma '20,Modern Exotic GT,ITA,707,5.8,3.7,3.3,5.4,456,620,612,1645,3627,759,560,RWD,F,3.9,V,8,TT,Factory,2,False,L
@@ -305,6 +306,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 3289,Lamborghini,Aventador SVJ,2018,L. Aventador '18,Modern Exotic GT,ITA,823,7.3,5,4.9,7.1,566,770,759,1636,3607,720,531,AWD,MR,6.5,V,12,NA,Factory,2,False,L
 3217,Lamborghini,Huracán Performante,2018,L. Huracán '18,Modern Sport GT,ITA,781,6.3,4.6,4.4,6.2,470,639,630,1512,3333,599,442,AWD,MR,5.2,V,10,NA,Factory,2,False,L
 2616,Lamborghini,Centenario LP 770-4,2016,L. Centenario 16,Modern Exotic GT,ITA,803,7.2,4.5,4.4,6.9,566,770,759,1675,3693,689,508,AWD,MR,6.5,V,12,NA,Factory,2,False,L
+0,Lamborghini,Huracán LP 610-4,2014,,Modern Sport GT,ITA,763,6.7,4,3.8,6.2,449,610,602,1553,3424,560,413,AWD,MR,5.2,V,10,NA,Factory,2,False,L
 2042,Lamborghini,Veneno,2013,L. Veneno '13,Modern Hypercars,ITA,833,7.1,5.6,5.6,6.9,552,751,740,1646,3629,689,508,AWD,MR,6.5,V,12,NA,Factory,2,False,L
 1583,Lamborghini,Aventador J,2012,L. Aventador '12,Modern Exotic GT,ITA,777,6.7,4.2,4.1,6.8,522,710,700,1731,3816,690,509,AWD,MR,6.5,V,12,NA,Factory,2,False,L
 1322,Lamborghini,Gallardo LP 570-4 Superleggera,2011,L. Gallardo '11,Modern Sport GT,ITA,731,7,3.6,3.7,5,419,570,562,1496,3298,540,398,AWD,MR,5.2,V,10,NA,Factory,2,False,L
@@ -488,6 +490,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 2775,Porsche,#92 Porsche GT Team 911 RSR,2017,#92 Porsche RSR,Forza GT,GER,811,4.7,6.6,6.7,5.9,375,510,503,1243,2740,461,340,RWD,MR,4,F,6,NA,Race,2,False,L
 2741,Porsche,Panamera Turbo,2017,P. Panamera '17,Sport Luxury,GER,643,6.8,3,2.6,4.9,410,557,550,1995,4398,769,567,AWD,F,4,V,8,TT,Factory,4,False,L
 2538,Porsche,#91 Porsche Team Manthey 991 RSR,2015,Porsche #91 RSR,Forza GT,GER,806,4.5,6.3,6.4,6.2,365,496,489,1306,2879,447,330,RWD,R,4,F,6,NA,Race,2,False,L
+0,Porsche,Cayman GTS,2015,,Modern Sport Coupe,GER,585,4.7,3.1,3,4.1,254,345,341,1345,2965,380,280,RWD,R,3.4,F,6,NA,Factory,2,False,L
 2289,Porsche,911 Turbo S,2014,911 Turbo '14,Modern Sport GT,GER,717,7,3.6,3.3,5.5,418,568,561,1636,3607,750,553,RWD,R,3.8,F,6,TT,Factory,2,False,L
 2290,Porsche,918 Spyder,2014,Porsche 918,Modern Exotic GT,GER,852,7,5.3,5,8.5,661,899,886,1675,3693,1124,829,AWD,MR,4.6,V,8,NA,Factory,2,False,L
 1539,Porsche,911 GT2 RS,2012,911 GT2 RS '12,Modern Sport GT,GER,774,6.9,4.7,4.3,6.4,456,620,612,1370,3020,700,516,RWD,R,3.6,F,6,TT,Factory,2,False,L
@@ -520,7 +523,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 453,Renault,Sport Clio V6,2003,Ren. Clio '03,Modern Hot Hatch,FRA,384,2.6,2.2,2.2,2.4,187,254,251,1400,3086,300,221,RWD,MR,2.9,V,6,NA,Factory,3,False,L
 2149,Renault,Clio Williams,1993,Ren. Clio '93,Hot Hatch Icons,FRA,298,1.2,1.6,1.8,1.8,106,144,142,1013,2233,175,129,FWD,F,2,I,4,NA,Factory,3,False,R
 634,Renault,5 Turbo,1980,Ren. 5 Turbo '80,Hot Hatch Icons,FRA,316,1,1.8,1.9,2.4,117,159,157,970,2138,221,163,RWD,MR,1.4,I,4,T,Factory,3,False,L
--1,Renault,#15 Equipe Renault Elf R.S. 01,1977,,Formula 70s,FRA,828,5,6.8,6.5,7.7,373,507,500,770,1698,372,274,RWD,MR,1.5,V,6,T,Factory,0,False,L
+-1,Renault,#15 Equipe Renault Elf R.S. 01,1977,,Formula 70s,FRA,828,5,6.8,6.5,7.7,373,507,500,770,1698,372,274,RWD,MR,1.5,V,6,T,Race,0,False,L
 3395,Renault,8 Gordini,1967,Ren. 8 G '67,Vintage Sport Compact,FRA,228,1,1.2,1,1.2,77,105,103,855,1885,117,86,RWD,R,1.3,I,4,NA,Factory,4,False,L
 3625,Rimac,Nevera,2021,Rimac Nevera,Modern Hypercars,CRO,886,9.4,4.1,4,4.3,1371,1864,1839,2150,4740,2358,1739,AWD,MR,0,E,0,EV,Factory,2,False,L
 3140,Rimac,Concept Two,2019,Rimac Concept 2,Modern Hypercars,CRO,908,8.9,4.2,4,10,1407,1913,1887,1950,4299,2298,1695,AWD,MR,0,E,0,EV,Factory,2,False,L
