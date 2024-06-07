@@ -39,7 +39,9 @@ int CarOrdinal, string Make, string Name, int Year, string Nickname, string Divi
 
 C# .NET Framework 4.8 executable with 4 functions:
 
-- **Track**: Pick a track or get a random one. Estimates the number of laps for a variety of distances and race times. Requires `tracks.csv` and `country.csv`.
+- **Models**: Search models with pretty much any filter.
+
+- **Tracks**: Pick a track or get a random one. Estimates the number of laps for a variety of distances and race times. Requires `tracks.csv` and `country.csv`.
   
 - **Telemetry**: Reads telemetry packets on port 56535 (hardcoded). Displays lap times, designed for Rivals mode. Copies to clipboard the best time of each run. Pull handbrake 3 times in a lap to mark time as dirty. Dirty laps are marked as negative time. Open telemetry/timeattack.txt for a log of all times recorded. Optionally requires `tracks.csv` and `country.csv` for track information, and `divs.csv`, `makes.csv`, `country.csv` and `models.csv` for car information.
   
