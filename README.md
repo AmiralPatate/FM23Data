@@ -37,7 +37,7 @@ int CarOrdinal, string Make, string Name, int Year, string Nickname, string Divi
 
 # Standalone Toolbox
 
-C# .NET Framework 4.8 executable with 4 functions:
+C# .NET Framework 4.8 executable with the following functions:
 
 - **Models**: Search models with pretty much any filter.
 
