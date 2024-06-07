@@ -14,6 +14,8 @@ Due to unit conversion and rounding, some values for power, mass and torque may 
 
 All numeric types use `.` as decimal separator.
 
+---
+
 ## CSV data format
 
 ### countries.csv
@@ -24,6 +26,20 @@ int CarOrdinal, string Make, string Name, int Year, string Nickname, string Divi
 
 ### track.csv
 int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, string TrackName, double Length_km
+
+---
+
+## Standalone Toolbox
+
+C# .NET Framework 4.8 executable with 4 tools:
+
+- **Track**: Pick a track or get a random one. Estimates the number of laps for a variety of distances and race times.
+  
+- **Telemetry**: Reads telemetry packets on port 56535 (hardcoded). Displays lap times, designed for Rivals mode. Copies to clipboard the best time of each run. Pull handbrake 3 times in a lap to mark time as dirty. Dirty laps are marked as negative time. Open telemetry/timeattack.txt for a log of all times recorded.
+  
+- **Color conv.**: Converts hex or RGB color codes into Forza coordinates. Third decimal place in parentheses for reasons. Can save and load custom colors.
+  
+- **Unit conv.**: Converts mass, power, power-to-mass, and torque to/from various units.
 
 ---
 
@@ -67,17 +83,3 @@ int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, s
 - L: Left
 - C: Centre
 - R: Right
-
----
-
-## Standalone Toolbox
-
-C# .NET Framework 4.8 executable with 4 tools:
-
-- **Track**: Pick a track, get a random one. Estimates the number of laps for a variety of distances and race times.
-  
-- **Telemetry**: Reads telemetry packets on port 56535 (hardcoded). Displays lap times, designed for Rivals mode. Copies to clipboard the best time of each run. Pull handbrake 3 times in a lap to mark time as dirty. Dirty laps are marked as negative time. Visit telemetry/timeattack.txt for a log of all times.
-  
-- **Color conv.**: Converts hex or RGB color codes into Forza coordinates. Third decimal place in parentheses for reasons. Can save and load custom colors.
-  
-- **Unit conv.**: Converts mass, power, power-to-mass, and torque to/from various units.
