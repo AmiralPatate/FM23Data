@@ -39,7 +39,7 @@ int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, s
 - MR: Mid rear (appears in-game as Mid)
 - MF: Mid front (does not appear in-game, not used)
 - F: Front
-- NA: Not-applicable (does not appear in-game, not used)
+- NA: Not applicable (does not appear in-game, not used)
 
 ### EngineConfiguration
 - I: Inline
@@ -56,7 +56,7 @@ int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, s
 - TT: Twin-turbo
 - DSC: Supercharged (positive displacement or centrifugal)
 - T4: Quad-turbo (does not appear in-game, used for Bugatti W16 engines)
-- EV: Electric/other non applicable
+- EV: Electric / other not applicable
 
 ### ModelType
 - Race: Race-spec model
