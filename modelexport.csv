@@ -1,0 +1,583 @@
+Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr hp,Mass kg,Mass lb,Trq N.m,Trq ft-lb,Drvtr.,Eng.pos.,Dsp.,Cfg.,Cyl.,Ind.,Type,Doors,Topless,Steer.pos.
+2740,Abarth,124 Spider,2017,Abarth 124 '17,Modern Sport Compact,ITA,360,2.1,2.3,2.4,2.2,123,167,165,1124,2478,249,184,RWD,F,1.4,I,4,T,Factory,2,True,L
+3420,Acura,#6 ARX-05 DPi,2020,Acura #6 ARX-05,Forza Proto-H,USA,943,6,9.5,9.6,7.7,447,608,599,986,2174,678,500,RWD,MR,3.5,V,6,TT,Race,2,False,L
+3240,Acura,#36 NSX GT3,2018,Acura #36 NSX,Forza GT,USA,819,4.7,6.7,6.9,6.3,389,529,522,1320,2910,550,406,RWD,MR,3.5,V,6,TT,Race,2,False,L
+2352,Acura,NSX,2017,Acura NSX '17,Modern Sport GT,USA,731,5.2,3.8,3.3,6.1,427,581,573,1725,3803,845,623,AWD,MR,3.5,V,6,TT,Factory,2,False,L
+368,Acura,Integra Type R,2001,Acura ITR '01,Early Sport Compact,USA,338,3.3,1.5,1.9,2,145,197,194,1197,2639,176,130,FWD,F,1.8,I,4,NA,Factory,2,False,L
+2542,Alfa Romeo,Giulia Quadrifoglio,2017,Alfa Giulia '17,Modern Sport Touring,ITA,632,5.8,3.5,3.1,4.5,377,513,506,1734,3823,600,443,RWD,F,2.9,V,6,TT,Factory,4,False,L
+2038,Alfa Romeo,4C,2014,Alfa Romeo 4C,Modern Sport Coupe,ITA,522,3.1,2.9,3.1,3.5,179,243,240,1128,2487,323,238,RWD,MR,1.7,I,4,T,Factory,2,False,L
+1325,Alfa Romeo,Giulietta Quadrifoglio Verde,2011,AR Giulietta 11,Modern Hot Hatch,ITA,387,2.8,1.8,2.1,2.4,172,234,231,1320,2910,340,251,FWD,F,1.7,I,4,T,Factory,5,False,L
+1150,Alfa Romeo,Giulia Sprint GTA Stradale,1965,AR GTA '65,Vintage Sport Compact,ITA,263,1,1,1,1.8,86,117,115,794,1750,142,105,RWD,F,1.6,I,4,NA,Factory,2,False,L
+2973,Alpine,A110,2017,Alpine A110 '17,Modern Sport Coupe,FRA,570,3.7,2.9,3.1,4.2,185,252,248,1103,2432,320,236,RWD,MR,1.8,I,4,T,Factory,2,False,L
+2426,Alpine,GTA Le Mans,1990,Renault GTA,Sport Touring Classics,FRA,374,2.7,2,2.3,2.4,147,200,197,1190,2624,290,214,RWD,MR,2.5,V,6,T,Factory,2,False,L
+1267,AMC,Javelin AMX,1971,AMC Javelin '71,Vintage Muscle,USA,357,1,1.2,1.3,2.4,246,334,330,1563,3446,583,430,RWD,F,3.4,V,8,NA,Factory,2,False,L
+1572,AMC,Rebel 'The Machine',1970,AMC Rebel '70,Street Drag Racers,USA,339,1.9,1.1,1,2.6,254,345,341,1656,3651,579,427,RWD,F,6.4,V,8,NA,Factory,2,False,L
+3141,Apollo,Intensa Emozione,2018,Apollo IE '18,Modern Hypercars,GER,906,6.6,7.2,7.1,7.7,582,791,780,1250,2756,759,560,RWD,MR,6.3,V,12,NA,Factory,2,False,R
+1651,Ariel,Atom 500 V8,2013,Ariel Atom '13,Track Toys,GBR,794,3.7,5.4,5.2,7.8,354,481,475,650,1433,363,268,RWD,MR,3,V,8,NA,Factory,2,True,R
+2968,Aston Martin,Valkyrie,2023,AM Valkyrie '23,Modern Hypercars,GBR,999,7.4,10,9.8,9,850,1156,1140,1030,2271,900,664,RWD,MR,6.5,V,12,NA,Factory,2,False,R
+3631,Aston Martin,Valkyrie AMR Pro,2022,AM AMR Pro '22,Modern Factory Racecars,GBR,999,8.1,10,10,10,746,1014,1000,1000,2205,740,546,RWD,MR,6.5,V,12,NA,Race,2,False,R
+3185,Aston Martin,DBS Superleggera,2019,AM DBS '19,Modern Exotic GT,GBR,727,7.1,3.8,3.4,5.8,533,725,715,1799,3966,899,663,RWD,F,5.2,V,12,TT,Factory,2,False,L
+3364,Aston Martin,Valhalla Concept Car,2019,AM Valhalla '19,Modern Hypercars,GBR,927,8.5,6.2,6.1,10,777,1056,1042,1405,3097,1349,995,AWD,MR,3,V,6,TT,Factory,2,False,L
+3091,Aston Martin,Vantage,2019,AM Vantage '19,Modern Sport GT,GBR,665,5.6,3.6,3.6,4.5,375,510,503,1586,3497,685,505,RWD,F,4,V,8,TT,Factory,2,False,R
+2860,Aston Martin,#7 Aston Martin Racing V12 Vantage GT3,2017,#7 Aston GT3,Forza GT,GBR,833,4.7,6.7,6.8,6.4,447,608,599,1338,2950,700,516,RWD,F,5.9,V,12,NA,Race,2,False,L
+3125,Aston Martin,Vanquish Zagato Coupe,2017,AM Vanquish '17,Modern Exotic GT,GBR,675,6.1,3.8,3.5,4.7,444,604,595,1765,3891,629,464,RWD,F,5.9,V,12,NA,Factory,2,False,R
+3211,Aston Martin,Vulcan AMR Pro,2017,AM Vulcan AMR 17,Modern Factory Racecars,GBR,885,5.8,7.6,7.5,6.4,611,831,819,1360,2998,800,590,RWD,F,6.9,V,12,NA,Race,2,False,L
+2470,Aston Martin,Vulcan,2016,AM Vulcan '16,Modern Factory Racecars,GBR,865,5.8,7.3,7.3,6.4,611,831,819,1360,2998,800,590,RWD,F,6.9,V,12,NA,Race,2,False,L
+2493,Aston Martin,Vantage GT12,2015,AM Vantage '16,Modern Sport GT,GBR,707,4.9,4.6,4.3,5,442,601,593,1565,3450,625,461,RWD,F,5.9,V,12,NA,Factory,2,False,R
+2181,Aston Martin,V12 Vantage S,2013,AM Vantage '13,Modern Sport GT,GBR,640,6.7,3.3,3.1,4.6,421,572,565,1671,3684,620,457,RWD,F,5.9,V,12,NA,Factory,2,False,L
+1081,Aston Martin,DBS,2008,AM DBS '08,Modern Sport GT,GBR,603,6.1,3.3,3.1,3.9,380,517,510,1695,3737,569,420,RWD,F,5.9,V,12,NA,Factory,2,False,L
+479,Aston Martin,V12 Vanquish,2001,AM Vanquish '01,Exotic GT Classics,GBR,542,5.3,2.8,2.7,3.5,343,466,460,1864,4109,542,400,RWD,F,5.9,V,12,NA,Factory,2,False,L
+1519,Aston Martin,V8 Vantage V600,1998,AM Vantage '98,Sport GT Icons,GBR,560,6.4,2.7,2.5,3.8,447,608,599,1623,3578,813,600,RWD,F,5.3,V,8,DSC,Factory,2,False,R
+1551,Aston Martin,#18 Aston Martin AMR1,1989,#18 AMR1,GTP/C,GBR,962,6.9,10,10,8.3,500,680,671,910,2006,841,620,RWD,MR,6.3,V,8,NA,Race,2,False,R
+3024,Aston Martin,DBS,1967,AM DBS '67,Vintage Exotic GT,GBR,343,3.5,1.4,1.4,2.6,242,329,325,1588,3501,393,290,RWD,F,4,I,6,NA,Factory,2,False,R
+1105,Aston Martin,DB5,1964,AM DB5 '64,Sport Coupe Icons,GBR,282,1.4,1.4,1.3,1.9,210,286,282,1565,3450,382,282,RWD,F,4,I,6,NA,Factory,2,False,R
+1550,Aston Martin,DB4 GT Zagato,1960,AM DB4 GT,Vintage Le Mans Sportscars,GBR,353,3.5,1.3,1.5,2.5,234,318,314,1225,2701,377,278,RWD,F,3.7,I,6,NA,Factory,2,False,R
+1386,Aston Martin,DBR1,1958,AM DBR1,Vintage Le Mans Sportscars,GBR,518,4.6,2.3,2.7,3.5,189,257,253,875,1929,335,247,RWD,F,3,I,6,NA,Race,2,True,R
+3583,Audi,RS 6 Avant,2021,Audi RS 6 '21,Sport Luxury,GER,658,6.1,3,2.7,5,441,600,591,2075,4575,800,590,AWD,F,4,V,8,TT,Factory,5,False,L
+3584,Audi,RS 7 Sportback,2021,Audi RS 7 '21,Sport Luxury,GER,656,6.7,2.8,2.6,5.2,441,600,591,2065,4553,800,590,AWD,F,4,V,8,TT,Factory,4,False,L
+3359,Audi,RS e-tron GT,2021,Audi RS e-tron,Sport Luxury,GER,706,3.7,2.6,2.8,6.1,475,646,637,2347,5174,830,612,AWD,MR,0,E,0,EV,Factory,4,False,L
+3745,Audi,R8 V10 performance,2020,Audi R8 '20,Modern Sport GT,GER,753,7.1,3.8,3.5,6.1,449,610,602,1650,3638,560,413,AWD,MR,5.2,V,10,NA,Factory,2,False,L
+3454,Audi,RS 3 Sedan,2020,Audi RS 3 '20,Modern Sport Coupe,GER,621,5.1,2.7,2.5,4.6,294,400,394,1630,3594,480,354,AWD,F,2.5,I,5,T,Factory,4,False,L
+3453,Audi,TT RS Coupe,2020,Audi TT RS '20,Modern Sport Coupe,GER,643,5.5,2.8,2.8,4.8,294,400,394,1500,3307,480,354,AWD,F,2.5,I,5,T,Factory,2,False,L
+2852,Audi,#1 Audi Sport RS 3 LMS,2018,#1 RS 3 LMS,Forza Touring Cars,GER,692,3.2,5.3,5.5,4,254,345,341,1180,2601,420,310,FWD,F,2,I,4,T,Race,4,False,L
+3229,Audi,#44 R8 LMS GT3,2018,Audi #44 R8 LMS,Forza GT,GER,828,5,6.6,6.8,5.8,436,593,585,1325,2921,549,405,RWD,MR,5.2,V,10,NA,Race,2,False,L
+3318,Audi,RS 4 Avant,2018,Audi RS 4 '18,Modern Sport Touring,GER,637,6,2.8,2.6,5,331,450,444,1790,3946,600,443,AWD,F,2.9,V,6,TT,Factory,5,False,L
+3264,Audi,RS 5 Coupe,2018,Audi RS 5 '18,Modern Sport Touring,GER,638,5.7,2.9,2.7,4.9,331,450,444,1810,3990,601,443,AWD,F,2.9,V,6,TT,Factory,2,False,L
+3286,Audi,TT RS,2018,Audi TT RS '18,Modern Sport Coupe,GER,643,5.5,2.8,2.8,4.8,298,405,400,1500,3307,480,354,AWD,F,2.5,I,5,T,Factory,2,False,L
+2859,Audi,#17 Rotek Racing TT RS,2016,Audi #17 TT RS,Forza GT,GER,802,3.3,7.1,7.4,5.1,283,385,380,1100,2425,529,390,FWD,F,2.5,I,5,T,Race,2,False,L
+2473,Audi,R8 V10 plus,2016,Audi R8 '16,Modern Sport GT,GER,752,7.1,3.8,3.5,6.1,455,619,610,1555,3428,560,413,AWD,MR,5.2,V,10,NA,Factory,2,False,L
+2180,Audi,RS 6 Avant,2015,Audi RS 6 '15,Sport Luxury,GER,666,6.3,3.3,2.7,5,412,560,553,1935,4266,700,516,AWD,F,4,V,8,TT,Factory,2,False,L
+2179,Audi,S1,2015,Audi S1 '15,Modern Hot Hatch,GER,405,2.5,2.2,2.2,2.5,170,231,228,1315,2899,370,273,AWD,F,2,I,4,T,Factory,3,False,L
+2271,Audi,#2 Audi Team Joest R18 e-tron quattro,2014,Audi #2 R18,Forza P1,GER,979,6.3,10,10,10,532,723,713,888,1958,1299,958,AWD,MR,4,V,6,T,Race,2,False,C
+2010,Audi,R8 Coupé V10 plus 5.2 FSI quattro,2013,Audi R8 '13,Modern Sport GT,GER,732,6.3,3.7,3.4,5.8,404,549,542,1670,3682,540,398,AWD,MR,5.2,V,10,NA,Factory,2,False,L
+1607,Audi,RS 4 Avant,2013,Audi RS 4 '13,Modern Sport Touring,GER,591,5.6,2.9,2.5,3.9,331,450,444,1795,3957,430,317,AWD,F,4.2,V,8,NA,Factory,5,False,L
+2009,Audi,RS 7 Sportback,2013,Audi RS 7,Sport Luxury,GER,613,6.5,2.8,2.4,4.5,412,560,553,2030,4475,750,553,RWD,F,4,V,8,TT,Factory,4,False,L
+1216,Audi,RS 3 Sportback,2011,Audi RS 3 '11,Modern Hot Hatch,GER,470,3.7,2.3,2.3,2.8,250,340,335,1575,3472,450,332,AWD,F,2.5,I,5,T,Factory,5,False,L
+419,Audi,RS 4,2006,Audi RS 4 '06,Sport Touring Classics,GER,564,5.4,2.3,2.4,3.6,313,426,420,1650,3638,430,317,AWD,F,4.2,V,8,NA,Factory,4,False,L
+428,Audi,S4,2004,Audi S4 '04,Sport Touring Classics,GER,467,4.6,1.9,1.9,3,271,368,363,1627,3587,409,302,AWD,F,4.2,V,8,NA,Factory,4,False,L
+420,Audi,RS 6,2003,Audi RS 6 '03,Sport Touring Classics,GER,537,5.3,2.5,2.3,3.6,336,457,451,1825,4023,563,415,AWD,F,4.2,V,8,TT,Factory,4,False,L
+2178,Audi,RS 4 Avant,2001,Audi RS 4 '01,Sport Touring Classics,GER,516,4.5,2.4,2.4,3.2,280,381,375,1620,3571,439,324,AWD,F,2.7,V,6,TT,Factory,5,False,L
+1370,Audi,Avant RS 2,1995,Audi RS2 '95,Sport Touring Classics,GER,458,3.6,2.2,2.2,2.9,232,315,311,1595,3516,409,302,AWD,F,2.2,I,5,T,Factory,5,False,L
+1573,Audi,#4 Audi 90 quattro IMSA GTO,1989,#4 Audi 90,GTX Sportscars,GER,857,5.2,6.1,6.2,7.4,441,600,591,1207,2661,720,531,AWD,F,2.2,I,5,T,Race,4,False,L
+633,Audi,Sport quattro,1984,Audi quattro '84,Sport Touring Classics,GER,464,2.8,2.1,2.2,3,228,310,306,1273,2806,350,258,AWD,F,2.1,I,5,T,Factory,2,False,L
+1481,Austin-Healey,3000 MkIII,1965,Austin 3000 '65,Sport Coupe Icons,GBR,262,1.3,1,1.1,1.5,110,150,148,1181,2604,235,173,RWD,F,2.9,I,6,NA,Factory,2,True,L
+2096,Auto Union,Type D,1939,AutoUnion Type D,The Birth of Grand Prix,GER,598,6.2,2.4,2.9,4.9,362,492,485,1277,2815,560,413,RWD,MR,3,V,12,DSC,Race,0,True,C
+3360,Automobili Pininfarina,Battista,2020,Battista '20,Modern Hypercars,ITA,924,7.3,4.3,4.2,6.4,1400,1903,1877,2000,4409,2298,1695,AWD,MR,0,E,0,EV,Factory,2,False,L
+2040,BAC,Mono,2014,BAC Mono '14,Track Toys,GBR,712,2.7,4.4,4.5,5.4,209,284,280,614,1354,279,206,RWD,MR,2.3,I,4,NA,Factory,0,True,C
+2665,Bentley,Continental Supersports,2017,Bentley C SS '17,Sport Luxury,GBR,656,6.8,2.7,2.4,4.7,522,710,700,2281,5029,1016,749,AWD,F,6,W,12,TT,Factory,2,False,L
+2403,Bentley,#17 M-Sport Bentley Continental GT3,2014,#7 Bentley GT3,Forza GT,GBR,819,4.3,6.6,6.6,6.3,447,608,599,1390,3064,720,531,RWD,F,4,V,8,TT,Race,2,False,R
+498,Bentley,#7 Team Bentley Speed 8,2003,#7 Bentley Spd 8,Early LMP,GBR,941,6.1,9.4,9.6,7.9,472,642,633,918,2024,799,589,RWD,MR,4,V,8,TT,Race,2,False,R
+3763,BMW,M2,2023,BMW M2 '23,Modern Sport Coupe,GER,599,5,3.3,3,4.1,338,460,453,1700,3748,549,405,RWD,F,3,I,6,TT,Factory,2,False,L
+3644,BMW,M3 Competition Sedan,2021,BMW M3 '21,Modern Sport Touring,GER,642,5.7,3.1,2.9,4.7,375,510,503,1730,3814,649,479,RWD,F,3,I,6,TT,Factory,4,False,L
+3645,BMW,M4 Competition Coupé,2021,BMW M4 '21,Modern Sport Touring,GER,641,5.7,3.1,2.9,4.7,375,510,503,1725,3803,649,479,RWD,F,3,I,6,TT,Factory,2,False,L
+3434,BMW,M2 Competition Coupé,2020,BMW M2 '20,Modern Sport Coupe,GER,588,4.7,2.8,2.6,4.5,302,411,405,1658,3655,550,406,RWD,F,3,I,6,TT,Factory,2,False,L
+3518,BMW,M8 Competition Coupé,2020,BMW M8 '20,Sport Luxury,GER,720,6.9,3.4,2.9,5.8,460,625,617,1975,4354,750,553,AWD,F,4.4,V,8,TT,Factory,2,False,L
+3173,BMW,Z4 Roadster,2019,BMW Z4 '19,Modern Sport Coupe,GER,608,4.9,3,3.1,4.3,285,387,382,1475,3252,500,369,RWD,F,3,I,6,T,Factory,2,True,L
+3073,BMW,#1 BMW M Motorsport M8 GTE,2018,BMW #1 M8 GTE,Forza GT,GER,838,5.1,6.6,6.9,6.5,370,503,496,1227,2705,678,500,RWD,F,4,V,8,TT,Race,2,False,L
+3071,BMW,M5,2018,BMW M5 '18,Sport Luxury,GER,711,6.5,3.3,2.8,5.8,447,608,599,1982,4370,750,553,AWD,F,4.4,V,8,TT,Factory,5,False,L
+2824,BMW,#24 BMW Team RLL M6 GTLM,2017,BMW #24 M6 GTLM,Forza GT,GER,813,4.5,6.6,6.8,6.1,373,507,500,1250,2756,616,454,RWD,F,4.4,V,8,TT,Race,2,False,L
+2628,BMW,M4 GTS,2016,BMW M4 '16,Modern Sport Touring,GER,701,5.6,4.2,3.9,5,368,500,493,1510,3329,599,442,RWD,F,3,I,6,TT,Factory,2,False,L
+2133,BMW,i8,2015,BMW i8 '15,Sport Luxury,GER,644,5.6,2.7,2.9,4.5,266,362,357,1533,3380,570,420,AWD,MR,1.5,I,3,T,Factory,2,False,L
+2018,BMW,M6 Coupé,2013,BMW M6 '13,Sport Luxury,GER,651,6.6,3.2,2.7,4.9,418,568,561,1930,4255,678,500,RWD,F,4.4,V,8,TT,Factory,2,False,L
+1388,BMW,M5,2012,BMW M5 '12,Modern Sport Touring,GER,626,6.2,2.8,2.8,4.7,412,560,553,1870,4123,679,501,RWD,F,4.4,V,8,TT,Factory,5,False,L
+1385,BMW,1 Series M Coupé,2011,BMW 1M,Modern Sport Coupe,GER,527,4.4,2.6,2.6,3.5,250,340,335,1495,3296,450,332,RWD,F,3,I,6,TT,Factory,2,False,L
+1598,BMW,M3 GTS,2010,BMW M3 '10,Modern Sport Touring,GER,657,5.4,3.8,3.7,4.6,331,450,444,1530,3373,440,325,RWD,F,4.4,V,8,NA,Factory,2,False,L
+383,BMW,M3,2005,BMW M3 '05,Sport Touring Classics,GER,504,4.4,2.5,2.6,3.3,248,337,333,1549,3415,355,262,RWD,F,3.2,I,6,NA,Factory,2,False,L
+565,BMW,M3-GTR,2002,BMW M3 '02,Sport Touring Classics,GER,571,4.9,2.8,2.9,3.9,279,379,374,1397,3080,390,288,RWD,F,4,V,8,NA,Factory,2,False,L
+1268,BMW,Z3 M Coupé,2002,BMW Z3 '02,Early Sport Compact,GER,520,3.8,2.5,2.6,3.4,235,320,315,1438,3170,340,251,RWD,F,3.2,I,6,NA,Factory,3,False,L
+2193,BMW,323ti Sport,2000,BMW 323ti '00,Early Sport Compact,GER,322,1.7,1.9,1.8,2.2,149,203,200,1251,2758,245,181,RWD,F,2.5,I,6,NA,Factory,3,False,L
+505,BMW,#15 BMW Motorsport V12 LMR,1999,#15 BMW V12 LMR,Early LMP,GER,953,6.5,10,10,8.2,476,647,638,900,1984,670,494,RWD,MR,6,V,12,NA,Race,2,True,R
+382,BMW,M3,1997,BMW M3 '97,Sport Touring Classics,GER,485,4.6,2.4,2.4,3.2,239,325,321,1460,3219,350,258,RWD,F,3.2,I,6,NA,Factory,2,False,L
+1493,BMW,850CSi,1995,BMW 850CSi '95,Sport GT Icons,GER,435,5,2.2,2.3,2.8,277,377,371,1923,4239,545,402,RWD,F,5.6,V,12,NA,Factory,2,False,L
+642,BMW,M3,1991,BMW M3 '91,Sport Touring Classics,GER,357,2.7,1.7,2,2.4,160,218,215,1253,2762,244,180,RWD,F,2.3,I,4,NA,Factory,2,False,L
+1368,BMW,M5,1988,BMW M5 '88,Sport Touring Classics,GER,366,2.6,1.7,1.8,2.8,210,286,282,1465,3230,340,251,RWD,F,3.5,I,6,NA,Factory,5,False,L
+1040,BMW,M1,1981,BMW M1 '81,Sport GT Icons,GER,416,3.1,2.2,2.3,2.9,207,281,278,1300,2866,329,243,RWD,MR,3.5,I,6,NA,Factory,2,False,L
+2103,BMW,#6 BMW Motorsport M1 Procar,1979,#6 BMW M1,GTX Sportscars,GER,772,4.9,5.4,5.9,5.5,402,547,539,1008,2222,389,287,RWD,MR,3.5,I,6,NA,Race,2,False,L
+2112,BMW,#25 BMW Motorsport 3.0 CSL,1975,#25 BMW 3.0 CSL,GTX Sportscars,GER,741,4,5.5,5.5,5.4,409,556,548,1040,2293,414,305,RWD,F,3.5,I,6,NA,Race,2,False,L
+1269,BMW,2002 Turbo,1973,BMW 2002 '73,Vintage Sport Compact,GER,298,1.6,1.2,1.3,2.3,125,170,168,1080,2381,245,181,RWD,F,2,I,4,T,Factory,2,False,L
+3285,Brabham,BT62,2019,Brabham BT62 '19,Modern Factory Racecars,GBR,911,6.3,7.7,7.8,7.8,522,710,700,1066,2350,667,492,RWD,MR,5.4,V,8,NA,Race,0,False,L
+2033,Brabham,BT24,1967,Brabham BT24,Formula 60s,GBR,756,4.2,4.7,4.9,6.1,246,334,330,517,1140,315,232,RWD,MR,3,V,8,NA,Race,0,True,C
+-1,Brabham,BT8,1964,,Vintage Le Mans Prototypes,GBR,538,3.4,2.3,2.2,4.5,198,269,266,631,1391,316,233,RWD,MR,2.8,I,4,NA,Factory,0,False,L
+3266,BRM,#14 Team Motul P201,1974,BRM #14 P201,Formula 70s,GBR,856,4.4,7,7.1,8.9,336,457,451,750,1653,342,252,RWD,MR,3,V,12,NA,Race,0,True,C
+3168,Bugatti,Divo,2019,Bugatti Divo,Modern Hypercars,FRA,870,10,4.8,4.6,8.9,1103,1500,1479,1960,4321,1600,1180,AWD,MR,8,W,16,T4,Factory,2,False,L
+2624,Bugatti,Chiron,2018,Bugatti Chiron,Modern Hypercars,FRA,869,10,4.6,4.4,8.8,1103,1500,1479,1995,4398,1600,1180,AWD,MR,8,W,16,T4,Factory,2,False,L
+1328,Bugatti,Veyron Super Sport,2011,Bugatti Veyron,Modern Hypercars,FRA,862,10,4.5,4.4,9.3,882,1199,1183,1834,4043,1499,1106,AWD,MR,8,W,16,T4,Factory,2,False,L
+1219,Bugatti,EB110 Super Sport,1992,Bugatti EB110 '92,Exotic GT Classics,FRA,697,7.6,3.2,3.2,4.7,456,620,612,1418,3126,651,480,AWD,MR,3.5,V,12,TT,Factory,2,False,L
+2066,Bugatti,Type 35 C,1926,Bugatti Type 35,The Birth of Grand Prix,FRA,263,1,1.8,2,1.4,71,97,95,760,1676,130,96,RWD,F,2,I,8,DSC,Race,2,True,R
+1329,Buick,Regal GNX,1987,Buick GNX '87,Sport Touring Classics,USA,421,3.1,1.9,2.1,3.2,224,305,300,1608,3545,515,380,RWD,F,3.8,V,6,T,Factory,2,False,L
+3316,Buick,#6 Performance Motorsports Somerset Regal Trans-Am,1985,Buick #6 Regal,GTX Sportscars,USA,771,5,5.6,5.8,5,378,514,507,1225,2701,521,384,RWD,F,4.5,V,6,NA,Race,2,False,L
+417,Buick,GSX,1970,Buick GSX '70,Street Drag Racers,USA,377,2,1.2,1.2,3.3,268,364,359,1757,3874,691,510,RWD,F,7.5,V,8,NA,Factory,2,False,L
+3866,Cadillac,#01 Cadillac Racing V-Series.R,2023,Cadillac #01 LM,Forza Proto-H,USA,941,6.9,9.8,9.7,8.2,500,680,671,1105,2436,632,466,RWD,MR,5.5,V,8,NA,Race,2,False,L
+3867,Cadillac,#2 Cadillac Racing V-Series.R,2023,,Forza Proto-H,USA,941,6.9,9.8,9.7,8.2,500,680,671,1105,2436,632,466,RWD,MR,5.5,V,8,NA,Race,2,False,L
+3792,Cadillac,#31 Whelen Engineering Cadillac Racing V-Series.R,2023,Cadillac #31 LM,Forza Proto-H,USA,941,6.9,9.8,9.7,8.2,500,680,671,1105,2436,632,466,RWD,MR,5.5,V,8,NA,Race,2,False,L
+3719,Cadillac,CT4-V Blackwing,2022,Cadillac CT4 '22,Modern Sport Touring,USA,577,5.6,3,2.8,4.1,352,479,472,1751,3860,602,444,RWD,F,3.6,V,6,TT,Factory,4,False,L
+3720,Cadillac,CT5-V Blackwing,2022,Cadillac CT5 '22,Modern Sport Touring,USA,638,6.3,3.3,2.8,4.7,498,677,668,1870,4123,892,658,RWD,F,6.2,V,8,DSC,Factory,4,False,L
+3669,Cadillac,#31 Whelen Racing DPi-V.R,2021,Cadillace #31 Dpi,Forza Proto-H,USA,950,5.9,9.4,9.5,7.6,432,587,579,995,2194,625,461,RWD,MR,5.5,V,8,NA,Race,2,False,L
+3283,Cadillac,#57 TA CTS-V,2018,Cadillac #57 CTS,Forza GT,USA,897,5.5,7.1,7.2,7.1,634,862,850,1321,2912,746,550,RWD,F,5.9,V,8,NA,Race,2,False,L
+2262,Cadillac,ATS-V,2016,Cadillac ATS '16,Modern Sport Touring,USA,538,5.5,2.6,2.6,3.6,346,470,464,1678,3699,602,444,RWD,F,3.6,V,6,TT,Factory,2,False,L
+2421,Cadillac,CTS-V Sedan,2016,Cadillac CTS '16,Sport Luxury,USA,629,5.9,2.9,2.5,4.6,477,649,640,1872,4127,854,630,RWD,F,6.2,V,8,DSC,Factory,4,False,L
+3281,Cadillac,#3 Cadillac Racing ATS-V.R,2015,Cadillac #3 ATS,Forza GT,USA,824,5.3,6.3,6.4,6.4,447,608,599,1405,3097,706,521,RWD,F,3.6,V,6,TT,Race,2,False,L
+1652,Caterham,Superlight R500,2013,Caterham '13,Track Toys,GBR,669,2.9,3.5,3.4,5.5,196,266,263,506,1116,240,177,RWD,F,2,I,4,NA,Factory,2,True,L
+1553,Chaparral,#66 Chaparral Cars 2E,1966,#66 Chaparral 2E,Prototype Group Racing,USA,818,4.2,6.9,6.8,5.9,330,449,443,774,1706,576,425,RWD,MR,5.4,V,8,NA,Race,2,True,R
+3771,Chevrolet,Corvette E-Ray,2024,Chev. E-Ray '24,Modern Sport GT,USA,759,6.1,4.3,4,5.8,481,654,645,1764,3889,801,591,AWD,MR,6.2,V,8,NA,Factory,2,False,L
+3766,Chevrolet,Corvette Z06,2023,Chev. C8 Z06 '23,Modern Sport GT,USA,757,5.1,5.1,4.5,6.2,500,680,671,1613,3556,624,460,RWD,MR,5.5,V,8,NA,Factory,2,False,L
+3490,Chevrolet,#3 Corvette Racing C8.R,2020,Chev. #3 C8,Forza GT,USA,821,4.6,6.7,7,6.3,373,507,500,1330,2932,651,480,RWD,MR,5.5,V,8,NA,Race,2,False,L
+3369,Chevrolet,Corvette Stingray Coupe,2020,Chev. C8 '20,Modern Sport GT,USA,678,4.8,3.7,3.7,5.3,369,502,495,1623,3578,636,469,RWD,MR,6.2,V,8,NA,Factory,2,False,L
+3800,Chevrolet,Corvette Stingray Coupe Forza Edition,2020,Chev. C8 FE '20,Modern Sport GT,USA,700,4.3,4.3,4.4,5.2,369,502,495,1662,3664,636,469,RWD,MR,6.2,V,8,NA,Upgraded,2,False,L
+3118,Chevrolet,Corvette ZR1,2019,Chev. C7 ZR1 '19,Modern Sport GT,USA,756,6.1,4.6,4.3,6.3,563,765,755,1615,3560,969,715,RWD,F,6.2,V,8,DSC,Factory,2,False,L
+3256,Chevrolet,#23 Ruman Racing TA Corvette,2018,Chev. #23 C7,Forza GT,USA,899,5.5,7.1,7.3,6.7,634,862,850,1321,2912,746,550,RWD,F,5.9,V,8,NA,Race,2,False,L
+3149,Chevrolet,Camaro ZL1 1LE,2018,Chev. Camaro '18,Modern Sport Touring,USA,667,5.3,4,3.7,4.5,485,659,650,1740,3836,881,650,RWD,F,6.2,V,8,DSC,Factory,2,False,L
+3801,Chevrolet,Camaro ZL1 1LE Forza Edition,2018,Chev. C8 FE '20,Modern Sport Touring,USA,700,4.9,4.6,4.5,4.6,508,691,681,1775,3913,923,681,RWD,F,6.2,V,8,DSC,Upgraded,2,False,L
+2739,Chevrolet,Camaro ZL1,2017,Chev. Camaro '17,Modern Sport Touring,USA,646,5.8,3.5,3.3,4.5,485,659,650,1761,3882,881,650,RWD,F,6.2,V,8,DSC,Factory,2,False,L
+2523,Chevrolet,Camaro Super Sport,2016,Chev. Camaro '16,Modern Sport Touring,USA,583,5,2.8,2.8,3.8,370,503,496,1627,3587,617,455,RWD,F,6.2,V,8,NA,Factory,2,False,L
+2485,Chevrolet,#10 Konica Minolta Corvette Daytona Prototype,2015,Chev. #10 DP,Forza P2,USA,912,4.8,9.2,9.1,6.3,447,608,599,941,2075,624,460,RWD,MR,5.5,V,8,NA,Race,2,False,L
+2177,Chevrolet,Corvette Z06,2015,Chev. C6 Z06 '15,Modern Sport GT,USA,721,4.9,4.8,4.5,5.1,485,659,650,1604,3536,881,650,RWD,F,6.2,V,8,DSC,Factory,2,False,L
+2226,Chevrolet,#3 Corvette Racing Corvette C7.R,2014,#3 Chevy C7.R,Forza GT,USA,804,4.6,6.5,6.8,6,366,498,491,1212,2672,658,485,RWD,F,5.5,V,8,NA,Race,2,False,L
+1317,Chevrolet,#55 Level 5 Motorsports Oreca FLM09,2010,Chev. #55 09,Forza P2,USA,915,4.7,9.6,9.7,7.1,356,484,477,901,1986,629,464,RWD,MR,6.2,V,8,NA,Race,2,True,R
+1069,Chevrolet,Corvette ZR1,2009,Chev. C6 ZR1 '09,Modern Sport GT,USA,707,7.1,3.8,3.7,5.5,476,647,638,1520,3351,819,604,RWD,F,6.2,V,8,DSC,Factory,2,False,L
+287,Chevrolet,Camaro 35th Anniversary Super Sport,2002,Chev. Camaro '02,Sport Touring Classics,USA,499,4.2,2.2,2.4,3,265,360,355,1501,3309,475,350,RWD,F,5.7,V,8,NA,Factory,2,False,L
+314,Chevrolet,Corvette Z06,2002,Chev. C4 Z06 '02,Sport GT Icons,USA,599,6,2.7,3.3,3.6,302,411,405,1414,3117,542,400,RWD,F,5.7,V,8,NA,Factory,2,False,L
+2006,Chevrolet,Corvette ZR-1,1995,Chev. C4 ZR1 '95,Sport GT Icons,USA,579,5,2.6,3,3.6,302,411,405,1590,3505,522,385,RWD,F,5.7,V,8,NA,Factory,2,False,L
+1033,Chevrolet,Camaro IROC-Z,1990,Chev. Camaro '90,Sport Touring Classics,USA,367,3.2,1.8,2.1,2.4,183,249,245,1645,3627,468,345,RWD,F,5.7,V,8,NA,Factory,2,False,L
+1575,Chevrolet,Monte Carlo Super Sport,1988,Chev. MC '88,Sport Touring Classics,USA,255,1,1.4,1.5,1.3,134,182,180,1598,3523,305,225,RWD,F,5,V,8,NA,Factory,2,False,L
+2776,Chevrolet,#76 Greenwood Corvette,1976,#76 Corvette,GTX Sportscars,USA,811,7.5,5.2,5.5,7,465,632,624,1078,2377,853,629,RWD,F,7.7,V,8,NA,Race,2,False,L
+1330,Chevrolet,Camaro Z28,1970,Chev. Camaro '70,Vintage Muscle,USA,353,1.9,1,1.1,2.9,268,364,359,1610,3549,515,380,RWD,F,5.7,V,8,NA,Factory,2,False,L
+299,Chevrolet,Chevelle Super Sport 454,1970,Chev Chevelle 70,Street Drag Racers,USA,383,1.1,1.1,1.2,3.2,336,457,451,1723,3799,678,500,RWD,F,7.4,V,8,NA,Factory,2,False,L
+315,Chevrolet,Corvette ZR-1,1970,Chev. ZR-1 '70,Vintage Muscle,USA,386,1.5,1.3,1.6,2.5,276,375,370,1510,3329,515,380,RWD,F,5.7,V,8,NA,Factory,2,False,L
+289,Chevrolet,Camaro Super Sport Coupe,1969,Chev. Camaro '69,Vintage Muscle,USA,333,1.7,1.1,1.2,2.5,280,381,375,1600,3527,563,415,RWD,F,6.5,V,8,NA,Factory,2,False,L
+1429,Chevrolet,Nova Super Sport 396,1969,Chev. Nova '69,Street Drag Racers,USA,354,2.5,1,1,2.7,280,381,375,1574,3470,563,415,RWD,F,6.5,V,8,NA,Factory,2,False,L
+312,Chevrolet,Corvette Stingray 427,1967,Chev. C3 427 '67,Vintage Muscle,USA,405,2.7,1.3,1.4,3,324,441,434,1515,3340,624,460,RWD,F,7,V,8,NA,Factory,2,False,L
+2581,Chrysler,VH Valiant Charger R/T E49,1972,Chry. Valiant 72,Street Drag Racers,USA,361,1.9,1,1.1,3,225,306,302,1375,3031,441,325,RWD,F,4.3,I,6,NA,Factory,2,False,R
+1665,Citroën,DS 3 Racing,2011,Citroen DS 3 '11,Modern Hot Hatch,FRA,379,1.8,2.3,2.3,2.4,152,207,204,1221,2692,275,203,FWD,F,1.6,I,4,T,Factory,3,False,L
+2488,Datsun,#33 280ZX Turbo,1979,#33 Datsun 280ZX,GTX Sportscars,JPN,842,6.3,6,6.1,7.4,455,619,610,1092,2407,881,650,RWD,F,4.2,V,8,TT,Race,2,False,L
+1104,Datsun,510,1970,Datsun 510 '70,Vintage Sport Compact,JPN,223,1,1,1,1.2,72,98,97,965,2127,136,100,RWD,F,1.6,I,4,NA,Factory,2,False,L
+2272,Datsun,2000 Roadster,1969,Datsun 2000,Sport Coupe Icons,JPN,251,1,1,1.1,1.4,101,137,135,968,2134,179,132,RWD,F,2,I,4,NA,Factory,2,True,L
+3292,Dodge,#9 American V8 Road Racing TA Challenger,2019,Dodge #9 C,Forza GT,USA,898,5.4,7.2,7.3,7,638,867,856,1321,2912,786,580,RWD,F,5.8,V,8,NA,Race,2,False,L
+2909,Dodge,Challenger SRT Demon,2018,Dodge SRT Demon,Modern Sport Touring,USA,679,4.9,4.6,4.5,4.6,626,851,839,1941,4279,1044,770,RWD,F,6.2,V,8,DSC,Factory,2,False,L
+2544,Dodge,Viper ACR,2016,Dodge Viper '16,Modern Sport GT,USA,767,4.1,6.1,5.6,5.5,481,654,645,1528,3369,813,600,RWD,F,8.4,V,10,NA,Factory,2,False,L
+2468,Dodge,Charger SRT Hellcat,2015,Dodge Charger 15,Modern Sport Touring,USA,620,7.1,2.8,2.4,4.4,527,717,707,2075,4575,881,650,RWD,F,6.2,V,8,DSC,Factory,4,False,L
+2229,Dodge,#93 SRT Motorsports Viper GTS-R,2014,#93 Dodge Viper,Forza GT,USA,808,4.5,6.5,6.8,5.5,354,481,475,1252,2760,705,520,RWD,F,8,V,10,NA,Race,2,False,L
+2104,Dodge,Dart GT,2013,Dodge Dart '13,Modern Sport Compact,USA,315,2.5,1.7,2,1.8,196,266,263,1379,3040,232,171,FWD,F,2.4,I,4,NA,Factory,4,False,L
+1620,Dodge,Challenger SRT8,2012,D. Challenger 12,Modern Sport Touring,USA,548,5.1,2.7,2.4,4.1,350,476,469,1887,4160,637,470,RWD,F,6.4,V,8,NA,Factory,2,False,L
+1046,Dodge,Viper SRT10 ACR,2008,Dodge Viper '08,Modern Sport GT,USA,737,4.4,5.4,5.3,4.6,447,608,599,1546,3408,759,560,RWD,F,8.4,V,10,NA,Factory,2,False,L
+1306,Dodge,SRT-4 ACR,2005,Dodge SRT-4 '05,Early Sport Compact,USA,429,3.4,1.7,1.9,2.8,186,253,249,1349,2974,339,250,FWD,F,2.4,I,4,T,Factory,4,False,L
+483,Dodge,Viper GTS ACR,1999,Dodge Viper '99,Sport GT Icons,USA,602,5.3,3.3,3.3,3.7,343,466,460,1565,3450,678,500,RWD,F,8,V,10,NA,Factory,2,False,L
+457,Dodge,Stealth R/T Turbo,1996,Dodge Stealth 96,Early Sport Compact,USA,449,4.3,2,2.3,2.6,239,325,321,1720,3792,427,315,AWD,F,3,V,6,TT,Factory,2,False,L
+1292,Dodge,Shelby Omni GLHS,1986,Dodge Shelby '86,Hot Hatch Icons,USA,306,1.2,1.6,1.6,2.2,130,177,174,1152,2540,237,175,FWD,F,2.2,I,4,T,Factory,5,False,L
+639,Dodge,Challenger R/T,1970,D. Challenger 70,Street Drag Racers,USA,395,2.9,1.2,1.3,3.2,317,431,425,1724,3801,664,490,RWD,F,7,V,8,NA,Factory,2,False,L
+1352,Dodge,Coronet Super Bee,1970,Dodge Coronet 70,Street Drag Racers,USA,398,3.2,1.3,1.4,3.1,317,431,425,1551,3419,664,490,RWD,F,7,V,8,NA,Factory,2,False,L
+1063,Dodge,Charger Daytona HEMI,1969,Charger Daytona,Vintage Muscle,USA,392,2.1,1.4,1.5,3.2,317,431,425,1758,3876,664,490,RWD,F,7,V,8,NA,Factory,2,False,L
+513,Dodge,Charger R/T,1969,Dodge Charger 69,Vintage Muscle,USA,376,3,1.1,1.2,3,317,431,425,1665,3671,664,490,RWD,F,7,V,8,NA,Factory,2,False,L
+2105,Donkervoort,D8 GTO,2013,Donkervoort GTO,Track Toys,NED,717,3.5,4.6,4.5,5.2,280,381,375,695,1532,475,350,RWD,F,2.5,I,5,T,Factory,2,True,L
+462,Eagle,Talon TSi Turbo,1998,Eagle Talon,Early Sport Compact,USA,320,2.6,1.5,1.9,1.9,203,276,272,1388,3060,290,214,AWD,F,2,I,4,T,Factory,2,False,L
+2275,Eagle-Weslake,T1G,1967,Eagle T1G,Formula 60s,USA,763,5.2,4.4,4.7,6.4,313,426,420,597,1316,329,243,RWD,MR,3,V,12,NA,Race,0,True,C
+2866,Exomotive,Exocet Sport V8 XP-5,2018,Exomotive XP-5,Track Toys,USA,776,4.2,5.3,5.1,4.2,386,525,518,769,1695,659,486,RWD,F,6.2,V,8,NA,Factory,2,True,L
+3724,Ferrari,296 GTB,2022,Ferrari 296 GTB,Modern Sport GT,ITA,786,7.6,4.5,4.2,6.4,610,829,818,1575,3472,900,664,RWD,MR,3,V,6,TT,Factory,2,False,L
+3594,Ferrari,Roma,2020,Ferrari Roma '20,Modern Exotic GT,ITA,707,5.8,3.7,3.3,5.4,456,620,612,1645,3627,759,560,RWD,F,3.9,V,8,TT,Factory,2,False,L
+3595,Ferrari,SF90 Stradale,2020,Ferrari SF90,Modern Exotic GT,ITA,854,9,4.5,4.3,8.3,735,999,986,1671,3684,1237,912,AWD,MR,4,V,8,TT,Factory,2,False,L
+2972,Ferrari,#62 Risi Competizione 488 GTE,2019,Ferrari #62 488,Forza GT,ITA,835,5,6.4,6.6,6.7,447,608,599,1330,2932,730,538,RWD,MR,3.9,V,8,TT,Race,2,False,L
+3227,Ferrari,488 Pista,2019,Ferrari 488 Pista '19,Modern Sport GT,ITA,804,6.7,5.2,5,6.7,530,721,711,1385,3053,769,567,RWD,MR,3.9,V,8,TT,Factory,2,False,L
+3367,Ferrari,F8 Tributo,2019,F8 Tributo '20,Modern Exotic GT,ITA,766,8.7,4.1,3.9,6.7,530,721,711,1466,3232,769,567,RWD,MR,3.9,V,8,TT,Factory,2,False,L
+3312,Ferrari,Monza SP2,2019,Ferrari Monza 19,Modern Exotic GT,ITA,766,8.2,4,3.7,6.3,596,810,799,1589,3503,719,530,RWD,F,6.5,V,12,NA,Factory,2,True,L
+3311,Ferrari,FXX-K Evo,2018,Ferrari FXX-K E,Modern Factory Racecars,ITA,934,7.6,8.1,8.1,7.8,773,1051,1037,1270,2800,899,663,RWD,MR,6.3,V,12,NA,Factory,2,False,L
+3225,Ferrari,Portofino,2018,Portofino '18,Modern Exotic GT,ITA,686,7.1,3.6,3.3,5.5,441,600,591,1664,3668,759,560,RWD,F,3.9,V,8,TT,Factory,2,True,L
+3112,Ferrari,#25 Corse Clienti 488 Challenge,2017,#25 Ferrari 488,Forza GT,ITA,830,4.6,6.3,6.2,6.9,493,670,661,1453,3203,759,560,RWD,MR,3.9,V,8,TT,Race,2,False,L
+2974,Ferrari,812 Superfast,2017,Ferrari 812,Modern Exotic GT,ITA,783,9.2,4.4,4.1,6.6,588,799,789,1630,3594,717,529,RWD,F,6.5,V,12,NA,Factory,2,False,L
+3226,Ferrari,J50,2017,Ferrari J50 '17,Modern Exotic GT,ITA,763,8.3,4.1,3.9,6.3,508,691,681,1525,3362,759,560,RWD,MR,3.9,V,8,TT,Factory,2,True,L
+2467,Ferrari,488 GTB,2015,Ferrari 488 GTB,Modern Sport GT,ITA,753,7.9,4,3.8,6.2,492,669,660,1475,3252,760,561,RWD,MR,3.9,V,8,TT,Factory,2,False,L
+2577,Ferrari,F12tdf,2015,Ferrari F12TDF,Modern Exotic GT,ITA,766,7.9,4.7,4.5,6.2,573,779,768,1520,3351,704,519,RWD,F,6.3,V,12,NA,Factory,2,False,L
+2194,Ferrari,California T,2014,Ferrari Cali T,Modern Sport GT,ITA,653,6,3.4,3.1,5.1,413,562,554,1730,3814,754,556,RWD,F,3.9,V,8,TT,Factory,2,False,L
+2371,Ferrari,FXX-K,2014,Ferrari FXX K,Modern Factory Racecars,ITA,922,7.3,7.7,7.7,7.7,772,1050,1035,1284,2831,900,664,RWD,MR,6.3,V,12,NA,Race,2,False,L
+2184,Ferrari,458 Speciale,2013,Ferrari 458 S,Modern Sport GT,ITA,782,6.9,5,4.7,6.7,445,605,597,1395,3075,540,398,RWD,MR,4.5,V,8,NA,Factory,2,False,L
+2034,Ferrari,LaFerrari,2013,LaFerrari,Modern Exotic GT,ITA,859,7.3,5.9,5.8,7.4,718,976,963,1480,3263,899,663,RWD,MR,6.3,V,12,NA,Factory,2,False,L
+1599,Ferrari,599XX Evolution,2012,Ferrari 599XX E,Modern Factory Racecars,ITA,869,7,6.7,6.5,7.3,552,751,740,1378,3038,700,516,RWD,F,6,V,12,NA,Race,2,False,L
+1171,Ferrari,599XX,2010,Ferrari 599XX,Modern Factory Racecars,ITA,836,6.2,6,5.8,7.1,515,700,691,1412,3113,650,479,RWD,F,6,V,12,NA,Race,2,False,L
+1131,Ferrari,458 Italia,2009,Ferrari 458,Modern Sport GT,ITA,727,6.5,4.2,3.9,6,419,570,562,1485,3274,540,398,RWD,MR,4.5,V,8,NA,Factory,2,False,L
+1022,Ferrari,430 Scuderia,2007,Ferrari 430 S,Modern Sport GT,ITA,707,6.4,4.2,4,5.4,375,510,503,1350,2976,469,346,RWD,MR,4.3,V,8,NA,Factory,2,False,L
+297,Ferrari,360 Challenge Stradale,2003,Ferrari 360 CS,Sport GT Icons,ITA,644,5.5,3.8,3.9,4.1,305,415,409,1290,2844,373,275,RWD,MR,3.6,V,8,NA,Factory,2,False,L
+257,Ferrari,575M Maranello,2002,Ferrari 575M '02,Exotic GT Classics,ITA,585,5.8,2.6,2.7,4.4,379,515,508,1730,3814,588,434,RWD,F,4.9,V,12,NA,Factory,2,False,L
+333,Ferrari,Enzo Ferrari,2002,Ferrari Enzo,Exotic GT Classics,ITA,787,7.3,5.3,5.3,6.3,485,659,650,1480,3263,656,484,RWD,MR,6,V,12,NA,Factory,2,False,L
+524,Ferrari,#12 Risi Competizione F333 SP,1998,#12 Ferrari F333,Early LMP,ITA,935,5.5,8.9,9.3,7.7,485,659,650,889,1960,447,330,RWD,MR,4,V,12,NA,Race,2,True,R
+1020,Ferrari,F50 GT,1996,Ferrari F50 GT,Early Factory Racecars,ITA,913,7.7,7,7.2,7.5,559,760,750,908,2002,519,383,RWD,MR,4.7,V,12,NA,Race,2,False,L
+342,Ferrari,F50,1995,Ferrari F50,Exotic GT Classics,ITA,683,5.9,4.1,4.4,4.4,383,521,514,1309,2886,470,347,RWD,MR,4.7,V,12,NA,Factory,2,False,L
+253,Ferrari,F355 Berlinetta,1994,Ferrari F355,Sport GT Icons,ITA,568,5.2,2.7,3,3.6,280,381,375,1416,3122,363,268,RWD,MR,3.5,V,8,NA,Factory,2,False,L
+255,Ferrari,512 TR,1992,Ferrari 512 '92,Exotic GT Classics,ITA,533,5.2,2.5,2.9,3.2,314,427,421,1674,3691,488,360,RWD,MR,4.9,F,12,NA,Factory,2,False,L
+2126,Ferrari,#1 Scuderia Ferrari 641,1990,#1 Ferrari 641,Grand Prix Rivals,ITA,999,6.8,10,10,10,507,689,680,503,1109,434,320,RWD,MR,3.5,V,12,NA,Race,0,True,C
+1023,Ferrari,F40 Competizione,1989,Ferrari F40 C,Early Factory Racecars,ITA,874,7.8,6.6,7.1,6.5,515,700,691,1050,2315,713,526,RWD,MR,2.9,V,8,TT,Race,2,False,L
+340,Ferrari,F40,1987,Ferrari F40,Exotic GT Classics,ITA,699,6.1,3.6,4,5.6,356,484,477,1352,2981,575,424,RWD,MR,2.9,V,8,TT,Factory,2,False,L
+358,Ferrari,288 GTO,1984,Ferrari 288 GTO,Sport GT Icons,ITA,569,5,2.6,2.9,4,295,401,396,1280,2822,496,366,RWD,MR,2.9,V,8,TT,Factory,2,False,L
+2315,Ferrari,#72 N.A.R.T. 512 BB/LM,1982,#72 Ferrari BBLM,GTX Sportscars,ITA,774,6.3,5.4,5.9,5.1,406,552,544,1036,2284,450,332,RWD,R,4.9,F,12,NA,Race,2,False,L
+2015,Ferrari,#1 Scuderia Ferrari 312 T2,1976,#1 Ferrari 312,Formula 70s,ITA,871,4.6,7.8,7.9,9.7,373,507,500,565,1246,320,236,RWD,MR,3,F,12,NA,Race,0,True,C
+3062,Ferrari,512 S,1970,Ferrari 512S,Vintage Le Mans Prototypes,ITA,843,6.7,5.9,6.3,7.9,404,549,542,948,2090,503,371,RWD,MR,5,V,12,NA,Race,2,False,R
+326,Ferrari,Dino 246 GT,1969,Ferrari Dino,Vintage Exotic GT,ITA,311,2.1,1.5,1.8,2,145,197,194,1080,2381,224,165,RWD,MR,2.4,V,6,NA,Factory,2,False,L
+2793,Ferrari,#24 Ferrari Spa 330 P4,1967,#24 Ferrari P4,Vintage Le Mans Prototypes,ITA,764,5.9,4.7,5.2,6.5,336,457,451,1030,2271,522,385,RWD,MR,4,V,12,NA,Race,2,False,R
+2401,Ferrari,F-158 F1,1964,Ferrari F-158 F1,Formula 60s,ITA,677,3.6,4.4,4.5,5.3,243,330,326,477,1052,142,105,RWD,MR,1.5,V,8,NA,Race,0,True,C
+2268,Ferrari,250LM,1963,Ferrari 250LM,Vintage Le Mans Sportscars,ITA,624,5,3.1,3.3,3.6,235,320,315,950,2094,313,231,RWD,MR,3.3,V,12,NA,Race,2,False,R
+1578,Ferrari,250 GT Berlinetta Lusso,1962,Ferrari 250 GT,Sport Coupe Icons,ITA,381,2.7,1.4,1.5,2.9,189,257,253,1105,2436,292,215,RWD,F,3,V,12,NA,Factory,2,False,L
+249,Ferrari,250 GTO,1962,Ferrari 250 GTO,Vintage Le Mans Sportscars,ITA,560,4.3,2.6,3.2,3.8,224,305,300,977,2154,293,216,RWD,F,3,V,12,NA,Factory,2,False,R
+1154,Ferrari,250 Testa Rossa,1957,Ferrari 250 TR,Vintage Le Mans Sportscars,ITA,559,3.7,2.3,2.7,4.2,224,305,300,905,1995,302,223,RWD,F,3,V,12,NA,Race,2,True,R
+2186,Ferrari,500 Mondial,1953,Ferrari 500M,Vintage Le Mans Sportscars,ITA,365,2.1,1.6,2.1,2.1,125,170,168,840,1852,183,135,RWD,F,2,I,4,NA,Race,2,True,R
+3019,Ferrari,166 Inter Sport,1948,Ferrari 166 IS,The Birth of Grand Prix,ITA,342,1.2,1.9,2.1,2.3,217,295,291,660,1455,159,117,RWD,F,2,V,12,NA,Race,2,True,R
+3277,Ford,Mustang Shelby GT500,2020,Ford GT500 '20,Modern Sport Touring,USA,724,6.4,4.1,3.9,5.3,567,771,760,1892,4171,847,625,RWD,F,5.2,V,8,DSC,Factory,2,False,L
+3251,Ford,#98 Breathless Pro Racing TA Mustang,2018,Ford #98 Mustang,Forza GT,USA,897,5.5,7.1,7.2,6.7,634,862,850,1321,2912,746,550,RWD,F,5.9,V,8,NA,Race,2,False,L
+3046,Ford,Mustang GT,2018,Ford Mustang '18,Modern Sport Touring,USA,568,4.9,2.7,2.7,3.7,343,466,460,1681,3706,569,420,RWD,F,5,V,8,NA,Factory,2,False,L
+2760,Ford,#17 Shell V-Power Racing Team Falcon FG X,2017,#17 Shell Falcon,Forza GT,USA,785,5,5.6,5.6,5.7,474,644,636,1410,3109,630,465,RWD,F,5,V,8,NA,Race,4,False,R
+2357,Ford,Focus RS,2017,Ford Focus '17,Modern Hot Hatch,USA,535,4.1,2.6,2.6,3.3,261,355,350,1563,3446,475,350,AWD,F,2.3,I,4,T,Factory,5,False,L
+2363,Ford,GT,2017,Ford GT '17,Modern Sport GT,USA,795,7.9,4.8,4.8,6.8,482,655,646,1428,3148,746,550,RWD,MR,3.5,V,6,TT,Factory,2,False,L
+2543,Ford,#66 Ford Racing GT Le Mans,2016,#66 Ford GT,Forza GT,USA,820,4.6,6.6,6.9,5.6,362,492,485,1246,2747,670,494,RWD,MR,3.6,V,6,TT,Race,2,False,L
+2400,Ford,Shelby GT-350R,2016,Ford GT350R '16,Modern Sport Touring,USA,651,5,4,3.8,3.9,392,533,526,1660,3660,582,429,RWD,F,5.2,V,8,NA,Factory,2,False,L
+2409,Ford,#02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype,2015,Ford #02 DP,Forza P2,USA,921,5.1,9.3,9.2,6.8,447,608,599,953,2101,732,540,RWD,MR,3.5,V,6,TT,Race,2,False,L
+2580,Ford,Falcon GT F 351,2015,Ford Falcon '15,Modern Sport Touring,USA,544,5.6,2.6,2.4,3.6,351,477,471,1828,4030,569,420,RWD,F,5,V,8,DSC,Factory,4,False,R
+2314,Ford,#17 AMD Tuning Focus ST BTCC,2014,Ford #17Focus ST,Forza Touring Cars,USA,703,3.4,5.2,5.4,4.3,246,334,330,1160,2557,427,315,FWD,F,2,I,4,T,Race,5,False,R
+1086,Ford,Focus RS,2009,Ford Focus '09,Modern Hot Hatch,USA,485,2.8,2.6,2.6,3,224,305,300,1468,3236,431,318,FWD,F,2.5,I,5,T,Factory,3,False,R
+348,Ford,Ford GT,2005,Ford GT '05,Modern Sport GT,USA,642,6.6,3.4,3.5,4.2,410,557,550,1538,3391,678,500,RWD,MR,5.4,V,8,DSC,Factory,2,False,L
+2019,Ford,Focus RS,2003,Ford Focus '03,Modern Hot Hatch,USA,384,1.9,2.1,2.1,2.6,158,215,212,1280,2822,309,228,FWD,F,2,I,4,T,Factory,3,False,L
+405,Ford,SVT Cobra R,2000,Ford Cobra R '00,Sport Touring Classics,USA,533,4.3,3.1,3,3.2,287,390,385,1628,3589,522,385,RWD,F,5.4,V,8,NA,Factory,2,False,L
+3228,Ford,Racing Puma,1999,Ford Puma '99,Early Sport Compact,USA,303,1.4,2.1,2.2,1.7,114,155,153,1174,2588,161,119,FWD,F,1.7,I,4,NA,Factory,3,False,R
+1041,Ford,SVT Cobra R,1993,Ford Cobra R '93,Sport Touring Classics,USA,374,2.2,2.2,2.4,2.3,175,238,235,1417,3124,380,280,RWD,F,4.9,V,8,NA,Factory,2,False,L
+1272,Ford,Escort RS Cosworth,1992,Ford Escort '92,Hot Hatch Icons,USA,421,2.7,2.5,2.8,2.4,167,227,224,1275,2811,304,224,AWD,F,2,I,4,T,Factory,2,False,R
+2514,Ford,Falcon GT,1992,Ford Falcon '92,Sport Touring Classics,USA,396,3.5,1.8,2,2.6,244,332,327,1657,3653,420,310,RWD,F,4.9,V,8,NA,Factory,4,False,R
+3158,Ford,#15 Roush Racing Whistler Mustang,1991,Ford #15 Mustang,GTX Sportscars,USA,824,7.2,5.6,5.9,5.8,537,730,720,1247,2749,740,546,RWD,F,5.9,V,8,NA,Race,2,False,L
+1293,Ford,Sierra Cosworth RS500,1987,Ford Sierra '87,Sport Touring Classics,USA,395,2.6,2.2,2.5,2.7,167,227,224,1240,2734,279,206,RWD,F,2,I,4,T,Factory,2,False,R
+2981,Ford,Escort RS Turbo,1986,Ford Escort '86,Hot Hatch Icons,USA,290,1,1.4,1.6,1.9,97,132,130,977,2154,180,133,FWD,F,1.6,I,4,T,Factory,3,False,R
+3181,Ford,Mustang SVO,1986,Ford Mustang '86,Sport Touring Classics,USA,314,1.9,1.9,2.2,2,149,203,200,1373,3027,325,240,RWD,F,2.3,I,4,T,Factory,3,False,L
+2868,Ford,#6 Zakspeed Roush Mustang IMSA GT,1982,Ford #6 Mustang,GTX Sportscars,USA,810,4.5,6.2,6.4,5.6,390,530,523,881,1942,447,330,RWD,F,1.4,I,4,T,Race,2,False,L
+2125,Ford,#2 Zakspeed Racing Capri Turbo,1981,#2 Ford Capri,GTX Sportscars,USA,799,4.6,6.2,6.5,5.2,369,502,495,887,1956,401,296,RWD,F,1.4,I,4,T,Race,2,False,L
+2158,Ford,Fiesta XR2,1981,Ford Fiesta '81,Hot Hatch Icons,USA,243,1,1.2,1.2,1.2,63,86,84,840,1852,123,91,FWD,F,1.6,I,4,NA,Factory,3,False,R
+1302,Ford,Escort RS1800,1977,Ford Escort '77,Vintage Sport Compact,USA,267,1,1.3,1.3,1.7,86,117,115,901,1986,171,126,RWD,F,1.8,I,4,NA,Factory,2,False,R
+1580,Ford,Escort RS1600,1973,Ford Escort '73,Vintage Sport Compact,USA,263,1,1.2,1.2,1.7,85,116,114,870,1918,149,110,RWD,F,1.6,I,4,NA,Factory,2,False,R
+1278,Ford,XB Falcon GT,1973,Ford Falcon '73,Vintage Muscle,USA,337,2,1.3,1.2,2.8,224,305,300,1382,3047,515,380,RWD,F,5.8,V,8,NA,Factory,2,False,R
+1668,Ford,Mustang Boss 302,1969,Ford Mustang '69,Vintage Muscle,USA,343,2.7,1.3,1.4,2.4,216,294,290,1474,3250,393,290,RWD,F,4.9,V,8,NA,Factory,2,False,L
+2614,Ford,Mustang GT 2+2 Fastback,1968,Ford Mustang '68,Vintage Muscle,USA,297,3,1,1,2.3,242,329,325,1609,3547,579,427,RWD,F,6.4,V,8,NA,Factory,2,False,L
+2792,Ford,#2 GT40 Mk II Le Mans,1966,#2 Ford GT40,Vintage Le Mans Prototypes,USA,728,6,4.3,4.6,5,362,492,485,1217,2683,644,475,RWD,MR,7,V,8,NA,Race,2,False,R
+1486,Ford,Lotus Cortina,1966,Ford Cortina '66,Vintage Sport Compact,USA,248,1,1.1,1.1,1.4,86,117,115,934,2059,146,108,RWD,F,1.6,I,4,NA,Factory,2,False,L
+1355,Ford,Mustang GT Coupe,1965,Ford Mustang '65,Vintage Muscle,USA,338,2.3,1.1,1.2,2.9,202,275,271,1162,2562,423,312,RWD,F,4.7,V,8,NA,Factory,2,False,L
+2980,Ford,GT40 MKI,1964,Ford GT40 '64,Vintage Le Mans Prototypes,USA,691,5.3,4,4.4,4.4,291,396,390,1008,2222,427,315,RWD,MR,4.7,V,8,NA,Race,2,False,R
+3460,Ginetta,#6 Team LNT Ginetta G60-LT-P1,2019,Ginetta #6 G60,Forza P1,GBR,981,7.1,10,10,8.1,537,730,720,886,1953,850,627,RWD,MR,2.4,V,6,TT,Race,2,False,L
+3429,Ginetta,G40 Junior,2019,Ginetta G40 Jr,Forza Touring Cars,GBR,300,1,2.8,2.8,1.6,75,102,101,864,1905,140,103,RWD,F,1.8,I,4,NA,Race,2,False,R
+3427,Ginetta,G55 GT4,2019,Ginetta G55 GT4,Forza GT,GBR,723,3.4,5.3,5.4,4.7,283,385,380,1165,2568,434,320,RWD,F,3.7,V,6,NA,Race,2,False,L
+3599,Gordon Murray Automotive,T.50,2022,GMA T.50,Modern Exotic GT,GBR,859,8.2,6.2,6.1,6.3,489,665,656,1017,2242,466,344,RWD,MR,4,V,12,NA,Factory,2,False,C
+2796,Holden,#22 Walkinshaw Performance VF Commodore,2017,#22 Holden '17,Forza GT,AUS,785,5,5.5,5.5,5.9,462,628,620,1410,3109,649,479,RWD,F,5,V,8,NA,Race,4,False,R
+2203,Holden,VL Commodore Group A SV,1988,Holden VL '88,Sport Touring Classics,AUS,359,3.1,1.7,1.8,2.4,180,245,241,1415,3120,380,280,RWD,F,5,V,8,NA,Factory,4,False,R
+1533,Holden,Torana A9X,1977,Holden Torana 77,Vintage Sport Compact,AUS,298,1.4,1,1.1,2.6,161,219,216,1183,2608,400,295,RWD,F,5,V,8,NA,Factory,2,False,R
+2417,Holden,HQ Monaro GTS 350,1973,Holden Monaro 73,Vintage Muscle,AUS,321,1.3,1.1,1.2,2.6,205,279,275,1429,3150,488,360,RWD,F,5.7,V,8,NA,Factory,2,False,R
+1511,Holden,Monaro GTS 327,1968,Holden Monaro 68,Street Drag Racers,AUS,282,1.3,1,1,2.4,186,253,249,1488,3280,441,325,RWD,F,5.4,V,8,NA,Factory,2,False,R
+3545,Honda,#73 LA Honda World Racing Civic,2020,Honda #73 Civic,Forza Touring Cars,JPN,693,2.9,5.3,5.4,4.3,254,345,341,1305,2877,420,310,FWD,F,2,I,4,T,Race,5,False,L
+2870,Honda,Civic Type R,2018,Honda Civic '18,Modern Hot Hatch,JPN,571,4.9,2.8,3.1,3.5,228,310,306,1414,3117,400,295,FWD,F,2,I,4,T,Factory,5,False,L
+2005,Honda,S2000 CR,2009,Honda S2000 '09,Modern Sport Compact,JPN,405,3,2.2,2.5,2.4,177,241,237,1276,2813,220,162,RWD,F,2.2,I,4,NA,Factory,2,False,L
+411,Honda,NSX-R,2005,Honda NSX-R '05,Sport GT Icons,JPN,524,4.4,2.7,3,3.3,216,294,290,1270,2800,305,225,RWD,MR,3.2,V,6,NA,Factory,2,False,R
+302,Honda,Civic Type R,2004,Honda Civic '04,Modern Hot Hatch,JPN,379,2.5,1.8,2.1,2.2,158,215,212,1190,2624,202,149,FWD,F,2,I,4,NA,Factory,2,False,R
+2817,Honda,Prelude Type SH,2000,Honda Prelude,Early Sport Compact,JPN,312,2,1.5,1.7,2.1,201,273,270,1315,2899,212,156,FWD,F,2.2,I,4,NA,Factory,2,False,L
+1273,Honda,Civic Type R,1997,Honda Civic '97,Hot Hatch Icons,JPN,348,2.6,1.6,1.9,2.2,136,185,182,1090,2403,160,118,FWD,F,1.6,I,4,NA,Factory,3,False,R
+412,Honda,NSX-R,1992,Honda NSX-R '92,Sport GT Icons,JPN,502,4,2.5,2.8,3.2,206,280,276,1230,2712,294,217,RWD,MR,3,V,6,NA,Factory,2,False,R
+320,Honda,CR-X SiR,1991,Honda CR-X '91,Hot Hatch Icons,JPN,305,1.9,1.7,2.1,1.7,118,160,158,980,2161,152,112,FWD,F,1.6,I,4,NA,Factory,3,False,R
+2205,Honda,S800,1970,Honda S800 '70,Sport Coupe Icons,JPN,210,1,1.3,1.2,1.1,52,71,70,710,1565,65,48,RWD,F,0.8,I,4,NA,Factory,2,True,L
+2265,Honda,RA300,1967,Honda RA300,Formula 60s,JPN,747,4.9,4.3,4.1,7.2,340,462,456,593,1307,300,221,RWD,MR,3,V,12,NA,Race,2,True,C
+2131,HSV,GEN-F GTS,2014,Holden GEN-F '14,Modern Sport Touring,AUS,560,5.7,2.7,2.5,4,430,585,577,1881,4147,739,545,RWD,F,6.2,V,8,DSC,Factory,4,False,R
+2582,HSV,GTSR,1996,Holden GTSR '96,Sport Touring Classics,AUS,416,3.6,1.9,2,2.7,230,313,308,1629,3591,475,350,RWD,F,5.7,V,8,NA,Factory,4,False,R
+3532,Hyundai,#98 Bryan Herta Autosport Veloster N,2020,#98 Veloster,Forza Touring Cars,KOR,692,3.3,5.2,5.4,4.3,261,355,350,1315,2899,460,339,FWD,F,2,I,4,T,Race,3,False,L
+2872,Hyundai,Veloster N,2019,Veloster N '19,Modern Hot Hatch,KOR,468,3.6,2.6,2.7,2.7,205,279,275,1409,3106,353,260,FWD,F,2,I,4,T,Factory,3,False,L
+3802,Hyundai,Veloster N Forza Edition,2019,Veloster FE '19,Modern Hot Hatch,KOR,497,2.8,3.3,3.5,2.6,206,280,276,1444,3183,354,261,FWD,F,2,I,4,T,Upgraded,3,False,L
+2166,Infiniti,Q50 Eau Rouge,2014,Infiniti Q50 '14,Sport Luxury,USA,663,7.3,2.9,2.6,4.8,418,568,561,1740,3836,599,442,AWD,F,3.8,V,6,TT,Factory,4,False,L
+1663,Infiniti,IPL G Coupe,2012,Infiniti IPL '12,Modern Sport Touring,USA,442,4.3,2.3,2.3,2.8,403,548,540,1524,3360,374,276,RWD,F,3.7,V,6,NA,Factory,2,False,L
+350,Infiniti,G35 Coupe,2003,Infiniti G35 '03,Sport Touring Classics,USA,415,4.4,2.1,2.3,2.6,241,328,323,1519,3349,366,270,RWD,F,3.5,V,6,NA,Factory,2,False,L
+2162,Jaguar,F-TYPE R Coupé,2015,Jag. F-Type R 15,Modern Sport Coupe,GBR,646,6.4,3.2,2.9,4.7,410,557,550,1650,3638,681,502,RWD,F,5,V,8,DSC,Factory,2,False,L
+2185,Jaguar,XFR-S,2015,Jag. XRF-S '15,Sport Luxury,GBR,570,6.6,2.9,2.6,4,410,557,550,1987,4381,681,502,RWD,F,5,V,8,DSC,Factory,5,False,R
+2235,Jaguar,XKR-S GT,2015,Jag. XKR-S GT '15,Modern Sport Touring,GBR,646,6.1,3.6,3.3,4.7,404,549,542,1804,3977,679,501,RWD,F,5,V,8,DSC,Factory,2,False,L
+489,Jaguar,XJ220,1993,Jag. XJ220 '93,Exotic GT Classics,GBR,700,7,3.6,3.8,5.5,404,549,542,1470,3241,641,473,RWD,MR,3.5,V,6,TT,Factory,2,False,L
+3293,Jaguar,XJ220S TWR,1993,Jag. XJ220S '93,Exotic GT Classics,GBR,786,7.9,4.2,4.5,6.4,507,689,680,1079,2379,713,526,RWD,MR,3.5,V,6,TT,Factory,2,False,L
+3287,Jaguar,Sport XJR-15,1991,Jag. XJR-15 '91,Exotic GT Classics,GBR,740,6.5,3.7,4.1,5.6,336,457,451,1050,2315,569,420,RWD,MR,6,V,12,NA,Factory,2,False,R
+2826,Jaguar,#1 Jaguar Racing XJR-9,1988,#1 Jaguar XJR-9,GTP/C,GBR,969,6.2,10,10,8.8,559,760,750,885,1951,827,610,RWD,MR,7,V,12,NA,Race,2,False,R
+2800,Jaguar,#44 Group 44 XJR-5,1983,#44 Jaguar XJR-5,GTP/C,GBR,928,7.2,9.2,9.9,7.5,559,760,750,893,1969,583,430,RWD,MR,5.3,V,12,NA,Race,2,False,R
+336,Jaguar,E-type,1961,Jag. E-Type,Vintage Le Mans Sportscars,GBR,304,1.5,1.3,1.5,1.9,198,269,266,1315,2899,353,260,RWD,F,3.8,I,6,NA,Factory,2,False,R
+2559,Jaguar,Mk II 3.8,1959,Jag. Mk II '59,Sport Coupe Icons,GBR,252,1,1,1,1.6,164,223,220,1524,3360,325,240,RWD,F,3.8,I,6,NA,Race,4,False,R
+1301,Jaguar,D-Type,1956,Jag. D-Type,Vintage Le Mans Sportscars,GBR,493,4.7,2.3,2.9,2.3,183,249,245,953,2101,328,242,RWD,F,3.4,I,6,NA,Race,2,True,R
+3315,Koenigsegg,Jesko,2020,Koe. Jesko '20,Modern Hypercars,SWE,941,10,6.3,6.3,7.8,1195,1625,1603,1420,3131,1500,1106,RWD,MR,5.1,V,8,TT,Factory,2,False,L
+2910,Koenigsegg,Agera RS,2017,Koe. Agera '17,Modern Hypercars,SWE,905,10,5.6,5.5,7.8,1000,1360,1341,1395,3075,1369,1010,RWD,MR,5.1,V,8,TT,Factory,2,False,L
+3492,KTM,X-Bow GT2,2020,KTM X-Bow GT2,Forza GT,AUT,849,5.1,6.6,6.8,6.7,447,608,599,1138,2509,720,531,RWD,MR,2.5,I,5,T,Race,2,False,L
+3035,KTM,X-Bow GT4,2018,KTM X-Bow GT4,Forza GT,AUT,750,2.5,7.3,7.3,4.9,243,330,326,1067,2352,400,295,RWD,MR,2,I,4,T,Race,2,False,L
+1653,KTM,X-Bow R,2013,KTM X-Bow R '13,Track Toys,AUT,685,2,5.4,5.3,4.6,220,299,295,810,1786,400,295,RWD,MR,2,I,4,T,Factory,2,True,L
+3606,Lamborghini,Essenza SCV12,2020,L. Essenza SCV12,Forza GT,ITA,923,7.2,8.3,8.2,6.9,610,829,818,1447,3190,800,590,RWD,MR,6.5,V,12,NA,Factory,2,False,L
+3371,Lamborghini,Huracán EVO,2020,L. Huracán E '20,Modern Sport GT,ITA,752,6.3,4.1,3.8,5.8,470,639,630,1552,3422,599,442,AWD,MR,5.2,V,10,NA,Factory,2,False,L
+3672,Lamborghini,Huracán STO,2020,L. Huracán S '20,Modern Sport GT,ITA,766,6,5,4.7,6.4,470,639,630,1469,3239,564,416,RWD,MR,5.2,V,10,NA,Factory,2,False,L
+3633,Lamborghini,Sián FKP 37,2019,L. Sián '19,Modern Hypercars,ITA,806,7.6,4.4,4.2,7,603,820,809,1892,4171,754,556,AWD,MR,6.5,V,12,NA,Factory,2,False,L
+3239,Lamborghini,#63 Squadra Corse Huracán Super Trofeo Evo,2018,L. #63 Huracán,Forza GT,ITA,824,5,6.5,6.6,6.1,456,620,612,1358,2994,570,420,RWD,MR,5.2,V,10,NA,Race,2,False,L
+3289,Lamborghini,Aventador SVJ,2018,L. Aventador '18,Modern Exotic GT,ITA,823,7.3,5,4.9,7.1,566,770,759,1636,3607,720,531,AWD,MR,6.5,V,12,NA,Factory,2,False,L
+3217,Lamborghini,Huracán Performante,2018,L. Huracán '18,Modern Sport GT,ITA,781,6.3,4.6,4.4,6.2,470,639,630,1512,3333,599,442,AWD,MR,5.2,V,10,NA,Factory,2,False,L
+2616,Lamborghini,Centenario LP 770-4,2016,L. Centenario 16,Modern Exotic GT,ITA,803,7.2,4.5,4.4,6.9,566,770,759,1675,3693,689,508,AWD,MR,6.5,V,12,NA,Factory,2,False,L
+2042,Lamborghini,Veneno,2013,L. Veneno '13,Modern Hypercars,ITA,833,7.1,5.6,5.6,6.9,552,751,740,1646,3629,689,508,AWD,MR,6.5,V,12,NA,Factory,2,False,L
+1583,Lamborghini,Aventador J,2012,L. Aventador '12,Modern Exotic GT,ITA,777,6.7,4.2,4.1,6.8,522,710,700,1731,3816,690,509,AWD,MR,6.5,V,12,NA,Factory,2,False,L
+1322,Lamborghini,Gallardo LP 570-4 Superleggera,2011,L. Gallardo '11,Modern Sport GT,ITA,731,7,3.6,3.7,5,419,570,562,1496,3298,540,398,AWD,MR,5.2,V,10,NA,Factory,2,False,L
+1392,Lamborghini,Sesto Elemento,2011,Lambo Sesto,Modern Sport GT,ITA,819,6.5,4.6,4.6,7.2,419,570,562,999,2202,540,398,AWD,MR,5.2,V,10,NA,Race,2,False,L
+1173,Lamborghini,Murciélago LP 670-4 SV,2010,Lambo Murcielago,Modern Exotic GT,ITA,755,6.8,4.1,3.9,5.2,493,670,661,1655,3649,660,487,AWD,MR,6.5,V,12,NA,Factory,2,False,L
+324,Lamborghini,Diablo GTR,1999,L. Diablo GTR 99,Early Factory Racecars,ITA,748,6.7,4.9,5,4.9,440,598,590,1400,3086,640,472,RWD,MR,6,V,12,NA,Race,2,False,L
+325,Lamborghini,Diablo SV,1997,L. Diablo SV '97,Exotic GT Classics,ITA,653,6.9,3,3.3,4.5,395,537,530,1576,3474,605,446,RWD,MR,5.7,V,12,NA,Factory,2,False,L
+316,Lamborghini,Countach LP5000 QV,1988,L. Countach '88,Exotic GT Classics,ITA,588,4.4,2.7,3.1,3.9,339,461,455,1490,3285,500,369,RWD,MR,5.2,V,12,NA,Factory,2,False,L
+3191,Lamborghini,Espada 400 GT,1973,L. Espada '73,Vintage Exotic GT,ITA,357,2.7,1.5,1.7,2.5,261,355,350,1635,3605,393,290,RWD,F,3.9,V,12,NA,Factory,2,False,L
+2207,Lamborghini,Jarama S,1972,L. Jarama S '72,Vintage Exotic GT,ITA,377,2.8,1.7,1.7,2.8,272,370,365,1535,3384,407,300,RWD,F,3.9,V,12,NA,Factory,2,False,L
+637,Lamborghini,Miura P400,1967,L. Miura '67,Vintage Exotic GT,ITA,402,3.5,1.6,1.8,2.9,261,355,350,1245,2745,369,272,RWD,MR,3.9,V,12,NA,Factory,2,False,L
+323,Lancia,Delta HF Integrale EVO,1992,Lancia Delta '92,Hot Hatch Icons,ITA,309,1.6,1.6,1.6,2,157,213,211,1340,2954,304,224,AWD,F,2,I,4,T,Factory,5,False,L
+3520,Lexus,LC 500,2021,Lexus LC 500 '21,Sport Luxury,USA,542,5.8,2.7,2.6,3.6,351,477,471,1935,4266,540,398,RWD,F,5,V,8,NA,Factory,2,False,L
+3457,Lexus,#14 Vasser Sullivan RC F GT3,2020,Lexus #14 RC F,Forza GT,USA,784,4.7,6.2,6.3,5.4,373,507,500,1415,3120,549,405,RWD,F,5.4,V,8,NA,Race,2,False,L
+3546,Lexus,RC F Track Edition,2020,Lexus RC F T '20,Modern Sport Coupe,USA,575,5.8,3.3,3,3.8,352,479,472,1715,3781,536,395,RWD,F,5,V,8,NA,Factory,2,False,L
+2175,Lexus,RC F,2015,Lexus RC F '15,Modern Sport Coupe,USA,542,6.4,2.7,2.8,3.4,348,473,467,1795,3957,526,388,RWD,F,5,V,8,NA,Factory,2,False,L
+2097,Lexus,IS 350 F Sport,2014,Lexus IS 350 '14,Modern Sport Touring,USA,417,4.3,2,2.1,2.8,228,310,306,1630,3594,376,277,RWD,F,3.5,V,6,NA,Factory,4,False,L
+1535,Lexus,GS350 F Sport,2013,Lexus GS350,Sport Luxury,USA,459,4.7,2.1,2.3,2.7,228,310,306,1801,3971,376,277,AWD,F,3.5,V,6,NA,Factory,4,False,L
+1260,Lexus,LFA,2010,Lexus LFA '10,Modern Sport GT,USA,697,6,4.1,3.9,5,412,560,553,1480,3263,480,354,RWD,F,4.8,V,10,NA,Factory,2,False,L
+3365,Ligier,#11 Eurointernational JS P3,2016,Ligier #11 JS P3,Forza P3,FRA,897,3.9,9.1,9.3,6.7,313,426,420,1005,2216,530,391,RWD,MR,5,V,8,NA,Race,2,False,L
+2312,Lola,#10 Simoniz Special T163,1969,#10 Lola T163,Prototype Group Racing,GBR,840,5.7,6,6.2,9.3,459,624,616,910,2006,759,560,RWD,MR,7,V,8,NA,Race,2,True,R
+2423,Lola,#6 Sunoco T70 MkIIIB,1969,#6 Lola T70,Prototype Group Racing,GBR,798,5.2,5.9,6.2,7.1,343,466,460,840,1852,536,395,RWD,MR,5,V,8,NA,Race,2,False,R
+3716,Lotus,Emira,2023,Lotus Emira '23,Modern Sport GT,GBR,600,4.6,3.7,3.7,3.7,298,405,400,1405,3097,420,310,RWD,MR,3.5,V,6,DSC,Factory,2,False,L
+3449,Lotus,Evija,2020,Lotus Evija '20,Modern Exotic GT,GBR,931,6.7,4.7,4.8,4.6,1471,2000,1973,1680,3704,1699,1253,AWD,MR,0,E,0,EV,Factory,2,False,L
+2541,Lotus,3-Eleven,2016,Lotus 3-Eleven,Track Toys,GBR,734,3.9,4.9,4.7,6.5,306,416,410,954,2103,418,308,RWD,MR,3.5,I,6,DSC,Factory,2,True,L
+2165,Lotus,Evora S,2011,Lotus Evora '11,Modern Sport Coupe,GBR,588,4.6,3.2,3.3,3.8,257,349,345,1437,3168,400,295,RWD,MR,3.5,V,6,DSC,Factory,2,False,R
+335,Lotus,Esprit V8,2002,Lotus Esprit '02,Sport GT Icons,GBR,579,5.1,2.7,3,4,261,355,350,1293,2851,400,295,RWD,MR,3.5,V,8,TT,Factory,2,False,R
+3301,Lotus,#12 Team Lotus 98T,1986,Lotus #12 98T,Grand Prix Rivals,GBR,999,7.1,10,10,8.8,671,912,900,686,1512,655,483,RWD,MR,1.5,V,6,TT,Race,0,True,C
+2266,Lotus,#5 Team Lotus 77,1976,#5 Lotus 77,Formula 70s,GBR,877,4.2,7.8,7.9,7.9,347,472,465,580,1279,353,260,RWD,MR,3,V,8,NA,Race,0,True,C
+330,Lotus,Elan Sprint,1971,Lotus Elan '71,Vintage Sport Compact,GBR,272,1,1.1,1.3,1.6,94,128,126,744,1640,153,113,RWD,F,1.6,I,4,NA,Factory,2,False,R
+2024,Lotus,Type 49,1967,Lotus Type 49,Formula 60s,GBR,761,5.4,4.4,4.5,6.3,301,409,404,605,1334,350,258,RWD,MR,3,V,8,NA,Race,0,True,C
+3309,Lotus,#1 Team Lotus Type 40,1965,Lotus Type 40,Vintage Le Mans Prototypes,GBR,736,5.9,3.8,4.2,6.5,336,457,451,946,2086,549,405,RWD,MR,5.8,V,8,NA,Race,2,True,R
+3268,Lotus,Team Lotus type 35,1965,Lotus Type 35,Formula 60s,GBR,710,4.4,4.2,4.5,6.1,205,279,275,594,1310,285,210,RWD,MR,3,V,8,NA,Race,0,True,C
+3677,Lynk & Co,03+,2021,Lynk 03 '21,Modern Sport Compact,CHN,415,3.6,2.3,2.4,2.4,187,254,251,1615,3560,350,258,AWD,F,2,I,4,T,Factory,4,False,L
+3552,Lynk & Co,#62 Cyan Racing 03,2020,Lynk #62 03,Forza Touring Cars,CHN,688,3.1,5.1,5.3,3.8,254,345,341,1320,2910,409,302,FWD,F,2,I,4,T,Race,4,False,L
+2051,Maserati,Ghibli S Q4,2014,Mas. Ghibli '14,Sport Luxury,ITA,537,4.5,2.5,2.5,3.6,301,409,404,1870,4123,549,405,AWD,F,3,V,6,TT,Factory,4,False,L
+391,Maserati,MC12,2004,Mas. MC12 '04,Exotic GT Classics,ITA,759,6.9,4.7,4.8,6.1,465,632,624,1531,3375,651,480,RWD,MR,6,V,12,NA,Factory,2,False,L
+1513,Maserati,Ghibli Cup,1997,Mas. Ghibli '97,Sport Touring Classics,ITA,475,4.6,2.2,2.4,3.3,243,330,326,1365,3009,370,273,RWD,F,2,V,6,TT,Factory,2,False,L
+1524,Maserati,Tipo 61 Birdcage,1961,Mas. Tipo 61,Vintage Le Mans Sportscars,ITA,595,3.9,2.8,2.8,4.4,187,254,251,600,1323,309,228,RWD,F,2.9,I,4,NA,Race,2,True,R
+1462,Maserati,300 S,1957,Mas. 300 S,Vintage Le Mans Sportscars,ITA,554,3.9,2.6,3.1,3.3,194,264,260,880,1940,335,247,RWD,F,3,I,6,NA,Factory,2,True,R
+2506,Maserati,A6GCS/53 PininFarina Berlinetta,1953,Mas. A6GCS,Vintage Le Mans Sportscars,ITA,290,1.9,1.1,1.3,1.7,127,173,170,900,1984,183,135,RWD,F,2,I,6,NA,Factory,2,False,L
+2068,Maserati,8CTF,1939,Maserati 8CTF,The Birth of Grand Prix,ITA,606,5,2.4,2.9,4,268,364,359,800,1764,450,332,RWD,F,3,I,8,DSC,Race,0,True,C
+3080,Matra-Simca,#146 Equipe Matra-Simca MS650 Tour de France,1970,Matra #146 MS650,Vintage Le Mans Prototypes,FRA,775,5.2,5,5.3,6.8,306,416,410,829,1828,339,250,RWD,MR,3,V,12,NA,Race,2,True,R
+3798,Mazda,MX-5 Cup,2017,Mazda MX-5 C '17,Forza Specials,JPN,477,1.6,3.5,3.6,2.3,135,184,181,1077,2374,205,151,RWD,F,2.4,I,4,NA,Race,2,True,L
+2267,Mazda,MX-5,2016,Mazda MX-5 '16,Modern Sport Compact,JPN,377,1.9,2.2,2.5,2.3,116,158,156,1048,2310,201,148,RWD,F,2,I,4,NA,Factory,2,True,L
+2083,Mazda,Formula Mazda,2015,Formula Mazda,Formula Mazda Spec,JPN,699,2.4,5.8,6.2,4.1,134,182,180,569,1254,216,159,RWD,MR,1.3,R,2,NA,Race,0,True,C
+2240,Mazda,#70 SpeedSource Lola B12/80,2014,Mazda #70 B12/80,Forza P2,JPN,949,5.6,10,10,6.6,320,435,429,954,2103,746,550,RWD,MR,2.2,I,4,TT,Race,2,False,C
+2004,Mazda,MX-5,2013,Mazda MX-5 '13,Modern Sport Compact,JPN,345,2.4,1.9,2.3,2,125,170,168,1176,2593,190,140,RWD,F,2,I,4,NA,Factory,2,False,L
+1426,Mazda,RX-8 R3,2011,Mazda RX-8 '11,Modern Sport Compact,JPN,369,2.8,2.1,2.3,2.1,173,235,232,1390,3064,216,159,RWD,F,1.3,R,2,NA,Factory,2,False,L
+425,Mazda,RX-7 Spirit R Type-A,2002,Mazda RX-7 '02,Early Sport Compact,JPN,519,4.7,2.6,2.9,3.2,206,280,276,1270,2800,313,231,RWD,F,1.3,R,2,TT,Factory,2,False,R
+424,Mazda,RX-7,1997,Mazda RX-7 '97,Early Sport Compact,JPN,462,4.7,2.2,2.4,2.9,195,265,261,1284,2831,294,217,RWD,F,1.3,R,2,TT,Factory,2,False,R
+1110,Mazda,MX-5 Miata,1994,Mazda MX-5 '94,Early Sport Compact,JPN,287,1,1.8,2.1,1.6,95,129,127,1057,2330,149,110,RWD,F,1.8,I,4,NA,Factory,2,False,L
+2209,Mazda,323 GT-R,1992,Mazda 323 '92,Hot Hatch Icons,JPN,382,2.1,1.6,1.8,2.5,154,209,207,1210,2668,249,184,AWD,F,1.8,I,4,T,Factory,3,False,R
+1335,Mazda,#55 Mazda 787B,1991,#55 Mazda 787B,GTP/C,JPN,954,7.2,9.9,10,7.7,521,708,699,830,1830,607,448,RWD,MR,2.6,R,4,NA,Race,2,False,R
+2334,Mazda,#62 Mazda Motorsport RX-7,1991,#62 Mazda RX-7,GTX Sportscars,JPN,819,5.7,6,6.3,6.3,447,608,599,1023,2255,529,390,RWD,F,2.6,R,4,NA,Race,2,False,L
+2255,Mazda,MX-5 Miata,1990,Mazda MX-5 '90,Early Sport Compact,JPN,268,1,1.8,1.9,1.5,86,117,115,1002,2209,136,100,RWD,F,1.6,I,4,NA,Factory,2,False,L
+423,Mazda,Savanna RX-7,1990,Mazda RX-7 '90,Early Sport Compact,JPN,334,3.1,1.7,1.8,2.1,149,203,200,1352,2981,266,196,RWD,F,1.3,R,2,T,Factory,2,False,R
+1480,Mazda,RX-7 GSL-SE,1985,Mazda RX-7 '85,Early Sport Compact,JPN,274,1.3,1.4,1.7,1.4,101,137,135,1168,2575,180,133,RWD,F,1.3,R,2,NA,Factory,2,False,L
+1514,Mazda,RX-3,1973,Mazda RX-3 '73,Vintage Sport Compact,JPN,233,1,1,1,1.2,82,111,110,934,2059,136,100,RWD,F,1.1,R,2,NA,Factory,2,False,L
+1587,Mazda,Cosmo 110S Series II,1972,Mazda Cosmo '72,Sport Coupe Icons,JPN,247,1,1,1.1,1.2,95,129,127,957,2110,140,103,RWD,F,1,R,2,NA,Factory,2,False,R
+3655,McLaren,620R,2021,McL. 620 '21,Modern Sport GT,GBR,752,5.9,4.5,4.2,6.6,456,620,612,1420,3131,620,457,RWD,MR,3.8,V,8,TT,Factory,2,False,L
+3482,McLaren,765LT Coupe,2021,McL. 765 '21,Modern Sport GT,GBR,830,7.1,5.1,4.8,7.9,563,765,755,1339,2952,800,590,RWD,MR,4,V,8,TT,Factory,2,False,L
+3437,McLaren,GT,2020,McL. GT '20,Modern Exotic GT,GBR,710,6.4,3.5,3.4,5.8,456,620,612,1535,3384,629,464,RWD,MR,4,V,8,TT,Factory,2,False,L
+3157,McLaren,#03 720S GT3,2019,McLaren #03 720S,Forza GT,GBR,806,4.6,6.4,6.7,6.2,388,528,520,1393,3071,610,450,RWD,MR,4,V,8,TT,Race,2,False,L
+3154,McLaren,720S Spider,2019,McL. Spider '19,Modern Sport GT,GBR,786,5.9,4.8,4.4,7.4,530,721,711,1468,3236,769,567,RWD,MR,4,V,8,TT,Factory,2,True,L
+3155,McLaren,Senna GTR,2019,McL. SennaGTR 19,Modern Factory Racecars,GBR,908,6.4,7.8,7.6,7.9,607,825,814,1364,3007,801,591,RWD,MR,4,V,8,TT,Race,2,False,L
+3153,McLaren,600LT Coupé,2018,McL. 600 '18,Modern Sport GT,GBR,753,6.2,4.2,4.1,6.8,441,600,591,1356,2989,620,457,RWD,MR,3.8,V,8,TT,Factory,2,False,L
+2846,McLaren,720S Coupe,2018,McL. 720 '18,Modern Sport GT,GBR,807,7.1,4.8,4.6,7.7,529,719,709,1419,3128,769,567,RWD,MR,4,V,8,TT,Factory,2,False,L
+2988,McLaren,Senna,2018,McL. Senna '18,Modern Hypercars,GBR,860,7,6.3,6,7.9,588,799,789,1309,2886,800,590,RWD,MR,4,V,8,TT,Factory,2,False,L
+2189,McLaren,650S Coupe,2015,McLaren 650S,Modern Sport GT,GBR,756,6.7,4.1,3.9,6.4,478,650,641,1428,3148,678,500,RWD,MR,3.8,V,8,TT,Factory,2,False,L
+2481,McLaren,P1 GTR,2015,McL. P1 GTR '15,Modern Factory Racecars,GBR,911,8.4,6.7,6.6,8.6,599,814,803,1455,3208,1001,738,RWD,MR,3.8,V,8,TT,Race,2,False,L
+1667,McLaren,P1,2013,McL. P1 '13,Modern Exotic GT,GBR,862,9.7,5.5,5.4,7.8,674,916,904,1495,3296,926,683,RWD,MR,3.8,V,8,TT,Factory,2,False,L
+338,McLaren,F1 GT,1997,McL. F1 GT '97,Early Factory Racecars,GBR,787,7.6,5.1,5.4,5.8,461,627,618,1120,2469,651,480,RWD,MR,6.1,V,12,NA,Race,2,False,C
+1314,McLaren,F1,1993,McL. F1 '93,Exotic GT Classics,GBR,736,9.2,3.7,3.9,5.3,468,636,628,1288,2840,651,480,RWD,MR,6.1,V,12,NA,Factory,2,False,C
+1670,McLaren,#12 Honda McLaren MP4/4,1988,#12 McLaren MP4,Grand Prix Rivals,GBR,999,6.8,10,10,10,503,684,675,540,1190,423,312,RWD,MR,1.5,V,6,TT,Race,0,True,C
+1672,McLaren,#11 Team McLaren M23,1976,#11 McLaren M23,Formula 70s,GBR,865,4.4,7.6,7.7,8.1,347,472,465,575,1268,353,260,RWD,MR,3,V,8,NA,Race,0,True,C
+1457,McLaren,#4 McLaren Cars M8B,1969,#4 McLaren M8B,Prototype Group Racing,GBR,860,7.2,6.1,6.5,9.1,440,598,590,664,1464,780,575,RWD,MR,7,V,8,NA,Race,2,True,R
+3270,McLaren,#4 Bruce McLaren Motor Racing M1B,1966,McLaren #4 M1B,Prototype Group Racing,GBR,805,6.1,5.1,5.3,8,456,620,612,1470,3241,599,442,RWD,MR,5.4,V,8,NA,Race,2,True,R
+1671,McLaren,M2B,1966,McLaren M2B,Formula 60s,GBR,725,3.5,4.7,4.7,6.6,261,355,350,539,1188,300,221,RWD,MR,3,V,8,NA,Race,0,True,C
+3650,Mercedes-AMG,Mercedes-AMG ONE,2021,Mercedes-AMG ONE,Modern Hypercars,GER,912,7.6,6,6.1,10,654,889,877,1695,3737,725,535,AWD,MR,1.6,V,6,T,Factory,2,False,L
+3616,Mercedes-AMG,GT Black Series,2020,AMG GT '20,Modern Sport GT,GER,801,6.1,5.3,4.9,6.8,537,730,720,1640,3616,800,590,RWD,F,4,V,8,TT,Factory,2,False,L
+3250,Mercedes-AMG,E 63 S,2018,M-AMG E 63 '18,Sport Luxury,GER,676,6.7,2.8,2.5,5.6,450,612,603,2048,4515,849,626,AWD,F,4,V,8,TT,Factory,4,False,L
+3064,Mercedes-AMG,GT 4-Door Coupé,2018,AMG GT Coupe '18,Sport Luxury,GER,684,7.4,2.8,2.6,5.4,470,639,630,2045,4508,899,663,AWD,F,4,V,8,TT,Factory,4,False,L
+3197,Mercedes-AMG,GT3,2018,M-AMG GT3,Forza GT,GER,817,5,6.4,6.7,6.1,404,549,542,1375,3031,599,442,RWD,F,6.2,V,8,NA,Race,2,False,L
+2654,Mercedes-AMG,GT R,2017,AMG GT R '17,Modern Sport GT,GER,728,6.5,4.5,4.3,5.7,430,585,577,1555,3428,700,516,RWD,F,4,V,8,TT,Factory,2,False,L
+2471,Mercedes-AMG,C 63 S Coupé,2016,AMG C 63 '16,Modern Sport Touring,GER,601,5.5,3.3,2.9,4.4,375,510,503,1800,3968,700,516,RWD,F,4,V,8,TT,Factory,2,False,L
+3803,Mercedes-AMG,C 63 S Coupé Forza Edition,2016,M-B AMG C63 FE,Modern Sport Touring,GER,700,5.2,4.5,4.2,5,430,585,577,1770,3902,803,592,RWD,F,4,V,8,TT,Upgraded,2,False,L
+2875,Mercedes-Benz,#33 Mac Tools Ciceley Motorsports A-Class (A45),2017,#33 M-B A-Class,Forza Touring Cars,GER,698,3.2,5.1,5.2,4.3,249,339,334,1114,2456,396,292,FWD,F,2,I,4,T,Race,5,False,R
+1658,Mercedes-Benz,A 45 AMG,2013,MB A 45 '13,Modern Hot Hatch,GER,529,3.9,2.4,2.2,3.5,265,360,355,1480,3263,442,326,AWD,F,2,I,4,T,Factory,5,False,L
+1500,Mercedes-Benz,C 63 AMG Coupé Black Series,2012,MB C 63 '12,Modern Sport Touring,GER,619,5.8,3,2.9,4.5,380,517,510,1748,3854,620,457,RWD,F,6.2,V,8,NA,Factory,2,False,L
+1525,Mercedes-Benz,SLK 55 AMG,2012,M-B SLK 55 '12,Modern Sport Coupe,GER,551,6.1,2.3,2.3,4,309,420,414,1600,3527,540,398,RWD,F,5.5,V,8,NA,Factory,2,False,L
+1202,Mercedes-Benz,SLS AMG,2011,MB SLS AMG '11,Modern Sport GT,GER,688,6.8,3.6,3.4,5.2,426,579,571,1620,3571,650,479,RWD,F,6.2,V,8,NA,Factory,2,False,L
+1090,Mercedes-Benz,SL 65 AMG Black Series,2009,MB SL 65 '09,Modern Sport GT,GER,684,7.1,3.2,3.2,5.1,493,670,661,1912,4215,1001,738,RWD,F,6,V,12,TT,Factory,2,False,L
+286,Mercedes-Benz,C 32 AMG,2004,MB C 32 '04,Sport Touring Classics,GER,470,5.1,2.2,2.2,3.4,298,405,400,1525,3362,450,332,RWD,F,3.2,V,6,DSC,Factory,4,False,L
+1296,Mercedes-Benz,190E 2.5-16 Evolution II,1990,MB 190E '90,Sport Touring Classics,GER,400,3,2.7,2.8,2.4,175,238,235,1350,2976,245,181,RWD,F,3,I,4,NA,Factory,4,False,L
+1560,Mercedes-Benz,#63 Sauber-Mercedes C9,1989,#63 M-B C 9,GTP/C,GER,959,8.4,9.7,10,8.3,559,760,750,886,1953,813,600,RWD,MR,5,V,8,TT,Race,2,False,R
+1559,Mercedes-Benz,300 SLR,1955,M-B 300 SLR,Vintage Le Mans Sportscars,GER,533,4.7,2.5,3.1,3.3,231,314,310,900,1984,317,234,RWD,F,3,I,8,NA,Race,2,True,L
+251,Mercedes-Benz,300 SL Coupé,1954,MB 300 SL '54,Sport Coupe Icons,GER,291,2,1.1,1.3,1.9,180,245,241,1343,2961,294,217,RWD,F,3,I,6,NA,Factory,2,False,L
+2069,Mercedes-Benz,W154,1939,M-B W154,The Birth of Grand Prix,GER,583,5.8,2.1,2.7,3.2,360,489,483,1217,2683,489,361,RWD,F,3,V,12,DSC,Race,0,True,C
+2333,Mercury,#15 Whistler Radar Cougar XR-7,1990,#15 Mercury XR-7,GTX Sportscars,USA,812,5.9,5.6,5.9,5.8,447,608,599,1051,2317,759,560,RWD,F,5.5,V,8,NA,Race,2,False,L
+1280,Mercury,Cougar Eliminator,1970,Mercury Cougar,Vintage Muscle,USA,369,1,1.1,1.3,3.1,250,340,335,1558,3435,597,440,RWD,F,7,V,8,NA,Factory,2,False,L
+3028,Merkur,#11 MAC Tools XR4Ti,1986,#11 XR4Ti '86,GTX Sportscars,USA,807,5.7,5.9,6.2,5.6,466,634,625,1153,2542,759,560,RWD,F,6,V,8,NA,Race,2,False,L
+3689,MG,MG6 XPower,2021,MG MG6 '21,Modern Sport Touring,GBR,518,4.2,2.8,2.9,3.1,224,305,300,1540,3395,480,354,FWD,F,1.5,I,4,T,Factory,4,False,L
+3537,MG,#20 MG6 XPower,2020,MG #20 MG6,Forza Touring Cars,GBR,716,3.1,5.4,5.5,4.7,254,345,341,1260,2778,409,302,FWD,F,2,I,4,T,Race,4,False,L
+1589,MG,MGB GT,1966,MG MGB '66,Vintage Sport Compact,GBR,226,1,1,1.1,1.1,71,97,95,1070,2359,149,110,RWD,F,1.8,I,4,NA,Factory,2,False,L
+1487,MG,MGA Twin-Cam,1958,MG MGA '58,Sport Coupe Icons,GBR,224,1,1,1.1,1,81,110,109,994,2191,141,104,RWD,F,1.6,I,4,NA,Factory,3,True,L
+3534,Mini,John Cooper Works GP,2021,MINI JCW GP '21,Modern Hot Hatch,GBR,570,3.5,2.8,2.6,3.9,225,306,302,1295,2855,450,332,FWD,F,2,I,4,T,Factory,2,False,L
+2003,Mini,John Cooper Works GP,2012,MINI JCW GP '12,Modern Hot Hatch,GBR,428,2.5,2.6,2.5,2.6,160,218,215,1160,2557,280,207,FWD,F,1.6,I,4,T,Factory,3,False,L
+1662,Mini,Cooper S,1965,MINI Cooper '65,Vintage Sport Compact,GBR,219,1,1.3,1.1,1.2,56,76,75,671,1479,108,80,FWD,F,1.3,I,4,NA,Factory,2,False,R
+1009,Mitsubishi,Lancer Evolution X GSR,2008,Mit. Evo X '08,Modern Sport Compact,JPN,496,3,2.8,2.8,3.2,227,309,304,1540,3395,427,315,AWD,F,2,I,4,T,Factory,4,False,R
+374,Mitsubishi,Lancer Evolution IX MR,2006,Mit. Evo IX '06,Modern Sport Compact,JPN,490,3.7,2.7,2.7,2.9,213,290,286,1490,3285,392,289,AWD,F,2,I,4,T,Factory,4,False,L
+378,Mitsubishi,Lancer Evolution VIII MR,2004,Mit. Evo VIII 04,Early Sport Compact,JPN,496,3.2,2.8,2.8,3,227,309,304,1410,3109,400,295,AWD,F,2,I,4,T,Factory,4,False,R
+375,Mitsubishi,Lancer Evolution VI GSR,1999,Mit. Evo VI '99,Early Sport Compact,JPN,496,2.7,2.6,2.7,3.1,209,284,280,1280,2822,407,300,AWD,F,2,I,4,T,Factory,4,False,R
+349,Mitsubishi,FTO GP Version R,1998,Mit. FTO '98,Early Sport Compact,JPN,355,2.9,1.6,2,2,147,200,197,1150,2535,199,147,FWD,F,2,V,6,NA,Factory,2,False,R
+357,Mitsubishi,GTO,1997,Mit. GTO '97,Early Sport Compact,JPN,451,4.2,2.2,2.4,2.6,239,325,321,1680,3704,427,315,AWD,F,3,V,6,TT,Factory,2,False,R
+327,Mitsubishi,Eclipse GSX,1995,Mit. Eclipse '95,Early Sport Compact,JPN,352,3.4,1.6,2,2,157,213,211,1451,3199,290,214,AWD,F,2,I,4,T,Factory,2,False,L
+1381,Mitsubishi,Galant VR-4,1992,Mit. Galant '92,Early Sport Compact,JPN,341,2.2,1.4,1.5,2.2,177,241,237,1350,2976,304,224,AWD,F,2,I,4,T,Factory,2,False,R
+3366,NIO,EP9,2016,NIO EP9,Modern Hypercars,CHN,961,5.5,9.4,8.9,5.2,1000,1360,1341,1750,3858,1479,1091,AWD,MR,0,E,0,EV,Factory,2,False,L
+3620,Nissan,Z,2023,Nissan Z '23,Modern Sport Coupe,JPN,546,5.8,2.6,2.9,3.5,298,405,400,1604,3536,475,350,RWD,F,3,V,6,TT,Factory,2,False,L
+3622,Nissan,GT-R NISMO (R35),2020,Nissan GTR '20,Modern Sport GT,JPN,722,6.6,3.5,3.3,5.6,447,608,599,1754,3867,652,481,AWD,F,3.8,V,6,TT,Factory,2,False,L
+3307,Nissan,370Z Nismo,2019,Nissan 370Z N 19,Modern Sport Coupe,JPN,525,4.7,2.8,3,3.1,261,355,350,1537,3389,374,276,RWD,F,3.7,V,6,NA,Factory,2,False,L
+2874,Nissan,Sentra NISMO,2018,Nissan Sentra 18,Modern Sport Compact,JPN,336,1.1,1.9,2,2.2,140,190,188,1378,3038,240,177,FWD,F,1.6,I,4,T,Factory,4,False,L
+2797,Nissan,Altima Racecar,2017,#23 Nissan Altima,Forza GT,JPN,783,4.9,5.6,5.6,5.7,261,355,350,1537,3389,658,485,RWD,F,5,V,8,NA,Race,4,False,R
+2618,Nissan,GT-R (R35),2017,Nissan GT-R '17,Modern Sport GT,JPN,702,6.5,3.3,3.2,5.5,421,572,565,1784,3933,633,467,AWD,F,3.8,V,6,TT,Factory,2,False,L
+2368,Nissan,#23 GT-R LM NISMO,2015,Nissan #23 GTRLM,Forza P1,JPN,978,6.6,10,10,7.6,670,911,898,972,2143,1205,889,FWD,F,3,V,6,TT,Race,2,False,C
+344,Nissan,Fairlady Z,2003,Nissan Z '03,Early Sport Compact,JPN,424,4.1,2.2,2.3,2.5,214,291,287,1501,3309,370,273,RWD,F,3.5,V,6,NA,Factory,2,False,R
+445,Nissan,Skyline GT-R V-Spec II,2002,Nissan GT-R '02,Sport GT Icons,JPN,535,4.5,2.7,2.9,3.1,206,280,276,1550,3417,392,289,AWD,F,2.6,I,6,TT,Factory,2,False,R
+441,Nissan,Silvia Spec-R,2000,Nissan Silvia 0,Early Sport Compact,JPN,399,3.3,1.9,2.2,2.6,186,253,249,1240,2734,275,203,RWD,F,2,I,4,T,Factory,2,False,R
+3497,Nissan,#23 NISMO Clarion R391,1999,Nissan #23 R391,Early LMP,JPN,955,6.5,9.8,10,7.5,447,608,599,967,2132,618,456,RWD,MR,5,V,8,NA,Race,2,True,R
+567,Nissan,R390 (GT1),1998,Nissan R390,Exotic GT Classics,JPN,796,7.2,4.5,4.8,7.2,410,557,550,1027,2264,639,471,RWD,MR,3.5,V,8,TT,Factory,2,False,R
+2659,Nissan,Silvia K's Aero,1998,Nissan Silvia 98,Early Sport Compact,JPN,380,3.1,1.8,2.1,2.7,162,220,217,1265,2789,274,202,RWD,F,2,I,4,T,Factory,2,False,R
+1043,Nissan,Skyline GT-R V-Spec,1997,Nissan GT-R '97,Sport GT Icons,JPN,485,4.1,2.4,2.5,3,207,281,278,1539,3393,367,271,AWD,F,2.6,I,6,TT,Factory,2,False,R
+345,Nissan,Fairlady Z Version S Twin Turbo,1994,Fairlady Z '94,Sport GT Icons,JPN,398,3.7,1.8,2.2,2.8,206,280,276,1520,3351,384,283,RWD,F,3,V,6,TT,Factory,2,False,R
+440,Nissan,Silvia K's,1994,Nissan Silvia 94,Early Sport Compact,JPN,381,3.2,1.8,2.1,2.7,162,220,217,1265,2789,274,202,RWD,F,2,I,4,T,Factory,2,False,R
+1282,Nissan,240SX SE,1993,Nissan 240SX '93,Early Sport Compact,JPN,284,1.8,1.6,1.9,1.5,116,158,156,1322,2915,217,160,RWD,F,2.4,I,4,NA,Factory,2,False,L
+444,Nissan,Skyline GT-R V-Spec,1993,Nissan GT-R '93,Sport GT Icons,JPN,505,3.6,2.6,2.5,3.2,206,280,276,1500,3307,354,261,AWD,F,2.6,I,6,TT,Factory,2,False,R
+439,Nissan,Silvia CLUB K's,1992,Nissan Silvia 92,Early Sport Compact,JPN,339,2.6,1.6,2,2.2,151,205,202,1150,2535,274,202,RWD,F,2,I,4,T,Factory,2,False,R
+2483,Nissan,#23 Nissan R91CP,1991,#23 Nissan R91CP,GTP/C,JPN,976,6.8,9.9,10,7.2,491,668,658,933,2057,784,578,RWD,MR,3.5,V,8,TT,Race,2,False,R
+3257,Nissan,Pulsar GTI-R,1990,Nissan Pulsar 90,Early Sport Compact,JPN,387,2,1.6,1.8,2.5,169,230,227,1240,2734,283,209,AWD,F,2,I,4,T,Factory,3,False,R
+2840,Nissan,#33 Bob Sharp Racing 300ZX,1988,#33 Nissan 300ZX,GTX Sportscars,JPN,815,5.6,5.9,6.1,5.7,465,632,624,1163,2564,689,508,RWD,F,3,V,6,T,Race,2,False,L
+2512,Nissan,Skyline GTS-R (HR31),1987,Nissan GT-R '87,Sport Touring Classics,JPN,333,3.1,1.7,1.9,2.1,154,209,207,1345,2965,245,181,RWD,F,2,I,6,T,Factory,2,False,R
+3018,Nissan,#83 GTP ZX-Turbo,1985,#83 GTP ZX-Turbo,GTP/C,JPN,944,6.4,9.6,10,7.5,546,742,732,855,1885,686,506,RWD,MR,3,V,6,TT,Race,2,False,R
+2801,Nissan,#11 Tomica Skyline Turbo Super Silhouette,1984,#11 Skyline '84,GTX Sportscars,JPN,803,4.4,6.3,6.5,5.8,452,615,606,1040,2293,538,397,RWD,F,2.1,I,4,T,Race,2,False,R
+2482,Nissan,#20 Bluebird Super Silhouette,1984,#20 Bluebird,GTX Sportscars,JPN,808,4.9,6.1,6.3,6.1,498,677,668,1000,2205,538,397,RWD,F,2.1,I,4,T,Race,2,False,R
+3362,Nissan,#23 Nissan Motorsports Silvia Super Silhouette,1983,Nis. #23 Silvia,GTX Sportscars,JPN,800,5.2,5.8,6.1,5.9,419,570,562,1050,2315,538,397,RWD,F,2.1,I,4,T,Race,2,False,R
+2270,Nissan,Skyline H/T 2000GT-R,1973,Nissan GT-R '73,Vintage Sport Compact,JPN,275,1,1,1.1,1.9,118,160,158,1145,2524,176,130,RWD,F,2,I,6,NA,Factory,2,False,R
+1042,Nissan,Skyline 2000GT-R,1971,Nissan GT-R '71,Vintage Sport Compact,JPN,279,1.2,1,1.1,2,119,162,160,1100,2425,180,133,RWD,F,2,I,6,NA,Factory,2,False,R
+2269,Nissan,#21 Nissan Racing R382,1969,#21 Nissan R382,Prototype Group Racing,JPN,816,6,5.9,6.3,7.1,446,606,598,783,1726,607,448,RWD,MR,6,V,12,NA,Race,2,True,R
+343,Nissan,Fairlady Z 432,1969,Nissan Z 432 '69,Vintage Sport Compact,JPN,277,1,1.4,1.5,1.8,119,162,160,1047,2308,180,133,RWD,F,2,I,6,NA,Factory,2,False,R
+2823,Nissan,R380 II,1967,Nissan R380 II,Vintage Le Mans Sportscars,JPN,578,4.2,2.3,3,4,162,220,217,640,1411,210,155,RWD,MR,2,I,6,NA,Factory,2,False,R
+3310,Oldsmobile,#75 Cutlass Supreme Trans AM,1990,Olds #75 Cutlass,GTX Sportscars,USA,814,6.2,5.6,5.9,5.9,485,659,650,1280,2822,705,520,RWD,F,5.9,V,8,NA,Race,2,False,L
+1336,Oldsmobile,Hurst/Olds 442,1969,Olds 442 '69,Street Drag Racers,USA,353,1.5,1.1,1.2,2.7,286,389,384,1749,3856,678,500,RWD,F,7.4,V,8,NA,Factory,2,False,L
+2160,Opel,Kadett C GT/E,1979,Opel Kadett '79,Vintage Sport Compact,GER,251,1,1,1.2,1.5,85,116,114,920,2028,161,119,RWD,F,2,I,4,NA,Factory,2,False,L
+2967,Oreca,#38 Jackie Chan DC Racing Oreca 07,2017,Oreca #38 07,Forza P2,FRA,938,6.5,9.3,9.4,7.6,450,612,603,956,2108,555,409,RWD,MR,4.2,V,8,NA,Race,2,False,L
+3543,Pagani,Huayra R,2022,Pagani Huayra 22,Modern Hypercars,ITA,925,8.7,7,7.2,8,625,850,838,1110,2447,750,553,RWD,MR,6,V,12,NA,Race,2,False,L
+2647,Pagani,Huayra BC,2016,Pagani Huayra 16,Modern Hypercars,ITA,871,8.1,5.8,5.9,7.7,552,751,740,1218,2685,999,737,RWD,MR,6,V,12,TT,Factory,2,False,L
+1369,Pagani,Zonda Cinque Roadster,2009,Pagani Zonda C,Modern Hypercars,ITA,821,6.2,5.3,5.4,6.7,498,677,668,1280,2822,780,575,RWD,MR,7.3,V,12,NA,Factory,2,False,L
+3243,Peugeot,#7 DG Sport Compétition 308,2018,Peugeot #7 308,Forza Touring Cars,FRA,716,2.8,5.4,5.5,4.7,256,348,343,1265,2789,420,310,FWD,F,1.6,I,4,T,Race,5,False,L
+1348,Peugeot,308 GTI,2011,Peugeot 308 GTI,Modern Hot Hatch,FRA,302,2.2,1.5,1.6,1.9,147,200,197,1412,3113,275,203,FWD,F,1.6,I,4,T,Factory,5,False,L
+550,Peugeot,#3 Peugeot Talbot Sport 905 EVO 1C,1993,#3 Peugeot 905C,GTP/C,FRA,973,6.8,10,10,8.8,406,552,544,757,1669,487,359,RWD,MR,3.5,V,10,NA,Race,2,True,R
+1591,Peugeot,205 Turbo 16,1984,Peugeot 205 '84,Hot Hatch Icons,FRA,398,1.6,2.1,1.9,2.7,149,203,200,1145,2524,255,188,AWD,F,1.8,I,4,T,Factory,3,False,L
+1277,Plymouth,Cuda 426 HEMI,1971,Plymouth Cuda 71,Vintage Muscle,USA,377,2.9,1.1,1.2,3.1,317,431,425,1760,3880,664,490,RWD,F,7,V,8,NA,Factory,2,False,L
+1331,Plymouth,GTX 426 Hemi,1971,Plymouth GTX '71,Street Drag Racers,USA,373,3.5,1,1.2,3.1,330,449,443,1672,3686,664,490,RWD,F,7,V,8,NA,Factory,2,False,L
+1065,Pontiac,Firebird Trans Am Ram Air,2002,Pontiac T/A '02,Sport Touring Classics,USA,444,3.8,2.1,2.5,2.6,293,398,393,1495,3296,475,350,RWD,F,5.7,V,8,NA,Factory,2,False,L
+1045,Pontiac,Firebird Trans Am GTA,1987,Pontiac T/A '87,Sport Touring Classics,USA,319,2.6,1.7,2,2,157,213,211,1580,3483,427,315,RWD,F,5.7,V,8,NA,Factory,2,False,L
+1005,Pontiac,Firebird Trans Am SD-455,1973,Pontiac T/A '73,Vintage Muscle,USA,358,2.7,1.1,1.3,2.8,278,378,373,1676,3695,651,480,RWD,F,7.5,V,8,NA,Factory,2,False,L
+1337,Pontiac,Firebird Trans Am,1969,Pontiac T/A '69,Vintage Muscle,USA,345,1.9,1.1,1.2,2.7,288,392,386,1485,3274,583,430,RWD,F,6.6,V,8,NA,Factory,2,False,L
+1309,Pontiac,GTO Judge,1969,Pontiac GTO '69,Street Drag Racers,USA,349,1.5,1.1,1.2,2.7,272,370,365,1643,3622,603,445,RWD,F,6.5,V,8,NA,Factory,2,False,L
+3760,Porsche,718 Cayman GT4 RS,2022,P. 718 GT4 '22,Modern Sport Coupe,GER,730,6.3,4.3,4.3,5.5,368,500,493,1415,3120,450,332,RWD,MR,4,F,6,NA,Factory,2,False,R
+3667,Porsche,911 GT3,2021,P. 911 GT3 '21,Modern Sport GT,GER,737,6.1,4.7,4.5,5.4,375,510,503,1435,3164,469,346,RWD,R,4,F,6,NA,Factory,2,False,L
+3698,Porsche,Mission R,2021,Porsche MissionR,Mission R Spec,GER,879,4.2,6,5.9,6.1,500,680,671,1500,3307,1005,741,AWD,MR,0,E,0,EV,Race,2,False,L
+3445,Porsche,Taycan Turbo S,2020,Porsche Taycan S,Sport Luxury,GER,749,3.7,3.1,2.9,7.7,561,763,752,2323,5121,1049,774,AWD,R,0,E,0,EV,Factory,4,False,L
+3123,Porsche,911 Carrera S,2019,P. 911 CS '19,Modern Sport GT,GER,685,6.3,3.6,3.6,5.2,331,450,444,1515,3340,530,391,RWD,R,3,F,6,TT,Factory,2,False,L
+3072,Porsche,911 GT3 RS,2019,P. 911 GT3 RS 19,Modern Sport GT,GER,756,5.7,5.2,4.9,5.8,383,521,514,1430,3153,469,346,RWD,R,4,F,6,NA,Factory,2,False,L
+3215,Porsche,911 Speedster,2019,P. 911 S '19,Modern Sport GT,GER,689,6.5,3.8,3.6,4.9,375,510,503,1540,3395,469,346,RWD,R,4,F,6,NA,Factory,2,False,L
+3218,Porsche,#73 Park Place Motorsports 911 GT3 R,2018,Porsche #73 GT3,Forza GT,GER,801,4.9,6.2,6.4,5.7,368,500,493,1310,2888,458,338,RWD,R,4,F,6,NA,Race,2,False,L
+3117,Porsche,718 Cayman GTS,2018,P. 718 GTS '18,Modern Sport Coupe,GER,608,5.1,3,2.9,4.5,269,366,361,1422,3135,430,317,RWD,MR,2.5,F,4,T,Factory,2,False,L
+2755,Porsche,911 GT2 RS,2018,P. 911 GT2 RS 18,Modern Sport GT,GER,803,7.1,5.1,4.8,7.4,515,700,691,1450,3197,750,553,RWD,R,3.8,F,6,TT,Factory,2,False,L
+3807,Porsche,911 GT2 RS Forza Edition,2018,Porsche 911 FE,Modern Sport GT,GER,900,9.1,5.9,5.6,8.3,780,1061,1046,1465,3230,1079,796,RWD,R,3.8,F,6,TT,Upgraded,2,False,L
+2774,Porsche,#2 Porsche Team 919 Hybrid,2017,Porsche #2 919,Forza P1,GER,999,6.7,10,10,10,563,765,755,895,1973,1251,923,AWD,MR,2,V,4,T,Race,2,False,L
+2775,Porsche,#92 Porsche GT Team 911 RSR,2017,#92 Porsche RSR,Forza GT,GER,811,4.7,6.6,6.7,5.9,375,510,503,1243,2740,461,340,RWD,MR,4,F,6,NA,Race,2,False,L
+2741,Porsche,Panamera Turbo,2017,P. Panamera '17,Sport Luxury,GER,643,6.8,3,2.6,4.9,410,557,550,1995,4398,769,567,AWD,F,4,V,8,TT,Factory,4,False,L
+2538,Porsche,#91 Porsche Team Manthey 991 RSR,2015,Porsche #91 RSR,Forza GT,GER,806,4.5,6.3,6.4,6.2,365,496,489,1306,2879,447,330,RWD,R,4,F,6,NA,Race,2,False,L
+2289,Porsche,911 Turbo S,2014,911 Turbo '14,Modern Sport GT,GER,717,7,3.6,3.3,5.5,418,568,561,1636,3607,750,553,RWD,R,3.8,F,6,TT,Factory,2,False,L
+2290,Porsche,918 Spyder,2014,Porsche 918,Modern Exotic GT,GER,852,7,5.3,5,8.5,661,899,886,1675,3693,1124,829,AWD,MR,4.6,V,8,NA,Factory,2,False,L
+1539,Porsche,911 GT2 RS,2012,911 GT2 RS '12,Modern Sport GT,GER,774,6.9,4.7,4.3,6.4,456,620,612,1370,3020,700,516,RWD,R,3.6,F,6,TT,Factory,2,False,L
+263,Porsche,911 GT3,2007,P. 911 GT3 '07,Sport GT Icons,GER,657,6,3.5,3.4,4.4,309,420,414,1395,3075,404,298,RWD,R,3.6,F,6,NA,Factory,2,False,L
+262,Porsche,911 GT3,2004,P. 911 GT3 '04,Sport GT Icons,GER,611,5.7,3.2,3.2,3.9,284,386,381,1433,3159,385,284,RWD,R,3.6,F,6,NA,Factory,2,False,L
+292,Porsche,Carrera GT,2003,P.CarreraGT '03,Exotic GT Classics,GER,750,6.6,4.5,4.2,5.6,451,613,605,1478,3258,590,435,RWD,MR,5.7,V,10,NA,Factory,2,False,L
+641,Porsche,911 GT1 Strassenversion,1997,P. 911 GT1 '97,Early Factory Racecars,GER,773,5.4,5.6,5.4,5.5,400,544,536,1200,2646,599,442,RWD,MR,3.2,F,6,TT,Factory,2,False,L
+261,Porsche,911 GT2,1995,911 GT2 '95,Sport GT Icons,GER,640,4.7,3.4,3.3,4.7,316,430,424,1295,2855,540,398,RWD,R,3.6,F,6,TT,Factory,2,False,L
+2794,Porsche,911 Turbo S Leichtbau,1993,P. 911 Turbo '93,Sport GT Icons,GER,626,4.9,3.1,3.2,4.6,284,386,381,1290,2844,470,347,RWD,R,3.3,F,6,T,Factory,2,False,L
+2535,Porsche,928 GTS,1993,P. 928 GTS '93,Sport Touring Classics,GER,464,4.5,2,2.2,3.3,257,349,345,1630,3594,500,369,RWD,F,5.4,V,8,NA,Factory,2,False,L
+2534,Porsche,968 Turbo S,1993,P. 968 Turbo '93,Sport Touring Classics,GER,534,4.2,2.6,2.8,3.7,227,309,304,1300,2866,500,369,RWD,F,3,I,4,T,Factory,2,False,L
+268,Porsche,944 Turbo,1989,P. 944 Turbo '89,Sport Touring Classics,GER,429,3.3,2.1,2.3,3.1,184,250,247,1413,3115,350,258,RWD,F,2.5,I,4,T,Factory,2,False,L
+540,Porsche,#17 Porsche AG 962C,1987,#17 Porsche 962C,GTP/C,GER,971,8.9,9.1,9.6,8.3,559,760,750,888,1958,800,590,RWD,MR,3,F,6,TT,Race,2,False,R
+269,Porsche,959,1987,Porsche 959,Exotic GT Classics,GER,687,6,3.2,3.1,5.1,336,457,451,1447,3190,500,369,AWD,R,2.8,F,6,TT,Factory,2,False,L
+3023,Porsche,#11 John Fitzpatrick Racing 956,1983,Porsche #11 956,GTP/C,GER,959,9,8.7,9.4,8.2,462,628,620,864,1905,601,443,RWD,MF,2.6,F,6,TT,Race,2,False,L
+265,Porsche,911 Turbo 3.3,1982,P. 911 Turbo '82,Sport GT Icons,GER,448,2.9,2,2,3.5,221,300,296,1300,2866,412,304,RWD,R,3.3,F,6,T,Factory,2,False,L
+2532,Porsche,924 Carrera GTS,1980,P. 924 GTS '80,Sport Touring Classics,GER,427,3.5,1.9,2.1,3.1,183,249,245,1120,2469,335,247,RWD,F,2,I,4,T,Factory,2,False,L
+3506,Porsche,#1 911 RSR,1974,#1 Porsche 911,GTX Sportscars,GER,705,3.5,5.3,5.3,5,246,334,330,982,2165,313,231,RWD,R,3,F,6,NA,Race,2,False,L
+260,Porsche,911 Carrera RS,1973,P. 911 RS '73,Vintage Sport Compact,GER,371,2.3,1.6,1.8,2.9,154,209,207,1111,2449,255,188,RWD,R,2.7,F,6,NA,Factory,2,False,L
+2549,Porsche,#3 917 LH,1970,Porsche 917 LH,Vintage Le Mans Prototypes,GER,857,8.7,5.3,5.8,9.2,448,609,601,927,2044,563,415,RWD,MR,5,F,12,NA,Race,2,False,R
+266,Porsche,914/6,1970,P. 914/6 '70,Vintage Sport Compact,GER,265,1,1.2,1.3,1.6,93,126,125,996,2196,178,131,RWD,MR,2,F,6,NA,Factory,2,False,L
+2537,Porsche,718 RS 60,1960,Porsche 718,Vintage Le Mans Sportscars,GER,536,2.7,2.7,3,3.8,119,162,160,581,1281,163,120,RWD,MR,1.6,F,4,NA,Race,2,True,L
+2299,Porsche,356A Speedster,1957,P. 356A S '57,Sport Coupe Icons,GER,223,1,1.5,1.6,1,45,61,60,760,1676,110,81,RWD,R,1.6,F,4,NA,Factory,2,True,L
+1281,Porsche,550 Spyder,1955,P. 550 S '55,Sport Coupe Icons,GER,271,1.3,1.5,1.9,1.4,81,110,109,685,1510,129,95,RWD,MR,1.5,F,4,NA,Factory,2,True,L
+2486,Radical,RXC Turbo,2015,Radical RXC,Track Toys,GBR,891,4.9,7.2,7.3,7.4,339,461,455,940,2072,678,500,RWD,MR,3.5,V,6,TT,Factory,2,False,L
+3196,RAESR,Tachyon Speed,2019,RAESR TS '19,Modern Hypercars,USA,941,8,5.9,5.8,6.1,933,1269,1251,1451,3199,4949,3650,AWD,MR,0,E,0,EV,Factory,1,False,C
+3134,Renault,Megane R.S.,2018,Ren. Megane '18,Modern Hot Hatch,FRA,446,3.1,2.5,2.7,2.8,205,279,275,1430,3153,389,287,FWD,F,1.8,I,4,T,Factory,5,False,L
+3182,Renault,Clio R.S. 16 Concept,2016,Ren. Clio '16,Modern Hot Hatch,FRA,526,2.9,3.2,3.4,3,201,273,270,1205,2657,359,265,FWD,F,2,I,4,T,Factory,5,False,L
+3129,Renault,Megane R26.R,2008,Ren. Migane '08,Modern Hot Hatch,FRA,512,2.6,3.2,3.4,2.8,169,230,227,1230,2712,309,228,FWD,F,2,I,4,T,Factory,3,False,L
+453,Renault,Sport Clio V6,2003,Ren. Clio '03,Modern Hot Hatch,FRA,384,2.6,2.2,2.2,2.4,187,254,251,1400,3086,300,221,RWD,MR,2.9,V,6,NA,Factory,3,False,L
+2149,Renault,Clio Williams,1993,Ren. Clio '93,Hot Hatch Icons,FRA,298,1.2,1.6,1.8,1.8,106,144,142,1013,2233,175,129,FWD,F,2,I,4,NA,Factory,3,False,R
+634,Renault,5 Turbo,1980,Ren. 5 Turbo '80,Hot Hatch Icons,FRA,316,1,1.8,1.9,2.4,117,159,157,970,2138,221,163,RWD,MR,1.4,I,4,T,Factory,3,False,L
+-1,Renault,#15 Equipe Renault Elf R.S. 01,1977,,Formula 70s,FRA,828,5,6.8,6.5,7.7,373,507,500,770,1698,372,274,RWD,MR,1.5,V,6,T,Factory,0,False,L
+3395,Renault,8 Gordini,1967,Ren. 8 G '67,Vintage Sport Compact,FRA,228,1,1.2,1,1.2,77,105,103,855,1885,117,86,RWD,R,1.3,I,4,NA,Factory,4,False,L
+3625,Rimac,Nevera,2021,Rimac Nevera,Modern Hypercars,CRO,886,9.4,4.1,4,4.3,1371,1864,1839,2150,4740,2358,1739,AWD,MR,0,E,0,EV,Factory,2,False,L
+3140,Rimac,Concept Two,2019,Rimac Concept 2,Modern Hypercars,CRO,908,8.9,4.2,4,10,1407,1913,1887,1950,4299,2298,1695,AWD,MR,0,E,0,EV,Factory,2,False,L
+3276,Saleen,S1,2018,Saleen S1 '18,Modern Sport GT,USA,694,4.4,4.3,4.3,5.1,336,457,451,1218,2685,599,442,RWD,MR,2.5,I,4,T,Factory,2,False,L
+3498,Saleen,S7 LM,2017,Saleen S7 LM,Modern Exotic GT,USA,860,9.2,5.4,5.4,7.2,746,1014,1000,1338,2950,1153,850,RWD,MR,7,V,8,TT,Factory,2,False,L
+432,Saleen,S7,2004,Saleen S7 '04,Exotic GT Classics,USA,753,7.8,4.3,4.5,5.9,429,583,575,1250,2756,773,570,RWD,MR,7,V,8,NA,Factory,2,False,L
+306,Shelby,Cobra 427 S/C,1965,Shelby Cobra 427,Vintage Le Mans Sportscars,USA,543,3.7,1.7,2.2,4.4,317,431,425,1147,2529,678,500,RWD,F,7,V,8,NA,Factory,2,True,L
+1155,Shelby,Cobra Daytona Coupe,1965,Shelby Daytona,Vintage Le Mans Sportscars,USA,619,5,3.1,3.7,3.5,291,396,390,1043,2299,462,341,RWD,F,4.7,V,8,NA,Race,2,False,L
+3079,Shelby,Monaco King Cobra,1963,Shelby Monaco KC,Vintage Le Mans Prototypes,USA,793,5.4,5.4,5.7,6.6,298,405,400,590,1301,450,332,RWD,MR,4.7,V,8,NA,Race,2,True,R
+2475,Spania GTA,GTA Spano,2016,GTA Spano,Modern Exotic GT,ESP,848,9.2,5.3,5.2,7.1,680,925,912,1450,3197,1220,900,RWD,MR,8,V,10,TT,Factory,2,False,L
+1562,SRT,Viper GTS,2013,Dodge Viper '13,Modern Sport GT,USA,710,6.7,3.7,3.9,5,477,649,640,1495,3296,813,600,RWD,F,8.4,V,10,NA,Factory,2,False,L
+3735,Subaru,BRZ,2022,SUBARU BRZ '22,Modern Sport Compact,JPN,428,2.4,2.4,2.7,2.7,170,231,228,1286,2835,249,184,RWD,F,2.4,F,4,NA,Factory,2,False,L
+3412,Subaru,STI S209,2019,SUBARU STI '19,Modern Sport Compact,JPN,547,3.4,3.1,3.1,3.3,254,345,341,1581,3486,447,330,AWD,F,2.5,F,4,T,Factory,4,False,L
+3804,Subaru,STI S209 Forza Edition,2019,SUBARU STI FE,Modern Sport Compact,JPN,600,3.2,4.1,4.2,3.5,272,370,365,1645,3627,479,353,AWD,F,2.5,F,4,T,Upgraded,4,False,L
+3272,Subaru,#1 Adrian Flux SUBARU Racing Levorg GT,2018,SUBARU #1 Levorg,Forza Touring Cars,JPN,673,3.1,5.4,5.5,3.7,261,355,350,1260,2778,400,295,RWD,F,2,F,4,T,Race,5,False,L
+2168,Subaru,WRX STI,2015,SUBARU WRX '15,Modern Sport Compact,JPN,507,3.6,2.5,2.6,3.1,227,309,304,1536,3386,393,290,AWD,F,2.5,F,4,T,Factory,4,False,L
+1655,Subaru,BRZ,2013,SUBARU BRZ '13,Modern Sport Compact,JPN,354,2,2.1,2.4,2.2,149,203,200,1254,2765,205,151,RWD,F,2,F,4,NA,Factory,2,False,L
+1323,Subaru,WRX STI,2011,Subaru WRX '11,Modern Sport Compact,JPN,473,3.7,2.2,2.3,2.8,227,309,304,1535,3384,393,290,AWD,F,2.5,F,4,T,Factory,4,False,L
+1060,Subaru,IMPREZA WRX STI,2008,SUBARU WRX '08,Modern Sport Compact,JPN,476,3,2.3,2.3,3.1,227,309,304,1540,3395,454,335,AWD,F,2.5,F,4,T,Factory,4,False,L
+364,Subaru,IMPREZA WRX STI,2004,SUBARU WRX '04,Early Sport Compact,JPN,490,3.3,2.2,2.2,3.3,207,281,278,1483,3269,393,290,AWD,F,2,F,4,T,Factory,4,False,R
+363,Subaru,Impreza 22B-STi Version,1998,SUBARU 22B '98,Early Sport Compact,JPN,511,2.6,2.7,2.8,3.2,206,280,276,1270,2800,360,266,AWD,F,2.2,F,4,T,Factory,2,False,R
+1382,Subaru,LEGACY RS,1990,SUBARU LEGACY 90,Early Sport Compact,JPN,323,2.2,1.4,1.6,1.9,162,220,217,1355,2987,270,199,AWD,F,2,F,4,T,Factory,4,False,R
+3402,Toyota,GR Supra,2020,Toyota Supra '20,Modern Sport Coupe,JPN,578,4,3.1,3.2,4,250,340,335,1541,3397,495,365,RWD,F,3,I,6,T,Factory,2,False,L
+3418,Toyota,86 TRD SE,2019,Toyota 86 '19,Modern Sport Compact,JPN,376,2,2.5,2.5,2.3,153,208,205,1287,2837,212,156,RWD,F,2,F,4,NA,Factory,2,False,L
+2302,Toyota,#8 Toyota Racing TS040 HYBRID,2014,Toyota #8 TS040,Forza P1,JPN,981,6.4,9.9,10,10,585,795,784,922,2033,999,737,AWD,MR,3.7,V,8,NA,Race,2,False,L
+295,Toyota,Celica Sport Specialty II,2003,Toyota Celica 03,Early Sport Compact,JPN,329,2.3,1.5,1.8,2,140,190,188,1120,2469,180,133,FWD,F,1.8,I,4,NA,Factory,2,False,R
+555,Toyota,#3 Toyota Motorsports GT-ONE TS020,1999,#3 Toyota GT-ONE,Early LMP,JPN,943,6.6,9.1,9.3,7.7,447,608,599,903,1991,649,479,RWD,MR,3.6,V,8,TT,Race,2,False,R
+461,Toyota,Supra RZ,1998,Toyota Supra '98,Sport GT Icons,JPN,470,4.5,2.2,2.4,3.1,239,325,321,1510,3329,427,315,RWD,F,3,I,6,TT,Factory,2,False,R
+398,Toyota,MR2 GT,1995,Toyota MR2 '95,Early Sport Compact,JPN,375,3.4,1.6,1.9,2.6,180,245,241,1205,2657,309,228,RWD,MR,2,I,4,T,Factory,2,False,R
+1034,Toyota,Celica GT-Four ST205,1994,Toyota Celica 94,Early Sport Compact,JPN,368,3.1,1.8,1.9,2.2,190,258,255,1440,3175,304,224,AWD,F,2,I,4,T,Factory,2,False,R
+2434,Toyota,#99 All American Racers Toyota Eagle MkIII,1992,#99 Toyota MkIII,GTP/C,JPN,981,5.6,10,10,8.3,493,670,661,835,1841,780,575,RWD,MR,2.1,I,4,T,Race,2,False,L
+1517,Toyota,Celica GT-Four RC ST185,1992,Toyota Celica 92,Early Sport Compact,JPN,339,2.7,1.6,1.9,1.9,173,235,232,1460,3219,304,224,AWD,F,2,I,4,T,Factory,2,False,R
+460,Toyota,Supra 2.0 GT,1992,Toyota Supra '92,Early Sport Compact,JPN,327,2.6,1.7,1.9,2.1,154,209,207,1510,3329,275,203,RWD,F,2,I,6,TT,Factory,2,False,R
+1395,Toyota,MR2 SC,1989,Toyota MR2 '89,Early Sport Compact,JPN,296,1.9,1.5,1.7,1.9,108,147,145,1188,2619,190,140,RWD,MR,1.6,I,4,DSC,Factory,2,False,L
+455,Toyota,Sprinter Trueno GT Apex,1985,Toyota AE86 '85,Hot Hatch Icons,JPN,270,1,1.3,1.5,1.5,95,129,127,950,2094,149,110,RWD,F,1.6,I,4,NA,Factory,2,False,R
+1592,Toyota,Celica GT,1974,Toyota Celica 74,Vintage Sport Compact,JPN,227,1,1.1,1.2,1.1,72,98,97,1085,2392,144,106,RWD,F,2,I,4,NA,Factory,2,False,L
+1537,Toyota,Corolla SR5,1974,Toyota Corolla74,Vintage Sport Compact,JPN,181,1,1.2,1,1,66,90,89,937,2066,123,91,RWD,F,1.6,I,4,NA,Factory,2,False,L
+247,Toyota,2000GT,1969,Toyota 2000 '69,Sport Coupe Icons,JPN,265,1.2,1,1.2,1.5,112,152,150,1157,2551,176,130,RWD,F,2,I,6,NA,Factory,2,False,R
+2993,TVR,Griffith,2018,TVR Grifith '18,Modern Sport GT,GBR,667,5.9,3.3,3.3,4.8,358,487,480,1200,2646,583,430,RWD,F,5,V,8,NA,Factory,2,False,R
+2569,Ultima,Evolution Coupe 1020,2015,Ultima 1020,Track Toys,GBR,903,9.1,5.4,5.8,7.2,761,1035,1021,950,2094,1247,920,RWD,MR,6.8,V,8,DSC,Factory,2,False,L
+3231,Vauxhall,#66 Power Maxed TAG Racing Astra,2017,#66 Astra,Forza Touring Cars,GBR,702,3.3,5.3,5.5,4.2,261,355,350,1260,2778,427,315,FWD,F,2,I,4,T,Race,5,False,L
+2427,Vauxhall,Corsa VXR,2016,Vaux Corsa '16,Modern Hot Hatch,GBR,354,1.8,2.1,2,2.3,151,205,202,1293,2851,279,206,FWD,F,1.6,I,4,T,Factory,3,False,R
+1490,Vauxhall,Astra VXR,2012,Vaux Astra '12,Modern Hot Hatch,GBR,447,3.1,2.6,2.4,2.7,206,280,276,1475,3252,397,293,FWD,F,2,I,4,T,Factory,3,False,R
+278,Vauxhall,Astra VXR,2006,Vaux Astra '06,Modern Hot Hatch,GBR,386,2.6,2,2,2.5,176,239,236,1388,3060,320,236,FWD,F,2,I,4,T,Factory,3,False,R
+291,Vauxhall,Lotus Carlton,1990,Vaux Carlton '90,Sport Touring Classics,GBR,499,4.8,2.1,2.3,3.3,283,385,380,1652,3642,568,419,RWD,F,3.6,I,6,TT,Factory,4,False,R
+3533,Volkswagen,Golf R,2022,VW Golf R '22,Modern Hot Hatch,GER,489,4.2,2.6,2.5,2.7,320,435,429,1550,3417,380,280,AWD,F,2,I,4,T,Factory,5,False,L
+3413,Volkswagen,Golf R,2021,VW Golf R '21,Modern Hot Hatch,GER,488,3.6,2.4,2.5,2.8,215,292,288,1497,3300,380,280,AWD,F,2,I,4,T,Factory,5,False,L
+3161,Volkswagen,#22 Experion Racing Golf GTI,2018,VW #22 Golf GTI,Forza Touring Cars,GER,704,2.7,5.4,5.5,4.6,257,349,345,1245,2745,420,310,FWD,F,2,I,4,T,Race,5,False,L
+2142,Volkswagen,Golf R,2014,VW Golf R '14,Modern Hot Hatch,GER,483,3.5,2.3,2.3,2.9,221,300,296,1476,3254,384,283,AWD,F,2,I,4,T,Factory,3,False,L
+354,Volkswagen,Golf R32,2003,VW Golf R32 '03,Modern Hot Hatch,GER,395,3.1,2,2.1,2.4,180,245,241,1477,3256,320,236,AWD,F,3.2,VR,6,NA,Factory,3,False,L
+1383,Volkswagen,GTI VR6 Mk3,1998,VW GTI Mk3 '98,Hot Hatch Icons,GER,302,1.9,1.5,1.7,2,128,174,172,1270,2800,235,173,FWD,F,2.8,VR,6,NA,Factory,3,False,L
+309,Volkswagen,Corrado VR6,1995,VW Corrado '95,Hot Hatch Icons,GER,340,2.5,1.6,1.9,2,133,181,178,1240,2734,240,177,FWD,F,2.8,VR,6,NA,Factory,3,False,L
+353,Volkswagen,Golf GTI 16v Mk2,1992,VW GTI Mk2 '92,Hot Hatch Icons,GER,286,1,1.4,1.6,1.7,104,141,139,1100,2425,163,120,FWD,F,1.8,I,4,NA,Factory,3,False,L
+1612,Volkswagen,Scirocco 16v,1988,VW Scirocco '88,Hot Hatch Icons,GER,263,1,1.3,1.5,1.3,92,125,123,1073,2366,163,120,FWD,F,1.8,I,4,NA,Factory,3,False,L
+2995,Volkswagen,Golf GTI,1983,VW GTI Mk1 '83,Hot Hatch Icons,GER,264,1,1.3,1.5,1.4,84,114,113,866,1909,148,109,FWD,F,1.8,I,4,NA,Factory,3,False,L
+1380,Volkswagen,Scirocco S,1981,VW Scirocco '81,Hot Hatch Icons,GER,222,1,1,1.2,1,55,75,74,914,2015,121,89,FWD,F,1.7,I,4,NA,Factory,3,False,L
+1387,Volvo,850 R,1997,Volvo 850 R '97,Sport Touring Classics,SWE,332,2.8,1.6,1.8,2.3,179,243,240,1465,3230,300,221,FWD,F,2.3,I,5,T,Factory,5,False,L
+2844,VUHL,05RR,2017,VUHL 05RR,Track Toys,MEX,785,3.9,5.2,5.2,7,287,390,385,725,1598,499,368,RWD,MR,2.3,I,4,T,Factory,2,True,L
+3547,Xpeng,P7,2020,Xpeng P7 '20,Modern Sport Touring,CHN,558,1,2.5,2.6,2.7,316,430,424,2060,4542,655,483,AWD,R,0,E,0,EV,Factory,4,False,L
+3212,Zenvo,TSR-S,2019,Zenvo TSR-S,Modern Hypercars,DEN,868,8.9,5.4,5.2,7.6,878,1194,1177,1547,3411,1100,811,RWD,MR,5.8,V,8,DSC,Factory,2,False,L
