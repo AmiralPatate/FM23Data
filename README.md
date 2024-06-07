@@ -4,7 +4,7 @@ This is data and tools for Forza Motorsport 2023.
 
 The main data is the `modelexport.csv` file. It contains a bunch of information about models in game, compiled into one file. See below for more details.
 
-StandaloneToolbox is a small program that does a few useful things. It uses a different data format for models, and contains track data. You don't need worry about it.
+StandaloneToolbox is a small program that does a few useful things. It uses a different data format for models, and contains track data. But you don't need worry about it all that.
 
 ----
 
