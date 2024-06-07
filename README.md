@@ -8,41 +8,24 @@ Data sources
 
 This data is as accurate as it is.
 
-Due to unit conversion and rounding, some values for power, mass and torque may be off by one from in-game data.
-
 Some models may be missing as I manually add them as they come.
 
-All comma-separated values use `,` as separator, as it should be
+Due to unit conversion and rounding, some values for power, mass and torque may be off by one from in-game data.
 
-All array types use `;` as separator
-
-All numeric types use `.` as decimal separator
-
-A few models are given multiple MakeID, the first MakeID is always the in-game make. Extra MakeIDs can be ignored if you don't agree with it.
-
-ModelExtra and Tags are IRL/user-defined data, can be ignored if you don't agree with it.
+All numeric types use `.` as decimal separator.
 
 ## CSV data format
 
 ### countries.csv
-
 string CountryCode, string Name
 
-### divs.csv
-
-int DivisionID, string Name
-
-### makes.csv
-
-int MakeID, string Name, string CountryCode
-
-### models.csv
-
-int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nickname, string ModelExtra, int DivisionID, string[] Tags, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Mass_kg, int Torque_Nm, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors, bool IsTopless, enum DriverPosition [L,C,R]
+### modelexport.csv
+int CarOrdinal, string Make, string Name, int Year, string Nickname, string Division, string CountryCode, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Mass_kg, int Torque_Nm, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors, bool IsTopless, enum DriverPosition [L,C,R]
 
 ### track.csv
-
 int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, string TrackName, double Length_km
+
+---
 
 ## Enum details
 
@@ -85,7 +68,5 @@ int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, s
 - C: Centre
 - R: Right
 
-
 ## Unit conversion
-
 Unit conversion algorithm provided as C# extension class for power, mass, torque, and power-to-mass ratio.
