@@ -10,6 +10,8 @@ StandaloneToolbox is a small program that does a few useful things, as detailed 
 
 # Main data
 
+[`modelexport.csv`](https://github.com/AmiralPatate/FM23Data/blob/main/modelexport.csv)
+
 Data sources
 - [Kudos Prime](https://www.kudosprime.com/fm/carlist.php)
 - [Forza Fandom wiki](https://forza.fandom.com/wiki/Forza_Motorsport_(2023)/Cars)
