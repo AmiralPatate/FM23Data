@@ -37,7 +37,7 @@ int CarOrdinal, string Make, string Name, int Year, string Nickname, string Divi
 
 # Standalone Toolbox
 
-C# .NET Framework 4.8 executable with 4 tools:
+C# .NET Framework 4.8 executable with 4 functions:
 
 - **Track**: Pick a track or get a random one. Estimates the number of laps for a variety of distances and race times. Requires `tracks.csv` and `country.csv`.
   
