@@ -35,7 +35,7 @@ int CarOrdinal, string Make, string Name, int Year, string Nickname, string Divi
 
 ## Comparer.tsv
 
-Shows the differences in values between the sources. The intended use is to see where the data differs and manually double check which is correct. Known limitations: If car name is too different, there's no match and no comparison; Unit conversion;
+Shows the differences in values between the sources. The intended use is to see where the data differs and manually double check which is correct. Known limitations: If car name is too different, there's no match and no comparison; Unit conversion.
 
 ---
 
