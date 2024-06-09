@@ -49,7 +49,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1971 AMC Javelin AMX                                               	Mass	1563	3445 lb | 1563 kg	3446 lb | 1563 kg	
 1971 AMC Javelin AMX                                               	Torque	583	430 ftlb | 583 Nm		
 1971 AMC Javelin AMX                                               	Doors	2	1		
-1970 AMC Rebel 'The Machine'                                       	Model	Rebel 'The Machine'	Rebel "The Machine"	Rebel 'The Machine'	
+1970 AMC Rebel 'The Machine'                                       	Model	Rebel 'The Machine'	Rebel _The Machine_	Rebel 'The Machine'	
 1970 AMC Rebel 'The Machine'                                       	Division	Street Drag Racers	Street Drag Racers	Street Drag Cars	
 1970 AMC Rebel 'The Machine'                                       	Power	345	340 hp | 254 kW	340 hp | 254 kW	
 1970 AMC Rebel 'The Machine'                                       	Mass	1656	3650 lb | 1656 kg	3651 lb | 1656 kg	
@@ -599,10 +599,10 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2009 Chevrolet Corvette ZR1 (C6)                                   	Mass	1520	3350 lb | 1520 kg	3350 lb | 1520 kg	
 2009 Chevrolet Corvette ZR1 (C6)                                   	Torque	819	604 ftlb | 819 Nm		
 2009 Chevrolet Corvette ZR1 (C6)                                   	Doors	2	1		
-2002 Chevrolet Camaro 35th Anniversary Super Sport ("Catfish")     	Power	329	325 hp | 242 kW	355 hp | 265 kW	
-2002 Chevrolet Camaro 35th Anniversary Super Sport ("Catfish")     	Mass	1612	3554 lb | 1612 kg	3310 lb | 1501 kg	
-2002 Chevrolet Camaro 35th Anniversary Super Sport ("Catfish")     	Torque	475	350 ftlb | 475 Nm		
-2002 Chevrolet Camaro 35th Anniversary Super Sport ("Catfish")     	Doors	2	1		
+2002 Chevrolet Camaro 35th Anniversary Super Sport (_Catfish_)     	Power	329	325 hp | 242 kW	355 hp | 265 kW	
+2002 Chevrolet Camaro 35th Anniversary Super Sport (_Catfish_)     	Mass	1612	3554 lb | 1612 kg	3310 lb | 1501 kg	
+2002 Chevrolet Camaro 35th Anniversary Super Sport (_Catfish_)     	Torque	475	350 ftlb | 475 Nm		
+2002 Chevrolet Camaro 35th Anniversary Super Sport (_Catfish_)     	Doors	2	1		
 2002 Chevrolet Corvette Z06 (C5)                                   	Power	410	405 hp | 302 kW	405 hp | 302 kW	
 2002 Chevrolet Corvette Z06 (C5)                                   	Mass	1414	3118 lb | 1414 kg	3120 lb | 1415 kg	
 2002 Chevrolet Corvette Z06 (C5)                                   	Torque	542	400 ftlb | 542 Nm		
@@ -1060,10 +1060,10 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1999 Ford Racing Puma                                              	Mass	1174	2588 lb | 1174 kg	2588 lb | 1174 kg	
 1999 Ford Racing Puma                                              	Torque	161	119 ftlb | 161 Nm		
 1999 Ford Racing Puma                                              	Doors	3	1		
-1993 Ford SVT Cobra R ("Foxbody")                                  	Power	237	235 hp | 175 kW	235 hp | 175 kW	
-1993 Ford SVT Cobra R ("Foxbody")                                  	Mass	1417	3125 lb | 1417 kg	3125 lb | 1417 kg	
-1993 Ford SVT Cobra R ("Foxbody")                                  	Torque	380	280 ftlb | 380 Nm		
-1993 Ford SVT Cobra R ("Foxbody")                                  	Doors	2	1		
+1993 Ford SVT Cobra R (_Foxbody_)                                  	Power	237	235 hp | 175 kW	235 hp | 175 kW	
+1993 Ford SVT Cobra R (_Foxbody_)                                  	Mass	1417	3125 lb | 1417 kg	3125 lb | 1417 kg	
+1993 Ford SVT Cobra R (_Foxbody_)                                  	Torque	380	280 ftlb | 380 Nm		
+1993 Ford SVT Cobra R (_Foxbody_)                                  	Doors	2	1		
 1992 Ford Escort RS Cosworth (MkV)                                 	Power	227	224 hp | 167 kW	224 hp | 167 kW	
 1992 Ford Escort RS Cosworth (MkV)                                 	Mass	1275	2811 lb | 1275 kg	2811 lb | 1275 kg	
 1992 Ford Escort RS Cosworth (MkV)                                 	Torque	304	224 ftlb | 304 Nm		
@@ -1072,26 +1072,26 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1992 Ford Falcon GT                                                	Mass	1647	3631 lb | 1647 kg	3653 lb | 1657 kg	
 1992 Ford Falcon GT                                                	Torque	420	310 ftlb | 420 Nm		
 1992 Ford Falcon GT                                                	Doors	4	1		
-1991 Ford #15 Roush Racing Whistler Mustang ("Foxbody")            	Power	730	720 hp | 537 kW	720 hp | 537 kW	
-1991 Ford #15 Roush Racing Whistler Mustang ("Foxbody")            	Mass	1247	2748 lb | 1246 kg	2749 lb | 1247 kg	
-1991 Ford #15 Roush Racing Whistler Mustang ("Foxbody")            	Torque	740	545 ftlb | 739 Nm		
-1991 Ford #15 Roush Racing Whistler Mustang ("Foxbody")            	Doors	2	1		
+1991 Ford #15 Roush Racing Whistler Mustang (_Foxbody_)            	Power	730	720 hp | 537 kW	720 hp | 537 kW	
+1991 Ford #15 Roush Racing Whistler Mustang (_Foxbody_)            	Mass	1247	2748 lb | 1246 kg	2749 lb | 1247 kg	
+1991 Ford #15 Roush Racing Whistler Mustang (_Foxbody_)            	Torque	740	545 ftlb | 739 Nm		
+1991 Ford #15 Roush Racing Whistler Mustang (_Foxbody_)            	Doors	2	1		
 1987 Ford Sierra Cosworth RS500                                    	Power	227	224 hp | 167 kW	224 hp | 167 kW	
 1987 Ford Sierra Cosworth RS500                                    	Mass	1240	2734 lb | 1240 kg	2734 lb | 1240 kg	
 1987 Ford Sierra Cosworth RS500                                    	Torque	279	206 ftlb | 279 Nm		
 1987 Ford Sierra Cosworth RS500                                    	Doors	2	1		
-1986 Ford Escort RS Turbo (MkIII "Erika")                          	Power	131	130 hp | 97 kW	130 hp | 97 kW	
-1986 Ford Escort RS Turbo (MkIII "Erika")                          	Mass	977	2154 lb | 977 kg	2154 lb | 977 kg	
-1986 Ford Escort RS Turbo (MkIII "Erika")                          	Torque	180	133 ftlb | 180 Nm		
-1986 Ford Escort RS Turbo (MkIII "Erika")                          	Doors	3	1		
-1986 Ford Mustang SVO ("Foxbody")                                  	Power	202	200 hp | 149 kW	200 hp | 149 kW	
-1986 Ford Mustang SVO ("Foxbody")                                  	Mass	1373	3028 lb | 1373 kg	3027 lb | 1373 kg	
-1986 Ford Mustang SVO ("Foxbody")                                  	Torque	325	240 ftlb | 325 Nm		
-1986 Ford Mustang SVO ("Foxbody")                                  	Doors	3	1		
-1982 Ford #6 Zakspeed Roush Mustang IMSA GT ("Foxbody")            	Power	537	530 hp | 395 kW	523 hp | 390 kW	
-1982 Ford #6 Zakspeed Roush Mustang IMSA GT ("Foxbody")            	Mass	898	1980 lb | 898 kg	1943 lb | 881 kg	
-1982 Ford #6 Zakspeed Roush Mustang IMSA GT ("Foxbody")            	Torque	448	330 ftlb | 447 Nm		
-1982 Ford #6 Zakspeed Roush Mustang IMSA GT ("Foxbody")            	Doors	2	1		
+1986 Ford Escort RS Turbo (MkIII _Erika_)                          	Power	131	130 hp | 97 kW	130 hp | 97 kW	
+1986 Ford Escort RS Turbo (MkIII _Erika_)                          	Mass	977	2154 lb | 977 kg	2154 lb | 977 kg	
+1986 Ford Escort RS Turbo (MkIII _Erika_)                          	Torque	180	133 ftlb | 180 Nm		
+1986 Ford Escort RS Turbo (MkIII _Erika_)                          	Doors	3	1		
+1986 Ford Mustang SVO (_Foxbody_)                                  	Power	202	200 hp | 149 kW	200 hp | 149 kW	
+1986 Ford Mustang SVO (_Foxbody_)                                  	Mass	1373	3028 lb | 1373 kg	3027 lb | 1373 kg	
+1986 Ford Mustang SVO (_Foxbody_)                                  	Torque	325	240 ftlb | 325 Nm		
+1986 Ford Mustang SVO (_Foxbody_)                                  	Doors	3	1		
+1982 Ford #6 Zakspeed Roush Mustang IMSA GT (_Foxbody_)            	Power	537	530 hp | 395 kW	523 hp | 390 kW	
+1982 Ford #6 Zakspeed Roush Mustang IMSA GT (_Foxbody_)            	Mass	898	1980 lb | 898 kg	1943 lb | 881 kg	
+1982 Ford #6 Zakspeed Roush Mustang IMSA GT (_Foxbody_)            	Torque	448	330 ftlb | 447 Nm		
+1982 Ford #6 Zakspeed Roush Mustang IMSA GT (_Foxbody_)            	Doors	2	1		
 1981 Ford #2 Zakspeed Racing Capri Turbo                           	Nickname	#2 Ford Capri	#2 Ford Capri	Ford #2 Capri	
 1981 Ford #2 Zakspeed Racing Capri Turbo                           	Power	501	495 hp | 369 kW	495 hp | 369 kW	
 1981 Ford #2 Zakspeed Racing Capri Turbo                           	Mass	895	1973 lb | 895 kg	1955 lb | 887 kg	
@@ -1976,11 +1976,11 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1993 Nissan 240SX SE (S13)                                         	Mass	1322	2915 lb | 1322 kg	2915 lb | 1322 kg	
 1993 Nissan 240SX SE (S13)                                         	Torque	217	160 ftlb | 217 Nm		
 1993 Nissan 240SX SE (S13)                                         	Doors	2	1		
-1993 Nissan Skyline GT-R V-Spec (R32 "Godzilla")                   	Power	280	276 hp | 206 kW	320 hp | 239 kW	
-1993 Nissan Skyline GT-R V-Spec (R32 "Godzilla")                   	Mass	1500	3307 lb | 1500 kg	3307 lb | 1500 kg	
-1993 Nissan Skyline GT-R V-Spec (R32 "Godzilla")                   	Torque	354	261 ftlb | 354 Nm		
-1993 Nissan Skyline GT-R V-Spec (R32 "Godzilla")                   	Drive	AWD	AWD	AWD	RWD
-1993 Nissan Skyline GT-R V-Spec (R32 "Godzilla")                   	Doors	2	1		
+1993 Nissan Skyline GT-R V-Spec (R32 _Godzilla_)                   	Power	280	276 hp | 206 kW	320 hp | 239 kW	
+1993 Nissan Skyline GT-R V-Spec (R32 _Godzilla_)                   	Mass	1500	3307 lb | 1500 kg	3307 lb | 1500 kg	
+1993 Nissan Skyline GT-R V-Spec (R32 _Godzilla_)                   	Torque	354	261 ftlb | 354 Nm		
+1993 Nissan Skyline GT-R V-Spec (R32 _Godzilla_)                   	Drive	AWD	AWD	AWD	RWD
+1993 Nissan Skyline GT-R V-Spec (R32 _Godzilla_)                   	Doors	2	1		
 1992 Nissan Silvia CLUB K's (S13)                                  	Power	205	202 hp | 151 kW	202 hp | 151 kW	
 1992 Nissan Silvia CLUB K's (S13)                                  	Mass	1150	2535 lb | 1150 kg	2535 lb | 1150 kg	
 1992 Nissan Silvia CLUB K's (S13)                                  	Torque	274	202 ftlb | 274 Nm		
@@ -2023,14 +2023,14 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1983 Nissan #23 Nissan Motorsports Silvia Super Silhouette         	Mass	1050	2315 lb | 1050 kg	2315 lb | 1050 kg	
 1983 Nissan #23 Nissan Motorsports Silvia Super Silhouette         	Torque	538	397 ftlb | 538 Nm		
 1983 Nissan #23 Nissan Motorsports Silvia Super Silhouette         	Doors	2	1		
-1973 Nissan Skyline H/T 2000GT-R (KPGC110 "Kenmeri")               	Power	160	158 hp | 118 kW	158 hp | 118 kW	
-1973 Nissan Skyline H/T 2000GT-R (KPGC110 "Kenmeri")               	Mass	1145	2524 lb | 1145 kg	2524 lb | 1145 kg	
-1973 Nissan Skyline H/T 2000GT-R (KPGC110 "Kenmeri")               	Torque	176	130 ftlb | 176 Nm		
-1973 Nissan Skyline H/T 2000GT-R (KPGC110 "Kenmeri")               	Doors	2	1		
-1971 Nissan Skyline 2000GT-R (PGC10 "Hakosuka")                    	Power	161	160 hp | 119 kW	160 hp | 119 kW	
-1971 Nissan Skyline 2000GT-R (PGC10 "Hakosuka")                    	Mass	1100	2425 lb | 1100 kg	2425 lb | 1100 kg	
-1971 Nissan Skyline 2000GT-R (PGC10 "Hakosuka")                    	Torque	180	133 ftlb | 180 Nm		
-1971 Nissan Skyline 2000GT-R (PGC10 "Hakosuka")                    	Doors	2	1		
+1973 Nissan Skyline H/T 2000GT-R (KPGC110 _Kenmeri_)               	Power	160	158 hp | 118 kW	158 hp | 118 kW	
+1973 Nissan Skyline H/T 2000GT-R (KPGC110 _Kenmeri_)               	Mass	1145	2524 lb | 1145 kg	2524 lb | 1145 kg	
+1973 Nissan Skyline H/T 2000GT-R (KPGC110 _Kenmeri_)               	Torque	176	130 ftlb | 176 Nm		
+1973 Nissan Skyline H/T 2000GT-R (KPGC110 _Kenmeri_)               	Doors	2	1		
+1971 Nissan Skyline 2000GT-R (PGC10 _Hakosuka_)                    	Power	161	160 hp | 119 kW	160 hp | 119 kW	
+1971 Nissan Skyline 2000GT-R (PGC10 _Hakosuka_)                    	Mass	1100	2425 lb | 1100 kg	2425 lb | 1100 kg	
+1971 Nissan Skyline 2000GT-R (PGC10 _Hakosuka_)                    	Torque	180	133 ftlb | 180 Nm		
+1971 Nissan Skyline 2000GT-R (PGC10 _Hakosuka_)                    	Doors	2	1		
 1969 Nissan #21 Nissan Racing R382                                 	Nickname	#21 Nissan R382	#21 Nissan R382	Nissan #21 R382	
 1969 Nissan #21 Nissan Racing R382                                 	Power	599	592 hp | 441 kW	598 hp | 446 kW	
 1969 Nissan #21 Nissan Racing R382                                 	Mass	966	2129 lb | 966 kg	1727 lb | 783 kg	
