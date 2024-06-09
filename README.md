@@ -33,6 +33,10 @@ All array types use `;` as separator.
 ### modelexport.csv
 int CarOrdinal, string Make, string Name, int Year, string Nickname, string Division, string CountryCode, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Power_PS, int Power_hp, int Mass_kg, int Mass_lb, int Torque_Nm, int Torque_ftlb, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors, bool IsTopless, enum DriverPosition [L,C,R]
 
+## Comparer.tsv
+
+Shows the differences in values between the sources. The intended use is to see where the data differs and manually double check which is correct. Known limitations: If car name is too different, there's no match and no comparison; Unit conversion;
+
 ---
 
 # Standalone Toolbox
