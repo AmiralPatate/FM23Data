@@ -15,6 +15,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2017 Acura NSX                                                     	Mass	1725	3803 lb | 1725 kg	3803 lb | 1725 kg	
 2017 Acura NSX                                                     	Torque	845	623 ftlb | 845 Nm		
 2017 Acura NSX                                                     	Doors	2	1		
+2001 Acura Integra Type R                                          	Model	Integra Type R	Integra Type R	Integra Type R	Integra Type-R
 2001 Acura Integra Type R                                          	Power	197	195 hp | 145 kW	195 hp | 145 kW	
 2001 Acura Integra Type R                                          	Mass	1197	2639 lb | 1197 kg	2639 lb | 1197 kg	
 2001 Acura Integra Type R                                          	Torque	176	130 ftlb | 176 Nm		
@@ -49,8 +50,8 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1971 AMC Javelin AMX                                               	Mass	1563	3445 lb | 1563 kg	3446 lb | 1563 kg	
 1971 AMC Javelin AMX                                               	Torque	583	430 ftlb | 583 Nm		
 1971 AMC Javelin AMX                                               	Doors	2	1		
-1970 AMC Rebel 'The Machine'                                       	Model	Rebel 'The Machine'	Rebel _The Machine_	Rebel 'The Machine'	
-1970 AMC Rebel 'The Machine'                                       	Division	Street Drag Racers	Street Drag Racers	Street Drag Cars	
+1970 AMC Rebel 'The Machine'                                       	Model	Rebel 'The Machine'	Rebel _The Machine_	Rebel 'The Machine'	Rebel _The Machine_
+1970 AMC Rebel 'The Machine'                                       	Division	Street Drag Racers	Street Drag Racers	Street Drag Cars	Street Drag Cars
 1970 AMC Rebel 'The Machine'                                       	Power	345	340 hp | 254 kW	340 hp | 254 kW	
 1970 AMC Rebel 'The Machine'                                       	Mass	1656	3650 lb | 1656 kg	3651 lb | 1656 kg	
 1970 AMC Rebel 'The Machine'                                       	Torque	579	427 ftlb | 579 Nm		
@@ -89,6 +90,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2017 Aston Martin #7 Aston Martin Racing V12 Vantage GT3           	Mass	1335	2943 lb | 1335 kg	2950 lb | 1338 kg	
 2017 Aston Martin #7 Aston Martin Racing V12 Vantage GT3           	Torque	700	516 ftlb | 700 Nm		
 2017 Aston Martin #7 Aston Martin Racing V12 Vantage GT3           	Doors	2	1		
+2017 Aston Martin Vanquish Zagato Coupe                            	Model	Vanquish Zagato Coupe	Vanquish Zagato Coupe	Vanquish Zagato Coupe	Vanquish Zagato Coupé
 2017 Aston Martin Vanquish Zagato Coupe                            	Power	603	595 hp | 444 kW	595 hp | 444 kW	
 2017 Aston Martin Vanquish Zagato Coupe                            	Mass	1765	3891 lb | 1765 kg	3891 lb | 1765 kg	
 2017 Aston Martin Vanquish Zagato Coupe                            	Torque	629	464 ftlb | 629 Nm		
@@ -186,6 +188,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2018 Audi RS 4 Avant (B9/8W)                                       	Mass	1790	3946 lb | 1790 kg	3946 lb | 1790 kg	
 2018 Audi RS 4 Avant (B9/8W)                                       	Torque	600	442 ftlb | 599 Nm		
 2018 Audi RS 4 Avant (B9/8W)                                       	Doors	5	1		
+2018 Audi RS 5 Coupe (F5)                                          	Model	RS 5 Coupe	RS 5 Coupe	RS 5 Coupe	RS 5 Coupé
 2018 Audi RS 5 Coupe (F5)                                          	Power	450	444 hp | 331 kW	444 hp | 331 kW	
 2018 Audi RS 5 Coupe (F5)                                          	Mass	1810	3990 lb | 1810 kg	3990 lb | 1810 kg	
 2018 Audi RS 5 Coupe (F5)                                          	Torque	601	443 ftlb | 601 Nm		
@@ -255,8 +258,9 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1989 Audi #4 Audi 90 quattro IMSA GTO                              	Mass	1206	2659 lb | 1206 kg	2660 lb | 1207 kg	
 1989 Audi #4 Audi 90 quattro IMSA GTO                              	Torque	720	531 ftlb | 720 Nm		
 1989 Audi #4 Audi 90 quattro IMSA GTO                              	Doors	4	1		
-1984 Audi Sport quattro (B2/85)                                    	Power	309	306 hp | 228 kW	 hp | NaN kW	
-1984 Audi Sport quattro (B2/85)                                    	Mass	1300	2866 lb | 1300 kg	 lb | NaN kg	
+1984 Audi Sport quattro (B2/85)                                    	Year	1984	1984	1983	1984 
+1984 Audi Sport quattro (B2/85)                                    	Power	309	306 hp | 228 kW	306 hp | 228 kW	
+1984 Audi Sport quattro (B2/85)                                    	Mass	1300	2866 lb | 1300 kg	2807 lb | 1273 kg	
 1984 Audi Sport quattro (B2/85)                                    	Torque	351	258 ftlb | 350 Nm		
 1984 Audi Sport quattro (B2/85)                                    	Doors	2	1		
 1965 Austin-Healey 3000 MkIII                                      	Power	149	147 hp | 110 kW	148 hp | 110 kW	
@@ -306,6 +310,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2020 BMW M2 Competition Coupé (F87)                                	Mass	1658	3655 lb | 1658 kg	3655 lb | 1658 kg	
 2020 BMW M2 Competition Coupé (F87)                                	Torque	550	405 ftlb | 549 Nm		
 2020 BMW M2 Competition Coupé (F87)                                	Doors	2	1		
+2020 BMW M8 Competition Coupé (F92)                                	Model	M8 Competition Coupé	M8 Competition Coupé	M8 Competition Coupé	M8 Competition Coupe
 2020 BMW M8 Competition Coupé (F92)                                	Power	625	617 hp | 460 kW	617 hp | 460 kW	
 2020 BMW M8 Competition Coupé (F92)                                	Mass	1885	4156 lb | 1885 kg	4354 lb | 1975 kg	
 2020 BMW M8 Competition Coupé (F92)                                	Torque	750	553 ftlb | 750 Nm		
@@ -345,6 +350,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2012 BMW M5 (F10)                                                  	Mass	1870	4123 lb | 1870 kg	4123 lb | 1870 kg	
 2012 BMW M5 (F10)                                                  	Torque	679	501 ftlb | 679 Nm		
 2012 BMW M5 (F10)                                                  	Doors	5	1		
+2011 BMW 1 Series M Coupé                                          	Model	1 Series M Coupé	1 Series M Coupé	1 Series M Coupé	1 Series M Coupe
 2011 BMW 1 Series M Coupé                                          	Power	339	335 hp | 250 kW	335 hp | 250 kW	
 2011 BMW 1 Series M Coupé                                          	Mass	1495	3296 lb | 1495 kg	3296 lb | 1495 kg	
 2011 BMW 1 Series M Coupé                                          	Torque	450	332 ftlb | 450 Nm		
@@ -544,8 +550,9 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	Mass	1623	3577 lb | 1622 kg	3577 lb | 1622 kg	
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	Torque	637	469 ftlb | 636 Nm		
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	Doors	2	1		
-2020 Chevrolet Corvette Stingray Coupe Forza Edition (C8)          	Power	501	495 hp | 369 kW	 hp | NaN kW	
-2020 Chevrolet Corvette Stingray Coupe Forza Edition (C8)          	Mass	1662	3665 lb | 1662 kg	 lb | NaN kg	
+2020 Chevrolet Corvette Stingray Coupe Forza Edition (C8)          	Model	Corvette Stingray Coupe Forza Edition	Corvette Stingray Coupe Forza Edition	Stingray Coupe Forza Edition	
+2020 Chevrolet Corvette Stingray Coupe Forza Edition (C8)          	Power	501	495 hp | 369 kW	495 hp | 369 kW	
+2020 Chevrolet Corvette Stingray Coupe Forza Edition (C8)          	Mass	1662	3665 lb | 1662 kg	3665 lb | 1662 kg	
 2020 Chevrolet Corvette Stingray Coupe Forza Edition (C8)          	Torque	636	469 ftlb | 636 Nm		
 2020 Chevrolet Corvette Stingray Coupe Forza Edition (C8)          	Doors	2	1		
 2019 Chevrolet Corvette ZR1 (C7)                                   	Power	765	755 hp | 563 kW	755 hp | 563 kW	
@@ -569,8 +576,16 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2018 Chevrolet Camaro ZL1 1LE Forza Edition                        	Mass	1775	3913 lb | 1775 kg	 lb | NaN kg	
 2018 Chevrolet Camaro ZL1 1LE Forza Edition                        	Torque	923	681 ftlb | 923 Nm		
 2018 Chevrolet Camaro ZL1 1LE Forza Edition                        	Doors	2	1		
-2017 Chevrolet Camaro ZL1                                          	Power	659	650 hp | 485 kW	650 hp | 485 kW	
-2017 Chevrolet Camaro ZL1                                          	Mass	1761	3883 lb | 1761 kg	3883 lb | 1761 kg	
+2017 Chevrolet Camaro ZL1                                          	Year	2017	2017	2018	2017 
+2017 Chevrolet Camaro ZL1                                          	Model	Camaro ZL1	Camaro ZL1	Camaro ZL1 Forza Edition	Camaro ZL1
+2017 Chevrolet Camaro ZL1                                          	Nickname	Chev. Camaro '17	Chev. Camaro '17	Chev. Camaro FE	
+2017 Chevrolet Camaro ZL1                                          	PI	646	646	700	646
+2017 Chevrolet Camaro ZL1                                          	S	5.8	5.8	4.9	5.8
+2017 Chevrolet Camaro ZL1                                          	B	3.5	3.5	4.6	3.5
+2017 Chevrolet Camaro ZL1                                          	H	3.3	3.3	4.5	3.3
+2017 Chevrolet Camaro ZL1                                          	A	4.5	4.5	4.6	4.5
+2017 Chevrolet Camaro ZL1                                          	Power	659	650 hp | 485 kW	681 hp | 508 kW	
+2017 Chevrolet Camaro ZL1                                          	Mass	1761	3883 lb | 1761 kg	3913 lb | 1775 kg	
 2017 Chevrolet Camaro ZL1                                          	Torque	881	650 ftlb | 881 Nm		
 2017 Chevrolet Camaro ZL1                                          	Doors	2	1		
 2016 Chevrolet Camaro Super Sport                                  	Power	460	455 hp | 339 kW	496 hp | 370 kW	
@@ -702,8 +717,10 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2013 Dodge Dart GT                                                 	Mass	1495	3296 lb | 1495 kg	3040 lb | 1379 kg	
 2013 Dodge Dart GT                                                 	Torque	232	171 ftlb | 232 Nm		
 2013 Dodge Dart GT                                                 	Doors	4	1		
-2012 Dodge Challenger SRT8                                         	Power	475	470 hp | 350 kW	 hp | NaN kW	
-2012 Dodge Challenger SRT8                                         	Mass	1887	4160 lb | 1887 kg	 lb | NaN kg	
+2012 Dodge Challenger SRT8                                         	Model	Challenger SRT8	Challenger SRT8	Challenger SRT8 392	Challenger SRT8 392
+2012 Dodge Challenger SRT8                                         	B	2.7	2.7	2.1	2.7
+2012 Dodge Challenger SRT8                                         	Power	475	470 hp | 350 kW	540 hp | 403 kW	
+2012 Dodge Challenger SRT8                                         	Mass	1887	4160 lb | 1887 kg	3817 lb | 1731 kg	
 2012 Dodge Challenger SRT8                                         	Torque	637	470 ftlb | 637 Nm		
 2012 Dodge Challenger SRT8                                         	Doors	2	1		
 2008 Dodge Viper SRT10 ACR (ZB II)                                 	Power	607	600 hp | 447 kW	600 hp | 447 kW	
@@ -1044,6 +1061,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2009 Ford Focus RS (C307 MkII)                                     	Mass	1468	3236 lb | 1468 kg	3236 lb | 1468 kg	
 2009 Ford Focus RS (C307 MkII)                                     	Torque	431	318 ftlb | 431 Nm		
 2009 Ford Focus RS (C307 MkII)                                     	Doors	3	1		
+2005 Ford GT                                                       	Model	Ford GT	Ford GT	Ford GT	GT
 2005 Ford GT                                                       	Power	557	550 hp | 410 kW	550 hp | 410 kW	
 2005 Ford GT                                                       	Mass	1538	3390 lb | 1538 kg	3390 lb | 1538 kg	
 2005 Ford GT                                                       	Torque	678	500 ftlb | 678 Nm		
@@ -1121,9 +1139,11 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1968 Ford Mustang GT 2+2 Fastback                                  	Mass	1609	3548 lb | 1609 kg	3548 lb | 1609 kg	
 1968 Ford Mustang GT 2+2 Fastback                                  	Torque	579	427 ftlb | 579 Nm		
 1968 Ford Mustang GT 2+2 Fastback                                  	Doors	2	1		
-1966 Ford #2 GT40 Mk II Le Mans                                    	Model	#2 GT40 Mk II Le Mans	#2 GT40 MkII Le Mans		#2 GT40 Mk II Le Mans
-1966 Ford #2 GT40 Mk II Le Mans                                    	Power	492	485 hp | 362 kW	 hp | NaN kW	
-1966 Ford #2 GT40 Mk II Le Mans                                    	Mass	1217	2682 lb | 1217 kg	 lb | NaN kg	
+1966 Ford #2 GT40 Mk II Le Mans                                    	Model	#2 GT40 Mk II Le Mans	#2 GT40 MkII Le Mans	#2 GT40 MkII Le Mans	#2 GT40 Mk II Le Mans
+1966 Ford #2 GT40 Mk II Le Mans                                    	Nickname	#2 Ford GT40	#2 Ford GT40	Ford GT40 Mk II	
+1966 Ford #2 GT40 Mk II Le Mans                                    	Division	Vintage Le Mans Prototypes	Vintage Le Mans Prototypes	Vintage Le Mans Prototyp	Vintage Le Mans Prototypes
+1966 Ford #2 GT40 Mk II Le Mans                                    	Power	492	485 hp | 362 kW	485 hp | 362 kW	
+1966 Ford #2 GT40 Mk II Le Mans                                    	Mass	1217	2682 lb | 1217 kg	2682 lb | 1217 kg	
 1966 Ford #2 GT40 Mk II Le Mans                                    	Torque	644	475 ftlb | 644 Nm		
 1966 Ford #2 GT40 Mk II Le Mans                                    	Doors	2	1		
 1966 Ford Lotus Cortina                                            	Power	116	115 hp | 86 kW	115 hp | 86 kW	
@@ -1134,10 +1154,13 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1965 Ford Mustang GT Coupe                                         	Mass	1162	2562 lb | 1162 kg	2562 lb | 1162 kg	
 1965 Ford Mustang GT Coupe                                         	Torque	423	312 ftlb | 423 Nm		
 1965 Ford Mustang GT Coupe                                         	Doors	2	1		
-1964 Ford GT40 MKI                                                 	Model	GT40 MKI	GT40 Mk I		
-1964 Ford GT40 MKI                                                 	Power	395	390 hp | 291 kW	 hp | NaN kW	
-1964 Ford GT40 MKI                                                 	Mass	1005	2215 lb | 1005 kg	 lb | NaN kg	
+1964 Ford GT40 MKI                                                 	Model	GT40 MKI	GT40 Mk I	GT40 Mk I	GT40 Mk I
+1964 Ford GT40 MKI                                                 	Nickname	Ford GT40 '64	Ford GT40 '64	Ford GT40 Mk I	
+1964 Ford GT40 MKI                                                 	Division	Vintage Le Mans Prototypes	Vintage Le Mans Prototypes	Vintage Le Mans Prototyp	Vintage Le Mans Prototypes
+1964 Ford GT40 MKI                                                 	Power	395	390 hp | 291 kW	390 hp | 291 kW	
+1964 Ford GT40 MKI                                                 	Mass	1005	2215 lb | 1005 kg	2222 lb | 1008 kg	
 1964 Ford GT40 MKI                                                 	Torque	427	315 ftlb | 427 Nm		
+1964 Ford GT40 MKI                                                 	EngPos	M	M		F
 1964 Ford GT40 MKI                                                 	Doors	2	1		
 2019 Ginetta #6 Team LNT Ginetta G60-LT-P1                         	Power	730	720 hp | 537 kW	712 hp | 531 kW	
 2019 Ginetta #6 Team LNT Ginetta G60-LT-P1                         	Mass	886	1954 lb | 886 kg	1953 lb | 886 kg	
@@ -1260,6 +1283,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2003 Infiniti G35 Coupe                                            	Mass	1558	3435 lb | 1558 kg	3348 lb | 1519 kg	
 2003 Infiniti G35 Coupe                                            	Torque	366	270 ftlb | 366 Nm		
 2003 Infiniti G35 Coupe                                            	Doors	2	1		
+2015 Jaguar F-TYPE R Coupé                                         	Model	F-TYPE R Coupé	F-TYPE R Coupé	F-TYPE R Coupé	F-TYPE R Coupe
 2015 Jaguar F-TYPE R Coupé                                         	Power	557	550 hp | 410 kW	550 hp | 410 kW	
 2015 Jaguar F-TYPE R Coupé                                         	Mass	1650	3638 lb | 1650 kg	3638 lb | 1650 kg	
 2015 Jaguar F-TYPE R Coupé                                         	Torque	681	502 ftlb | 681 Nm		
@@ -1332,7 +1356,8 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2013 KTM X-Bow R                                                   	Mass	810	1786 lb | 810 kg	1786 lb | 810 kg	
 2013 KTM X-Bow R                                                   	Torque	400	295 ftlb | 400 Nm		
 2013 KTM X-Bow R                                                   	Doors	0	1		
-2020 Lamborghini Essenza SCV12                                     	Division	Forza GT	Forza GT	Modern Factory Racecars	
+2020 Lamborghini Essenza SCV12                                     	Year	2020	2020	2020	2021 
+2020 Lamborghini Essenza SCV12                                     	Division	Forza GT	Forza GT	Modern Factory Racecars	Modern Factory Racecars
 2020 Lamborghini Essenza SCV12                                     	Power	829	818 hp | 610 kW	818 hp | 610 kW	
 2020 Lamborghini Essenza SCV12                                     	Mass	1447	3190 lb | 1447 kg	3190 lb | 1447 kg	
 2020 Lamborghini Essenza SCV12                                     	Torque	800	590 ftlb | 800 Nm		
@@ -1462,9 +1487,9 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2010 Lexus LFA                                                     	Mass	1480	3263 lb | 1480 kg	3263 lb | 1480 kg	
 2010 Lexus LFA                                                     	Torque	480	354 ftlb | 480 Nm		
 2010 Lexus LFA                                                     	Doors	2	1		
-2016 Ligier #11 Eurointernational JS P3                            	Model	#11 Eurointernational JS P3	#11 Euro International JS P3		#11 Eurointernational JS P3
-2016 Ligier #11 Eurointernational JS P3                            	Power	425	420 hp | 313 kW	 hp | NaN kW	
-2016 Ligier #11 Eurointernational JS P3                            	Mass	1005	2215 lb | 1005 kg	 lb | NaN kg	
+2016 Ligier #11 Eurointernational JS P3                            	Model	#11 Eurointernational JS P3	#11 Euro International JS P3	#11 Euro international JS P3	#11 Eurointernational JS P3
+2016 Ligier #11 Eurointernational JS P3                            	Power	425	420 hp | 313 kW	420 hp | 313 kW	
+2016 Ligier #11 Eurointernational JS P3                            	Mass	1005	2215 lb | 1005 kg	2216 lb | 1005 kg	
 2016 Ligier #11 Eurointernational JS P3                            	Torque	530	391 ftlb | 530 Nm		
 2016 Ligier #11 Eurointernational JS P3                            	Doors	2	1		
 1969 Lola #10 Simoniz Special T163                                 	Nickname	#10 Lola T163	#10 Lola T163	Lola #10 T163	
@@ -1646,6 +1671,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2021 McLaren 620R                                                  	Mass	1420	3131 lb | 1420 kg	3131 lb | 1420 kg	
 2021 McLaren 620R                                                  	Torque	620	457 ftlb | 620 Nm		
 2021 McLaren 620R                                                  	Doors	2	1		
+2021 McLaren 765LT Coupe                                           	Model	765LT Coupe	765LT Coupe	765LT Coupe	765LT
 2021 McLaren 765LT Coupe                                           	Power	765	755 hp | 563 kW	755 hp | 563 kW	
 2021 McLaren 765LT Coupe                                           	Mass	1339	2952 lb | 1339 kg	2952 lb | 1339 kg	
 2021 McLaren 765LT Coupe                                           	Torque	800	590 ftlb | 800 Nm		
@@ -1684,8 +1710,9 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2018 McLaren Senna                                                 	Mass	1374	3030 lb | 1374 kg	2886 lb | 1309 kg	
 2018 McLaren Senna                                                 	Torque	800	590 ftlb | 800 Nm		
 2018 McLaren Senna                                                 	Doors	2	1		
-2015 McLaren 650S Coupe                                            	Power	649	641 hp | 478 kW	 hp | NaN kW	
-2015 McLaren 650S Coupe                                            	Mass	1428	3148 lb | 1428 kg	 lb | NaN kg	
+2015 McLaren 650S Coupe                                            	Model	650S Coupe	650S Coupe	650S	650S Coupé
+2015 McLaren 650S Coupe                                            	Power	649	641 hp | 478 kW	641 hp | 478 kW	
+2015 McLaren 650S Coupe                                            	Mass	1428	3148 lb | 1428 kg	3148 lb | 1428 kg	
 2015 McLaren 650S Coupe                                            	Torque	678	500 ftlb | 678 Nm		
 2015 McLaren 650S Coupe                                            	Doors	2	1		
 2015 McLaren P1 GTR                                                	Power	999	986 hp | 735 kW	803 hp | 599 kW	
@@ -1729,11 +1756,13 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1966 McLaren M2B                                                   	Mass	535	1179 lb | 535 kg	1189 lb | 539 kg	
 1966 McLaren M2B                                                   	Torque	300	221 ftlb | 300 Nm		
 1966 McLaren M2B                                                   	Doors	0	1		
+2021 Mercedes-AMG ONE                                              	Model	Mercedes-AMG ONE	Mercedes-AMG ONE	Mercedes-AMG ONE	One
 2021 Mercedes-AMG ONE                                              	Nickname	Mercedes-AMG ONE	Mercedes-AMG ONE	AMG ONE '21	
 2021 Mercedes-AMG ONE                                              	Power	889	877 hp | 654 kW	877 hp | 654 kW	
 2021 Mercedes-AMG ONE                                              	Mass	1695	3737 lb | 1695 kg	3737 lb | 1695 kg	
 2021 Mercedes-AMG ONE                                              	Torque	725	535 ftlb | 725 Nm		
 2021 Mercedes-AMG ONE                                              	Doors	2	1		
+2020 Mercedes-AMG GT Black Series (R190)                           	Year	2020	2020	2020	2021 
 2020 Mercedes-AMG GT Black Series (R190)                           	Power	730	720 hp | 537 kW	720 hp | 537 kW	
 2020 Mercedes-AMG GT Black Series (R190)                           	Mass	1640	3616 lb | 1640 kg	3616 lb | 1640 kg	
 2020 Mercedes-AMG GT Black Series (R190)                           	Torque	800	590 ftlb | 800 Nm		
@@ -1777,6 +1806,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2013 Mercedes-Benz A 45 AMG (W176)                                 	Mass	1480	3263 lb | 1480 kg	3263 lb | 1480 kg	
 2013 Mercedes-Benz A 45 AMG (W176)                                 	Torque	442	326 ftlb | 442 Nm		
 2013 Mercedes-Benz A 45 AMG (W176)                                 	Doors	5	1		
+2012 Mercedes-Benz C 63 AMG Coupé Black Series (W204)              	Model	C 63 AMG Coupé Black Series	C 63 AMG Coupé Black Series	C 63 AMG Coupé Black Series	C 63 AMG Coupe Black Series
 2012 Mercedes-Benz C 63 AMG Coupé Black Series (W204)              	Power	516	510 hp | 380 kW	510 hp | 380 kW	
 2012 Mercedes-Benz C 63 AMG Coupé Black Series (W204)              	Mass	1748	3854 lb | 1748 kg	3854 lb | 1748 kg	
 2012 Mercedes-Benz C 63 AMG Coupé Black Series (W204)              	Torque	620	457 ftlb | 620 Nm		
@@ -1794,6 +1824,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2009 Mercedes-Benz SL 65 AMG Black Series (R230)                   	Mass	1912	4215 lb | 1912 kg	4215 lb | 1912 kg	
 2009 Mercedes-Benz SL 65 AMG Black Series (R230)                   	Torque	1001	738 ftlb | 1001 Nm		
 2009 Mercedes-Benz SL 65 AMG Black Series (R230)                   	Doors	2	1		
+2004 Mercedes-Benz C 32 AMG (W203)                                 	Model	C 32 AMG	C 32 AMG	C 32 AMG	C32 AMG
 2004 Mercedes-Benz C 32 AMG (W203)                                 	Power	353	349 hp | 260 kW	399 hp | 298 kW	
 2004 Mercedes-Benz C 32 AMG (W203)                                 	Mass	1635	3605 lb | 1635 kg	3361 lb | 1525 kg	
 2004 Mercedes-Benz C 32 AMG (W203)                                 	Torque	450	332 ftlb | 450 Nm		
@@ -1802,9 +1833,10 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1990 Mercedes-Benz 190E 2.5-16 Evolution II (W201)                 	Mass	1350	2954 lb | 1340 kg	2954 lb | 1340 kg	
 1990 Mercedes-Benz 190E 2.5-16 Evolution II (W201)                 	Torque	246	181 ftlb | 245 Nm		
 1990 Mercedes-Benz 190E 2.5-16 Evolution II (W201)                 	Doors	4	1		
-1989 Mercedes-Benz #63 Sauber-Mercedes C9                          	Model	#63 Sauber-Mercedes C9	#63 Sauber-Mercedes C 9		
-1989 Mercedes-Benz #63 Sauber-Mercedes C9                          	Power	760	800 hp | 597 kW	 hp | NaN kW	
-1989 Mercedes-Benz #63 Sauber-Mercedes C9                          	Mass	979	2159 lb | 979 kg	 lb | NaN kg	
+1989 Mercedes-Benz #63 Sauber-Mercedes C9                          	Model	#63 Sauber-Mercedes C9	#63 Sauber-Mercedes C 9	#63 Sauber-Mercedes C 9	#63 Sauber-Mercedes C 9
+1989 Mercedes-Benz #63 Sauber-Mercedes C9                          	Nickname	#63 M-B C 9	#63 M-B C 9	MB #63 C9	
+1989 Mercedes-Benz #63 Sauber-Mercedes C9                          	Power	760	800 hp | 597 kW	750 hp | 559 kW	
+1989 Mercedes-Benz #63 Sauber-Mercedes C9                          	Mass	979	2159 lb | 979 kg	1954 lb | 886 kg	
 1989 Mercedes-Benz #63 Sauber-Mercedes C9                          	Torque	810	600 ftlb | 813 Nm		
 1989 Mercedes-Benz #63 Sauber-Mercedes C9                          	Doors	2	1		
 1955 Mercedes-Benz 300 SLR (W196S)                                 	Nickname	M-B 300 SLR	M-B 300 SLR	MB 300 SLR	
@@ -1812,6 +1844,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1955 Mercedes-Benz 300 SLR (W196S)                                 	Power	314	310 hp | 231 kW	310 hp | 231 kW	
 1955 Mercedes-Benz 300 SLR (W196S)                                 	Mass	1098	2442 lb | 1108 kg	1984 lb | 900 kg	
 1955 Mercedes-Benz 300 SLR (W196S)                                 	Torque	317	234 ftlb | 317 Nm		
+1954 Mercedes-Benz 300 SL Coupé (W198)                             	Model	300 SL Coupé	300 SL Coupé	300 SL Coupé	300 SL Coupe
 1954 Mercedes-Benz 300 SL Coupé (W198)                             	Power	244	241 hp | 180 kW	241 hp | 180 kW	
 1954 Mercedes-Benz 300 SL Coupé (W198)                             	Mass	1343	2960 lb | 1343 kg	2960 lb | 1343 kg	
 1954 Mercedes-Benz 300 SL Coupé (W198)                             	Torque	294	217 ftlb | 294 Nm		
@@ -2075,6 +2108,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2009 Pagani Zonda Cinque Roadster                                  	Mass	1280	2858 lb | 1296 kg	2822 lb | 1280 kg	
 2009 Pagani Zonda Cinque Roadster                                  	Torque	780	575 ftlb | 780 Nm		
 2009 Pagani Zonda Cinque Roadster                                  	Doors	2	1		
+2018 Peugeot #7 DG Sport Compétition 308                           	Year	2018	2018	2018	2019 
 2018 Peugeot #7 DG Sport Compétition 308                           	Power	348	343 hp | 256 kW	343 hp | 256 kW	
 2018 Peugeot #7 DG Sport Compétition 308                           	Mass	1265	2789 lb | 1265 kg	2789 lb | 1265 kg	
 2018 Peugeot #7 DG Sport Compétition 308                           	Torque	420	310 ftlb | 420 Nm		
@@ -2136,8 +2170,9 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2021 Porsche 911 GT3 (992)                                         	Mass	1435	3164 lb | 1435 kg	3164 lb | 1435 kg	
 2021 Porsche 911 GT3 (992)                                         	Torque	469	346 ftlb | 469 Nm		
 2021 Porsche 911 GT3 (992)                                         	Doors	2	1		
-2021 Porsche Mission R                                             	Power	679	671 hp | 500 kW	 hp | NaN kW	
-2021 Porsche Mission R                                             	Mass	1500	3307 lb | 1500 kg	 lb | NaN kg	
+2021 Porsche Mission R                                             	Year	2021	2021	2022	2021 
+2021 Porsche Mission R                                             	Power	679	671 hp | 500 kW	671 hp | 500 kW	
+2021 Porsche Mission R                                             	Mass	1500	3307 lb | 1500 kg	3307 lb | 1500 kg	
 2021 Porsche Mission R                                             	Torque	1005	741 ftlb | 1005 Nm		
 2021 Porsche Mission R                                             	Displ	0	0		
 2021 Porsche Mission R                                             	Doors	2	1		
@@ -2347,7 +2382,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2016 Renault Clio R.S. 16 Concept                                  	Mass	1205	2657 lb | 1205 kg	2657 lb | 1205 kg	
 2016 Renault Clio R.S. 16 Concept                                  	Torque	359	265 ftlb | 359 Nm		
 2016 Renault Clio R.S. 16 Concept                                  	Doors	5	1		
-2008 Renault Megane R26.R                                          	Model	Megane R26.R	Mégane R26.R	Megane R26.R	
+2008 Renault Megane R26.R                                          	Model	Megane R26.R	Mégane R26.R	Megane R26.R	Mégane R26.R
 2008 Renault Megane R26.R                                          	Nickname	Ren. Migane '08	Ren. Migane '08	Ren. Megane '08	
 2008 Renault Megane R26.R                                          	Power	229	227 hp | 169 kW	227 hp | 169 kW	
 2008 Renault Megane R26.R                                          	Mass	1230	2712 lb | 1230 kg	2712 lb | 1230 kg	
@@ -2415,6 +2450,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1963 Shelby Monaco King Cobra                                      	Mass	590	1300 lb | 590 kg	1300 lb | 590 kg	
 1963 Shelby Monaco King Cobra                                      	Torque	450	332 ftlb | 450 Nm		
 1963 Shelby Monaco King Cobra                                      	Doors	2	1		
+2016 Spania GTA GTA Spano                                          	Model	GTA Spano	GTA Spano	GTA Spano	Spano
 2016 Spania GTA GTA Spano                                          	Power	924	912 hp | 680 kW	912 hp | 680 kW	
 2016 Spania GTA GTA Spano                                          	Mass	1450	3197 lb | 1450 kg	3197 lb | 1450 kg	
 2016 Spania GTA GTA Spano                                          	Torque	1220	899 ftlb | 1219 Nm		
@@ -2513,6 +2549,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1994 Toyota Celica GT-Four ST205 (T200)                            	Mass	1440	3175 lb | 1440 kg	3175 lb | 1440 kg	
 1994 Toyota Celica GT-Four ST205 (T200)                            	Torque	304	224 ftlb | 304 Nm		
 1994 Toyota Celica GT-Four ST205 (T200)                            	Doors	2	1		
+1992 Toyota #99 All American Racers Toyota Eagle MkIII             	Model	#99 All American Racers Toyota Eagle MkIII	#99 All American Racers Toyota Eagle MkIII		#99 All American Racers Toyota Eagle Mk III
 1992 Toyota #99 All American Racers Toyota Eagle MkIII             	Power	761	751 hp | 560 kW	 hp | NaN kW	
 1992 Toyota #99 All American Racers Toyota Eagle MkIII             	Mass	920	2028 lb | 920 kg	 lb | NaN kg	
 1992 Toyota #99 All American Racers Toyota Eagle MkIII             	Torque	780	575 ftlb | 780 Nm		
