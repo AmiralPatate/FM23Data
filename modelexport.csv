@@ -225,7 +225,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 2760,Ford,#17 Shell V-Power Racing Team Falcon FG X,2017,#17 Shell Falcon,Forza GT,USA,785,5,5.6,5.6,5.7,474,644,636,1410,3109,630,465,RWD,F,5,V,8,NA,Race,4,False,R
 2357,Ford,Focus RS,2017,Ford Focus '17,Modern Hot Hatch,USA,535,4.1,2.6,2.6,3.3,261,355,350,1563,3446,475,350,AWD,F,2.3,I,4,T,Factory,5,False,L
 2363,Ford,GT,2017,Ford GT '17,Modern Sport GT,USA,795,7.9,4.8,4.8,6.8,482,655,646,1428,3148,746,550,RWD,MR,3.5,V,6,TT,Factory,2,False,L
-2543,Ford,#66 Ford Racing GT Le Mans,2016,#66 Ford GT,Forza GT,USA,820,4.6,6.6,6.9,5.6,395,537,530,1312,2892,670,494,RWD,MR,3.6,V,6,TT,Race,2,False,L
+2543,Ford,#66 Ford Racing GT Le Mans,2016,Ford #66 GT,Forza GT,USA,820,4.6,6.6,6.9,5.6,395,537,530,1312,2892,670,494,RWD,MR,3.6,V,6,TT,Race,2,False,L
 2400,Ford,Shelby GT-350R,2016,Ford GT350R '16,Modern Sport Touring,USA,651,5,4,3.8,3.9,392,533,526,1660,3660,582,429,RWD,F,5.2,V,8,NA,Factory,2,False,L
 2409,Ford,#02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype,2015,Ford #02 DP,Forza P2,USA,921,5.1,9.3,9.2,6.8,447,608,599,1096,2416,733,541,RWD,MR,3.5,V,6,TT,Race,2,False,L
 2580,Ford,Falcon GT F 351,2015,Ford Falcon '15,Modern Sport Touring,USA,544,5.6,2.6,2.4,3.6,351,477,471,1828,4030,569,420,RWD,F,5,V,8,DSC,Factory,4,False,R
@@ -478,7 +478,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 1005,Pontiac,Firebird Trans Am SD-455,1973,Pontiac T/A '73,Vintage Muscle,USA,358,2.7,1.1,1.3,2.8,278,378,373,1676,3695,651,480,RWD,F,7.5,V,8,NA,Factory,2,False,L
 1337,Pontiac,Firebird Trans Am,1969,Pontiac T/A '69,Vintage Muscle,USA,345,1.9,1.1,1.2,2.7,257,349,345,1552,3422,584,431,RWD,F,6.6,V,8,NA,Factory,2,False,L
 1309,Pontiac,GTO Judge,1969,Pontiac GTO '69,Street Drag Racers,USA,349,1.5,1.1,1.2,2.7,272,370,365,1654,3646,604,445,RWD,F,6.5,V,8,NA,Factory,2,False,L
--1,Porsche,#5 Porsche Penske Motorsport 963,2024,,Forza Proto-H,GER,957,7,9.7,9.8,8.2,500,680,671,1120,2469,660,487,RWD,MR,4.6,V,8,TT,Race,2,False,L
+3876,Porsche,#5 Porsche Penske Motorsport 963,2024,#5 Porsche 963,Forza Proto-H,GER,957,7,9.7,9.8,8.2,500,680,671,1120,2469,660,487,RWD,MR,4.6,V,8,TT,Race,2,False,L
 3760,Porsche,718 Cayman GT4 RS,2022,P. 718 GT4 '22,Modern Sport Coupe,GER,730,6.3,4.3,4.3,5.5,368,500,493,1415,3120,450,332,RWD,MR,4,F,6,NA,Factory,2,False,R
 3667,Porsche,911 GT3,2021,P. 911 GT3 '21,Modern Sport GT,GER,737,6.1,4.7,4.5,5.4,375,510,503,1435,3164,469,346,RWD,R,4,F,6,NA,Factory,2,False,L
 3698,Porsche,Mission R,2021,Porsche MissionR,Mission R Spec,GER,879,4.2,6,5.9,6.1,500,680,671,1500,3307,1005,741,AWD,MR,0,E,0,EV,Race,2,False,L
@@ -492,7 +492,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 2755,Porsche,911 GT2 RS,2018,P. 911 GT2 RS 18,Modern Sport GT,GER,803,7.1,5.1,4.8,7.4,515,700,691,1450,3197,750,553,RWD,R,3.8,F,6,TT,Factory,2,False,L
 3807,Porsche,911 GT2 RS Forza Edition,2018,Porsche 911 FE,Modern Sport GT,GER,900,9.1,5.9,5.6,8.3,780,1061,1046,1465,3230,1079,796,RWD,R,3.8,F,6,TT,Upgraded,2,False,L
 2774,Porsche,#2 Porsche Team 919 Hybrid,2017,Porsche #2 919,Forza P1,GER,999,6.7,10,10,10,671,912,900,922,2033,1493,1101,AWD,MR,2,V,4,T,Race,2,False,L
-2775,Porsche,#92 Porsche GT Team 911 RSR,2017,#92 Porsche RSR,Forza GT,GER,811,4.7,6.6,6.7,5.9,375,510,503,1319,2908,462,341,RWD,MR,4,F,6,NA,Race,2,False,L
+2775,Porsche,#92 Porsche GT Team 911 RSR,2017,Porsche #92 RSR,Forza GT,GER,811,4.7,6.6,6.7,5.9,375,510,503,1319,2908,462,341,RWD,MR,4,F,6,NA,Race,2,False,L
 2741,Porsche,Panamera Turbo,2017,P. Panamera '17,Sport Luxury,GER,643,6.8,3,2.6,4.9,410,557,550,1995,4398,769,567,AWD,F,4,V,8,TT,Factory,4,False,L
 2528,Porsche,911 GT3 RS,2016,911 GT3 RS '16,Modern Sport GT,GER,748,5.8,5,4.7,5.7,368,500,493,1420,3131,460,339,RWD,R,4,F,6,NA,Factory,2,False,L
 2538,Porsche,#91 Porsche Team Manthey 991 RSR,2015,Porsche #91 RSR,Forza GT,GER,806,4.5,6.3,6.4,6.2,365,496,489,1306,2879,447,330,RWD,R,4,F,6,NA,Race,2,False,L
