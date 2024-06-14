@@ -196,7 +196,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 1131,Ferrari,458 Italia,2009,Ferrari 458,Modern Sport GT,ITA,727,6.5,4.2,3.9,6,419,570,562,1485,3274,540,398,RWD,MR,4.5,V,8,NA,Factory,2,False,L
 1022,Ferrari,430 Scuderia,2007,Ferrari 430 S,Modern Sport GT,ITA,707,6.4,4.2,4,5.4,375,510,503,1350,2976,470,347,RWD,MR,4.3,V,8,NA,Factory,2,False,L
 297,Ferrari,360 Challenge Stradale,2003,Ferrari 360 CC,Sport GT Icons,ITA,644,5.5,3.8,3.9,4.1,305,415,409,1290,2844,373,275,RWD,MR,3.6,V,8,NA,Factory,2,False,L
-257,Ferrari,575M Maranello,2002,Ferrari 575M '02,Exotic GT Classics,ITA,585,5.8,2.6,2.7,4.4,379,515,508,1730,3814,588,434,RWD,F,4.9,V,12,NA,Factory,2,False,L
+257,Ferrari,575M Maranello,2002,Ferrari 575M '02,Exotic GT Classics,ITA,585,5.8,2.6,2.7,4.4,379,515,508,1730,3814,588,434,RWD,F,5.7,V,12,NA,Factory,2,False,L
 333,Ferrari,Enzo Ferrari,2002,Ferrari Enzo '02,Exotic GT Classics,ITA,787,7.3,5.3,5.3,6.3,485,659,650,1400,3086,657,485,RWD,MR,6,V,12,NA,Factory,2,False,L
 524,Ferrari,#12 Risi Competizione F333 SP,1998,Ferrari #12 F333,Early LMP,ITA,935,5.5,8.9,9.3,7.7,485,659,650,935,2061,448,330,RWD,MR,4,V,12,NA,Race,2,True,R
 1020,Ferrari,F50 GT,1996,Ferrari F50 GT,Early Factory Racecars,ITA,913,7.7,7,7.2,7.5,559,760,750,935,2061,520,384,RWD,MR,4.7,V,12,NA,Race,2,False,L
