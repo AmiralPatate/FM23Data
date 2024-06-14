@@ -69,13 +69,11 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1958 Aston Martin DBR1                                             	Doors	2	1		
 2021 Audi RS 6 Avant (C8/5G)                                       	Doors	5	1		
 2021 Audi RS 7 Sportback (4K8)                                     	Doors	4	1		
-2021 Audi RS e-tron GT                                             	Nickname		Audi RS e-tron		
 2021 Audi RS e-tron GT                                             	Displ	0	0		
 2021 Audi RS e-tron GT                                             	Doors	4	1		
 2020 Audi R8 V10 performance (Type 4S)                             	Doors	2	1		
 2020 Audi RS 3 Sedan (8Y)                                          	Doors	4	1		
 2020 Audi TT RS Coupe (Mk3 8S)                                     	Doors	2	1		
-2018 Audi #1 Audi Sport RS 3 LMS                                   	Nickname		#1 RS 3 LMS		
 2018 Audi #1 Audi Sport RS 3 LMS                                   	Doors	4	1		
 2018 Audi #44 R8 LMS GT3 (Type 4S)                                 	Doors	2	1		
 2018 Audi RS 4 Avant (B9/8W)                                       	Torque	600	442 ftlb | 599 Nm		
@@ -123,9 +121,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2014 BAC Mono                                                      	Doors	0	1		
 2017 Bentley Continental Supersports                               	Torque	1017	749 ftlb | 1016 Nm		
 2017 Bentley Continental Supersports                               	Doors	2	1		
-2014 Bentley #17 M-Sport Bentley Continental GT3                   	Nickname		#7 Bentley GT3		
 2014 Bentley #17 M-Sport Bentley Continental GT3                   	Doors	2	1		
-2003 Bentley #7 Team Bentley Speed 8                               	Nickname		#7 Bentley Spd 8		
 2003 Bentley #7 Team Bentley Speed 8                               	Torque	800	589 ftlb | 799 Nm		
 2003 Bentley #7 Team Bentley Speed 8                               	Doors	2	1		
 2023 BMW M2 (G87)                                                  	Doors	2	1		
@@ -138,10 +134,8 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2019 BMW Z4 Roadster (G29)                                         	Torque	501	369 ftlb | 500 Nm		
 2019 BMW Z4 Roadster (G29)                                         	Doors	2	1		
 2019 BMW Z4 Roadster (G29)                                         	Topless	False	True		
-2018 BMW #1 BMW M Motorsport M8 GTE                                	Nickname		BMW #1 M8 GTE		
 2018 BMW #1 BMW M Motorsport M8 GTE                                	Doors	2	1		
 2018 BMW M5 (F90)                                                  	Doors	5	1		
-2017 BMW #24 BMW Team RLL M6 GTLM                                  	Nickname		BMW #24 M6 GTLM		
 2017 BMW #24 BMW Team RLL M6 GTLM                                  	Doors	2	1		
 2016 BMW M4 GTS (F82)                                              	Doors	2	1		
 2015 BMW i8                                                        	Torque	570	420 ftlb | 569 Nm		
@@ -159,7 +153,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2002 BMW Z3 M Coupé (E36/8)                                        	Torque	341	251 ftlb | 340 Nm		
 2002 BMW Z3 M Coupé (E36/8)                                        	Doors	3	1		
 2000 BMW 323ti Sport (E46/5)                                       	Doors	3	1		
-1999 BMW #15 BMW Motorsport V12 LMR                                	Nickname		#15 BMW V12 LMR		
 1999 BMW #15 BMW Motorsport V12 LMR                                	Power	432	580 hp | 433 kW		
 1999 BMW #15 BMW Motorsport V12 LMR                                	Mass	967	2133 lb | 968 kg		
 1999 BMW #15 BMW Motorsport V12 LMR                                	Doors	0	1		
@@ -168,10 +161,8 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1991 BMW M3 (E30)                                                  	Doors	2	1		
 1988 BMW M5 (E28)                                                  	Doors	5	1		
 1981 BMW M1 (E26)                                                  	Doors	2	1		
-1979 BMW #6 BMW Motorsport M1 Procar                               	Nickname		#6 BMW M1		
 1979 BMW #6 BMW Motorsport M1 Procar                               	Torque	390	287 ftlb | 389 Nm		
 1979 BMW #6 BMW Motorsport M1 Procar                               	Doors	2	1		
-1975 BMW #25 BMW Motorsport 3.0 CSL                                	Nickname		#25 BMW 3.0 CSL		
 1975 BMW #25 BMW Motorsport 3.0 CSL                                	Doors	2	1		
 1973 BMW 2002 Turbo                                                	Doors	2	1		
 2019 Brabham BT62                                                  	PI	911	911		756
@@ -198,7 +189,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2011 Bugatti Veyron Super Sport                                    	Torque	1500	1105 ftlb | 1498 Nm		
 2011 Bugatti Veyron Super Sport                                    	Ind	T4	TT		
 2011 Bugatti Veyron Super Sport                                    	Doors	2	1		
-1992 Bugatti EB110 Super Sport                                     	Nickname		Bugatti EB110 '92		
 1992 Bugatti EB110 Super Sport                                     	Doors	2	1		
 1926 Bugatti Type 35 C                                             	Doors	0	1		
 1987 Buick Regal GNX                                               	Doors	2	1		
@@ -218,7 +208,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2015 Cadillac #3 Cadillac Racing ATS-V.R                           	Torque	706	520 ftlb | 705 Nm		
 2015 Cadillac #3 Cadillac Racing ATS-V.R                           	Doors	2	1		
 2013 Caterham Superlight R500                                      	Doors	0	1		
-1966 Chaparral #66 Chaparral Cars 2E                               	Nickname		#66 Chaparral 2E		
 1966 Chaparral #66 Chaparral Cars 2E                               	Torque	577	425 ftlb | 576 Nm		
 1966 Chaparral #66 Chaparral Cars 2E                               	Doors	2	1		
 2024 Chevrolet Corvette E-Ray (C8)                                 	Doors	2	1		
@@ -247,18 +236,15 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2015 Chevrolet #10 Konica Minolta Corvette Daytona Prototype       	Power	432	580 hp | 433 kW		
 2015 Chevrolet #10 Konica Minolta Corvette Daytona Prototype       	Doors	2	1		
 2015 Chevrolet Corvette Z06 (C7)                                   	Doors	2	1		
-2014 Chevrolet #3 Corvette Racing Corvette C7.R                    	Nickname		#3 Chevy C7.R		
 2014 Chevrolet #3 Corvette Racing Corvette C7.R                    	Doors	2	1		
 2010 Chevrolet #55 Level 5 Motorsports Oreca FLM09                 	Torque	630	464 ftlb | 629 Nm		
 2010 Chevrolet #55 Level 5 Motorsports Oreca FLM09                 	Doors	0	1		
-2009 Chevrolet Corvette ZR1 (C6)                                   	Nickname		Chev. C6 ZR1 '09		
 2009 Chevrolet Corvette ZR1 (C6)                                   	Doors	2	1		
 2002 Chevrolet Camaro 35th Anniversary Super Sport (_Catfish_)     	Doors	2	1		
 2002 Chevrolet Corvette Z06 (C5)                                   	Doors	2	1		
 1995 Chevrolet Corvette ZR-1 (C4)                                  	Doors	2	1		
 1990 Chevrolet Camaro IROC-Z                                       	Doors	2	1		
 1988 Chevrolet Monte Carlo Super Sport                             	Doors	2	1		
-1976 Chevrolet #76 Greenwood Corvette (C3)                         	Nickname		#76 Corvette		
 1976 Chevrolet #76 Greenwood Corvette (C3)                         	Power	552	700 hp | 522 kW		
 1976 Chevrolet #76 Greenwood Corvette (C3)                         	Doors	2	1		
 1970 Chevrolet Camaro Z28                                          	Doors	2	1		
@@ -269,22 +255,18 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1967 Chevrolet Corvette Stingray 427 (C2)                          	Doors	2	1		
 1972 Chrysler VH Valiant Charger R/T E49                           	Doors	2	1		
 2011 Citroën DS 3 Racing                                           	Doors	3	1		
-1979 Datsun #33 280ZX Turbo (S130)                                 	Nickname		#33 Datsun 280ZX		
 1979 Datsun #33 280ZX Turbo (S130)                                 	Torque	882	650 ftlb | 881 Nm		
 1979 Datsun #33 280ZX Turbo (S130)                                 	Mass	1164	2565 lb | 1163 kg		
 1979 Datsun #33 280ZX Turbo (S130)                                 	Doors	2	1		
 1970 Datsun 510                                                    	Doors	2	1		
-1969 Datsun 2000 Roadster                                          	Nickname		Datsun 2000		
 1969 Datsun 2000 Roadster                                          	Doors	2	1		
 2019 Dodge #9 American V8 Road Racing TA Challenger                	Doors	2	1		
-2018 Dodge Challenger SRT Demon                                    	Nickname		Dodge SRT Demon		
 2018 Dodge Challenger SRT Demon                                    	PI	679	680		679
 2018 Dodge Challenger SRT Demon                                    	Torque	1045	770 ftlb | 1044 Nm		
 2018 Dodge Challenger SRT Demon                                    	Mass	1941	4248 lb | 1927 kg		
 2018 Dodge Challenger SRT Demon                                    	Doors	2	1		
 2016 Dodge Viper ACR (VX)                                          	Doors	2	1		
 2015 Dodge Charger SRT Hellcat                                     	Doors	4	1		
-2014 Dodge #93 SRT Motorsports Viper GTS-R (VX)                    	Nickname		#93 Dodge Viper		
 2014 Dodge #93 SRT Motorsports Viper GTS-R (VX)                    	Torque	706	520 ftlb | 705 Nm		
 2014 Dodge #93 SRT Motorsports Viper GTS-R (VX)                    	Doors	2	1		
 2013 Dodge Dart GT                                                 	Doors	4	1		
@@ -299,51 +281,39 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1970 Dodge Challenger R/T                                          	Torque	665	490 ftlb | 664 Nm		
 1970 Dodge Challenger R/T                                          	Doors	2	1		
 1970 Dodge Coronet Super Bee                                       	Doors	2	1		
-1969 Dodge Charger Daytona HEMI                                    	Nickname		Charger Daytona		
 1969 Dodge Charger Daytona HEMI                                    	Doors	2	1		
 1969 Dodge Charger R/T                                             	Doors	2	1		
 2013 Donkervoort D8 GTO                                            	Doors	2	1		
-1998 Eagle Talon TSi Turbo                                         	Nickname		Eagle Talon		
 1998 Eagle Talon TSi Turbo                                         	Doors	2	1		
-1967 Eagle-Weslake T1G                                             	Nickname		Eagle T1G		
 1967 Eagle-Weslake T1G                                             	Torque	330	243 ftlb | 329 Nm		
 1967 Eagle-Weslake T1G                                             	Doors	0	1		
 2019 Elemental Rp1                                                 	Model	Rp1	RP1		RP1
-2019 Elemental Rp1                                                 	Nickname		Elemental Rp 1		
 2019 Elemental Rp1                                                 	Doors	0	1		
-2018 Exomotive Exocet Sport V8 XP-5                                	Nickname		Exomotive XP-5		
 2018 Exomotive Exocet Sport V8 XP-5                                	Torque	660	486 ftlb | 659 Nm		
 2018 Exomotive Exocet Sport V8 XP-5                                	Doors	0	1		
 2022 Ferrari 296 GTB (F171)                                        	Torque	900	663 ftlb | 899 Nm		
 2022 Ferrari 296 GTB (F171)                                        	Doors	2	1		
 2020 Ferrari Roma (F169)                                           	Torque	760	560 ftlb | 759 Nm		
 2020 Ferrari Roma (F169)                                           	Doors	2	1		
-2020 Ferrari SF90 Stradale (F173)                                  	Nickname		Ferrari SF90		
 2020 Ferrari SF90 Stradale (F173)                                  	Torque	1238	912 ftlb | 1237 Nm		
 2020 Ferrari SF90 Stradale (F173)                                  	Doors	2	1		
 2019 Ferrari #62 Risi Competizione 488 GTE (F142M)                 	Torque	730	538 ftlb | 729 Nm		
 2019 Ferrari #62 Risi Competizione 488 GTE (F142M)                 	Doors	2	1		
-2019 Ferrari 488 Pista (F142M)                                     	Nickname		Ferrari 488 Pista '19		
 2019 Ferrari 488 Pista (F142M)                                     	Doors	2	1		
-2019 Ferrari F8 Tributo (F142FML)                                  	Nickname		F8 Tributo '20		
 2019 Ferrari F8 Tributo (F142FML)                                  	Torque	770	567 ftlb | 769 Nm		
 2019 Ferrari F8 Tributo (F142FML)                                  	Doors	2	1		
 2019 Ferrari Monza SP2                                             	Doors	2	1		
 2018 Ferrari FXX-K Evo (F150)                                      	SpecType	Race	Factory		
 2018 Ferrari FXX-K Evo (F150)                                      	Doors	2	1		
-2018 Ferrari Portofino (F164)                                      	Nickname		Portofino '18		
 2018 Ferrari Portofino (F164)                                      	Doors	2	1		
 2018 Ferrari Portofino (F164)                                      	Topless	False	True		
-2017 Ferrari #25 Corse Clienti 488 Challenge (F148M)               	Nickname		#25 Ferrari 488		
 2017 Ferrari #25 Corse Clienti 488 Challenge (F148M)               	Torque	760	560 ftlb | 759 Nm		
 2017 Ferrari #25 Corse Clienti 488 Challenge (F148M)               	Doors	2	1		
-2017 Ferrari 812 Superfast (F152M)                                 	Nickname		Ferrari 812		
 2017 Ferrari 812 Superfast (F152M)                                 	Doors	2	1		
 2017 Ferrari J50 (F142M)                                           	Doors	2	1		
 2015 Ferrari 488 GTB (F142M)                                       	PI	753	754		753
 2015 Ferrari 488 GTB (F142M)                                       	Torque	760	560 ftlb | 759 Nm		
 2015 Ferrari 488 GTB (F142M)                                       	Doors	2	1		
-2015 Ferrari F12tdf (F152)                                         	Nickname		Ferrari F12TDF		
 2015 Ferrari F12tdf (F152)                                         	Doors	2	1		
 2014 Ferrari California T (F149M)                                  	Doors	2	1		
 2014 Ferrari California T (F149M)                                  	Topless	False	True		
@@ -351,7 +321,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2014 Ferrari FXX K (F150)                                          	Torque	901	664 ftlb | 900 Nm		
 2014 Ferrari FXX K (F150)                                          	Doors	2	1		
 2013 Ferrari 458 Speciale (F142)                                   	Doors	2	1		
-2013 Ferrari LaFerrari (F150)                                      	Nickname		LaFerrari		
 2013 Ferrari LaFerrari (F150)                                      	Power	708	963 hp | 718 kW		
 2013 Ferrari LaFerrari (F150)                                      	Torque	900	663 ftlb | 899 Nm		
 2013 Ferrari LaFerrari (F150)                                      	Doors	2	1		
@@ -362,42 +331,30 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2007 Ferrari 430 Scuderia (F131)                                   	Torque	470	346 ftlb | 469 Nm		
 2007 Ferrari 430 Scuderia (F131)                                   	Mass	1350	2975 lb | 1349 kg		
 2007 Ferrari 430 Scuderia (F131)                                   	Doors	2	1		
-2003 Ferrari 360 Challenge Stradale (F131)                         	Nickname		Ferrari 360 CS		
 2003 Ferrari 360 Challenge Stradale (F131)                         	Doors	2	1		
 2002 Ferrari 575M Maranello (F133)                                 	Displ	5,7	4943		
 2002 Ferrari 575M Maranello (F133)                                 	Doors	2	1		
-2002 Ferrari Enzo Ferrari (F140)                                   	Nickname		Ferrari Enzo		
 2002 Ferrari Enzo Ferrari (F140)                                   	Torque	657	484 ftlb | 656 Nm		
 2002 Ferrari Enzo Ferrari (F140)                                   	Doors	2	1		
-1998 Ferrari #12 Risi Competizione F333 SP                         	Nickname		#12 Ferrari F333		
 1998 Ferrari #12 Risi Competizione F333 SP                         	Torque	448	330 ftlb | 447 Nm		
 1998 Ferrari #12 Risi Competizione F333 SP                         	Doors	2	1		
 1996 Ferrari F50 GT (F130)                                         	Torque	520	383 ftlb | 519 Nm		
 1996 Ferrari F50 GT (F130)                                         	Doors	2	1		
-1995 Ferrari F50 (F130)                                            	Nickname		Ferrari F50		
 1995 Ferrari F50 (F130)                                            	Doors	2	1		
 1994 Ferrari F355 Berlinetta (F129)                                	Doors	2	1		
 1992 Ferrari 512 TR (F110)                                         	Doors	2	1		
-1990 Ferrari #1 Scuderia Ferrari 641                               	Nickname		#1 Ferrari 641		
 1990 Ferrari #1 Scuderia Ferrari 641                               	Doors	0	1		
-1989 Ferrari F40 Competizione (F120)                               	Nickname		Ferrari F40 C		
 1989 Ferrari F40 Competizione (F120)                               	Power	515	780 hp | 582 kW		
 1989 Ferrari F40 Competizione (F120)                               	Torque	714	526 ftlb | 713 Nm		
 1989 Ferrari F40 Competizione (F120)                               	Doors	2	1		
-1987 Ferrari F40 (F120)                                            	Nickname		Ferrari F40		
 1987 Ferrari F40 (F120)                                            	Doors	2	1		
 1984 Ferrari 288 GTO (F114)                                        	Doors	2	1		
-1982 Ferrari #72 N.A.R.T. 512 BB/LM                                	Nickname		#72 Ferrari BBLM		
 1982 Ferrari #72 N.A.R.T. 512 BB/LM                                	Torque	451	332 ftlb | 450 Nm		
 1982 Ferrari #72 N.A.R.T. 512 BB/LM                                	Doors	2	1		
-1976 Ferrari #1 Scuderia Ferrari 312 T2                            	Nickname		#1 Ferrari 312		
 1976 Ferrari #1 Scuderia Ferrari 312 T2                            	Doors	0	1		
-1970 Ferrari 512 S                                                 	Nickname		Ferrari 512S		
 1970 Ferrari 512 S                                                 	Doors	2	1		
-1969 Ferrari Dino 246 GT                                           	Nickname		Ferrari Dino		
 1969 Ferrari Dino 246 GT                                           	Mass	1132	2497 lb | 1133 kg		
 1969 Ferrari Dino 246 GT                                           	Doors	2	1		
-1967 Ferrari #24 Ferrari Spa 330 P4                                	Nickname		#24 Ferrari P4		
 1967 Ferrari #24 Ferrari Spa 330 P4                                	Doors	2	1		
 1964 Ferrari F-158                                                 	Model	F-158	F-158 F1		F-158 F1
 1964 Ferrari F-158                                                 	Doors	0	1		
@@ -406,19 +363,15 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1962 Ferrari 250 GT Berlinetta Lusso                               	Doors	2	1		
 1962 Ferrari 250 GTO                                               	Doors	2	1		
 1957 Ferrari 250 Testa Rossa                                       	Doors	2	1		
-1953 Ferrari 500 Mondial                                           	Nickname		Ferrari 500M		
 1948 Ferrari 166 Inter Sport                                       	Doors	0	1		
 2020 Ford Mustang Shelby GT500 (S550)                              	Doors	2	1		
 2018 Ford #98 Breathless Pro Racing TA Mustang                     	Doors	2	1		
 2018 Ford Mustang GT (S550)                                        	Doors	2	1		
-2017 Ford #17 Shell V-Power Racing Team Falcon FG X                	Nickname		#17 Shell Falcon		
 2017 Ford #17 Shell V-Power Racing Team Falcon FG X                	Doors	4	1		
 2017 Ford Focus RS (C346 MkIII)                                    	Doors	5	1		
 2017 Ford GT                                                       	Doors	2	1		
-2016 Ford #66 Ford Racing GT Le Mans                               	Nickname		#66 Ford GT		
 2016 Ford #66 Ford Racing GT Le Mans                               	Doors	2	1		
 2016 Ford Shelby GT-350R (S550)                                    	Model	Shelby GT-350R	Shelby GT350R		
-2016 Ford Shelby GT-350R (S550)                                    	Nickname		Ford GT350R '16		
 2016 Ford Shelby GT-350R (S550)                                    	Doors	2	1		
 2015 Ford #02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype  	Torque	733	540 ftlb | 732 Nm		
 2015 Ford #02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype  	Doors	2	1		
@@ -441,7 +394,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1986 Ford Mustang SVO (_Foxbody_)                                  	Doors	3	1		
 1982 Ford #6 Zakspeed Roush Mustang IMSA GT (_Foxbody_)            	Torque	448	330 ftlb | 447 Nm		
 1982 Ford #6 Zakspeed Roush Mustang IMSA GT (_Foxbody_)            	Doors	2	1		
-1981 Ford #2 Zakspeed Racing Capri Turbo                           	Nickname		#2 Ford Capri		
 1981 Ford #2 Zakspeed Racing Capri Turbo                           	Torque	402	296 ftlb | 401 Nm		
 1981 Ford #2 Zakspeed Racing Capri Turbo                           	Doors	2	1		
 1981 Ford Fiesta XR2                                               	Doors	3	1		
@@ -452,12 +404,10 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1969 Ford Mustang Boss 302                                         	Doors	2	1		
 1968 Ford Mustang GT 2+2 Fastback                                  	Doors	2	1		
 1966 Ford #2 GT40 Mk II Le Mans                                    	Model	#2 GT40 Mk II Le Mans	#2 GT40 MkII Le Mans		#2 GT40 Mk II Le Mans
-1966 Ford #2 GT40 Mk II Le Mans                                    	Nickname		#2 Ford GT40		
 1966 Ford #2 GT40 Mk II Le Mans                                    	Doors	2	1		
 1966 Ford Lotus Cortina                                            	Doors	2	1		
 1965 Ford Mustang GT Coupe                                         	Doors	2	1		
 1964 Ford GT40 MKI                                                 	Model	GT40 MKI	GT40 Mk I		GT40 Mk I
-1964 Ford GT40 MKI                                                 	Nickname		Ford GT40 '64		
 1964 Ford GT40 MKI                                                 	EngPos	M	M		F
 1964 Ford GT40 MKI                                                 	Doors	2	1		
 2019 Ginetta #6 Team LNT Ginetta G60-LT-P1                         	Torque	850	626 ftlb | 849 Nm		
@@ -467,7 +417,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2022 Gordon Murray Automotive T.50                                 	Power	489	655 hp | 488 kW		
 2022 Gordon Murray Automotive T.50                                 	Torque	467	344 ftlb | 466 Nm		
 2022 Gordon Murray Automotive T.50                                 	Doors	2	1		
-2017 Holden #22 Walkinshaw Performance VF Commodore                	Nickname		#22 Holden '17		
 2017 Holden #22 Walkinshaw Performance VF Commodore                	Doors	4	1		
 1988 Holden VL Commodore Group A SV                                	Doors	4	1		
 1977 Holden Torana A9X                                             	Doors	2	1		
@@ -502,20 +451,15 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2003 Infiniti G35 Coupe                                            	Doors	2	1		
 2015 Jaguar F-Type R Coupé                                         	Model	F-Type R Coupé	F-TYPE R Coupé		F-TYPE R Coupe
 2015 Jaguar F-Type R Coupé                                         	Doors	2	1		
-2015 Jaguar XFR-S (X250)                                           	Nickname		Jag. XRF-S '15		
 2015 Jaguar XFR-S (X250)                                           	Doors	5	1		
-2015 Jaguar XKR-S GT (X150)                                        	Nickname		Jag. XKR-S GT '15		
 2015 Jaguar XKR-S GT (X150)                                        	Doors	2	1		
 1993 Jaguar XJ220                                                  	Doors	2	1		
 1993 Jaguar XJ220S TWR                                             	Doors	2	1		
 1991 Jaguar Sport XJR-15                                           	Doors	2	1		
-1988 Jaguar #1 Jaguar Racing XJR-9                                 	Nickname		#1 Jaguar XJR-9		
 1988 Jaguar #1 Jaguar Racing XJR-9                                 	Torque	828	610 ftlb | 827 Nm		
 1988 Jaguar #1 Jaguar Racing XJR-9                                 	Doors	2	1		
-1983 Jaguar #44 Group 44 XJR-5                                     	Nickname		#44 Jaguar XJR-5		
 1983 Jaguar #44 Group 44 XJR-5                                     	Torque	584	430 ftlb | 583 Nm		
 1983 Jaguar #44 Group 44 XJR-5                                     	Doors	2	1		
-1961 Jaguar E-type                                                 	Nickname		Jag. E-Type		
 1961 Jaguar E-type                                                 	Doors	2	1		
 1959 Jaguar Mk II 3.8                                              	Torque	326	240 ftlb | 325 Nm		
 1959 Jaguar Mk II 3.8                                              	SpecType	Factory	Race		
@@ -560,7 +504,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2011 Lamborghini Gallardo LP 570-4 Superleggera                    	Doors	2	1		
 2011 Lamborghini Sesto Elemento                                    	SpecType	Factory	Race		
 2011 Lamborghini Sesto Elemento                                    	Doors	2	1		
-2010 Lamborghini Murciélago LP 670-4 SV                            	Nickname		Lambo Murcielago		
 2010 Lamborghini Murciélago LP 670-4 SV                            	Torque	660	486 ftlb | 659 Nm		
 2010 Lamborghini Murciélago LP 670-4 SV                            	Doors	2	1		
 1999 Lamborghini Diablo GTR                                        	Doors	2	1		
@@ -576,14 +519,11 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2020 Lexus RC F Track Edition                                      	Doors	2	1		
 2015 Lexus RC F                                                    	Doors	2	1		
 2014 Lexus IS 350 F Sport                                          	Doors	4	1		
-2013 Lexus GS350 F Sport                                           	Nickname		Lexus GS350		
 2013 Lexus GS350 F Sport                                           	Doors	4	1		
 2010 Lexus LFA                                                     	Doors	2	1		
 2016 Ligier #11 Eurointernational JS P3                            	Model	#11 Eurointernational JS P3	#11 Euro International JS P3		#11 Eurointernational JS P3
 2016 Ligier #11 Eurointernational JS P3                            	Doors	2	1		
-1969 Lola #10 Simoniz Special T163                                 	Nickname		#10 Lola T163		
 1969 Lola #10 Simoniz Special T163                                 	Doors	2	1		
-1969 Lola #6 Sunoco T70 MkIIIB                                     	Nickname		#6 Lola T70		
 1969 Lola #6 Sunoco T70 MkIIIB                                     	Doors	2	1		
 2023 Lotus Emira                                                   	Doors	2	1		
 2020 Lotus Evija                                                   	Displ	0	0		
@@ -595,7 +535,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2011 Lotus Evora S                                                 	Doors	2	1		
 2002 Lotus Esprit V8                                               	Doors	2	1		
 1986 Lotus #12 Team Lotus 98T                                      	Doors	0	1		
-1976 Lotus #5 Team Lotus 77                                        	Nickname		#5 Lotus 77		
 1976 Lotus #5 Team Lotus 77                                        	Mass	686	1511 lb | 685 kg		
 1976 Lotus #5 Team Lotus 77                                        	Doors	0	1		
 1971 Lotus Elan Sprint                                             	Doors	2	1		
@@ -614,12 +553,10 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1961 Maserati Tipo 61 Birdcage                                     	Doors	2	1		
 1957 Maserati 300 S                                                	Doors	2	1		
 1953 Maserati A6GCS/53 PininFarina Berlinetta                      	Doors	2	1		
-1939 Maserati 8CTF                                                 	Nickname		Maserati 8CTF		
 1939 Maserati 8CTF                                                 	Doors	0	1		
 1970 Matra-Simca #146 Equipe Matra-Simca MS650 Tour de France      	Doors	2	1		
 2017 Mazda MX-5 Cup (ND)                                           	Doors	2	1		
 2016 Mazda MX-5 (ND)                                               	Doors	2	1		
-2015 Mazda Formula Mazda                                           	Nickname		Formula Mazda		
 2015 Mazda Formula Mazda                                           	Doors	0	1		
 2014 Mazda #70 SpeedSource Lola B12/80                             	Mass	952	2100 lb | 953 kg		
 2014 Mazda #70 SpeedSource Lola B12/80                             	Doors	2	1		
@@ -629,7 +566,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1997 Mazda RX-7 (FD)                                               	Doors	2	1		
 1994 Mazda MX-5 Miata (NA)                                         	Doors	2	1		
 1992 Mazda 323 GT-R                                                	Doors	3	1		
-1991 Mazda #55 Mazda 787B                                          	Nickname		#55 Mazda 787B		
 1991 Mazda #55 Mazda 787B                                          	Torque	608	448 ftlb | 607 Nm		
 1991 Mazda #55 Mazda 787B                                          	Doors	2	1		
 1991 Mazda #62 RX-7 (FC)                                           	Model	#62 RX-7	#62 Mazda Motorsport RX-7		
@@ -668,26 +604,20 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1997 McLaren F1 GT                                                 	SpecType	Factory	Race		
 1997 McLaren F1 GT                                                 	Doors	2	1		
 1993 McLaren F1                                                    	Doors	2	1		
-1988 McLaren #12 Honda McLaren MP4/4                               	Nickname		#12 McLaren MP4		
 1988 McLaren #12 Honda McLaren MP4/4                               	Power	504	675 hp | 503 kW		
 1988 McLaren #12 Honda McLaren MP4/4                               	Torque	424	312 ftlb | 423 Nm		
 1988 McLaren #12 Honda McLaren MP4/4                               	Doors	0	1		
-1976 McLaren #11 Team McLaren M23                                  	Nickname		#11 McLaren M23		
 1976 McLaren #11 Team McLaren M23                                  	Doors	0	1		
-1969 McLaren #4 McLaren Cars M8B                                   	Nickname		#4 McLaren M8B		
 1969 McLaren #4 McLaren Cars M8B                                   	Power	473	635 hp | 474 kW		
 1969 McLaren #4 McLaren Cars M8B                                   	Doors	2	1		
 1966 McLaren #4 Bruce McLaren Motor Racing M1B                     	Torque	600	442 ftlb | 599 Nm		
 1966 McLaren #4 Bruce McLaren Motor Racing M1B                     	Doors	0	1		
 1966 McLaren M2B                                                   	Doors	0	1		
 2021 Mercedes-AMG ONE                                              	Model	Mercedes-AMG ONE	Mercedes-AMG ONE		One
-2021 Mercedes-AMG ONE                                              	Nickname		Mercedes-AMG ONE		
 2021 Mercedes-AMG ONE                                              	Doors	2	1		
 2020 Mercedes-AMG GT Black Series (R190)                           	Year	2020	2020		2021 
 2020 Mercedes-AMG GT Black Series (R190)                           	Doors	2	1		
-2018 Mercedes-AMG E 63 S (W213)                                    	Nickname		M-AMG E 63 '18		
 2018 Mercedes-AMG E 63 S (W213)                                    	Doors	4	1		
-2018 Mercedes-AMG GT 4-Door Coupé (X290)                           	Nickname		AMG GT Coupe '18		
 2018 Mercedes-AMG GT 4-Door Coupé (X290)                           	Doors	4	1		
 2018 Mercedes-AMG GT3                                              	Doors	2	1		
 2017 Mercedes-AMG GT R (R190)                                      	Doors	2	1		
@@ -697,19 +627,16 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2016 Mercedes-AMG C 63 S Coupé (W205)                              	H	2.9	2.9		4.2
 2016 Mercedes-AMG C 63 S Coupé (W205)                              	A	4.4	4.4		5.0
 2016 Mercedes-AMG C 63 S Coupé (W205)                              	Doors	2	1		
-2016 Mercedes-AMG C 63 S Coupé Forza Edition (W205)                	Nickname		M-B AMG C63 FE		
 2016 Mercedes-AMG C 63 S Coupé Forza Edition (W205)                	Power	430	516 hp | 385 kW		
 2016 Mercedes-AMG C 63 S Coupé Forza Edition (W205)                	Torque	803	530 ftlb | 719 Nm		
 2016 Mercedes-AMG C 63 S Coupé Forza Edition (W205)                	Mass	1770	3601 lb | 1633 kg		
 2016 Mercedes-AMG C 63 S Coupé Forza Edition (W205)                	Doors	2	1		
-2017 Mercedes-Benz #33 Mac Tools Ciceley Motorsports A-Class (A45) 	Nickname		#33 M-B A-Class		
 2017 Mercedes-Benz #33 Mac Tools Ciceley Motorsports A-Class (A45) 	Power	261	334 hp | 249 kW		
 2017 Mercedes-Benz #33 Mac Tools Ciceley Motorsports A-Class (A45) 	Torque	427	292 ftlb | 396 Nm		
 2017 Mercedes-Benz #33 Mac Tools Ciceley Motorsports A-Class (A45) 	Doors	5	1		
 2013 Mercedes-Benz A 45 AMG (W176)                                 	Doors	5	1		
 2012 Mercedes-Benz C 63 AMG Coupé Black Series (W204)              	Model	C 63 AMG Coupé Black Series	C 63 AMG Coupé Black Series		C 63 AMG Coupe Black Series
 2012 Mercedes-Benz C 63 AMG Coupé Black Series (W204)              	Doors	2	1		
-2012 Mercedes-Benz SLK 55 AMG (R172)                               	Nickname		M-B SLK 55 '12		
 2012 Mercedes-Benz SLK 55 AMG (R172)                               	Doors	2	1		
 2011 Mercedes-Benz SLS AMG (R197)                                  	Torque	650	479 ftlb | 649 Nm		
 2011 Mercedes-Benz SLS AMG (R197)                                  	Doors	2	1		
@@ -719,22 +646,17 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1990 Mercedes-Benz 190E 2.5-16 Evolution II (W201)                 	Torque	246	181 ftlb | 245 Nm		
 1990 Mercedes-Benz 190E 2.5-16 Evolution II (W201)                 	Mass	1350	2954 lb | 1340 kg		
 1990 Mercedes-Benz 190E 2.5-16 Evolution II (W201)                 	Doors	4	1		
-1989 Mercedes-Benz #63 Sauber-Mercedes C 9                         	Nickname		#63 M-B C 9		
 1989 Mercedes-Benz #63 Sauber-Mercedes C 9                         	Power	559	800 hp | 597 kW		
 1989 Mercedes-Benz #63 Sauber-Mercedes C 9                         	Torque	810	600 ftlb | 813 Nm		
 1989 Mercedes-Benz #63 Sauber-Mercedes C 9                         	Doors	2	1		
-1955 Mercedes-Benz 300 SLR (W196S)                                 	Nickname		M-B 300 SLR		
 1955 Mercedes-Benz 300 SLR (W196S)                                 	Mass	1098	2442 lb | 1108 kg		
 1954 Mercedes-Benz 300 SL Coupé (W198)                             	Model	300 SL Coupé	300 SL Coupé		300 SL Coupe
 1954 Mercedes-Benz 300 SL Coupé (W198)                             	Doors	2	1		
-1939 Mercedes-Benz W154                                            	Nickname		M-B W154		
 1939 Mercedes-Benz W154                                            	Torque	490	361 ftlb | 489 Nm		
 1939 Mercedes-Benz W154                                            	Doors	0	1		
-1990 Mercury #15 Whistler Radar Cougar XR-7                        	Nickname		#15 Mercury XR-7		
 1990 Mercury #15 Whistler Radar Cougar XR-7                        	Torque	760	560 ftlb | 759 Nm		
 1990 Mercury #15 Whistler Radar Cougar XR-7                        	Doors	2	1		
 1970 Mercury Cougar Eliminator                                     	Doors	2	1		
-1986 Merkur #11 MAC Tools XR4Ti                                    	Nickname		#11 XR4Ti '86		
 1986 Merkur #11 MAC Tools XR4Ti                                    	Torque	760	560 ftlb | 759 Nm		
 1986 Merkur #11 MAC Tools XR4Ti                                    	Doors	2	1		
 2021 MG MG6 XPower                                                 	Doors	4	1		
@@ -760,15 +682,12 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1997 Mitsubishi GTO                                                	Doors	2	1		
 1995 Mitsubishi Eclipse GSX                                        	Doors	2	1		
 1992 Mitsubishi Galant VR-4                                        	Doors	2	1		
-2016 NIO EP9                                                       	Nickname		NIO EP9		
 2016 NIO EP9                                                       	Displ	0	0		
 2016 NIO EP9                                                       	Doors	2	1		
 2023 Nissan Z (RZ34)                                               	Doors	2	1		
-2020 Nissan GT-R NISMO (R35)                                       	Nickname		Nissan GTR '20		
 2020 Nissan GT-R NISMO (R35)                                       	Doors	2	1		
 2019 Nissan 370Z Nismo (Z34)                                       	Doors	2	1		
 2018 Nissan Sentra NISMO                                           	Doors	4	1		
-2017 Nissan Altima Racecar                                         	Nickname		#23 Nissan Altima		
 2017 Nissan Altima Racecar                                         	Doors	4	1		
 2017 Nissan GT-R (R35)                                             	Doors	2	1		
 2015 Nissan #23 GT-R LM NISMO                                      	Torque	1206	889 ftlb | 1205 Nm		
@@ -779,38 +698,30 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1999 Nissan #23 NISMO Clarion R391                                 	Torque	618	455 ftlb | 617 Nm		
 1999 Nissan #23 NISMO Clarion R391                                 	Mass	967	2133 lb | 968 kg		
 1999 Nissan #23 NISMO Clarion R391                                 	Doors	0	1		
-1998 Nissan R390 (GT1)                                             	Nickname		Nissan R390		
 1998 Nissan R390 (GT1)                                             	Doors	2	1		
 1998 Nissan Silvia K's Aero (S14)                                  	Doors	2	1		
 1997 Nissan Skyline GT-R V-Spec (R33)                              	Doors	2	1		
-1994 Nissan Fairlady Z Version S Twin Turbo (Z32)                  	Nickname		Fairlady Z '94		
 1994 Nissan Fairlady Z Version S Twin Turbo (Z32)                  	Doors	2	1		
 1994 Nissan Silvia K's (S14)                                       	Doors	2	1		
 1993 Nissan 240SX SE (S13)                                         	Doors	2	1		
 1993 Nissan Skyline GT-R V-Spec (R32 _Godzilla_)                   	Drive	AWD	AWD		RWD
 1993 Nissan Skyline GT-R V-Spec (R32 _Godzilla_)                   	Doors	2	1		
 1992 Nissan Silvia CLUB K's (S13)                                  	Doors	2	1		
-1991 Nissan #23 Nissan R91CP                                       	Nickname		#23 Nissan R91CP		
 1991 Nissan #23 Nissan R91CP                                       	Power	597	671 hp | 500 kW		
 1991 Nissan #23 Nissan R91CP                                       	Doors	2	1		
 1990 Nissan Pulsar GTI-R                                           	Model	Pulsar GTI-R	Pulsar GTi-R		Pulsar GTI-R
 1990 Nissan Pulsar GTI-R                                           	Doors	3	1		
-1988 Nissan #33 Bob Sharp Racing 300ZX                             	Nickname		#33 Nissan 300ZX		
 1988 Nissan #33 Bob Sharp Racing 300ZX                             	Torque	690	508 ftlb | 689 Nm		
 1988 Nissan #33 Bob Sharp Racing 300ZX                             	Doors	2	1		
 1987 Nissan Skyline GTS-R (HR31)                                   	Doors	2	1		
-1985 Nissan #83 GTP ZX-Turbo                                       	Nickname		#83 GTP ZX-Turbo		
 1985 Nissan #83 GTP ZX-Turbo                                       	Doors	2	1		
-1984 Nissan #11 Tomica Skyline Turbo Super Silhouette (R30)        	Nickname		#11 Skyline '84		
 1984 Nissan #11 Tomica Skyline Turbo Super Silhouette (R30)        	Torque	539	397 ftlb | 538 Nm		
 1984 Nissan #11 Tomica Skyline Turbo Super Silhouette (R30)        	Doors	2	1		
-1984 Nissan #20 Bluebird Super Silhouette                          	Nickname		#20 Bluebird		
 1984 Nissan #20 Bluebird Super Silhouette                          	Torque	539	397 ftlb | 538 Nm		
 1984 Nissan #20 Bluebird Super Silhouette                          	Doors	2	1		
 1983 Nissan #23 Nissan Motorsports Silvia Super Silhouette         	Doors	2	1		
 1973 Nissan Skyline H/T 2000GT-R (KPGC110 _Kenmeri_)               	Doors	2	1		
 1971 Nissan Skyline 2000GT-R (PGC10 _Hakosuka_)                    	Doors	2	1		
-1969 Nissan #21 Nissan Racing R382                                 	Nickname		#21 Nissan R382		
 1969 Nissan #21 Nissan Racing R382                                 	Torque	608	448 ftlb | 607 Nm		
 1969 Nissan #21 Nissan Racing R382                                 	Doors	2	1		
 1969 Nissan Fairlady Z 432 (S30)                                   	Doors	2	1		
@@ -827,9 +738,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2009 Pagani Zonda Cinque Roadster                                  	Doors	2	1		
 2018 Peugeot #7 DG Sport Compétition 308                           	Year	2018	2018		2019 
 2018 Peugeot #7 DG Sport Compétition 308                           	Doors	5	1		
-2011 Peugeot 308 GTI                                               	Nickname		Peugeot 308 GTI		
 2011 Peugeot 308 GTI                                               	Doors	5	1		
-1993 Peugeot #3 Peugeot Talbot Sport 905 EVO 1C                    	Nickname		#3 Peugeot 905C		
 1993 Peugeot #3 Peugeot Talbot Sport 905 EVO 1C                    	Doors	2	1		
 1993 Peugeot #3 Peugeot Talbot Sport 905 EVO 1C                    	Topless	False	True		
 1984 Peugeot 205 Turbo 16                                          	Torque	254	188 ftlb | 255 Nm		
@@ -848,19 +757,15 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1969 Pontiac GTO Judge                                             	Torque	604	445 ftlb | 603 Nm		
 1969 Pontiac GTO Judge                                             	Doors	2	1		
 2024 Porsche #5 Porsche Penske Motorsport 963                      	Nickname				
-2022 Porsche 718 Cayman GT4 RS (982)                               	Nickname		P. 718 GT4 '22		
 2022 Porsche 718 Cayman GT4 RS (982)                               	Doors	2	1		
 2021 Porsche 911 GT3 (992)                                         	Doors	2	1		
 2021 Porsche Mission R                                             	Displ	0	0		
 2021 Porsche Mission R                                             	Doors	2	1		
-2020 Porsche Taycan Turbo S                                        	Nickname		Porsche Taycan S		
 2020 Porsche Taycan Turbo S                                        	Displ	0	0		
 2020 Porsche Taycan Turbo S                                        	Doors	4	1		
-2019 Porsche #70 Porsche Motorsport 935                            	Nickname		#70 Porsche 935		
 2019 Porsche #70 Porsche Motorsport 935                            	Doors	2	1		
 2019 Porsche 911 Carrera S (992)                                   	Mass	1480	3261 lb | 1479 kg		
 2019 Porsche 911 Carrera S (992)                                   	Doors	2	1		
-2019 Porsche 911 GT3 RS (992)                                      	Nickname		P. 911 GT3 RS 19		
 2019 Porsche 911 GT3 RS (992)                                      	PI	756	756		803
 2019 Porsche 911 GT3 RS (992)                                      	Doors	2	1		
 2019 Porsche 911 Speedster (991.2)                                 	Torque	470	346 ftlb | 469 Nm		
@@ -878,38 +783,29 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2017 Porsche #2 Porsche Team 919 Hybrid                            	Power	671	755 hp | 563 kW		
 2017 Porsche #2 Porsche Team 919 Hybrid                            	Torque	1493	923 ftlb | 1251 Nm		
 2017 Porsche #2 Porsche Team 919 Hybrid                            	Doors	2	1		
-2017 Porsche #92 Porsche GT Team 911 RSR (991.2)                   	Nickname		#92 Porsche RSR		
 2017 Porsche #92 Porsche GT Team 911 RSR (991.2)                   	Torque	462	340 ftlb | 461 Nm		
 2017 Porsche #92 Porsche GT Team 911 RSR (991.2)                   	Doors	2	1		
 2017 Porsche Panamera Turbo (971)                                  	Doors	4	1		
 2016 Porsche 911 GT3 RS (991.1)                                    	Doors	2	1		
 2015 Porsche #91 Porsche Team Manthey 991 RSR (991.1)              	Doors	2	1		
 2015 Porsche Cayman GTS                                            	Doors	2	1		
-2014 Porsche 911 Turbo S (991.1)                                   	Nickname		911 Turbo '14		
 2014 Porsche 911 Turbo S (991.1)                                   	Doors	2	1		
-2014 Porsche 918 Spyder                                            	Nickname		Porsche 918		
 2014 Porsche 918 Spyder                                            	Doors	2	1		
-2012 Porsche 911 GT2 RS (997.2)                                    	Nickname		911 GT2 RS '12		
 2012 Porsche 911 GT2 RS (997.2)                                    	Doors	2	1		
 2007 Porsche 911 GT3 (997.1)                                       	Power	309	409 hp | 305 kW		
 2007 Porsche 911 GT3 (997.1)                                       	Torque	405	298 ftlb | 404 Nm		
 2007 Porsche 911 GT3 (997.1)                                       	Doors	2	1		
 2004 Porsche 911 GT3 (996)                                         	Doors	2	1		
-2003 Porsche Carrera GT                                            	Nickname		P.CarreraGT '03		
 2003 Porsche Carrera GT                                            	Doors	2	1		
-1997 Porsche 911 GT1 Strassenversion (996)                         	Nickname		P. 911 GT1 '97		
 1997 Porsche 911 GT1 Strassenversion (996)                         	Doors	2	1		
-1995 Porsche 911 GT2 (993)                                         	Nickname		911 GT2 '95		
 1995 Porsche 911 GT2 (993)                                         	Doors	2	1		
 1993 Porsche 911 Turbo S Leichtbau (964)                           	Doors	2	1		
 1993 Porsche 928 GTS                                               	Doors	2	1		
 1993 Porsche 968 Turbo S                                           	Doors	2	1		
 1989 Porsche 944 Turbo                                             	Doors	2	1		
 1987 Porsche #17 Porsche AG 962C                                   	Model	#17 Porsche AG 962C	#17 Porsche AG 962c		#17 Porsche AG 962C
-1987 Porsche #17 Porsche AG 962C                                   	Nickname		#17 Porsche 962C		
 1987 Porsche #17 Porsche AG 962C                                   	Torque	801	590 ftlb | 800 Nm		
 1987 Porsche #17 Porsche AG 962C                                   	Doors	2	1		
-1987 Porsche 959                                                   	Nickname		Porsche 959		
 1987 Porsche 959                                                   	Doors	2	1		
 1983 Porsche #11 John Fitzpatrick Racing 956                       	Doors	2	1		
 1982 Porsche 911 Turbo 3.3 (930)                                   	Doors	2	1		
@@ -922,14 +818,12 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1960 Porsche 718 RS 60                                             	Doors	2	1		
 1957 Porsche 356A Speedster                                        	Doors	2	1		
 1955 Porsche 550 Spyder                                            	Doors	2	1		
-2015 Radical RXC Turbo                                             	Nickname		Radical RXC		
 2015 Radical RXC Turbo                                             	Doors	2	1		
 2019 RAESR Tachyon Speed                                           	Torque	4953	3650 ftlb | 4949 Nm		
 2019 RAESR Tachyon Speed                                           	Displ	0	0		
 2018 Renault Megane R.S.                                           	Doors	5	1		
 2016 Renault Clio R.S. 16 Concept                                  	Doors	5	1		
 2008 Renault Megane R26.R                                          	Model	Megane R26.R	Mégane R26.R		Mégane R26.R
-2008 Renault Megane R26.R                                          	Nickname		Ren. Migane '08		
 2008 Renault Megane R26.R                                          	Doors	3	1		
 2003 Renault Sport Clio V6 (Phase 2)                               	Doors	3	1		
 1993 Renault Clio Williams                                         	Doors	3	1		
@@ -939,12 +833,10 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1977 Renault #15 Equipe Renault Elf R.S. 01                        	Topless	False	True		
 1977 Renault #15 Equipe Renault Elf R.S. 01                        	Steering	L	C		
 1967 Renault 8 Gordini                                             	Doors	4	1		
-2021 Rimac Nevera                                                  	Nickname		Rimac Nevera		
 2021 Rimac Nevera                                                  	Power	1408	1893 hp | 1412 kW		
 2021 Rimac Nevera                                                  	Torque	2360	1739 ftlb | 2358 Nm		
 2021 Rimac Nevera                                                  	Displ	0	0		
 2021 Rimac Nevera                                                  	Doors	2	1		
-2019 Rimac Concept Two                                             	Nickname		Rimac Concept 2		
 2019 Rimac Concept Two                                             	Displ	0	0		
 2019 Rimac Concept Two                                             	Doors	2	1		
 2018 Saleen S1                                                     	Doors	2	1		
@@ -958,7 +850,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2016 Spania GTA GTA Spano                                          	Model	GTA Spano	GTA Spano		Spano
 2016 Spania GTA GTA Spano                                          	Torque	1220	899 ftlb | 1219 Nm		
 2016 Spania GTA GTA Spano                                          	Doors	2	1		
-2013 SRT Viper GTS (VX)                                            	Nickname		Dodge Viper '13		
 2013 SRT Viper GTS (VX)                                            	Doors	2	1		
 2022 Subaru BRZ (ZD8)                                              	Make	Subaru	SUBARU		Subaru
 2022 Subaru BRZ (ZD8)                                              	Torque	250	184 ftlb | 249 Nm		
@@ -981,7 +872,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2013 Subaru BRZ (ZC6)                                              	Doors	2	1		
 2011 Subaru WRX STI (GE)                                           	Make	Subaru	SUBARU		Subaru
 2011 Subaru WRX STI (GE)                                           	Model	WRX STI	WRX STI 		WRX STI
-2011 Subaru WRX STI (GE)                                           	Nickname		Subaru WRX '11		
 2011 Subaru WRX STI (GE)                                           	Doors	4	1		
 2008 Subaru IMPREZA WRX STI (GR)                                   	Make	Subaru	SUBARU		Subaru
 2008 Subaru IMPREZA WRX STI (GR)                                   	Model	IMPREZA WRX STI	IMPREZA WRX STI		Impreza WRX STI
@@ -1003,7 +893,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2014 Toyota #8 Toyota Racing TS040 HYBRID                          	Doors	2	1		
 2003 Toyota Celica Sport Specialty II (T230)                       	Power	140	187 hp | 139 kW		
 2003 Toyota Celica Sport Specialty II (T230)                       	Doors	2	1		
-1999 Toyota #3 Toyota Motorsports GT-ONE TS020                     	Nickname		#3 Toyota GT-ONE		
 1999 Toyota #3 Toyota Motorsports GT-ONE TS020                     	Torque	650	479 ftlb | 649 Nm		
 1999 Toyota #3 Toyota Motorsports GT-ONE TS020                     	Doors	2	1		
 1998 Toyota Supra RZ (Mk4 A80)                                     	Doors	2	1		
@@ -1011,7 +900,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1995 Toyota MR2 GT (W20)                                           	Topless	False	True		
 1994 Toyota Celica GT-Four ST205 (T200)                            	Doors	2	1		
 1992 Toyota #99 All American Racers Toyota Eagle Mk III            	Model	#99 All American Racers Toyota Eagle Mk III	#99 All American Racers Toyota Eagle MkIII		#99 All American Racers Toyota Eagle Mk III
-1992 Toyota #99 All American Racers Toyota Eagle Mk III            	Nickname		#99 Toyota MkIII		
 1992 Toyota #99 All American Racers Toyota Eagle Mk III            	Doors	2	1		
 1992 Toyota Celica GT-Four RC ST185 (T180)                         	Doors	2	1		
 1992 Toyota Supra 2.0 GT (Mk3 A70)                                 	Doors	2	1		
@@ -1020,10 +908,8 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1974 Toyota Celica GT (A30)                                        	Doors	2	1		
 1974 Toyota Corolla SR5                                            	Doors	2	1		
 1969 Toyota 2000GT                                                 	Doors	2	1		
-2018 TVR Griffith                                                  	Nickname		TVR Grifith '18		
 2018 TVR Griffith                                                  	Torque	584	430 ftlb | 583 Nm		
 2018 TVR Griffith                                                  	Doors	2	1		
-2015 Ultima Evolution Coupe 1020                                   	Nickname		Ultima 1020		
 2015 Ultima Evolution Coupe 1020                                   	Doors	2	1		
 2017 Vauxhall #66 Power Maxed TAG Racing Astra                     	Doors	5	1		
 2016 Vauxhall Corsa VXR                                            	Doors	3	1		
@@ -1055,11 +941,9 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1981 Volkswagen Scirocco S (53)                                    	Doors	3	1		
 1997 Volvo 850 R                                                   	S	2.8	2.8		2.9
 1997 Volvo 850 R                                                   	Doors	5	1		
-2017 VUHL 05RR                                                     	Nickname		VUHL 05RR		
 2017 VUHL 05RR                                                     	Power	298	385 hp | 287 kW		
 2017 VUHL 05RR                                                     	Torque	500	368 ftlb | 499 Nm		
 2017 VUHL 05RR                                                     	Doors	0	1		
 2020 Xpeng P7                                                      	Displ	0	0		
 2020 Xpeng P7                                                      	Doors	4	1		
-2019 Zenvo TSR-S                                                   	Nickname		Zenvo TSR-S		
 2019 Zenvo TSR-S                                                   	Doors	2	1		
