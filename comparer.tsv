@@ -756,7 +756,9 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1969 Pontiac Firebird Trans Am                                     	Doors	2	1		
 1969 Pontiac GTO Judge                                             	Torque	604	445 ftlb | 603 Nm		
 1969 Pontiac GTO Judge                                             	Doors	2	1		
-2024 Porsche #5 Porsche Penske Motorsport 963                      	Nickname				
+2024 Porsche #5 Porsche Penske Motorsport 963                      	Torque	660	486 ftlb | 659 Nm		
+2024 Porsche #5 Porsche Penske Motorsport 963                      	Ind	TT	NA		
+2024 Porsche #5 Porsche Penske Motorsport 963                      	Doors	2	1		
 2022 Porsche 718 Cayman GT4 RS (982)                               	Doors	2	1		
 2021 Porsche 911 GT3 (992)                                         	Doors	2	1		
 2021 Porsche Mission R                                             	Displ	0	0		
@@ -780,8 +782,9 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2018 Porsche 911 GT2 RS (991.2)                                    	A	7.4	7.4		8.3
 2018 Porsche 911 GT2 RS (991.2)                                    	Doors	2	1		
 2018 Porsche 911 GT2 RS Forza Edition (991.2)                      	Doors	2	1		
-2017 Porsche #2 Porsche Team 919 Hybrid                            	Power	671	755 hp | 563 kW		
-2017 Porsche #2 Porsche Team 919 Hybrid                            	Torque	1493	923 ftlb | 1251 Nm		
+2017 Porsche #2 Porsche Team 919 Hybrid                            	Power	671	790 hp | 589 kW		
+2017 Porsche #2 Porsche Team 919 Hybrid                            	Torque	1493	965 ftlb | 1308 Nm		
+2017 Porsche #2 Porsche Team 919 Hybrid                            	Mass	922	2043 lb | 927 kg		
 2017 Porsche #2 Porsche Team 919 Hybrid                            	Doors	2	1		
 2017 Porsche #92 Porsche GT Team 911 RSR (991.2)                   	Torque	462	340 ftlb | 461 Nm		
 2017 Porsche #92 Porsche GT Team 911 RSR (991.2)                   	Doors	2	1		
