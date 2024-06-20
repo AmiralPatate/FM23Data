@@ -147,6 +147,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 289,Chevrolet,Camaro Super Sport Coupe,1969,Chev. Camaro '69,Vintage Muscle,USA,333,1.7,1.1,1.2,2.5,280,381,375,1665,3671,563,415,RWD,F,6.5,V,8,NA,Factory,2,False,L
 1429,Chevrolet,Nova Super Sport 396,1969,Chev. Nova '69,Street Drag Racers,USA,354,2.5,1,1,2.7,280,381,375,1574,3470,563,415,RWD,F,6.5,V,8,NA,Factory,2,False,L
 312,Chevrolet,Corvette Stingray 427,1967,Chev. C3 427 '67,Vintage Muscle,USA,405,2.7,1.3,1.4,3,324,441,434,1515,3340,624,460,RWD,F,7,V,8,NA,Factory,2,False,L
+-1,Chevron,B16,1970,,Vintage Le Mans Prototypes,GBR,654,3.1,5.3,5.3,4.2,160,218,215,695,1532,210,155,RWD,MR,2,I,4,NA,Race,2,False,R
 2581,Chrysler,VH Valiant Charger R/T E49,1972,Chry. Valiant 72,Street Drag Racers,USA,361,1.9,1,1.1,3,225,306,302,1375,3031,441,325,RWD,F,4.3,I,6,NA,Factory,2,False,R
 1665,Citroën,DS 3 Racing,2011,Citroen DS 3 '11,Modern Hot Hatch,FRA,379,1.8,2.3,2.3,2.4,152,207,204,1221,2692,275,203,FWD,F,1.6,I,4,T,Factory,3,False,L
 2488,Datsun,#33 280ZX Turbo,1979,#33 Datsun 280ZX,GTX Sportscars,JPN,842,6.3,6,6.1,7.4,559,760,750,1164,2566,882,651,RWD,F,4.2,V,8,TT,Race,2,False,L
