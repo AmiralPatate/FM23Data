@@ -147,7 +147,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 289,Chevrolet,Camaro Super Sport Coupe,1969,Chev. Camaro '69,Vintage Muscle,USA,333,1.7,1.1,1.2,2.5,280,381,375,1665,3671,563,415,RWD,F,6.5,V,8,NA,Factory,2,False,L
 1429,Chevrolet,Nova Super Sport 396,1969,Chev. Nova '69,Street Drag Racers,USA,354,2.5,1,1,2.7,280,381,375,1574,3470,563,415,RWD,F,6.5,V,8,NA,Factory,2,False,L
 312,Chevrolet,Corvette Stingray 427,1967,Chev. C3 427 '67,Vintage Muscle,USA,405,2.7,1.3,1.4,3,324,441,434,1515,3340,624,460,RWD,F,7,V,8,NA,Factory,2,False,L
--1,Chevron,B16,1970,,Vintage Le Mans Prototypes,GBR,654,3.1,5.3,5.3,4.2,160,218,215,695,1532,210,155,RWD,MR,2,I,4,NA,Race,2,False,R
+3541,Chevron,B16,1970,,Vintage Le Mans Prototypes,GBR,654,3.1,5.3,5.3,4.2,160,218,215,695,1532,210,155,RWD,MR,2,I,4,NA,Race,2,False,R
 2581,Chrysler,VH Valiant Charger R/T E49,1972,Chry. Valiant 72,Street Drag Racers,USA,361,1.9,1,1.1,3,225,306,302,1375,3031,441,325,RWD,F,4.3,I,6,NA,Factory,2,False,R
 1665,Citroën,DS 3 Racing,2011,Citroen DS 3 '11,Modern Hot Hatch,FRA,379,1.8,2.3,2.3,2.4,152,207,204,1221,2692,275,203,FWD,F,1.6,I,4,T,Factory,3,False,L
 2488,Datsun,#33 280ZX Turbo,1979,#33 Datsun 280ZX,GTX Sportscars,JPN,842,6.3,6,6.1,7.4,559,760,750,1164,2566,882,651,RWD,F,4.2,V,8,TT,Race,2,False,L
@@ -364,7 +364,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 1110,Mazda,MX-5 Miata,1994,Mazda MX-5 '94,Early Sport Compact,JPN,287,1,1.8,2.1,1.6,95,129,127,1057,2330,149,110,RWD,F,1.8,I,4,NA,Factory,2,False,L
 2209,Mazda,323 GT-R,1992,Mazda 323 '92,Hot Hatch Icons,JPN,382,2.1,1.6,1.8,2.5,154,209,207,1210,2668,249,184,AWD,F,1.8,I,4,T,Factory,3,False,R
 1335,Mazda,#55 Mazda 787B,1991,#55 Mazda 787B,GTP/C,JPN,954,7.2,9.9,10,7.7,515,700,691,905,1995,608,448,RWD,MR,2.6,R,4,NA,Race,2,False,R
-2334,Mazda,#62 RX-7,1991,#62 Mazda RX-7,GTX Sportscars,JPN,819,5.7,6,6.3,6.3,447,608,599,1110,2447,529,390,RWD,F,2.6,R,4,NA,Race,2,False,L
+2334,Mazda,#62 RX-7,1991,#62 Mazda RX-7,GTX Sportscars,JPN,819,5.7,6,6.3,6.3,477,649,640,1110,2447,529,390,RWD,F,2.6,R,4,NA,Race,2,False,L
 2255,Mazda,MX-5 Miata,1990,Mazda MX-5 '90,Early Sport Compact,JPN,268,1,1.8,1.9,1.5,86,117,115,1002,2209,136,100,RWD,F,1.6,I,4,NA,Factory,2,False,L
 423,Mazda,Savanna RX-7,1990,Mazda RX-7 '90,Early Sport Compact,JPN,334,3.1,1.7,1.8,2.1,149,203,200,1355,2987,266,196,RWD,F,1.3,R,2,T,Factory,2,False,R
 1480,Mazda,RX-7 GSL-SE,1985,Mazda RX-7 '85,Early Sport Compact,JPN,274,1.3,1.4,1.7,1.4,101,137,135,1168,2575,180,133,RWD,F,1.3,R,2,NA,Factory,2,False,L
@@ -450,18 +450,19 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 439,Nissan,Silvia CLUB K's,1992,Nissan Silvia 92,Early Sport Compact,JPN,339,2.6,1.6,2,2.2,151,205,202,1150,2535,274,202,RWD,F,2,I,4,T,Factory,2,False,R
 2483,Nissan,#23 Nissan R91CP,1991,#23 Nissan R91CP,GTP/C,JPN,976,6.8,9.9,10,7.2,597,812,801,1005,2216,784,578,RWD,MR,3.5,V,8,TT,Race,2,False,R
 3257,Nissan,Pulsar GTI-R,1990,Nissan Pulsar 90,Early Sport Compact,JPN,387,2,1.6,1.8,2.5,169,230,227,1240,2734,283,209,AWD,F,2,I,4,T,Factory,3,False,R
+-1,Nissan,#24 Nissan Motorsports International R88C,1988,,GTP/C,JPN,955,7.5,9.5,10,7.8,551,749,739,940,2072,736,543,RWD,MR,3,V,8,TT,Race,2,False,R
 2840,Nissan,#33 Bob Sharp Racing 300ZX,1988,#33 Nissan 300ZX,GTX Sportscars,JPN,815,5.6,5.9,6.1,5.7,507,689,680,1245,2745,690,509,RWD,F,3,V,6,T,Race,2,False,L
 2512,Nissan,Skyline GTS-R (HR31),1987,Nissan GT-R '87,Sport Touring Classics,JPN,333,3.1,1.7,1.9,2.1,154,209,207,1345,2965,245,181,RWD,F,2,I,6,T,Factory,2,False,R
 3018,Nissan,#83 GTP ZX-Turbo,1985,#83 GTP ZX-Turbo,GTP/C,JPN,944,6.4,9.6,10,7.5,478,650,641,951,2097,686,506,RWD,MR,3,V,6,TT,Race,2,False,R
 2801,Nissan,#11 Tomica Skyline Turbo Super Silhouette,1984,#11 Skyline '84,GTX Sportscars,JPN,803,4.4,6.3,6.5,5.8,419,570,562,1005,2216,539,398,RWD,F,2.1,I,4,T,Race,2,False,R
 2482,Nissan,#20 Bluebird Super Silhouette,1984,#20 Bluebird,GTX Sportscars,JPN,808,4.9,6.1,6.3,6.1,419,570,562,1000,2205,539,398,RWD,F,2.1,I,4,T,Race,2,False,R
-3362,Nissan,#23 Nissan Motorsports Silvia Super Silhouette,1983,Nis. #23 Silvia,GTX Sportscars,JPN,800,5.2,5.8,6.1,5.9,419,570,562,1050,2315,538,397,RWD,F,2.1,I,4,T,Race,2,False,R
+3362,Nissan,#23 Nissan Motorsports Silvia Super Silhouette,1983,Nis. #23 Silvia,GTX Sportscars,JPN,800,5.2,5.8,6.1,5.9,419,570,562,1050,2315,539,398,RWD,F,2.1,I,4,T,Race,2,False,R
 2270,Nissan,Skyline H/T 2000GT-R,1973,Nissan GT-R '73,Vintage Sport Compact,JPN,275,1,1,1.1,1.9,118,160,158,1145,2524,176,130,RWD,F,2,I,6,NA,Factory,2,False,R
 1042,Nissan,Skyline 2000GT-R,1971,Nissan GT-R '71,Vintage Sport Compact,JPN,279,1.2,1,1.1,2,119,162,160,1100,2425,180,133,RWD,F,2,I,6,NA,Factory,2,False,R
 2269,Nissan,#21 Nissan Racing R382,1969,#21 Nissan R382,Prototype Group Racing,JPN,816,6,5.9,6.3,7.1,441,600,591,966,2130,608,448,RWD,MR,6,V,12,NA,Race,2,True,R
 343,Nissan,Fairlady Z 432,1969,Nissan Z 432 '69,Vintage Sport Compact,JPN,277,1,1.4,1.5,1.8,119,162,160,1047,2308,180,133,RWD,F,2,I,6,NA,Factory,2,False,R
 2823,Nissan,R380 II,1967,Nissan R380 II,Vintage Le Mans Sportscars,JPN,578,4.2,2.3,3,4,162,220,217,640,1411,210,155,RWD,MR,2,I,6,NA,Factory,2,False,R
-3310,Oldsmobile,#75 Cutlass Supreme Trans Am,1990,Olds #75 Cutlass,GTX Sportscars,USA,814,6.2,5.6,5.9,5.9,485,659,650,1280,2822,705,520,RWD,F,5.9,V,8,NA,Race,2,False,L
+3310,Oldsmobile,#75 Cutlass Supreme Trans Am,1990,Olds #75 Cutlass,GTX Sportscars,USA,814,6.2,5.6,5.9,5.9,485,659,650,1280,2822,706,521,RWD,F,5.9,V,8,NA,Race,2,False,L
 1336,Oldsmobile,Hurst/Olds 442,1969,Olds 442 '69,Street Drag Racers,USA,353,1.5,1.1,1.2,2.7,286,389,384,1749,3856,678,500,RWD,F,7.4,V,8,NA,Factory,2,False,L
 2160,Opel,Kadett C GT/E,1979,Opel Kadett '79,Vintage Sport Compact,GER,251,1,1,1.2,1.5,85,116,114,920,2028,161,119,RWD,F,2,I,4,NA,Factory,2,False,L
 2967,Oreca,#38 Jackie Chan DC Racing Oreca 07,2017,Oreca #38 07,Forza P2,FRA,938,6.5,9.3,9.4,7.6,450,612,603,956,2108,555,409,RWD,MR,4.2,V,8,NA,Race,2,False,L
