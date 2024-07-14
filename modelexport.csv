@@ -427,6 +427,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 349,Mitsubishi,FTO GP Version R,1998,Mit. FTO '98,Early Sport Compact,JPN,355,2.9,1.6,2,2,147,200,197,1150,2535,199,147,FWD,F,2,V,6,NA,Factory,2,False,R
 357,Mitsubishi,GTO,1997,Mit. GTO '97,Early Sport Compact,JPN,451,4.2,2.2,2.4,2.6,239,325,321,1695,3737,427,315,AWD,F,3,V,6,TT,Factory,2,False,R
 327,Mitsubishi,Eclipse GSX,1995,Mit. Eclipse '95,Early Sport Compact,JPN,352,3.4,1.6,2,2,157,213,211,1451,3199,290,214,AWD,F,2,I,4,T,Factory,2,False,L
+-1,Mitsubishi,Lancer Evolution III GSR,1995,,Early Sport Compact,JPN,449,3.1,1.8,2,3,199,271,267,1260,2778,309,228,AWD,F,2,I,4,T,Factory,4,False,R
 1381,Mitsubishi,Galant VR-4,1992,Mit. Galant '92,Early Sport Compact,JPN,341,2.2,1.4,1.5,2.2,177,241,237,1483,3269,304,224,AWD,F,2,I,4,T,Factory,2,False,R
 3366,NIO,EP9,2016,NIO EP9 '16,Modern Hypercars,CHN,961,5.5,9.4,8.9,5.2,1000,1360,1341,1750,3858,1479,1091,AWD,MR,0,E,0,EV,Factory,2,False,L
 3620,Nissan,Z,2023,Nissan Z '23,Modern Sport Coupe,JPN,546,5.8,2.6,2.9,3.5,298,405,400,1604,3536,475,350,RWD,F,3,V,6,TT,Factory,2,False,L
@@ -549,8 +550,9 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 3272,Subaru,#1 Adrian Flux SUBARU Racing Levorg GT,2018,SUBARU #1 Levorg,Forza Touring Cars,JPN,673,3.1,5.4,5.5,3.7,261,355,350,1260,2778,400,295,RWD,F,2,F,4,T,Race,5,False,L
 2168,Subaru,WRX STI,2015,SUBARU WRX '15,Modern Sport Compact,JPN,507,3.6,2.5,2.6,3.1,227,309,304,1536,3386,393,290,AWD,F,2.5,F,4,T,Factory,4,False,L
 1655,Subaru,BRZ,2013,SUBARU BRZ '13,Modern Sport Compact,JPN,354,2,2.1,2.4,2.2,147,200,197,1254,2765,205,151,RWD,F,2,F,4,NA,Factory,2,False,L
-1323,Subaru,WRX STI,2011,Subaru WRX '11,Modern Sport Compact,JPN,473,3.7,2.2,2.3,2.8,227,309,304,1535,3384,393,290,AWD,F,2.5,F,4,T,Factory,4,False,L
+1323,Subaru,WRX STI,2011,Subaru WRX '11,Modern Sport Compact,JPN,473,3.7,2.2,2.3,2.8,227,309,304,1535,3384,393,290,RWD,F,2.5,F,4,T,Factory,4,False,L
 1060,Subaru,IMPREZA WRX STI,2008,SUBARU WRX '08,Modern Sport Compact,JPN,476,3,2.3,2.3,3.1,227,309,304,1540,3395,454,335,AWD,F,2.5,F,4,T,Factory,4,False,L
+-1,Subaru,IMPREZA WRX STI,2005,,Early Sport Compact,JPN,503,3.5,2.2,2.4,3.3,206,280,276,1460,3219,422,311,RWD,F,2,F,4,T,Factory,4,False,R
 364,Subaru,IMPREZA WRX STI,2004,SUBARU WRX '04,Early Sport Compact,JPN,490,3.3,2.2,2.2,3.3,207,281,278,1460,3219,394,291,AWD,F,2,F,4,T,Factory,4,False,R
 363,Subaru,Impreza 22B-STi Version,1998,SUBARU 22B '98,Early Sport Compact,JPN,511,2.6,2.7,2.8,3.2,206,280,276,1270,2800,360,266,AWD,F,2.2,F,4,T,Factory,2,False,R
 1382,Subaru,LEGACY RS,1990,SUBARU LEGACY 90,Early Sport Compact,JPN,323,2.2,1.4,1.6,1.9,162,220,217,1355,2987,270,199,AWD,F,2,F,4,T,Factory,4,False,R
