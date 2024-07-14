@@ -41,6 +41,8 @@
 34,Nürburgring,Nürburg,ger,Sprint Circuit,3.63
 3,Road America,Wisconsin,usa,Full Circuit,6.52
 5,Road America,Wisconsin,usa,East Route,3.52
+40,Sebring International Raceway,Sebring,usa,Full Circuit,5.95
+42,Sebring International Raceway,Sebring,usa,Short Circuit,3.22
 21,Silverstone Racing Circuit,Silverston,gbr,Grand Prix Circuit,5.89
 23,Silverstone Racing Circuit,Silverston,gbr,International Circuit,2.98
 22,Silverstone Racing Circuit,Silverston,gbr,National Circuit,2.64
@@ -59,5 +61,3 @@
 511,Yas Marina Circuit,Abu Dhabi,uae,North Circuit,3
 513,Yas Marina Circuit,Abu Dhabi,uae,North Corkscrew,2.29
 512,Yas Marina Circuit,Abu Dhabi,uae,South Circuit,2.19
-40,Sebring International Raceway,Sebring,usa,Full Circuit,5.95
-42,Sebring International Raceway,Sebring,usa,Short Circuit,3.22
