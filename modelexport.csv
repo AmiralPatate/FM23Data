@@ -227,7 +227,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 2357,Ford,Focus RS,2017,Ford Focus '17,Modern Hot Hatch,USA,535,4.1,2.6,2.6,3.3,261,355,350,1563,3446,475,350,AWD,F,2.3,I,4,T,Factory,5,False,L
 2363,Ford,GT,2017,Ford GT '17,Modern Sport GT,USA,795,7.9,4.8,4.8,6.8,482,655,646,1428,3148,746,550,RWD,MR,3.5,V,6,TT,Factory,2,False,L
 2543,Ford,#66 Ford Racing GT Le Mans,2016,Ford #66 GT,Forza GT,USA,820,4.6,6.6,6.9,5.6,395,537,530,1312,2892,670,494,RWD,MR,3.6,V,6,TT,Race,2,False,L
-2400,Ford,Shelby GT-350R,2016,Ford GT350R '16,Modern Sport Touring,USA,651,5,4,3.8,3.9,392,533,526,1660,3660,582,429,RWD,F,5.2,V,8,NA,Factory,2,False,L
+2400,Ford,Shelby GT-350R,2016,Ford GT-350R '16,Modern Sport Touring,USA,651,5,4,3.8,3.9,392,533,526,1660,3660,582,429,RWD,F,5.2,V,8,NA,Factory,2,False,L
 2409,Ford,#02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype,2015,Ford #02 DP,Forza P2,USA,921,5.1,9.3,9.2,6.8,447,608,599,1096,2416,733,541,RWD,MR,3.5,V,6,TT,Race,2,False,L
 2580,Ford,Falcon GT F 351,2015,Ford Falcon '15,Modern Sport Touring,USA,544,5.6,2.6,2.4,3.6,351,477,471,1828,4030,569,420,RWD,F,5,V,8,DSC,Factory,4,False,R
 2314,Ford,#17 AMD Tuning Focus ST BTCC,2014,Ford #17Focus ST,Forza Touring Cars,USA,703,3.4,5.2,5.4,4.3,246,334,330,1160,2557,427,315,FWD,F,2,I,4,T,Race,5,False,R
@@ -315,6 +315,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 1322,Lamborghini,Gallardo LP 570-4 Superleggera,2011,L. Gallardo '11,Modern Sport GT,ITA,731,7,3.6,3.7,5,419,570,562,1574,3470,540,398,AWD,MR,5.2,V,10,NA,Factory,2,False,L
 1392,Lamborghini,Sesto Elemento,2011,Lambo Sesto,Modern Sport GT,ITA,819,6.5,4.6,4.6,7.2,419,570,562,999,2202,540,398,AWD,MR,5.2,V,10,NA,Factory,2,False,L
 1173,Lamborghini,Murciélago LP 670-4 SV,2010,Lambo Murcielago,Modern Exotic GT,ITA,755,6.8,4.1,3.9,5.2,493,670,661,1655,3649,660,487,AWD,MR,6.5,V,12,NA,Factory,2,False,L
+-1,Lamborghini,Reventón,2008,,Modern Exotic GT,ITA,719,7.4,3.6,3.5,4.3,478,650,641,1845,4068,660,487,AWD,MR,6.5,V,12,NA,Factory,2,False,L
 324,Lamborghini,Diablo GTR,1999,L. Diablo GTR 99,Early Factory Racecars,ITA,748,6.7,4.9,5,4.9,440,598,590,1475,3252,640,472,RWD,MR,6,V,12,NA,Race,2,False,L
 325,Lamborghini,Diablo SV,1997,L. Diablo SV '97,Exotic GT Classics,ITA,653,6.9,3,3.3,4.5,395,537,530,1576,3474,605,446,RWD,MR,5.7,V,12,NA,Factory,2,False,L
 316,Lamborghini,Countach LP5000 QV,1988,L. Countach '88,Exotic GT Classics,ITA,588,4.4,2.7,3.1,3.9,339,461,455,1490,3285,500,369,RWD,MR,5.2,V,12,NA,Factory,2,False,L
@@ -405,6 +406,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 1202,Mercedes-Benz,SLS AMG,2011,MB SLS AMG '11,Modern Sport GT,GER,688,6.8,3.6,3.4,5.2,426,579,571,1620,3571,650,479,RWD,F,6.2,V,8,NA,Factory,2,False,L
 1090,Mercedes-Benz,SL 65 AMG Black Series,2009,MB SL 65 '09,Modern Sport GT,GER,684,7.1,3.2,3.2,5.1,493,670,661,1912,4215,1001,738,RWD,F,6,V,12,TT,Factory,2,False,L
 286,Mercedes-Benz,C 32 AMG,2004,MB C 32 '04,Sport Touring Classics,GER,470,5.1,2.2,2.2,3.4,260,354,349,1635,3605,450,332,RWD,F,3.2,V,6,DSC,Factory,4,False,L
+-1,Mercedes-Benz,AMG CLK GTR,1998,,Early Factory Racecars,GER,759,6.2,4.9,5,5.7,464,631,622,1507,3322,731,539,RWD,MR,6.9,V,12,NA,Factory,2,False,L
 1296,Mercedes-Benz,190E 2.5-16 Evolution II,1990,MB 190E '90,Sport Touring Classics,GER,400,3,2.7,2.8,2.4,175,238,235,1350,2976,246,181,RWD,F,3,I,4,NA,Factory,4,False,L
 1560,Mercedes-Benz,#63 Sauber-Mercedes C 9,1989,#63 M-B C 9,GTP/C,GER,959,8.4,9.7,10,8.3,559,760,750,979,2158,810,597,RWD,MR,5,V,8,TT,Race,2,False,R
 1559,Mercedes-Benz,300 SLR,1955,M-B 300 SLR,Vintage Le Mans Sportscars,GER,533,4.7,2.5,3.1,3.3,231,314,310,1098,2421,317,234,RWD,F,3,I,8,NA,Race,1,True,L
@@ -427,7 +429,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 349,Mitsubishi,FTO GP Version R,1998,Mit. FTO '98,Early Sport Compact,JPN,355,2.9,1.6,2,2,147,200,197,1150,2535,199,147,FWD,F,2,V,6,NA,Factory,2,False,R
 357,Mitsubishi,GTO,1997,Mit. GTO '97,Early Sport Compact,JPN,451,4.2,2.2,2.4,2.6,239,325,321,1695,3737,427,315,AWD,F,3,V,6,TT,Factory,2,False,R
 327,Mitsubishi,Eclipse GSX,1995,Mit. Eclipse '95,Early Sport Compact,JPN,352,3.4,1.6,2,2,157,213,211,1451,3199,290,214,AWD,F,2,I,4,T,Factory,2,False,L
--1,Mitsubishi,Lancer Evolution III GSR,1995,,Early Sport Compact,JPN,449,3.1,1.8,2,3,199,271,267,1260,2778,309,228,AWD,F,2,I,4,T,Factory,4,False,R
+-1,Mitsubishi,Lancer Evolution III GSR,1995,Mit. Evo III '95,Early Sport Compact,JPN,449,3.1,1.8,2,3,199,271,267,1260,2778,309,228,AWD,F,2,I,4,T,Factory,4,False,R
 1381,Mitsubishi,Galant VR-4,1992,Mit. Galant '92,Early Sport Compact,JPN,341,2.2,1.4,1.5,2.2,177,241,237,1483,3269,304,224,AWD,F,2,I,4,T,Factory,2,False,R
 3366,NIO,EP9,2016,NIO EP9 '16,Modern Hypercars,CHN,961,5.5,9.4,8.9,5.2,1000,1360,1341,1750,3858,1479,1091,AWD,MR,0,E,0,EV,Factory,2,False,L
 3620,Nissan,Z,2023,Nissan Z '23,Modern Sport Coupe,JPN,546,5.8,2.6,2.9,3.5,298,405,400,1604,3536,475,350,RWD,F,3,V,6,TT,Factory,2,False,L
@@ -501,7 +503,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 2538,Porsche,#91 Porsche Team Manthey 991 RSR,2015,Porsche #91 RSR,Forza GT,GER,806,4.5,6.3,6.4,6.2,365,496,489,1306,2879,447,330,RWD,R,4,F,6,NA,Race,2,False,L
 2293,Porsche,Cayman GTS,2015,Porsche Cayman,Modern Sport Coupe,GER,585,4.7,3.1,3,4.1,254,345,341,1345,2965,380,280,RWD,MR,3.4,F,6,NA,Factory,2,False,L
 2289,Porsche,911 Turbo S,2014,911 Turbo '14,Modern Sport GT,GER,717,7,3.6,3.3,5.5,418,568,561,1636,3607,750,553,AWD,R,3.8,F,6,TT,Factory,2,False,L
-2290,Porsche,918 Spyder,2014,Porsche 918,Modern Exotic GT,GER,852,7,5.3,5,8.5,661,899,886,1675,3693,1124,829,AWD,MR,4.6,V,8,NA,Factory,2,False,L
+2290,Porsche,918 Spyder,2014,Porsche 918,Modern Exotic GT,GER,852,7,5.3,5,8.5,666,906,893,1675,3693,1281,945,AWD,MR,4.6,V,8,NA,Factory,2,False,L
 1539,Porsche,911 GT2 RS,2012,911 GT2 RS '12,Modern Sport GT,GER,774,6.9,4.7,4.3,6.4,456,620,612,1370,3020,700,516,RWD,R,3.6,F,6,TT,Factory,2,False,L
 263,Porsche,911 GT3,2007,P. 911 GT3 '07,Sport GT Icons,GER,657,6,3.5,3.4,4.4,309,420,414,1395,3075,405,299,RWD,R,3.6,F,6,NA,Factory,2,False,L
 262,Porsche,911 GT3,2004,P. 911 GT3 '04,Sport GT Icons,GER,611,5.7,3.2,3.2,3.9,284,386,381,1433,3159,385,284,RWD,R,3.6,F,6,NA,Factory,2,False,L
