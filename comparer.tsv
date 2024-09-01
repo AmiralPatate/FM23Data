@@ -30,8 +30,13 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2022 Aston Martin Valkyrie AMR Pro                                 	Doors	2	1		
 2019 Aston Martin DBS Superleggera                                 	Doors	2	1		
 2019 Aston Martin Valhalla Concept Car                             	PI	927	927	977	927
+2019 Aston Martin Valhalla Concept Car                             	Ind	TT	T		
 2019 Aston Martin Valhalla Concept Car                             	Doors	2	1		
-2019 Aston Martin Vantage                                          	Mass	1585	3494 lb | 1585 kg	1586	
+2019 Aston Martin Vantage                                          	Year	2019	2018	2019	2019 
+2019 Aston Martin Vantage                                          	Model	Vantage	#97 AMR Vantage GTE	Vantage	Vantage
+2019 Aston Martin Vantage                                          	Division	Modern Sport GT	Forza GT	Modern Sport GT	Modern Sport GT
+2019 Aston Martin Vantage                                          	Mass	1585	NaN lb | NaN kg	1586	
+2019 Aston Martin Vantage                                          	SpecType	Factory	Race		
 2019 Aston Martin Vantage                                          	Doors	2	1		
 2017 Aston Martin #7 Aston Martin Racing V12 Vantage GT3           	Power	447	600 hp | 447 kW	448	
 2017 Aston Martin #7 Aston Martin Racing V12 Vantage GT3           	Mass	1335	2943 lb | 1335 kg	1338	
@@ -53,7 +58,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1998 Aston Martin V8 Vantage V600                                  	Torque	814	600 ftlb | 813 Nm		
 1998 Aston Martin V8 Vantage V600                                  	Mass	2002	4414 lb | 2002 kg	1623	
 1998 Aston Martin V8 Vantage V600                                  	Doors	2	1		
-1989 Aston Martin #18 Aston Martin AMR1                            	Nickname	AM #18 AMR1	#18 AMR1	AM #18 AMR1	
 1989 Aston Martin #18 Aston Martin AMR1                            	Power	552	740 hp | 552 kW	500	
 1989 Aston Martin #18 Aston Martin AMR1                            	Mass	996	2196 lb | 996 kg	910	
 1989 Aston Martin #18 Aston Martin AMR1                            	Doors	2	1		
@@ -63,6 +67,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1964 Aston Martin DB5                                              	Doors	2	1		
 1960 Aston Martin DB4 GT Zagato                                    	Doors	2	1		
 1958 Aston Martin DBR1                                             	Mass	903	1990 lb | 903 kg	875	
+1958 Aston Martin DBR1                                             	SpecType	Race	Factory		
 1958 Aston Martin DBR1                                             	Doors	2	1		
 2021 Audi RS 6 Avant (C8/5G)                                       	Doors	5	1		
 2021 Audi RS 7 Sportback (4K8)                                     	Doors	4	1		
@@ -80,8 +85,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2018 Audi TT RS (Mk3 8S)                                           	Doors	2	1		
 2016 Audi #17 Rotek Racing TT RS                                   	Mass	1080	2381 lb | 1080 kg	1100	
 2016 Audi #17 Rotek Racing TT RS                                   	Doors	2	1		
-2016 Audi R8 V10 plus (Type 4S)                                    	Power	449	602 hp | 449 kW	455	
-2016 Audi R8 V10 plus (Type 4S)                                    	Mass	1645	3627 lb | 1645 kg	1555	
 2016 Audi R8 V10 plus (Type 4S)                                    	Doors	2	1		
 2015 Audi RS 6 Avant (C7/4G)                                       	Doors	2	1		
 2015 Audi S1 (8X)                                                  	Doors	3	1		
@@ -102,7 +105,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2001 Audi RS 4 Avant (B5/8D)                                       	Doors	5	1		
 1995 Audi Avant RS2 (8C)                                           	Model	Avant RS2	Avant RS 2	Avant RS 2	
 1995 Audi Avant RS2 (8C)                                           	Doors	5	1		
-1989 Audi #4 Audi 90 quattro IMSA GTO                              	Nickname	Audi #4 90 GTO	#4 Audi 90	Audi #4 90 GTO	
 1989 Audi #4 Audi 90 quattro IMSA GTO                              	Power	530	711 hp | 530 kW	442	
 1989 Audi #4 Audi 90 quattro IMSA GTO                              	Mass	1206	2659 lb | 1206 kg	1207	
 1989 Audi #4 Audi 90 quattro IMSA GTO                              	Doors	4	1		
@@ -324,6 +326,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2013 Ferrari LaFerrari (F150)                                      	Torque	900	663 ftlb | 899 Nm		
 2013 Ferrari LaFerrari (F150)                                      	Doors	2	1		
 2012 Ferrari 599XX Evolution (F141)                                	Doors	2	1		
+2011 Ferrari #62 Risi Competizione 458 Italia GTC (F142)           	Nickname				
 2010 Ferrari 599XX (F141)                                          	Torque	650	479 ftlb | 649 Nm		
 2010 Ferrari 599XX (F141)                                          	Doors	2	1		
 2009 Ferrari 458 Italia (F142)                                     	Doors	2	1		
@@ -355,12 +358,13 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1969 Ferrari Dino 246 GT                                           	Mass	1132	2497 lb | 1133 kg		
 1969 Ferrari Dino 246 GT                                           	Doors	2	1		
 1967 Ferrari #24 Ferrari Spa 330 P4                                	Doors	2	1		
-1964 Ferrari F-158                                                 	Model	F-158	F-158 F1		F-158 F1
+1964 Ferrari F-158                                                 	Model	F-158	F-158		F-158 F1
 1964 Ferrari F-158                                                 	Doors	0	1		
 1963 Ferrari 250LM                                                 	Torque	314	231 ftlb | 313 Nm		
 1963 Ferrari 250LM                                                 	Doors	2	1		
 1962 Ferrari 250 GT Berlinetta Lusso                               	Doors	2	1		
 1962 Ferrari 250 GTO                                               	Doors	2	1		
+1957 Ferrari 250 Testa Rossa                                       	SpecType	Race	Factory		
 1957 Ferrari 250 Testa Rossa                                       	Doors	2	1		
 1948 Ferrari 166 Inter Sport                                       	Doors	0	1		
 2020 Ford Mustang Shelby GT500 (S550)                              	Doors	2	1		
@@ -407,6 +411,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1965 Ford Mustang GT Coupe                                         	Doors	2	1		
 1964 Ford GT40 MKI                                                 	Model	GT40 MKI	GT40 Mk I		GT40 Mk I
 1964 Ford GT40 MKI                                                 	EngPos	M	M		F
+1964 Ford GT40 MKI                                                 	SpecType	Race	Factory		
 1964 Ford GT40 MKI                                                 	Doors	2	1		
 2019 Ginetta #6 Team LNT Ginetta G60-LT-P1                         	Torque	850	626 ftlb | 849 Nm		
 2019 Ginetta #6 Team LNT Ginetta G60-LT-P1                         	Doors	2	1		
@@ -507,6 +512,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2008 Lamborghini Reventón                                          	Model	Reventón	Revénton		Reventón
 2008 Lamborghini Reventón                                          	Torque	660	486 ftlb | 659 Nm		
 2008 Lamborghini Reventón                                          	Doors	2	1		
+1999 Lamborghini Diablo GTR                                        	SpecType	Race	Factory		
 1999 Lamborghini Diablo GTR                                        	Doors	2	1		
 1997 Lamborghini Diablo SV                                         	Doors	2	1		
 1988 Lamborghini Countach LP5000 QV                                	Doors	2	1		
@@ -530,7 +536,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2020 Lotus Evija                                                   	Displ	0	0		
 2020 Lotus Evija                                                   	Doors	2	1		
 2016 Lotus 3-Eleven                                                	Torque	417	308 ftlb | 418 Nm		
-2016 Lotus 3-Eleven                                                	EngCfg	V	I		
 2016 Lotus 3-Eleven                                                	Doors	0	1		
 2011 Lotus Evora S                                                 	Power	257	346 hp | 258 kW		
 2011 Lotus Evora S                                                 	Doors	2	1		
@@ -580,7 +585,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2021 McLaren 765LT Coupe                                           	Model	765LT Coupe	765LT Coupe		765LT
 2021 McLaren 765LT Coupe                                           	Doors	2	1		
 2021 McLaren Sabre                                                 	Torque	801	590 ftlb | 800 Nm		
-2021 McLaren Sabre                                                 	Ind	TT	NA		
 2021 McLaren Sabre                                                 	Doors	2	1		
 2020 McLaren GT                                                    	Doors	2	1		
 2019 McLaren #03 720S GT3                                          	Doors	2	1		
@@ -600,7 +604,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2013 McLaren P1                                                    	Power	674	903 hp | 673 kW		
 2013 McLaren P1                                                    	Torque	900	683 ftlb | 926 Nm		
 2013 McLaren P1                                                    	Doors	2	1		
-1997 McLaren F1 GT                                                 	SpecType	Factory	Race		
 1997 McLaren F1 GT                                                 	Doors	2	1		
 1993 McLaren F1                                                    	Doors	2	1		
 1988 McLaren #12 Honda McLaren MP4/4                               	Power	504	675 hp | 503 kW		
@@ -651,6 +654,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1989 Mercedes-Benz #63 Sauber-Mercedes C 9                         	Torque	810	600 ftlb | 813 Nm		
 1989 Mercedes-Benz #63 Sauber-Mercedes C 9                         	Doors	2	1		
 1955 Mercedes-Benz 300 SLR (W196S)                                 	Mass	1098	2442 lb | 1108 kg		
+1955 Mercedes-Benz 300 SLR (W196S)                                 	SpecType	Race	Factory		
 1954 Mercedes-Benz 300 SL Coupé (W198)                             	Model	300 SL Coupé	300 SL Coupé		300 SL Coupe
 1954 Mercedes-Benz 300 SL Coupé (W198)                             	Doors	2	1		
 1939 Mercedes-Benz W154                                            	Torque	490	361 ftlb | 489 Nm		
@@ -700,6 +704,8 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1999 Nissan #23 NISMO Clarion R391                                 	Torque	618	455 ftlb | 617 Nm		
 1999 Nissan #23 NISMO Clarion R391                                 	Mass	967	2133 lb | 968 kg		
 1999 Nissan #23 NISMO Clarion R391                                 	Doors	0	1		
+1998 Nissan #23 Pennzoil NISMO Skyline GT-R (R33)                  	Nickname				
+1998 Nissan #23 Pennzoil NISMO Skyline GT-R (R33)                  	Doors	2	1		
 1998 Nissan R390 (GT1)                                             	Doors	2	1		
 1998 Nissan Silvia K's Aero (S14)                                  	Doors	2	1		
 1997 Nissan Skyline GT-R V-Spec (R33)                              	Doors	2	1		
@@ -765,7 +771,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1969 Pontiac GTO Judge                                             	Torque	604	445 ftlb | 603 Nm		
 1969 Pontiac GTO Judge                                             	Doors	2	1		
 2024 Porsche #5 Porsche Penske Motorsport 963                      	Torque	660	486 ftlb | 659 Nm		
-2024 Porsche #5 Porsche Penske Motorsport 963                      	Ind	TT	NA		
 2024 Porsche #5 Porsche Penske Motorsport 963                      	Doors	2	1		
 2022 Porsche 718 Cayman GT4 RS (982)                               	Doors	2	1		
 2021 Porsche 911 GT3 (992)                                         	Doors	2	1		
@@ -858,6 +863,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2004 Saleen S7                                                     	Doors	2	1		
 1965 Shelby Cobra 427 S/C                                          	Doors	2	1		
 1965 Shelby Cobra Daytona Coupe                                    	Torque	463	341 ftlb | 462 Nm		
+1965 Shelby Cobra Daytona Coupe                                    	SpecType	Race	Factory		
 1965 Shelby Cobra Daytona Coupe                                    	Doors	2	1		
 1963 Shelby Monaco King Cobra                                      	Doors	2	1		
 2016 Spania GTA GTA Spano                                          	Model	GTA Spano	GTA Spano		Spano
@@ -905,7 +911,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1990 Subaru LEGACY RS                                              	Model	LEGACY RS	LEGACY RS		Legacy RS
 1990 Subaru LEGACY RS                                              	Doors	4	1		
 2020 Toyota GR Supra (Mk5 J29)                                     	Doors	2	1		
-2019 Toyota 86 TRD SE (ZN8)                                        	Drive	RWD	FWD		RWD
 2019 Toyota 86 TRD SE (ZN8)                                        	Doors	2	1		
 2014 Toyota #8 Toyota Racing TS040 HYBRID                          	Torque	1000	737 ftlb | 999 Nm		
 2014 Toyota #8 Toyota Racing TS040 HYBRID                          	Doors	2	1		
