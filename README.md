@@ -73,6 +73,9 @@ string CountryCode, string Name
 ### divs.csv
 int DivisionID, string Name
 
+### engines.csv
+int EngineID, string EngineCode [e.g. 2.6L I6TT], int StockPower_hp, int StockTorque_ftlb, string DonorCar, int[] CarOrdinalAvailabilityList
+
 ### makes.csv
 int MakeID, string Name, string CountryCode
 
