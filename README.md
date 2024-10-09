@@ -2,7 +2,9 @@
 
 This is data and tools for Forza Motorsport 2023.
 
-The main data is the `modelexport.csv` file. It contains a bunch of information about models in-game, compiled into one file. See below for more details.
+For computer-readable data, the main data is the [`modelexport.csv`](https://github.com/AmiralPatate/FM23Data/blob/main/modelexport.csv) file. It contains a bunch of information about models in-game, compiled into one file. See below for more details on format.
+
+For human-readable data, the same information can be found at [FM23DataSheet](https://docs.google.com/spreadsheets/d/1CVn639CnmrCLwCsugE8i8RO6umfNCxaYFs1KwVt8J90/).
 
 StandaloneToolbox is a small program that does a few useful things, as detailed below. It uses a different data format, also detailed below.
 
