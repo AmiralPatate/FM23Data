@@ -18,6 +18,7 @@ Data sources
 - [Kudos Prime](https://www.kudosprime.com/fm/carlist.php)
 - [Forza Fandom wiki](https://forza.fandom.com/wiki/Forza_Motorsport_(2023)/Cars)
 - [Manteo's spreadsheet](https://docs.google.com/spreadsheets/d/1ZO5HqJW_F3jBEDn9kL_YxitJs8nijTiDTxuXUHLAP9o/edit#gid=778203711)
+- [Manteo's Engine Swaps List on Forza Forums](https://forums.forza.net/t/fm-engine-swaps-list/730211)
 - Manual entry
 
 This data is as accurate as it is.
