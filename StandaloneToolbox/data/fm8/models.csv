@@ -222,6 +222,9 @@
 154,1154,31,250 Testa Rossa,1957,Ferrari 250 TR,,36,,559,3.7,2.3,2.7,4.2,224,905,302,RWD,F,3,V,12,NA,Race,2,True,R
 153,2186,31,500 Mondial,1953,Ferrari 500 M,,36,,365,2.1,1.6,2.1,2.1,125,832,183,RWD,F,2,I,4,NA,Race,1,True,R
 152,3019,31,166 Inter Sport,1948,Ferrari 166 IS,,32,,342,1.2,1.9,2.1,2.3,96,686,159,RWD,F,2,V,12,NA,Race,0,True,R
+608,3916,32;95,#130 Mustang RTR,2024,#130 Mustang RTR,S650 - James Deane,42,Mustang,837,5.6,4.5,4.6,6.8,864,1493,1235,RWD,F,7.5,V,8,NA,Race,2,False,R
+610,3870,32;95,#25 Mustang RTR,2024,#25 Mustang RTR,S650 - Vaughn Gittin Jr.,42,Mustang,810,6.8,4.5,4.6,6.2,844,1469,1262,RWD,F,7.5,V,8,NA,Race,2,False,L
+609,3868,32;95,#88 Mustang RTR,2024,#88 Mustang RTR,S650 - Chelsea DeNofa,42,Mustang,810,6.8,4.5,4.6,6.1,844,1469,1262,RWD,F,7.5,V,8,NA,Race,2,False,L
 223,3277,32;70,Mustang Shelby GT500,2020,Ford GT500 '20,S550,25,Mustang,724,6.4,4.1,3.9,5.3,567,1892,847,RWD,F,5.2,V,8,DSC,Factory,2,False,L
 562,3251,32,#98 Breathless Pro Racing TA Mustang,2018,Ford #98 Mustang,,8,Mustang;Transam,897,5.5,7.1,7.2,6.7,634,1321,746,RWD,F,5.9,V,8,NA,Race,2,False,L
 222,3046,32,Mustang GT,2018,Ford Mustang '18,S550,25,Mustang,568,4.9,2.7,2.7,3.7,343,1681,569,RWD,F,5,V,8,NA,Factory,2,False,L
@@ -257,6 +260,10 @@
 195,1486,32;44;84,Lotus Cortina,1966,Ford Cortina '66,,38,,248,1,1.1,1.1,1.4,86,934,146,RWD,F,1.6,I,4,NA,Factory,2,False,L
 193,1355,32,Mustang GT Coupe,1965,Ford Mustang '65,,37,Mustang,338,2.3,1.1,1.2,2.9,202,1162,423,RWD,F,4.7,V,8,NA,Factory,2,False,L
 192,2980,32,GT40 MKI,1964,Ford GT40 Mk I,,35,Ford GT,691,5.3,4,4.4,4.4,291,1005,427,RWD,MR,4.7,V,8,NA,Race,2,False,R
+604,3523,95;72,#151 Toyota GR Supra,2020,FD #151 GR Supra,Mk5 J29 - Fredric Aasbø,42,Supra,801,4.1,4.2,4.4,5.7,770,1432,1232,RWD,F,3,I,6,T,Race,2,False,L
+605,2996,95;32,#13 Ford Mustang,2015,#13 Ford Mustang,S550 - Justin Pawlak,42,Mustang,767,3.3,4.1,4.2,5.6,735,1388,1128,RWD,F,5,V,8,DSC,Race,2,False,L
+606,3003,95;26,#43 Dodge Viper SRT10,2006,#43 Dodge Viper,ZB I - Dean Kearney,42,Viper,816,6.1,4.6,4.7,6.1,1007,1297,1900,RWD,F,8.3,V,10,TT,Race,2,False,L
+607,3000,95;57,#777 Nissan 240SX,1997,FD #777 240SX,S14 - Matt Field,42,S-Chassis,799,5,3.9,4.1,6.5,938,1391,1372,RWD,F,7,V,8,DSC,Race,2,False,L
 524,3460,81,#6 Team LNT Ginetta G60-LT-P1,2019,Ginetta #6 G60,,9,,981,7.1,10,10,8.1,537,886,850,RWD,MR,2.4,V,6,TT,Race,2,False,L
 580,3429,81,G40 Junior,2019,Ginetta G40 Jr,,12,,300,1,2.8,2.8,1.6,75,864,140,RWD,F,1.8,I,4,NA,Race,2,False,R
 575,3427,81,G55 GT4,2019,Ginetta G55 GT4,,8,GT4,723,3.4,5.3,5.4,4.7,283,1165,434,RWD,F,3.7,V,6,NA,Race,2,False,L
