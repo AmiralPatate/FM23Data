@@ -81,7 +81,7 @@ int EngineID, string EngineCode [e.g. 2.6L I6TT], int StockPower_hp, int StockTo
 int MakeID, string Name, string CountryCode
 
 ### models.csv
-int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nickname, string ModelExtra, int DivisionID, string[] Tags, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Mass_kg, int Torque_Nm, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors, bool IsTopless, enum DriverPosition [L,C,R]
+int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nickname, string ModelExtra, int DivisionID, string[] Tags, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Mass_kg, int Torque_Nm, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC,PDS,CS,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors, bool IsTopless, enum DriverPosition [L,C,R]
 
 ### track.csv
 int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, string TrackName, double Length_km
@@ -113,7 +113,8 @@ int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, s
 - NA: Naturally aspirated
 - T: Turbo
 - TT: Twin-turbo
-- DSC: Supercharged (positive displacement or centrifugal)
+- DSC or PDS: Positive Displacement Supercharger
+- CS: Centrifugal Supercharger
 - T4: Quad-turbo (does not appear in-game, used for Bugatti W16 engines)
 - EV: Electric / other not applicable
 
