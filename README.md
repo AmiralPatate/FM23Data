@@ -27,7 +27,9 @@ Some models may be missing as I manually add them as they come.
 
 Due to unit conversion and rounding, some values for power, mass and torque may be off by one from in-game data.
 
-All CSV files use `,` as separator. Text values may use `\\` as an escape character to replace a `,` (e.g. `A\\B` should be rendered as "A,B").
+All CSV files use `,` as separator. 
+
+Text values may use `\\` as an escape character to replace a `,` (e.g. `A\\B` represents `A,B`).
 
 All numeric types use `.` as decimal separator.
 
@@ -36,7 +38,7 @@ All array types use `;` as separator.
 ## CSV data format
 
 ### modelexport.csv
-int CarOrdinal, string Make, string Name, int Year, string Nickname, string Division, string CountryCode, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Power_PS, int Power_hp, int Mass_kg, int Mass_lb, int Torque_Nm, int Torque_ftlb, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC/PDS,CS,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors, bool IsTopless, enum DriverPosition [L,C,R]
+int CarOrdinal, string Make, string Name, int Year, string Nickname, string Division, string CountryCode, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Power_PS, int Power_hp, int Mass_kg, int Mass_lb, int Torque_Nm, int Torque_ftlb, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC/PDS,CS,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors (Deprecated), bool IsTopless, enum DriverPosition [L,C,R], enum Cockpit [Open,Closed,Door23,Door45,Other]
 
 ## Comparer.tsv
 
@@ -48,13 +50,9 @@ Shows the differences in values between the sources. The intended use is to see 
 
 C# .NET Framework 4.8 executable with the following functions:
 
-- **Models**: View, edit, create model information. Use at your own risk. Requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv`.
+- **Models**: View model information. Requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv`.
 
-- **Makes**: View, edit, create make information. Use at your own risk. Requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv`.
-
-- **Countries**: View, edit, create country information. Use at your own risk. Requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv`.
-
-- **Divisions**: View division information. Use at your own risk. Requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv`.
+- **Divisions**: View division information. Requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv`.
     
 - **Search**: Search models with pretty much any filter. Requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv`.
 
@@ -83,7 +81,7 @@ int EngineID, string EngineCode [e.g. 2.6L I6TT], int StockPower_hp, int StockTo
 int MakeID, string Name, string CountryCode
 
 ### models.csv
-int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nickname, string ModelExtra, int DivisionID, string[] Tags, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Mass_kg, int Torque_Nm, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC/PDS,CS,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors, bool IsTopless, enum DriverPosition [L,C,R]
+int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nickname, string ModelExtra, int DivisionID, string[] Tags, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Mass_kg, int Torque_Nm, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC/PDS,CS,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors (Deprecated), bool IsTopless, enum DriverPosition [L,C,R], enum Cockpit [Open,Closed,Door23,Door45,Other]
 
 ### track.csv
 int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, string TrackName, double Length_km
@@ -129,3 +127,10 @@ int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, s
 - L: Left
 - C: Centre
 - R: Right
+
+### Cockpit
+- Open: Open cockpit / 0 doors
+- Closed: Closed cockpit / 1 door
+- Door23 : 2/3-door
+- Door45 : 4/5-door
+- Other : Other
