@@ -27,6 +27,8 @@ Some models may be missing as I manually add them as they come.
 
 Due to unit conversion and rounding, some values for power, mass and torque may be off by one from in-game data.
 
+All CSV files use `,` as separator. Text values may use `\\` as an escape character to replace a `,` (e.g. `A\\B` should be rendered as "A,B").
+
 All numeric types use `.` as decimal separator.
 
 All array types use `;` as separator.
