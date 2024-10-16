@@ -58,7 +58,7 @@ C# .NET Framework 4.8 executable with the following functions:
 
 - **Tracks**: Pick a track or get a random one. Estimates the number of laps for a variety of distances and race times. Requires `tracks.csv` and `country.csv`.
   
-- **Telemetry**: Reads telemetry packets on port 56535 (hardcoded).
+- **Telemetry**: Reads telemetry packets on port 56535 (by default).
     - Time Attack mode is designed for Rivals mode. It displays lap times, copies to clipboard the best time of each run. Pull the handbrake 3 times in a lap to mark time as dirty. Dirty laps are marked as negative time. Open telemetry/timeattack.txt for a log of all times recorded. Optionally requires `tracks.csv` and `country.csv` for track information, and `divs.csv`, `makes.csv`, `country.csv` and `models.csv` for car information.
     - Free Play mode is designed for races. It displays an estimate of how long fuel (down to the last 2%) and tyres (up to moderate tyre wear) will last. The estimate is updated every 200m based on live fuel use and tyre wear, estimates get more precise as the play drives more distance in the race. Pull the handbrake 3 times in a lap to reset tyre wear data (e.g. after changing tyre type in a pit stop). Also logs lap times (final lap and race time may be slightly off, this is a limitation of the game) in telemetry/freeplay.txt. Requires `tracks.csv` and `country.csv` for track information, and optionally requires `divs.csv`, `makes.csv`, `country.csv` and `models.csv` for car information.
   
