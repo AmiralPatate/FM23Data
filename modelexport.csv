@@ -98,7 +98,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 1269,BMW,2002 Turbo,1973,BMW 2002 '73,Vintage Sport Compact,GER,298,1.6,1.2,1.3,2.3,125,170,168,1080,2381,245,181,RWD,F,2,I,4,T,Factory,2,False,L,Door23
 3285,Brabham,BT62,2019,Brabham BT62 '19,Modern Factory Racecars,GBR,911,6.3,7.7,7.8,7.8,522,710,700,1066,2350,667,492,RWD,MR,5.4,V,8,NA,Race,2,False,L,Door23
 2033,Brabham,BT24,1967,Brabham BT24,Formula 60s,GBR,756,4.2,4.7,4.9,6.1,246,334,330,517,1140,315,232,RWD,MR,3,V,8,NA,Race,0,True,C,Open
-3517,Brabham,BT8,1964,Brabham BT8,Vintage Le Mans Sportscars,GBR,538,3.4,2.3,2.2,4.5,198,269,266,631,1391,316,233,RWD,MR,2.8,I,4,NA,Race,0,False,L,Open
+3517,Brabham,BT8,1964,Brabham BT8,Vintage Le Mans Sportscars,GBR,538,3.4,2.3,2.2,4.5,198,269,266,631,1391,316,233,RWD,MR,2.8,I,4,NA,Race,0,True,R,Open
 3266,BRM,#14 Team Motul P201,1974,BRM #14 P201,Formula 70s,GBR,856,4.4,7,7.1,8.9,336,457,451,750,1653,342,252,RWD,MR,3,V,12,NA,Race,0,True,C,Open
 3168,Bugatti,Divo,2019,Bugatti Divo,Modern Hypercars,FRA,870,10,4.8,4.6,8.9,1103,1500,1479,1995,4398,1601,1181,AWD,MR,8,W,16,T4,Factory,2,False,L,Door23
 2624,Bugatti,Chiron,2018,Bugatti Chiron,Modern Hypercars,FRA,869,10,4.6,4.4,8.8,1103,1500,1479,1995,4398,1600,1180,AWD,MR,8,W,16,T4,Factory,2,False,L,Door23
@@ -262,7 +262,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 1355,Ford,Mustang GT Coupe,1965,Ford Mustang '65,Vintage Muscle,USA,338,2.3,1.1,1.2,2.9,202,275,271,1162,2562,423,312,RWD,F,4.7,V,8,NA,Factory,2,False,L,Door23
 2980,Ford,GT40 MKI,1964,Ford GT40 Mk I,Vintage Le Mans Prototypes,USA,691,5.3,4,4.4,4.4,291,396,390,1005,2216,427,315,RWD,MR,4.7,V,8,NA,Race,2,False,R,Door23
 3523,Formula Drift,#151 Toyota GR Supra,2020,FD #151 GR Supra,Formula Drift,USA,801,4.1,4.2,4.4,5.7,770,1047,1033,1432,3157,1232,909,RWD,F,3,I,6,T,Race,2,False,L,Door23
-2996,Formula Drift,#13 Ford Mustang,2015,#13 Ford Mustang,Formula Drift,USA,767,3.3,4.1,4.2,5.6,735,999,986,1388,3060,1128,832,RWD,F,5,V,8,PDS,Race,2,False,L,Door23
+2996,Formula Drift,#13 Ford Mustang,2015,#13 Ford Mustang,Formula Drift,USA,767,3.3,4.1,4.2,5.6,735,999,986,1388,3060,1128,832,RWD,F,5,V,8,CS,Race,2,False,L,Door23
 3003,Formula Drift,#43 Dodge Viper SRT10,2006,#43 Dodge Viper,Formula Drift,USA,816,6.1,4.6,4.7,6.1,1007,1369,1350,1297,2859,1900,1401,RWD,F,8.3,V,10,TT,Race,2,False,L,Door23
 3000,Formula Drift,#777 Nissan 240SX,1997,FD #777 240SX,Formula Drift,USA,799,5,3.9,4.1,6.5,938,1275,1258,1391,3067,1372,1012,RWD,F,7,V,8,PDS,Race,2,False,L,Door23
 3460,Ginetta,#6 Team LNT Ginetta G60-LT-P1,2019,Ginetta #6 G60,Forza P1,GBR,981,7.1,10,10,8.1,537,730,720,886,1953,850,627,RWD,MR,2.4,V,6,TT,Race,2,False,L,Door23
@@ -547,7 +547,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 453,Renault,Sport Clio V6,2003,Ren. Clio '03,Modern Hot Hatch,FRA,384,2.6,2.2,2.2,2.4,187,254,251,1400,3086,300,221,RWD,MR,2.9,V,6,NA,Factory,2,False,L,Door23
 2149,Renault,Clio Williams,1993,Ren. Clio '93,Hot Hatch Icons,FRA,298,1.2,1.6,1.8,1.8,106,144,142,1013,2233,175,129,FWD,F,2,I,4,NA,Factory,2,False,R,Door23
 634,Renault,5 Turbo,1980,Ren. 5 Turbo '80,Hot Hatch Icons,FRA,316,1,1.8,1.9,2.4,117,159,157,970,2138,221,163,RWD,MR,1.4,I,4,T,Factory,2,False,L,Door23
-3403,Renault,#15 Equipe Renault Elf R.S. 01,1977,Renault #15 RS01,Formula 70s,FRA,828,5,6.8,6.5,7.7,373,507,500,770,1698,372,274,RWD,MR,1.5,V,6,T,Race,0,False,L,Open
+3403,Renault,#15 Equipe Renault Elf R.S. 01,1977,Renault #15 RS01,Formula 70s,FRA,828,5,6.8,6.5,7.7,373,507,500,770,1698,372,274,RWD,MR,1.5,V,6,T,Race,0,True,C,Open
 3395,Renault,8 Gordini,1967,Ren. 8 G '67,Vintage Sport Compact,FRA,228,1,1.2,1,1.2,77,105,103,855,1885,117,86,RWD,R,1.3,I,4,NA,Factory,4,False,L,Door45
 3625,Rimac,Nevera,2021,Rimac Nevera '21,Modern Hypercars,CRO,886,9.4,4.1,4,4.3,1408,1914,1888,2150,4740,2360,1741,AWD,MR,0,E,0,EV,Factory,2,False,L,Door23
 3140,Rimac,Concept Two,2019,Rimac Concept 2,Modern Hypercars,CRO,908,8.9,4.2,4,10,1407,1913,1887,1950,4299,2298,1695,AWD,MR,0,E,0,EV,Factory,2,False,L,Door23
@@ -567,7 +567,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 1655,Subaru,BRZ,2013,SUBARU BRZ '13,Modern Sport Compact,JPN,354,2,2.1,2.4,2.2,147,200,197,1254,2765,205,151,RWD,F,2,F,4,NA,Factory,2,False,L,Door23
 1323,Subaru,WRX STI,2011,SUBARU WRX '11,Modern Sport Compact,JPN,473,3.7,2.2,2.3,2.8,227,309,304,1535,3384,394,291,AWD,F,2.5,F,4,T,Factory,4,False,L,Door45
 1060,Subaru,IMPREZA WRX STI,2008,SUBARU WRX '08,Modern Sport Compact,JPN,476,3,2.3,2.3,3.1,227,309,304,1540,3395,454,335,AWD,F,2.5,F,4,T,Factory,4,False,L,Door45
-365,Subaru,IMPREZA WRX STI,2005,SUBARU WRX '05,Early Sport Compact,JPN,503,3.5,2.2,2.4,3.3,206,280,276,1460,3219,422,311,AWD,F,2,F,4,T,Factory,4,False,R,Door45
+365,Subaru,IMPREZA WRX STI,2005,SUBARU WRX '05,Modern Sport Compact,JPN,503,3.5,2.2,2.4,3.3,206,280,276,1460,3219,422,311,AWD,F,2,F,4,T,Factory,4,False,R,Door45
 364,Subaru,IMPREZA WRX STI,2004,SUBARU WRX '04,Early Sport Compact,JPN,490,3.3,2.2,2.2,3.3,207,281,278,1460,3219,394,291,AWD,F,2,F,4,T,Factory,4,False,R,Door45
 363,Subaru,Impreza 22B-STi Version,1998,SUBARU 22B '98,Early Sport Compact,JPN,511,2.6,2.7,2.8,3.2,206,280,276,1270,2800,360,266,AWD,F,2.2,F,4,T,Factory,2,False,R,Door23
 1382,Subaru,LEGACY RS,1990,SUBARU LEGACY 90,Early Sport Compact,JPN,323,2.2,1.4,1.6,1.9,162,220,217,1355,2987,270,199,AWD,F,2,F,4,T,Factory,4,False,R,Door45
