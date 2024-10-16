@@ -78,8 +78,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1967 Brabham BT24                                                  	H	4.9	4.9		7.8
 1967 Brabham BT24                                                  	A	6.1	6.1		7.8
 1964 Brabham BT8                                                   	Mass	631	1390 lb | 630 kg		
-1964 Brabham BT8                                                   	Topless	False	True		
-1964 Brabham BT8                                                   	Steering	L	R		
 2019 Bugatti Divo                                                  	Torque	1601	1180 ftlb | 1600 Nm		
 2019 Bugatti Divo                                                  	Ind	T4	TT		
 2018 Bugatti Chiron                                                	Ind	T4	TT		
@@ -164,9 +162,9 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1957 Ferrari 250 Testa Rossa                                       	SpecType	Race	Factory		
 2024 Ford #130 Mustang RTR (S650 - James Deane)                    	B	4.5			4.6
 2024 Ford #130 Mustang RTR (S650 - James Deane)                    	H	4.6			4.5
-2024 Ford #25 Mustang RTR (S650 - Vaughn Gittin, Jr.)              	B	4.5			4.6
-2024 Ford #25 Mustang RTR (S650 - Vaughn Gittin, Jr.)              	H	4.6			4.5
-2024 Ford #25 Mustang RTR (S650 - Vaughn Gittin, Jr.)              	A	6.2			6.1
+2024 Ford #25 Mustang RTR (S650 - Vaughn Gittin Jr.)               	B	4.5			4.6
+2024 Ford #25 Mustang RTR (S650 - Vaughn Gittin Jr.)               	H	4.6			4.5
+2024 Ford #25 Mustang RTR (S650 - Vaughn Gittin Jr.)               	A	6.2			6.1
 2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	B	4.5			4.6
 2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	H	4.6			4.5
 2020 Ford Mustang Shelby GT500 (S550)                              	Ind	PDS	DSC		
@@ -357,8 +355,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2019 RAESR Tachyon Speed                                           	Displ	0	0		
 2008 Renault Megane R26.R                                          	Model	Megane R26.R	Mégane R26.R		Mégane R26.R
 1977 Renault #15 Equipe Renault Elf R.S. 01                        	Torque	372	274 ftlb | 371 Nm		
-1977 Renault #15 Equipe Renault Elf R.S. 01                        	Topless	False	True		
-1977 Renault #15 Equipe Renault Elf R.S. 01                        	Steering	L	C		
 2021 Rimac Nevera                                                  	Power	1408	1893 hp | 1412 kW		
 2021 Rimac Nevera                                                  	Torque	2360	1739 ftlb | 2358 Nm		
 2021 Rimac Nevera                                                  	Displ	0	0		
@@ -388,7 +384,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2008 Subaru IMPREZA WRX STI (GR)                                   	Model	IMPREZA WRX STI	IMPREZA WRX STI		Impreza WRX STI
 2005 Subaru IMPREZA WRX STI (GD)                                   	Make	Subaru	SUBARU		Subaru
 2005 Subaru IMPREZA WRX STI (GD)                                   	Model	IMPREZA WRX STI	IMPREZA WRX STi		Impreza WRX STi
-2005 Subaru IMPREZA WRX STI (GD)                                   	Division	Early Sport Compact	Modern Sport Compact		Modern Sport Compact
 2004 Subaru IMPREZA WRX STI (GD)                                   	Make	Subaru	SUBARU		Subaru
 2004 Subaru IMPREZA WRX STI (GD)                                   	Model	IMPREZA WRX STI	IMPREZA WRX STI		Impreza WRX STi
 2004 Subaru IMPREZA WRX STI (GD)                                   	Torque	394	290 ftlb | 393 Nm		
