@@ -226,6 +226,8 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 3916,Ford,#130 Mustang RTR,2024,#130 Mustang RTR,Formula Drift,USA,837,5.6,4.5,4.6,6.8,864,1175,1159,1493,3292,1235,911,RWD,F,7.5,V,8,NA,Race,2,False,R,Door23
 3870,Ford,#25 Mustang RTR,2024,#25 Mustang RTR,Formula Drift,USA,810,6.8,4.5,4.6,6.2,844,1148,1132,1469,3239,1262,931,RWD,F,7.5,V,8,NA,Race,2,False,L,Door23
 3868,Ford,#88 Mustang RTR,2024,#88 Mustang RTR,Formula Drift,USA,810,6.8,4.5,4.6,6.1,844,1148,1132,1469,3239,1262,931,RWD,F,7.5,V,8,NA,Race,2,False,L,Door23
+3847,Ford,Mustang Dark Horse,2024,Ford Dark Horse,Modern Sport Touring,USA,633,5.4,3.8,3.5,4,373,507,500,1791,3948,567,418,RWD,F,5,V,8,NA,Factory,2,False,L,Door23
+3846,Ford,Mustang GT,2024,Ford Mustang '24,Modern Sport Touring,USA,579,4.9,2.8,2.8,3.8,362,492,485,1736,3827,567,418,RWD,F,5,V,8,NA,Factory,2,False,L,Door23
 3277,Ford,Mustang Shelby GT500,2020,Ford GT500 '20,Modern Sport Touring,USA,724,6.4,4.1,3.9,5.3,567,771,760,1892,4171,847,625,RWD,F,5.2,V,8,PDS,Factory,2,False,L,Door23
 3251,Ford,#98 Breathless Pro Racing TA Mustang,2018,Ford #98 Mustang,Forza GT,USA,897,5.5,7.1,7.2,6.7,634,862,850,1321,2912,746,550,RWD,F,5.9,V,8,NA,Race,2,False,L,Door23
 3046,Ford,Mustang GT,2018,Ford Mustang '18,Modern Sport Touring,USA,568,4.9,2.7,2.7,3.7,343,466,460,1681,3706,569,420,RWD,F,5,V,8,NA,Factory,2,False,L,Door23
@@ -255,6 +257,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 1302,Ford,Escort RS1800,1977,Ford Escort '77,Vintage Sport Compact,USA,267,1,1.3,1.3,1.7,86,117,115,901,1986,171,126,RWD,F,1.8,I,4,NA,Factory,2,False,R,Door23
 1580,Ford,Escort RS1600,1973,Ford Escort '73,Vintage Sport Compact,USA,263,1,1.2,1.2,1.7,85,116,114,870,1918,149,110,RWD,F,1.6,I,4,NA,Factory,2,False,R,Door23
 1278,Ford,XB Falcon GT,1973,Ford Falcon '73,Vintage Muscle,USA,337,2,1.3,1.2,2.8,224,305,300,1382,3047,515,380,RWD,F,5.8,V,8,NA,Factory,2,False,R,Door23
+3436,Ford,#15 Mustang Boss 302 Trans Am,1970,Ford #15 Mustang,Vintage Trans Am,USA,584,3,3.7,3.5,3.2,343,466,460,1470,3241,489,361,RWD,F,4.9,V,8,NA,Race,2,False,L,Door23
 1668,Ford,Mustang Boss 302,1969,Ford Mustang '69,Vintage Muscle,USA,343,2.7,1.3,1.4,2.4,216,294,290,1474,3250,393,290,RWD,F,4.9,V,8,NA,Factory,2,False,L,Door23
 2614,Ford,Mustang GT 2+2 Fastback,1968,Ford Mustang '68,Vintage Muscle,USA,297,3,1,1,2.3,242,329,325,1609,3547,579,427,RWD,F,6.4,V,8,NA,Factory,2,False,L,Door23
 2792,Ford,#2 GT40 Mk II Le Mans,1966,Ford GT40 Mk II,Vintage Le Mans Prototypes,USA,728,6,4.3,4.6,5,362,492,485,1217,2683,644,475,RWD,MR,7,V,8,NA,Race,2,False,R,Door23
@@ -303,7 +306,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 2800,Jaguar,#44 Group 44 XJR-5,1983,Jag. #44 XJR-15,GTP/C,GBR,928,7.2,9.2,9.9,7.5,391,532,524,921,2030,584,431,RWD,MR,5.3,V,12,NA,Race,2,False,R,Door23
 336,Jaguar,E-type,1961,Jag. E-Type,Vintage Le Mans Sportscars,GBR,304,1.5,1.3,1.5,1.9,198,269,266,1315,2899,353,260,RWD,F,3.8,I,6,NA,Factory,2,False,R,Door23
 2559,Jaguar,Mk II 3.8,1959,Jag. Mk II '59,Sport Coupe Icons,GBR,252,1,1,1,1.6,164,223,220,1524,3360,326,240,RWD,F,3.8,I,6,NA,Factory,4,False,R,Door45
-1301,Jaguar,D-Type,1956,Jag. D-Type,Vintage Le Mans Sportscars,GBR,493,4.7,2.3,2.9,2.3,183,249,245,953,2101,328,242,RWD,F,3.4,I,6,NA,Race,1,True,R,Closed
+1301,Jaguar,D-Type,1956,Jag. D-Type,Vintage Le Mans Sportscars,GBR,493,4.7,2.3,2.9,2.3,183,249,245,953,2101,328,242,RWD,F,3.4,I,6,NA,Race,0,True,R,Open
 3315,Koenigsegg,Jesko,2020,Koe. Jesko '20,Modern Hypercars,SWE,941,10,6.3,6.3,7.8,1195,1625,1603,1420,3131,1500,1106,RWD,MR,5.1,V,8,TT,Factory,2,False,L,Door23
 2910,Koenigsegg,Agera RS,2017,Koe. Agera '17,Modern Hypercars,SWE,905,10,5.6,5.5,7.8,1000,1360,1341,1395,3075,1369,1010,RWD,MR,5.1,V,8,TT,Factory,2,False,L,Door23
 3492,KTM,X-Bow GT2,2020,KTM X-Bow GT2,Forza GT,AUT,849,5.1,6.6,6.8,6.7,447,608,599,1138,2509,720,531,RWD,MR,2.5,I,5,T,Race,2,False,L,Door23
@@ -421,7 +424,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 568,Mercedes-Benz,AMG CLK GTR,1998,MB CLK GTR '98,Early Factory Racecars,GER,759,6.2,4.9,5,5.7,464,631,622,1507,3322,731,539,RWD,MR,6.9,V,12,NA,Factory,2,False,L,Door23
 1296,Mercedes-Benz,190E 2.5-16 Evolution II,1990,MB 190E '90,Sport Touring Classics,GER,400,3,2.7,2.8,2.4,175,238,235,1350,2976,246,181,RWD,F,3,I,4,NA,Factory,4,False,L,Door45
 1560,Mercedes-Benz,#63 Sauber-Mercedes C 9,1989,MB #63 C9,GTP/C,GER,959,8.4,9.7,10,8.3,559,760,750,979,2158,810,597,RWD,MR,5,V,8,TT,Race,2,False,R,Door23
-1559,Mercedes-Benz,300 SLR,1955,MB 300 SLR,Vintage Le Mans Sportscars,GER,533,4.7,2.5,3.1,3.3,231,314,310,1098,2421,317,234,RWD,F,3,I,8,NA,Race,1,True,L,Closed
+1559,Mercedes-Benz,300 SLR,1955,MB 300 SLR,Vintage Le Mans Sportscars,GER,533,4.7,2.5,3.1,3.3,231,314,310,1098,2421,317,234,RWD,F,3,I,8,NA,Race,0,True,L,Open
 251,Mercedes-Benz,300 SL Coupé,1954,MB 300 SL '54,Sport Coupe Icons,GER,291,2,1.1,1.3,1.9,180,245,241,1343,2961,294,217,RWD,F,3,I,6,NA,Factory,2,False,L,Door23
 2069,Mercedes-Benz,W154,1939,MB W154,The Birth of Grand Prix,GER,583,5.8,2.1,2.7,3.2,360,489,483,1312,2892,490,361,RWD,F,3,V,12,PDS,Race,0,True,C,Open
 2333,Mercury,#15 Whistler Radar Cougar XR-7,1990,Mercury #15 XR-7,GTX Sportscars,USA,812,5.9,5.6,5.9,5.8,503,684,675,1201,2648,760,561,RWD,F,5.5,V,8,NA,Race,2,False,L,Door23
