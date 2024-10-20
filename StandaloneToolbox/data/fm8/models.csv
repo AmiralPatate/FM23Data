@@ -18,7 +18,7 @@
 24,3185,7,DBS Superleggera,2019,AM DBS '19,,18,,727,7.1,3.8,3.4,5.8,533,1799,899,RWD,F,5.2,V,12,TT,Factory,2,False,L,Door23
 25,3364,7,Valhalla Concept Car,2019,AM Valhalla '19,,21,,927,8.5,6.2,6.1,10,777,1405,1349,AWD,MR,3,V,6,TT,Factory,2,False,L,Door23
 26,3091,7,Vantage,2019,AM Vantage '19,,24,,665,5.6,3.6,3.6,4.5,375,1585,685,RWD,F,4,V,8,TT,Factory,2,False,R,Door23
-601,3762,7,#97 AMR Vantage GTE,2018,#97 Vantage GTE,,8,,822,4.5,6.7,6.8,6.4,400,1320,700,RWD,F,4,V,8,TT,Race,2,False,L,Door23
+601,3762,7,#97 AMR Vantage GTE,2018,#97 Vantage GTE,,8,GT2,822,4.5,6.7,6.8,6.4,400,1320,700,RWD,F,4,V,8,TT,Race,2,False,L,Door23
 21,2860,7,#7 Aston Martin Racing V12 Vantage GT3,2017,AM #7 Vantage,,8,GT3,833,4.7,6.7,6.8,6.4,447,1335,700,RWD,F,5.9,V,12,NA,Race,2,False,L,Door23
 22,3125,7,Vanquish Zagato Coupe,2017,AM Vanquish '17,,18,,675,6.1,3.8,3.5,4.7,444,1765,629,RWD,F,5.9,V,12,NA,Factory,2,False,R,Door23
 23,3211,7,Vulcan AMR Pro,2017,AM Vulcan AMR 17,,19,,885,5.8,7.6,7.5,6.4,611,1360,800,RWD,F,6.9,V,12,NA,Race,2,False,L,Door23
@@ -225,6 +225,8 @@
 608,3916,32;95,#130 Mustang RTR,2024,#130 Mustang RTR,S650 - James Deane,42,Mustang,837,5.6,4.5,4.6,6.8,864,1493,1235,RWD,F,7.5,V,8,NA,Race,2,False,R,Door23
 610,3870,32;95,#25 Mustang RTR,2024,#25 Mustang RTR,S650 - Vaughn Gittin Jr.,42,Mustang,810,6.8,4.5,4.6,6.2,844,1469,1262,RWD,F,7.5,V,8,NA,Race,2,False,L,Door23
 609,3868,32;95,#88 Mustang RTR,2024,#88 Mustang RTR,S650 - Chelsea DeNofa,42,Mustang,810,6.8,4.5,4.6,6.1,844,1469,1262,RWD,F,7.5,V,8,NA,Race,2,False,L,Door23
+611,3847,32,Mustang Dark Horse,2024,Ford Dark Horse,S650,25,Mustang,633,5.4,3.8,3.5,4,373,1791,567,RWD,F,5,V,8,NA,Factory,2,False,L,Door23
+612,3846,32,Mustang GT,2024,Ford Mustang '24,S650,25,Mustang,579,4.9,2.8,2.8,3.8,362,1736,567,RWD,F,5,V,8,NA,Factory,2,False,L,Door23
 223,3277,32;70,Mustang Shelby GT500,2020,Ford GT500 '20,S550,25,Mustang,724,6.4,4.1,3.9,5.3,567,1892,847,RWD,F,5.2,V,8,DSC,Factory,2,False,L,Door23
 562,3251,32,#98 Breathless Pro Racing TA Mustang,2018,Ford #98 Mustang,,8,Mustang;Transam,897,5.5,7.1,7.2,6.7,634,1321,746,RWD,F,5.9,V,8,NA,Race,2,False,L,Door23
 222,3046,32,Mustang GT,2018,Ford Mustang '18,S550,25,Mustang,568,4.9,2.7,2.7,3.7,343,1681,569,RWD,F,5,V,8,NA,Factory,2,False,L,Door23
@@ -254,6 +256,7 @@
 200,1302,32;84,Escort RS1800,1977,Ford Escort '77,MkII,38,Escort,267,1,1.3,1.3,1.7,86,901,171,RWD,F,1.8,I,4,NA,Factory,2,False,R,Door23
 198,1580,32;84,Escort RS1600,1973,Ford Escort '73,MkI,38,Escort,263,1,1.2,1.2,1.7,85,870,149,RWD,F,1.6,I,4,NA,Factory,2,False,R,Door23
 199,1278,32;85,XB Falcon GT,1973,Ford Falcon '73,,37,,337,2,1.3,1.2,2.8,224,1382,515,RWD,F,5.8,V,8,NA,Factory,2,False,R,Door23
+613,3436,32,#15 Mustang Boss 302 Trans Am,1970,Ford #15 Mustang,,41,Mustang,584,3,3.7,3.5,3.2,343,1470,489,RWD,F,4.9,V,8,NA,Race,2,False,L,Door23
 197,1668,32,Mustang Boss 302,1969,Ford Mustang '69,,37,Mustang,343,2.7,1.3,1.4,2.4,216,1474,393,RWD,F,4.9,V,8,NA,Factory,2,False,L,Door23
 196,2614,32,Mustang GT 2+2 Fastback,1968,Ford Mustang '68,,37,Mustang,297,3,1,1,2.3,242,1609,579,RWD,F,6.4,V,8,NA,Factory,2,False,L,Door23
 194,2792,32,#2 GT40 Mk II Le Mans,1966,Ford GT40 Mk II,,35,Ford GT,728,6,4.3,4.6,5,362,1217,644,RWD,MR,7,V,8,NA,Race,2,False,R,Door23
@@ -302,7 +305,7 @@
 251,2800,38,#44 Group 44 XJR-5,1983,Jag. #44 XJR-15,,14,,928,7.2,9.2,9.9,7.5,391,921,584,RWD,MR,5.3,V,12,NA,Race,2,False,R,Door23
 250,336,38,E-type,1961,Jag. E-Type,,36,,304,1.5,1.3,1.5,1.9,198,1315,353,RWD,F,3.8,I,6,NA,Factory,2,False,R,Door23
 249,2559,38,Mk II 3.8,1959,Jag. Mk II '59,,27,,252,1,1,1,1.6,164,1524,326,RWD,F,3.8,I,6,NA,Factory,4,False,R,Door45
-248,1301,38,D-Type,1956,Jag. D-Type,,36,,493,4.7,2.3,2.9,2.3,183,953,328,RWD,F,3.4,I,6,NA,Race,1,True,R,Closed
+248,1301,38,D-Type,1956,Jag. D-Type,,36,,493,4.7,2.3,2.9,2.3,183,953,328,RWD,F,3.4,I,6,NA,Race,0,True,R,Open
 260,3315,39,Jesko,2020,Koe. Jesko '20,,21,,941,10,6.3,6.3,7.8,1195,1420,1500,RWD,MR,5.1,V,8,TT,Factory,2,False,L,Door23
 259,2910,39,Agera RS,2017,Koe. Agera '17,,21,,905,10,5.6,5.5,7.8,1000,1395,1369,RWD,MR,5.1,V,8,TT,Factory,2,False,L,Door23
 516,3492,40,X-Bow GT2,2020,KTM X-Bow GT2,,8,,849,5.1,6.6,6.8,6.7,447,1138,720,RWD,MR,2.5,I,5,T,Race,2,False,L,Door23
@@ -420,7 +423,7 @@
 597,568,50;49,AMG CLK GTR,1998,MB CLK GTR '98,,1,,759,6.2,4.9,5,5.7,464,1507,731,RWD,MR,6.9,V,12,NA,Factory,2,False,L,Door23
 346,1296,50,190E 2.5-16 Evolution II,1990,MB 190E '90,W201,30,,400,3,2.7,2.8,2.4,175,1350,246,RWD,F,3,I,4,NA,Factory,4,False,L,Door45
 345,1560,50,#63 Sauber-Mercedes C 9,1989,MB #63 C9,,14,,959,8.4,9.7,10,8.3,559,979,810,RWD,MR,5,V,8,TT,Race,2,False,R,Door23
-344,1559,50,300 SLR,1955,MB 300 SLR,W196S,36,,533,4.7,2.5,3.1,3.3,231,1098,317,RWD,F,3,I,8,NA,Race,1,True,L,Closed
+344,1559,50,300 SLR,1955,MB 300 SLR,W196S,36,,533,4.7,2.5,3.1,3.3,231,1098,317,RWD,F,3,I,8,NA,Race,0,True,L,Open
 343,251,50,300 SL Coupé,1954,MB 300 SL '54,W198,27,,291,2,1.1,1.3,1.9,180,1343,294,RWD,F,3,I,6,NA,Factory,2,False,L,Door23
 342,2069,50,W154,1939,MB W154,,32,,583,5.8,2.1,2.7,3.2,360,1312,490,RWD,F,3,V,12,DSC,Race,0,True,C,Open
 355,2333,51,#15 Whistler Radar Cougar XR-7,1990,Mercury #15 XR-7,,15,,812,5.9,5.6,5.9,5.8,503,1201,760,RWD,F,5.5,V,8,NA,Race,2,False,L,Door23
