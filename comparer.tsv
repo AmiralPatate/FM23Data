@@ -111,6 +111,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2010 Chevrolet #55 Level 5 Motorsports Oreca FLM09                 	Torque	630	464 ftlb | 629 Nm		
 2009 Chevrolet Corvette ZR1 (C6)                                   	Ind	PDS	DSC		
 1976 Chevrolet #76 Greenwood Corvette (C3)                         	Power	552	700 hp | 522 kW		
+1969 Chevrolet Camaro Jordan Luka 3 Motorsport Edition             	Ordinal	3972	3,972		
 1969 Chevrolet Camaro Jordan Luka 3 Motorsport Edition             	Torque	660	486 ftlb | 659 Nm		
 1969 Chevrolet Camaro Jordan Luka 3 Motorsport Edition             	SpecType	Upgraded	Tuner		
 1970 Chevron B16                                                   	Year	1970	1964		1970 
@@ -160,13 +161,17 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1964 Ferrari F-158                                                 	Model	F-158	F-158		F-158 F1
 1963 Ferrari 250LM                                                 	Torque	314	231 ftlb | 313 Nm		
 1957 Ferrari 250 Testa Rossa                                       	SpecType	Race	Factory		
-2024 Ford #130 Mustang RTR (S650 - James Deane)                    	B	4.5			4.6
-2024 Ford #130 Mustang RTR (S650 - James Deane)                    	H	4.6			4.5
-2024 Ford #25 Mustang RTR (S650 - Vaughn Gittin Jr.)               	B	4.5			4.6
-2024 Ford #25 Mustang RTR (S650 - Vaughn Gittin Jr.)               	H	4.6			4.5
-2024 Ford #25 Mustang RTR (S650 - Vaughn Gittin Jr.)               	A	6.2			6.1
-2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	B	4.5			4.6
-2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	H	4.6			4.5
+2024 Ford #130 Mustang RTR (S650 - James Deane)                    	B	4.5	4.5		4.6
+2024 Ford #130 Mustang RTR (S650 - James Deane)                    	H	4.6	4.6		4.5
+2024 Ford #130 Mustang RTR (S650 - James Deane)                    	Torque	1235	910 ftlb | 1234 Nm		
+2024 Ford #130 Mustang RTR (S650 - James Deane)                    	Steering	R	L		
+2024 Ford #25 Mustang RTR (S650 - Vaughn Gittin Jr.)               	B	4.5	4.5		4.6
+2024 Ford #25 Mustang RTR (S650 - Vaughn Gittin Jr.)               	H	4.6	4.6		4.5
+2024 Ford #25 Mustang RTR (S650 - Vaughn Gittin Jr.)               	A	6.2	6.1		6.1
+2024 Ford #25 Mustang RTR (S650 - Vaughn Gittin Jr.)               	Torque	1262	930 ftlb | 1261 Nm		
+2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	B	4.5	4.5		4.6
+2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	H	4.6	4.6		4.5
+2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	Torque	1262	930 ftlb | 1261 Nm		
 2020 Ford Mustang Shelby GT500 (S550)                              	Ind	PDS	DSC		
 2015 Ford #02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype  	Torque	733	540 ftlb | 732 Nm		
 2015 Ford Falcon GT F 351                                          	Ind	PDS	DSC		
@@ -181,12 +186,17 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1964 Ford GT40 MKI                                                 	Model	GT40 MKI	GT40 Mk I		GT40 Mk I
 1964 Ford GT40 MKI                                                 	EngPos	M	M		F
 1964 Ford GT40 MKI                                                 	SpecType	Race	Factory		
-2020 Formula Drift #151 Toyota GR Supra (Mk5 J29 - Fredric Aasbø)  	B	4.2			4.4
-2020 Formula Drift #151 Toyota GR Supra (Mk5 J29 - Fredric Aasbø)  	H	4.4			4.2
-2006 Formula Drift #43 Dodge Viper SRT10 (ZB I - Dean Kearney)     	B	4.6			4.7
-2006 Formula Drift #43 Dodge Viper SRT10 (ZB I - Dean Kearney)     	H	4.7			4.6
-1997 Formula Drift #777 Nissan 240SX (S14 - Matt Field)            	B	3.9			4.1
-1997 Formula Drift #777 Nissan 240SX (S14 - Matt Field)            	H	4.1			3.9
+2020 Formula Drift #151 Toyota GR Supra (Mk5 J29 - Fredric Aasbø)  	B	4.2	4.2		4.4
+2020 Formula Drift #151 Toyota GR Supra (Mk5 J29 - Fredric Aasbø)  	H	4.4	4.4		4.2
+2020 Formula Drift #151 Toyota GR Supra (Mk5 J29 - Fredric Aasbø)  	Torque	1232	908 ftlb | 1231 Nm		
+2015 Formula Drift #13 Ford Mustang (S550 - Justin Pawlak)         	Ind	CS	DSC		
+2006 Formula Drift #43 Dodge Viper SRT10 (ZB I - Dean Kearney)     	B	4.6	4.6		4.7
+2006 Formula Drift #43 Dodge Viper SRT10 (ZB I - Dean Kearney)     	H	4.7	4.7		4.6
+2006 Formula Drift #43 Dodge Viper SRT10 (ZB I - Dean Kearney)     	Torque	1900	1400 ftlb | 1898 Nm		
+1997 Formula Drift #777 Nissan 240SX (S14 - Matt Field)            	B	3.9	3.9		4.1
+1997 Formula Drift #777 Nissan 240SX (S14 - Matt Field)            	H	4.1	4.1		3.9
+1997 Formula Drift #777 Nissan 240SX (S14 - Matt Field)            	Torque	1372	1011 ftlb | 1371 Nm		
+1997 Formula Drift #777 Nissan 240SX (S14 - Matt Field)            	Ind	PDS	CS		
 2019 Ginetta #6 Team LNT Ginetta G60-LT-P1                         	Torque	850	626 ftlb | 849 Nm		
 2022 Gordon Murray Automotive T.50                                 	Power	489	655 hp | 488 kW		
 2022 Gordon Murray Automotive T.50                                 	Torque	467	344 ftlb | 466 Nm		
@@ -209,6 +219,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1959 Jaguar Mk II 3.8                                              	SpecType	Factory	Race		
 2020 Koenigsegg Jesko                                              	Torque	1500	1105 ftlb | 1498 Nm		
 2020 KTM X-Bow GT2                                                 	Division	Forza GT	Forza GT		Modern Factory Racecars
+2022 Lamborghini Huracán EVO Spyder                                	Torque	600	442 ftlb | 599 Nm		
 2022 Lamborghini Huracán EVO Spyder                                	Topless	False	True		
 2020 Lamborghini Essenza SCV12                                     	Year	2020	2020		2021 
 2020 Lamborghini Essenza SCV12                                     	Division	Forza GT	Forza GT		Modern Factory Racecars
@@ -304,6 +315,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2015 Nissan #23 GT-R LM NISMO                                      	Torque	1206	889 ftlb | 1205 Nm		
 1999 Nissan #23 NISMO Clarion R391                                 	Torque	618	455 ftlb | 617 Nm		
 1999 Nissan #23 NISMO Clarion R391                                 	Mass	967	2133 lb | 968 kg		
+1998 Nissan #23 Pennzoil NISMO Skyline GT-R (R33)                  	Torque	706	520 ftlb | 705 Nm		
 1993 Nissan Skyline GT-R V-Spec (R32 _Godzilla_)                   	Drive	AWD	AWD		RWD
 1991 Nissan #23 Nissan R91CP                                       	Power	597	671 hp | 500 kW		
 1990 Nissan Pulsar GTI-R                                           	Model	Pulsar GTI-R	Pulsar GTi-R		Pulsar GTI-R
@@ -360,6 +372,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2021 Rimac Nevera                                                  	Displ	0	0		
 2019 Rimac Concept Two                                             	Displ	0	0		
 2017 Saleen S7 LM                                                  	Torque	1153	850 ftlb | 1152 Nm		
+1967 Shelby GT 500                                                 	Torque	570	420 ftlb | 569 Nm		
 1965 Shelby Cobra Daytona Coupe                                    	Torque	463	341 ftlb | 462 Nm		
 1965 Shelby Cobra Daytona Coupe                                    	SpecType	Race	Factory		
 2016 Spania GTA GTA Spano                                          	Model	GTA Spano	GTA Spano		Spano
