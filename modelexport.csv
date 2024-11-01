@@ -244,6 +244,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 2019,Ford,Focus RS,2003,Ford Focus '03,Modern Hot Hatch,USA,384,1.9,2.1,2.1,2.6,158,215,212,1280,2822,309,228,FWD,F,2,I,4,T,Factory,2,False,L,Door23
 405,Ford,SVT Cobra R,2000,Ford Cobra R '00,Sport Touring Classics,USA,533,4.3,3.1,3,3.2,287,390,385,1637,3609,522,385,RWD,F,5.4,V,8,NA,Factory,2,False,L,Door23
 3228,Ford,Racing Puma,1999,Ford Puma '99,Early Sport Compact,USA,303,1.4,2.1,2.2,1.7,114,155,153,1174,2588,161,119,FWD,F,1.7,I,4,NA,Factory,2,False,R,Door23
+1510,Ford,Mustang SVT Cobra R,1995,Ford Mustang '95,Sport Touring Classics,USA,443,3.5,2.4,2.5,2.8,224,305,300,1509,3327,495,365,RWD,F,5.8,V,8,NA,Factory,2,False,L,Door23
 1041,Ford,SVT Cobra R,1993,Ford Cobra R '93,Sport Touring Classics,USA,374,2.2,2.2,2.4,2.3,175,238,235,1417,3124,380,280,RWD,F,4.9,V,8,NA,Factory,2,False,L,Door23
 1272,Ford,Escort RS Cosworth,1992,Ford Escort '92,Hot Hatch Icons,USA,421,2.7,2.5,2.8,2.4,167,227,224,1275,2811,304,224,AWD,F,2,I,4,T,Factory,2,False,R,Door23
 2514,Ford,Falcon GT,1992,Ford Falcon '92,Sport Touring Classics,USA,396,3.5,1.8,2,2.6,200,272,268,1647,3631,420,310,RWD,F,4.9,V,8,NA,Factory,4,False,R,Door45
