@@ -120,6 +120,7 @@
 99,1652,20,Superlight R500,2013,Caterham '13,,33,,669,2.9,3.5,3.4,5.5,196,506,240,RWD,F,2,I,4,NA,Factory,0,True,L,Open
 100,1553,21,#66 Chaparral Cars 2E,1966,Chaparral #66 2E,,26,,818,4.2,6.9,6.8,5.9,354,800,577,RWD,MR,5.4,V,8,NA,Race,2,True,R,Door23
 127,3771,22,Corvette E-Ray,2024,Chev. E-Ray '24,C8,24,Corvette,759,6.1,4.3,4,5.8,481,1764,801,AWD,MR,6.2,V,8,NA,Factory,2,False,L,Door23
+617,-1,22,NSACAR Next Gen Camaro ZL1,2024,,,43,,855,6,7,7,5.5,500,1508,638,RWD,F,5.9,V,8,NA,Factory,-1,False,L,Other
 126,3766,22,Corvette Z06,2023,Chev. C8 Z06 '23,C8,24,Corvette,757,5.1,5.1,4.5,6.2,500,1613,624,RWD,MR,5.5,V,8,NA,Factory,2,False,L,Door23
 123,3490,22,#3 Corvette Racing C8.R,2020,Chev. #3 C8,C8,8,Corvette;GT2,821,4.6,6.7,7,6.3,373,1330,651,RWD,MR,5.5,V,8,NA,Race,2,False,L,Door23
 124,3369,22,Corvette Stingray Coupe,2020,Chev. C8 '20,C8,24,Corvette,678,4.8,3.7,3.7,5.3,369,1623,637,RWD,MR,6.2,V,8,NA,Factory,2,False,L,Door23
@@ -227,6 +228,7 @@
 609,3868,32;95,#88 Mustang RTR,2024,#88 Mustang RTR,S650 - Chelsea DeNofa,42,Mustang,810,6.8,4.5,4.6,6.1,844,1469,1262,RWD,F,7.5,V,8,NA,Race,2,False,L,Door23
 611,3847,32,Mustang Dark Horse,2024,Ford Dark Horse,S650,25,Mustang,633,5.4,3.8,3.5,4,373,1791,567,RWD,F,5,V,8,NA,Factory,2,False,L,Door23
 612,3846,32,Mustang GT,2024,Ford Mustang '24,S650,25,Mustang,579,4.9,2.8,2.8,3.8,362,1736,567,RWD,F,5,V,8,NA,Factory,2,False,L,Door23
+618,-1,32,NASCAR Next Gen Mustang Dark Horse,2024,,,43,,855,6,7,7,5.5,500,1508,638,RWD,F,5.9,V,8,NA,Factory,-1,False,L,Other
 223,3277,32;70,Mustang Shelby GT500,2020,Ford GT500 '20,S550,25,Mustang,724,6.4,4.1,3.9,5.3,567,1892,847,RWD,F,5.2,V,8,DSC,Factory,2,False,L,Door23
 562,3251,32,#98 Breathless Pro Racing TA Mustang,2018,Ford #98 Mustang,,8,Mustang;Transam,897,5.5,7.1,7.2,6.7,634,1321,746,RWD,F,5.9,V,8,NA,Race,2,False,L,Door23
 222,3046,32,Mustang GT,2018,Ford Mustang '18,S550,25,Mustang,568,4.9,2.7,2.7,3.7,343,1681,569,RWD,F,5,V,8,NA,Factory,2,False,L,Door23
@@ -238,6 +240,7 @@
 216,2409,32,#02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype,2015,Ford #02 DP,,10,,921,5.1,9.3,9.2,6.8,447,1096,733,RWD,MR,3.5,V,6,TT,Race,2,False,L,Door23
 217,2580,32;85,Falcon GT F 351,2015,Ford Falcon '15,,25,,544,5.6,2.6,2.4,3.6,351,1828,569,RWD,F,5,V,8,DSC,Factory,4,False,R,Door45
 215,2314,32;84,#17 AMD Tuning Focus ST BTCC,2014,Ford #17Focus ST,,12,Focus,703,3.4,5.2,5.4,4.3,246,1160,427,FWD,F,2,I,4,T,Race,4,False,R,Door45
+619,1654,32;70,Shelby GT500,2013,Ford Mustang '13,,25,Mustang,639,6.1,2.9,2.9,4.1,494,1768,856,RWD,F,5.8,V,8,DSC,Factory,-1,False,L,Other
 214,1086,32;84,Focus RS,2009,Ford Focus '09,C307 MkII,20,Focus,485,2.8,2.6,2.6,3,224,1468,431,FWD,F,2.5,I,5,T,Factory,2,False,R,Door23
 213,348,32,Ford GT,2005,Ford GT '05,,24,Ford GT,642,6.6,3.4,3.5,4.2,410,1538,678,RWD,MR,5.4,V,8,DSC,Factory,2,False,L,Door23
 212,2019,32;84,Focus RS,2003,Ford Focus '03,C170 MkI,20,Focus,384,1.9,2.1,2.1,2.6,158,1280,309,FWD,F,2,I,4,T,Factory,2,False,L,Door23
@@ -555,6 +558,7 @@
 460,3625,68,Nevera,2021,Rimac Nevera '21,,21,,886,9.4,4.1,4,4.3,1408,2150,2360,AWD,MR,0,E,0,EV,Factory,2,False,L,Door23
 459,3140,68,Concept Two,2019,Rimac Concept 2,,21,,908,8.9,4.2,4,10,1407,1950,2298,AWD,MR,0,E,0,EV,Factory,2,False,L,Door23
 462,3276,69,S1,2018,Saleen S1 '18,,24,,694,4.4,4.3,4.3,5.1,336,1218,599,RWD,MR,2.5,I,4,T,Factory,2,False,L,Door23
+620,3278,69;32,S302 Black Label,2018,Saleen S302,,25,Mustang,681,7.3,3,3,4.8,582,1717,855,RWD,F,5,V,8,DSC,Factory,-1,False,L,Other
 535,3498,69,S7 LM,2017,Saleen S7 LM,,18,,860,9.2,5.4,5.4,7.2,746,1338,1153,RWD,MR,7,V,8,TT,Factory,2,False,L,Door23
 461,432,69,S7,2004,Saleen S7 '04,,4,,753,7.8,4.3,4.5,5.9,429,1250,773,RWD,MR,7,V,8,NA,Factory,2,False,L,Door23
 614,3696,70;32,GT 500,1967,Shelby GT500 '67,,37,Mustang,336,2.7,1.1,1.1,2.7,265,1721,570,RWD,F,7,V,8,NA,Factory,2,False,L,Door23
@@ -575,6 +579,7 @@
 468,364,71,IMPREZA WRX STI,2004,SUBARU WRX '04,GD,3,WRX,490,3.3,2.2,2.2,3.3,207,1460,394,AWD,F,2,F,4,T,Factory,4,False,R,Door45
 467,363,71,Impreza 22B-STi Version,1998,SUBARU 22B '98,GC,3,WRX,511,2.6,2.7,2.8,3.2,206,1270,360,AWD,F,2.2,F,4,T,Factory,2,False,R,Door23
 466,1382,71,LEGACY RS,1990,SUBARU LEGACY 90,,3,,323,2.2,1.4,1.6,1.9,162,1355,270,AWD,F,2,F,4,T,Factory,4,False,R,Door45
+616,-1,72,NASCAR Next Gen Camry XSE,2024,,,43,,855,6,7,7,5.5,500,1508,638,RWD,F,5.9,V,8,NA,Factory,-1,False,L,Other
 491,3402,72,GR Supra,2020,Toyota Supra '20,Mk5 J29,23,Supra,578,4,3.1,3.2,4,250,1541,495,RWD,F,3,I,6,T,Factory,2,False,L,Door23
 571,3418,72,86 TRD SE,2019,Toyota 86 '19,ZN8,22,Toyota 86,376,2,2.5,2.5,2.3,153,1287,212,RWD,F,2,F,4,NA,Factory,2,False,L,Door23
 490,2302,72,#8 Toyota Racing TS040 HYBRID,2014,Toyota #8 TS040,,9,Hybrid,981,6.4,9.9,10,10,585,925,1000,AWD,MR,3.7,V,8,NA,Race,2,False,L,Door23
