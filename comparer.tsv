@@ -90,6 +90,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2016 Cadillac CTS-V Sedan                                          	Ind	PDS	DSC		
 2015 Cadillac #3 Cadillac Racing ATS-V.R                           	Torque	706	520 ftlb | 705 Nm		
 1966 Chaparral #66 Chaparral Cars 2E                               	Torque	577	425 ftlb | 576 Nm		
+2024 Chevrolet NSACAR Next Gen Camaro ZL1                          	Nickname				
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	PI	678	678		700
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	S	4.8	4.8		4.3
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	B	3.7	3.7		4.3
@@ -105,6 +106,14 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2018 Chevrolet Camaro ZL1 1LE                                      	A	4.5	4.5		4.6
 2018 Chevrolet Camaro ZL1 1LE                                      	Ind	PDS	DSC		
 2018 Chevrolet Camaro ZL1 1LE Forza Edition                        	Ind	PDS	DSC		
+2017 Chevrolet Camaro ZL1                                          	Year	2017	2017		2024 
+2017 Chevrolet Camaro ZL1                                          	Model	Camaro ZL1	Camaro ZL1		NASCAR Next Gen Camaro ZL1
+2017 Chevrolet Camaro ZL1                                          	Division	Modern Sport Touring	Modern Sport Touring		NASCAR
+2017 Chevrolet Camaro ZL1                                          	PI	646	646		855
+2017 Chevrolet Camaro ZL1                                          	S	5.8	5.8		6.0
+2017 Chevrolet Camaro ZL1                                          	B	3.5	3.5		7.0
+2017 Chevrolet Camaro ZL1                                          	H	3.3	3.3		7.0
+2017 Chevrolet Camaro ZL1                                          	A	4.5	4.5		5.5
 2017 Chevrolet Camaro ZL1                                          	Ind	PDS	DSC		
 2015 Chevrolet #10 Konica Minolta Corvette Daytona Prototype       	Power	432	580 hp | 433 kW		
 2015 Chevrolet Corvette Z06 (C7)                                   	Ind	PDS	DSC		
@@ -172,9 +181,12 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	B	4.5	4.5		4.6
 2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	H	4.6	4.6		4.5
 2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	Torque	1262	930 ftlb | 1261 Nm		
+2024 Ford NASCAR Next Gen Mustang Dark Horse                       	Nickname				
+2024 Ford NASCAR Next Gen Mustang Dark Horse                       	Division	Nascar			NASCAR
 2020 Ford Mustang Shelby GT500 (S550)                              	Ind	PDS	DSC		
 2015 Ford #02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype  	Torque	733	540 ftlb | 732 Nm		
 2015 Ford Falcon GT F 351                                          	Ind	PDS	DSC		
+2013 Ford Shelby GT500                                             	Ind	PDS	DSC		
 2005 Ford GT                                                       	Model	Ford GT	Ford GT		GT
 2005 Ford GT                                                       	Ind	PDS	DSC		
 1995 Ford Mustang SVT Cobra R (SN95)                               	Ordinal	1510	1,510		
@@ -407,6 +419,8 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1998 Subaru Impreza 22B-STi Version (GC)                           	Torque	360	265 ftlb | 359 Nm		
 1990 Subaru LEGACY RS                                              	Make	Subaru	SUBARU		Subaru
 1990 Subaru LEGACY RS                                              	Model	LEGACY RS	LEGACY RS		Legacy RS
+2024 Toyota NASCAR Next Gen Camry XSE                              	Nickname				
+2024 Toyota NASCAR Next Gen Camry XSE                              	Division	Nascar			NASCAR
 2014 Toyota #8 Toyota Racing TS040 HYBRID                          	Torque	1000	737 ftlb | 999 Nm		
 2003 Toyota Celica Sport Specialty II (T230)                       	Power	140	187 hp | 139 kW		
 1999 Toyota #3 Toyota Motorsports GT-ONE TS020                     	Torque	650	479 ftlb | 649 Nm		
