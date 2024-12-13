@@ -241,6 +241,7 @@
 216,2409,32,#02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype,2015,Ford #02 DP,,10,,921,5.1,9.3,9.2,6.8,447,1096,733,RWD,MR,3.5,V,6,TT,Race,2,False,L,Door23
 217,2580,32;85,Falcon GT F 351,2015,Ford Falcon '15,,25,,544,5.6,2.6,2.4,3.6,351,1828,569,RWD,F,5,V,8,DSC,Factory,4,False,R,Door45
 215,2314,32;84,#17 AMD Tuning Focus ST BTCC,2014,Ford #17Focus ST,,12,Focus,703,3.4,5.2,5.4,4.3,246,1160,427,FWD,F,2,I,4,T,Race,4,False,R,Door45
+626,2551,32;85,FPV Limited Edition Pursuit Ute,2014,Ford Ute '14,,25,,479,4.3,2.2,2,3.3,315,1790,545,RWD,F,5,V,8,DSC,Factory,-1,False,L,Other
 619,1654,32;70,Shelby GT500,2013,Ford Mustang '13,,25,Mustang,639,6.1,2.9,2.9,4.1,494,1768,856,RWD,F,5.8,V,8,DSC,Factory,-1,False,L,Other
 214,1086,32;84,Focus RS,2009,Ford Focus '09,C307 MkII,20,Focus,485,2.8,2.6,2.6,3,224,1468,431,FWD,F,2.5,I,5,T,Factory,2,False,R,Door23
 213,348,32,Ford GT,2005,Ford GT '05,,24,Ford GT,642,6.6,3.4,3.5,4.2,410,1538,678,RWD,MR,5.4,V,8,DSC,Factory,2,False,L,Door23
@@ -269,6 +270,7 @@
 193,1355,32,Mustang GT Coupe,1965,Ford Mustang '65,,37,Mustang,338,2.3,1.1,1.2,2.9,202,1162,423,RWD,F,4.7,V,8,NA,Factory,2,False,L,Door23
 192,2980,32,GT40 MKI,1964,Ford GT40 Mk I,,35,Ford GT,691,5.3,4,4.4,4.4,291,1005,427,RWD,MR,4.7,V,8,NA,Race,2,False,R,Door23
 604,3523,95;72,#151 Toyota GR Supra,2020,#151 FD Supra,Mk5 J29 - Fredric Aasbø,42,Supra,801,4.1,4.2,4.4,5.7,770,1432,1232,RWD,F,3,I,6,T,Race,2,False,L,Door23
+624,2997,95;33,#530 HSV Maloo GEN-F,2016,#530 HSV Maloo,,42,,768,6.6,3.8,3.7,5.4,746,1300,1221,RWD,F,6.2,V,8,DSC,Race,2,False,R,Door23
 605,2996,95;32,#13 Ford Mustang,2015,#13 Ford Mustang,S550 - Justin Pawlak,42,Mustang,767,3.3,4.1,4.2,5.6,735,1388,1128,RWD,F,5,V,8,CS,Race,2,False,L,Door23
 606,3003,95;26,#43 Dodge Viper SRT10,2006,#43 Dodge Viper,ZB I - Dean Kearney,42,Viper,816,6.1,4.6,4.7,6.1,1007,1297,1900,RWD,F,8.3,V,10,TT,Race,2,False,L,Door23
 607,3000,95;57,#777 Nissan 240SX,1997,#777 Nissan 240,S14 - Matt Field,42,S-Chassis,799,5,3.9,4.1,6.5,938,1391,1372,RWD,F,7,V,8,DSC,Race,2,False,L,Door23
@@ -276,6 +278,7 @@
 580,3429,81,G40 Junior,2019,Ginetta G40 Jr,,49,,300,1,2.8,2.8,1.6,75,864,140,RWD,F,1.8,I,4,NA,Race,2,False,R,Door23
 575,3427,81,G55 GT4,2019,Ginetta G55 GT4,,46,,723,3.4,5.3,5.4,4.7,283,1165,434,RWD,F,3.7,V,6,NA,Race,2,False,L,Door23
 534,3599,86,T.50,2022,GMA T.50,,18,,859,8.2,6.2,6.1,6.3,489,1017,467,RWD,MR,4,V,12,NA,Factory,2,False,C,Door23
+625,2584,97;33,VK Commodore Group A,1985,Holden VK '85,,30,,359,1.9,1.6,1.7,2.4,196,1340,418,RWD,F,5,V,8,NA,Factory,4,False,R,Door45
 621,3284,96;22,Camaro Exorcist,2019,Exorcist '19,,18,,725,7.4,3.9,3.7,4.9,746,1750,1198,RWD,F,6.2,V,8,DSC,Factory,-1,False,L,Other
 228,2796,33,#22 Walkinshaw Performance VF Commodore,2017,Holden #22 VF,,47,,785,5,5.5,5.5,5.9,462,1410,649,RWD,F,5,V,8,NA,Race,4,False,R,Door45
 227,2203,33,VL Commodore Group A SV,1988,Holden VL '88,,30,,359,3.1,1.7,1.8,2.4,180,1415,380,RWD,F,5,V,8,NA,Factory,4,False,R,Door45
