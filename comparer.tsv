@@ -1,6 +1,7 @@
 Car	Key	Me	Manteo	Kudos	Wiki
 2017 Abarth 124 Spider                                             	Power	123	186 hp | 139 kW	123	
 2017 Abarth 124 Spider                                             	Torque	250	184 ftlb | 249 Nm		
+2018 Acura #36 NSX GT3                                             	Division	Forza GT3	Forza GT	Forza GT	Forza GT
 2018 Acura #36 NSX GT3                                             	Torque	550	405 ftlb | 549 Nm		
 2001 Acura Integra Type R                                          	Model	Integra Type R	Integra Type R	Integra Type R	Integra Type-R
 2017 Alfa Romeo Giulia Quadrifoglio                                	Torque	600	442 ftlb | 599 Nm		
@@ -14,6 +15,8 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2019 Aston Martin Valhalla Concept Car                             	PI	927	927	977	927
 2019 Aston Martin Valhalla Concept Car                             	Ind	TT	T		
 2019 Aston Martin Vantage                                          	Mass	1585	3494 lb | 1585 kg	1586	
+2018 Aston Martin #97 AMR Vantage GTE                              	Division	Forza GT2	Forza GT		Forza GT
+2017 Aston Martin #7 Aston Martin Racing V12 Vantage GT3           	Division	Forza GT3	Forza GT	Forza GT	Forza GT
 2017 Aston Martin #7 Aston Martin Racing V12 Vantage GT3           	Power	447	600 hp | 447 kW	448	
 2017 Aston Martin #7 Aston Martin Racing V12 Vantage GT3           	Mass	1335	2943 lb | 1335 kg	1338	
 2017 Aston Martin Vanquish Zagato Coupe                            	Model	Vanquish Zagato Coupe	Vanquish Zagato Coupe	Vanquish Zagato Coupe	Vanquish Zagato Coupé
@@ -33,8 +36,10 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1958 Aston Martin DBR1                                             	Mass	903	1990 lb | 903 kg	875	
 1958 Aston Martin DBR1                                             	SpecType	Race	Factory		
 2021 Audi RS e-tron GT                                             	Displ	0	0		
+2018 Audi #44 R8 LMS GT3 (Type 4S)                                 	Division	Forza GT3	Forza GT		Forza GT
 2018 Audi RS 4 Avant (B9/8W)                                       	Torque	600	442 ftlb | 599 Nm		
 2018 Audi RS 5 Coupe (F5)                                          	Model	RS 5 Coupe	RS 5 Coupe		RS 5 Coupé
+2016 Audi #17 Rotek Racing TT RS                                   	Division	Forza GT4	Forza GT	Forza GT	Forza GT
 2016 Audi #17 Rotek Racing TT RS                                   	Mass	1080	2381 lb | 1080 kg	1100	
 2014 Audi #2 Audi Team Joest R18 e-tron quattro                    	Power	565	758 hp | 565 kW	533	
 2014 Audi #2 Audi Team Joest R18 e-tron quattro                    	Torque	1300	958 ftlb | 1299 Nm		
@@ -52,11 +57,14 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2020 Automobili Pininfarina Battista                               	Displ	0	0		
 2014 BAC Mono                                                      	Torque	280	206 ftlb | 279 Nm		
 2017 Bentley Continental Supersports                               	Torque	1017	749 ftlb | 1016 Nm		
+2014 Bentley #17 M-Sport Bentley Continental GT3                   	Division	Forza GT3	Forza GT		Forza GT
 2003 Bentley #7 Team Bentley Speed 8                               	Torque	800	589 ftlb | 799 Nm		
 2020 BMW M2 Competition Coupé (F87)                                	Torque	550	405 ftlb | 549 Nm		
 2020 BMW M8 Competition Coupé (F92)                                	Model	M8 Competition Coupé	M8 Competition Coupé		M8 Competition Coupe
 2019 BMW Z4 Roadster (G29)                                         	Torque	501	369 ftlb | 500 Nm		
 2019 BMW Z4 Roadster (G29)                                         	Topless	False	True		
+2018 BMW #1 BMW M Motorsport M8 GTE                                	Division	Forza GT2	Forza GT		Forza GT
+2017 BMW #24 BMW Team RLL M6 GTLM                                  	Division	Forza GT2	Forza GT		Forza GT
 2015 BMW i8                                                        	Torque	570	420 ftlb | 569 Nm		
 2011 BMW 1 Series M Coupé                                          	Model	1 Series M Coupé	1 Series M Coupé		1 Series M Coupe
 2010 BMW M3 GTS (E92)                                              	Torque	440	324 ftlb | 439 Nm		
@@ -86,11 +94,13 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1926 Bugatti Type 35 C                                             	Ind	PDS	DSC		
 2022 Cadillac CT5-V Blackwing                                      	Ind	PDS	DSC		
 2021 Cadillac #31 Whelen Racing DPi-V.R                            	Power	432	580 hp | 433 kW		
+2018 Cadillac #57 TA CTS-V                                         	Division	Forza T/A	Forza GT		Forza GT
 2016 Cadillac ATS-V                                                	Torque	603	444 ftlb | 602 Nm		
 2016 Cadillac CTS-V Sedan                                          	Ind	PDS	DSC		
+2015 Cadillac #3 Cadillac Racing ATS-V.R                           	Division	Forza GT3	Forza GT		Forza GT
 2015 Cadillac #3 Cadillac Racing ATS-V.R                           	Torque	706	520 ftlb | 705 Nm		
 1966 Chaparral #66 Chaparral Cars 2E                               	Torque	577	425 ftlb | 576 Nm		
-2024 Chevrolet NASCAR Next Gen Camaro ZL1                          	Division	Nascar			NASCAR
+2020 Chevrolet #3 Corvette Racing C8.R                             	Division	Forza GT2	Forza GT		Forza GT
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	PI	678	678		700
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	S	4.8	4.8		4.3
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	B	3.7	3.7		4.3
@@ -99,6 +109,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	Torque	637	469 ftlb | 636 Nm		
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	Mass	1623	3577 lb | 1622 kg		
 2019 Chevrolet Corvette ZR1 (C7)                                   	Ind	PDS	DSC		
+2018 Chevrolet #23 Ruman Racing TA Corvette                        	Division	Forza T/A	Forza GT		Forza GT
 2018 Chevrolet Camaro ZL1 1LE                                      	PI	667	667		700
 2018 Chevrolet Camaro ZL1 1LE                                      	S	5.3	5.3		4.9
 2018 Chevrolet Camaro ZL1 1LE                                      	B	4	4.0		4.6
@@ -109,6 +120,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2017 Chevrolet Camaro ZL1                                          	Ind	PDS	DSC		
 2015 Chevrolet #10 Konica Minolta Corvette Daytona Prototype       	Power	432	580 hp | 433 kW		
 2015 Chevrolet Corvette Z06 (C7)                                   	Ind	PDS	DSC		
+2014 Chevrolet #3 Corvette Racing Corvette C7.R                    	Division	Forza GT2	Forza GT		Forza GT
 2010 Chevrolet #55 Level 5 Motorsports Oreca FLM09                 	Torque	630	464 ftlb | 629 Nm		
 2009 Chevrolet Corvette ZR1 (C6)                                   	Ind	PDS	DSC		
 1976 Chevrolet #76 Greenwood Corvette (C3)                         	Power	552	700 hp | 522 kW		
@@ -118,25 +130,29 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1970 Chevron B16                                                   	Year	1970	1964		1970 
 1979 Datsun #33 280ZX Turbo (S130)                                 	Torque	882	650 ftlb | 881 Nm		
 1979 Datsun #33 280ZX Turbo (S130)                                 	Mass	1164	2565 lb | 1163 kg		
+2019 Dodge #9 American V8 Road Racing TA Challenger                	Division	Forza T/A	Forza GT		Forza GT
 2018 Dodge Challenger SRT Demon                                    	Torque	1045	770 ftlb | 1044 Nm		
 2018 Dodge Challenger SRT Demon                                    	Mass	1941	4248 lb | 1927 kg		
 2018 Dodge Challenger SRT Demon                                    	Ind	PDS	DSC		
 2015 Dodge Charger SRT Hellcat                                     	Ind	PDS	DSC		
+2014 Dodge #93 SRT Motorsports Viper GTS-R (VX)                    	Division	Forza GT2	Forza GT		Forza GT
 2014 Dodge #93 SRT Motorsports Viper GTS-R (VX)                    	Torque	706	520 ftlb | 705 Nm		
 2012 Dodge Challenger SRT8                                         	Model	Challenger SRT8	Challenger SRT8		Challenger SRT8 392
 2005 Dodge SRT-4 ACR                                               	Power	171	230 hp | 172 kW		
 1970 Dodge Challenger R/T                                          	Torque	665	490 ftlb | 664 Nm		
 1967 Eagle-Weslake T1G                                             	Torque	330	243 ftlb | 329 Nm		
-2019 Elemental Rp1                                                 	Model	Rp1	RP1		RP1
+2019 Elemental Rp1                                                 	Model	Rp1	RP1		Rp1
 2018 Exomotive Exocet Sport V8 XP-5                                	Torque	660	486 ftlb | 659 Nm		
 2022 Ferrari 296 GTB (F171)                                        	Torque	900	663 ftlb | 899 Nm		
 2020 Ferrari Roma (F169)                                           	Torque	760	560 ftlb | 759 Nm		
 2020 Ferrari SF90 Stradale (F173)                                  	Torque	1238	912 ftlb | 1237 Nm		
+2019 Ferrari #62 Risi Competizione 488 GTE (F142M)                 	Division	Forza GT2	Forza GT		Forza GT
 2019 Ferrari #62 Risi Competizione 488 GTE (F142M)                 	Torque	730	538 ftlb | 729 Nm		
 2019 Ferrari F8 Tributo (F142FML)                                  	Torque	770	567 ftlb | 769 Nm		
 2018 Ferrari FXX-K Evo (F150)                                      	Power	772	1036 hp | 773 kW		
 2018 Ferrari FXX-K Evo (F150)                                      	Torque	900	663 ftlb | 899 Nm		
 2018 Ferrari Portofino (F164)                                      	Topless	False	True		
+2017 Ferrari #25 Corse Clienti 488 Challenge (F148M)               	Division	488 Challenge Spec	Forza GT		Forza GT
 2017 Ferrari #25 Corse Clienti 488 Challenge (F148M)               	Torque	760	560 ftlb | 759 Nm		
 2015 Ferrari 488 GTB (F142M)                                       	PI	753	754		753
 2015 Ferrari 488 GTB (F142M)                                       	Torque	760	560 ftlb | 759 Nm		
@@ -146,6 +162,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2013 Ferrari LaFerrari (F150)                                      	Power	708	963 hp | 718 kW		
 2013 Ferrari LaFerrari (F150)                                      	Torque	900	663 ftlb | 899 Nm		
 2011 Ferrari #62 Risi Competizione 458 Italia GTC (F142)           	Model	#62 Risi Competizione 458 Italia GTC	#62 Risi Competizione F458 Italia GTC		#62 Risi Competizione 458 Italia GTC
+2011 Ferrari #62 Risi Competizione 458 Italia GTC (F142)           	Division	Forza GT3	Forza GT		Forza GT
 2011 Ferrari #62 Risi Competizione 458 Italia GTC (F142)           	Torque	520	383 ftlb | 519 Nm		
 2011 Ferrari #62 Risi Competizione 458 Italia GTC (F142)           	Mass	1313	2775 lb | 1259 kg		
 2010 Ferrari 599XX (F141)                                          	Torque	650	479 ftlb | 649 Nm		
@@ -173,8 +190,10 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	B	4.5	4.5		4.6
 2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	H	4.6	4.6		4.5
 2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	Torque	1262	930 ftlb | 1261 Nm		
-2024 Ford NASCAR Next Gen Mustang Dark Horse                       	Division	Nascar			NASCAR
 2020 Ford Mustang Shelby GT500 (S550)                              	Ind	PDS	DSC		
+2018 Ford #98 Breathless Pro Racing TA Mustang                     	Division	Forza T/A	Forza GT		Forza GT
+2017 Ford #17 Shell V-Power Racing Team Falcon FG X                	Division	Forza AUS	Forza GT		Forza GT
+2016 Ford #66 Ford Racing GT Le Mans                               	Division	Forza GT2	Forza GT		Forza GT
 2015 Ford #02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype  	Torque	733	540 ftlb | 732 Nm		
 2015 Ford Falcon GT F 351                                          	Ind	PDS	DSC		
 2013 Ford Shelby GT500                                             	Ind	PDS	DSC		
@@ -204,10 +223,13 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1997 Formula Drift #777 Nissan 240SX (S14 - Matt Field)            	Torque	1372	1011 ftlb | 1371 Nm		
 1997 Formula Drift #777 Nissan 240SX (S14 - Matt Field)            	Ind	PDS	CS		
 2019 Ginetta #6 Team LNT Ginetta G60-LT-P1                         	Torque	850	626 ftlb | 849 Nm		
+2019 Ginetta G40 Junior                                            	Division	G40 Junior Spec	Forza Touring Cars		Forza Touring Cars
+2019 Ginetta G55 GT4                                               	Division	Forza GT4	Forza GT		Forza GT
 2022 Gordon Murray Automotive T.50                                 	Power	489	655 hp | 488 kW		
 2022 Gordon Murray Automotive T.50                                 	Torque	467	344 ftlb | 466 Nm		
 2019 Hennessey Camaro Exorcist                                     	B	3.9			3.7
 2019 Hennessey Camaro Exorcist                                     	H	3.7			3.9
+2017 Holden #22 Walkinshaw Performance VF Commodore                	Division	Forza AUS	Forza GT		Forza GT
 2014 HSV GEN-F GTS                                                 	Ind	PDS	DSC		
 2019 Hyundai Veloster N                                            	PI	468	468		497
 2019 Hyundai Veloster N                                            	S	3.6	3.6		2.8
@@ -226,14 +248,16 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1959 Jaguar Mk II 3.8                                              	Torque	326	240 ftlb | 325 Nm		
 1959 Jaguar Mk II 3.8                                              	SpecType	Factory	Race		
 2020 Koenigsegg Jesko                                              	Torque	1500	1105 ftlb | 1498 Nm		
-2020 KTM X-Bow GT2                                                 	Division	Forza GT	Forza GT		Modern Factory Racecars
+2020 KTM X-Bow GT2                                                 	Division	Modern Factory Racecars	Forza GT		Modern Factory Racecars
+2018 KTM X-Bow GT4                                                 	Division	Forza GT4	Forza GT		Forza GT
 2022 Lamborghini Huracán EVO Spyder                                	Torque	600	442 ftlb | 599 Nm		
 2022 Lamborghini Huracán EVO Spyder                                	Topless	False	True		
 2020 Lamborghini Essenza SCV12                                     	Year	2020	2020		2021 
-2020 Lamborghini Essenza SCV12                                     	Division	Forza GT	Forza GT		Modern Factory Racecars
+2020 Lamborghini Essenza SCV12                                     	Division	Modern Factory Racecars	Forza GT		Modern Factory Racecars
 2020 Lamborghini Essenza SCV12                                     	SpecType	Race	Factory		
 2020 Lamborghini Huracán EVO                                       	Torque	600	442 ftlb | 599 Nm		
 2020 Lamborghini Huracán STO                                       	Torque	565	416 ftlb | 564 Nm		
+2018 Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo        	Division	Super Trofeo	Forza GT		Forza GT
 2018 Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo        	Torque	570	420 ftlb | 569 Nm		
 2018 Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo        	Mass	1358	2995 lb | 1359 kg		
 2018 Lamborghini Huracán Performante                               	Torque	600	442 ftlb | 599 Nm		
@@ -241,6 +265,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2016 Lamborghini Aventador Superveloce                             	Torque	690	508 ftlb | 689 Nm		
 2016 Lamborghini Centenario LP 770-4                               	Torque	690	508 ftlb | 689 Nm		
 2015 Lamborghini #63 Squadra Corse Huracán LP620-2 Super Trofeo    	Model	#63 Squadra Corse Huracán LP620-2 Super Trofeo	#63 Squadra Corse Huracan LP620-2 Super Trofeo		#63 Squadra Corse Huracán LP620-2 Super Trofeo
+2015 Lamborghini #63 Squadra Corse Huracán LP620-2 Super Trofeo    	Division	Super Trofeo	Forza GT		Forza GT
 2015 Lamborghini #63 Squadra Corse Huracán LP620-2 Super Trofeo    	PI	814	815		814
 2015 Lamborghini #63 Squadra Corse Huracán LP620-2 Super Trofeo    	Torque	570	420 ftlb | 569 Nm		
 2015 Lamborghini #63 Squadra Corse Huracán LP620-2 Super Trofeo    	Mass	1358	2995 lb | 1359 kg		
@@ -252,6 +277,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2008 Lamborghini Reventón                                          	Torque	660	486 ftlb | 659 Nm		
 1999 Lamborghini Diablo GTR                                        	SpecType	Race	Factory		
 1972 Lamborghini Jarama S                                          	Mass	1535	3389 lb | 1537 kg		
+2020 Lexus #14 VASSER SULLIVAN RC F GT3                            	Division	Forza GT3	Forza GT		Forza GT
 2016 Ligier #11 Eurointernational JS P3                            	Model	#11 Eurointernational JS P3	#11 Euro International JS P3		#11 Eurointernational JS P3
 2023 Lotus Emira                                                   	Ind	PDS	DSC		
 2020 Lotus Evija                                                   	Displ	0	0		
@@ -271,6 +297,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2023 McLaren Artura                                                	Torque	720	530 ftlb | 719 Nm		
 2021 McLaren 765LT Coupe                                           	Model	765LT Coupe	765LT Coupe		765LT
 2021 McLaren Sabre                                                 	Torque	801	590 ftlb | 800 Nm		
+2019 McLaren #03 720S GT3                                          	Division	Forza GT3	Forza GT		Forza GT
 2019 McLaren 720S Spider                                           	Torque	770	567 ftlb | 769 Nm		
 2019 McLaren 720S Spider                                           	Mass	1473	3157 lb | 1432 kg		
 2019 McLaren 720S Spider                                           	Topless	False	True		
@@ -285,6 +312,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1966 McLaren #4 Bruce McLaren Motor Racing M1B                     	Torque	600	442 ftlb | 599 Nm		
 2021 Mercedes-AMG ONE                                              	Model	Mercedes-AMG ONE	Mercedes-AMG ONE		One
 2020 Mercedes-AMG GT Black Series (R190)                           	Year	2020	2020		2021 
+2018 Mercedes-AMG GT3                                              	Division	Forza GT3	Forza GT		Forza GT
 2016 Mercedes-AMG C 63 S Coupé (W205)                              	PI	601	601		700
 2016 Mercedes-AMG C 63 S Coupé (W205)                              	S	5.5	5.5		5.2
 2016 Mercedes-AMG C 63 S Coupé (W205)                              	B	3.3	3.3		4.5
@@ -320,6 +348,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2004 Mitsubishi Lancer Evolution VIII MR                           	Power	206	277 hp | 207 kW		
 1998 Mitsubishi FTO GP Version R                                   	Mass	1150	2519 lb | 1143 kg		
 2016 NIO EP9                                                       	Displ	0	0		
+2017 Nissan Altima Racecar                                         	Division	Forza AUS	Forza GT		Forza GT
 2015 Nissan #23 GT-R LM NISMO                                      	Torque	1206	889 ftlb | 1205 Nm		
 1999 Nissan #23 NISMO Clarion R391                                 	Torque	618	455 ftlb | 617 Nm		
 1999 Nissan #23 NISMO Clarion R391                                 	Mass	967	2133 lb | 968 kg		
@@ -351,10 +380,12 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2024 Porsche #5 Porsche Penske Motorsport 963                      	Torque	660	486 ftlb | 659 Nm		
 2021 Porsche Mission R                                             	Displ	0	0		
 2020 Porsche Taycan Turbo S                                        	Displ	0	0		
+2019 Porsche #70 Porsche Motorsport 935                            	Division	Modern Factory Racecars	Forza GT		Forza GT
 2019 Porsche 911 Carrera S (992)                                   	Mass	1480	3261 lb | 1479 kg		
 2019 Porsche 911 GT3 RS (992)                                      	PI	756	756		803
 2019 Porsche 911 Speedster (991.2)                                 	Torque	470	346 ftlb | 469 Nm		
 2019 Porsche 911 Speedster (991.2)                                 	Topless	False	True		
+2018 Porsche #73 Park Place Motorsports 911 GT3 R (991.2)          	Division	Forza GT3	Forza GT		Forza GT
 2018 Porsche 911 GT2 RS (991.2)                                    	PI	803	803		900
 2018 Porsche 911 GT2 RS (991.2)                                    	S	7.1	7.1		9.1
 2018 Porsche 911 GT2 RS (991.2)                                    	B	5.1	5.1		5.9
@@ -363,7 +394,9 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2017 Porsche #2 Porsche Team 919 Hybrid                            	Power	671	790 hp | 589 kW		
 2017 Porsche #2 Porsche Team 919 Hybrid                            	Torque	1493	965 ftlb | 1308 Nm		
 2017 Porsche #2 Porsche Team 919 Hybrid                            	Mass	922	2043 lb | 927 kg		
+2017 Porsche #92 Porsche GT Team 911 RSR (991.2)                   	Division	Forza GT2	Forza GT		Forza GT
 2017 Porsche #92 Porsche GT Team 911 RSR (991.2)                   	Torque	462	340 ftlb | 461 Nm		
+2015 Porsche #91 Porsche Team Manthey 991 RSR (991.1)              	Division	Forza GT2	Forza GT		Forza GT
 2014 Porsche 918 Spyder                                            	Power	666	887 hp | 661 kW		
 2014 Porsche 918 Spyder                                            	Torque	1281	829 ftlb | 1124 Nm		
 2007 Porsche 911 GT3 (997.1)                                       	Power	309	409 hp | 305 kW		
@@ -412,7 +445,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1998 Subaru Impreza 22B-STi Version (GC)                           	Torque	360	265 ftlb | 359 Nm		
 1990 Subaru LEGACY RS                                              	Make	Subaru	SUBARU		Subaru
 1990 Subaru LEGACY RS                                              	Model	LEGACY RS	LEGACY RS		Legacy RS
-2024 Toyota NASCAR Next Gen Camry XSE                              	Division	Nascar			NASCAR
 2014 Toyota #8 Toyota Racing TS040 HYBRID                          	Torque	1000	737 ftlb | 999 Nm		
 2003 Toyota Celica Sport Specialty II (T230)                       	Power	140	187 hp | 139 kW		
 1999 Toyota #3 Toyota Motorsports GT-ONE TS020                     	Torque	650	479 ftlb | 649 Nm		
