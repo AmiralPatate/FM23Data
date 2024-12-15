@@ -38,7 +38,7 @@ All array types use `;` as separator.
 ## CSV data format
 
 ### modelexport.csv
-int CarOrdinal, string Make, string Name, int Year, string Nickname, string Division, string CountryCode, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Power_PS, int Power_hp, int Mass_kg, int Mass_lb, int Torque_Nm, int Torque_ftlb, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC/PDS,CS,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors (Deprecated), bool IsTopless, enum DriverPosition [L,C,R], enum Cockpit [Open,Closed,Door23,Door45,Other]
+int CarOrdinal, string Make, string Name, int Year, string Nickname, string Division, string CountryCode, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Power_PS, int Power_hp, int Mass_kg, int Mass_lb, int Torque_Nm, int Torque_ftlb, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC/PDS,CS,T4,EV], enum ModelType [Road,Race,Track,Special], bool IsTopless, enum DriverPosition [L,C,R], enum Cockpit [Open,Closed,Door23,Door45,Other]
 
 ## Comparer.tsv
 
@@ -72,7 +72,7 @@ C# .NET Framework 4.8 executable with the following functions:
 string CountryCode, string Name
 
 ### divs.csv
-int DivisionID, string Name
+int DivisionID, string Name, enum CarType [Road,Race,Track,Special]
 
 ### engines.csv
 int EngineID, string EngineCode [e.g. 2.6L I6TT], int StockPower_hp, int StockTorque_ftlb, string DonorCar, int[] CarOrdinalAvailabilityList
@@ -81,7 +81,7 @@ int EngineID, string EngineCode [e.g. 2.6L I6TT], int StockPower_hp, int StockTo
 int MakeID, string Name, string CountryCode
 
 ### models.csv
-int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nickname, string ModelExtra, int DivisionID, string[] Tags, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Mass_kg, int Torque_Nm, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC/PDS,CS,T4,EV], enum ModelType [Factory,Race,Upgraded], int Doors (Deprecated), bool IsTopless, enum DriverPosition [L,C,R], enum Cockpit [Open,Closed,Door23,Door45,Other]
+int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nickname, string ModelExtra, int DivisionID, string[] Tags, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Mass_kg, int Torque_Nm, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC/PDS,CS,T4,EV], bool IsTopless, enum DriverPosition [L,C,R], enum Cockpit [Open,Closed,Door23,Door45,Other]
 
 ### track.csv
 int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, string TrackName, double Length_km
@@ -119,9 +119,10 @@ int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, s
 - EV: Electric / other not applicable
 
 ### ModelType
+- Road: Road/production car
 - Race: Race-spec model
-- Factory: Production model
-- Upgraded: Stock-upgraded production model, e.g. Forza Edition
+- Track: Track-focused or non-road-legal production car, not quite race cars
+- Special: Others, e.g. Forza Edition
 
 ### DriverPosition
 - L: Left
@@ -129,8 +130,8 @@ int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, s
 - R: Right
 
 ### Cockpit
-- Open: Open cockpit / 0 doors
-- Closed: Closed cockpit / 1 door
-- Door23 : 2/3-door
-- Door45 : 4/5-door
+- Open: Open cockpit / no doors
+- Closed: Closed cockpit / 1/2-doors
+- Door23 : 2/3-door body type
+- Door45 : 4/5-door body type
 - Other : Other
