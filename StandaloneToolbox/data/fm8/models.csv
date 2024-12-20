@@ -233,7 +233,7 @@
 223,3277,32;70,Mustang Shelby GT500,2020,Ford GT500 '20,S550,25,Mustang,724,6.4,4.1,3.9,5.3,567,1892,847,RWD,F,5.2,V,8,DSC,False,L,Door23
 562,3251,32,#98 Breathless Pro Racing TA Mustang,2018,Ford #98 Mustang,,48,Mustang,897,5.5,7.1,7.2,6.7,634,1321,746,RWD,F,5.9,V,8,NA,False,L,Door23
 222,3046,32,Mustang GT,2018,Ford Mustang '18,S550,25,Mustang,568,4.9,2.7,2.7,3.7,343,1681,569,RWD,F,5,V,8,NA,False,L,Door23
-220,2760,32,#17 Shell V-Power Racing Team Falcon FG X,2017,Ford #17 Falcon,,47,,785,5,5.6,5.6,5.7,474,1410,630,RWD,F,5,V,8,NA,False,R,Door45
+220,2760,32;85,#17 Shell V-Power Racing Team Falcon FG X,2017,Ford #17 Falcon,,47,,785,5,5.6,5.6,5.7,474,1410,630,RWD,F,5,V,8,NA,False,R,Door45
 221,2357,32;84,Focus RS,2017,Ford Focus '17,C346 MkIII,20,Focus,535,4.1,2.6,2.6,3.3,261,1563,475,AWD,F,2.3,I,4,T,False,L,Door45
 514,2363,32,GT,2017,Ford GT '17,,24,Ford GT,795,7.9,4.8,4.8,6.8,482,1428,746,RWD,MR,3.5,V,6,TT,False,L,Door23
 218,2543,32,#66 Ford Racing GT Le Mans,2016,Ford #66 GT,,44,Ford GT,820,4.6,6.6,6.9,5.6,395,1312,670,RWD,MR,3.6,V,6,TT,False,L,Door23
@@ -281,6 +281,7 @@
 625,2584,97;33,VK Commodore Group A,1985,Holden VK '85,,30,,359,1.9,1.6,1.7,2.4,196,1340,418,RWD,F,5,V,8,NA,False,R,Door45
 621,3284,96;22,Camaro Exorcist,2019,Exorcist '19,,18,,725,7.4,3.9,3.7,4.9,746,1750,1198,RWD,F,6.2,V,8,DSC,False,L,Door23
 228,2796,33,#22 Walkinshaw Performance VF Commodore,2017,Holden #22 VF,,47,,785,5,5.5,5.5,5.9,462,1410,649,RWD,F,5,V,8,NA,False,R,Door45
+627,2587,33,HSV Commodore Group A SV,1991,Holden VN '91,,30,,388,4.1,1.9,2,2.4,215,1560,411,RWD,F,5,V,8,NA,False,R,Door45
 227,2203,33,VL Commodore Group A SV,1988,Holden VL '88,,30,,359,3.1,1.7,1.8,2.4,180,1415,380,RWD,F,5,V,8,NA,False,R,Door45
 226,1533,33,Torana A9X,1977,Holden Torana 77,,38,,298,1.4,1,1.1,2.6,161,1183,400,RWD,F,5,V,8,NA,False,R,Door23
 225,2417,33,HQ Monaro GTS 350,1973,Holden Monaro 73,HQ,37,,321,1.3,1.1,1.2,2.6,205,1429,488,RWD,F,5.7,V,8,NA,False,R,Door23
