@@ -262,6 +262,7 @@
 200,1302,32;84,Escort RS1800,1977,Ford Escort '77,MkII,38,Escort,267,1,1.3,1.3,1.7,86,901,171,RWD,F,1.8,I,4,NA,False,R,Door23
 198,1580,32;84,Escort RS1600,1973,Ford Escort '73,MkI,38,Escort,263,1,1.2,1.2,1.7,85,870,149,RWD,F,1.6,I,4,NA,False,R,Door23
 199,1278,32;85,XB Falcon GT,1973,Ford Falcon '73,,37,,337,2,1.3,1.2,2.8,224,1382,515,RWD,F,5.8,V,8,NA,False,R,Door23
+630,2585,32;85,Falcon XA GT-HO,1972,Ford Falcon '72,,37,Falcon,374,3.5,1.3,1.4,2.8,306,1570,494,RWD,F,5.8,V,8,NA,False,R,Door45
 613,3436,32,#15 Mustang Boss 302 Trans Am,1970,Ford #15 Mustang,,41,Mustang,584,3,3.7,3.5,3.2,343,1470,489,RWD,F,4.9,V,8,NA,False,L,Door23
 197,1668,32,Mustang Boss 302,1969,Ford Mustang '69,,37,Mustang,343,2.7,1.3,1.4,2.4,216,1474,393,RWD,F,4.9,V,8,NA,False,L,Door23
 196,2614,32,Mustang GT 2+2 Fastback,1968,Ford Mustang '68,,37,Mustang,297,3,1,1,2.3,242,1609,579,RWD,F,6.4,V,8,NA,False,L,Door23
