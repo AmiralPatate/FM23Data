@@ -1,6 +1,7 @@
 89,Abarth,ita
 1,Acura,usa
 2,Alfa Romeo,ita
+101,All American Racers,usa
 3,Alpine,fra
 4,AMC,usa
 5,Apollo,ger
@@ -9,14 +10,16 @@
 8,Audi,ger
 9,Austin-Healey,gbr
 10,Auto Union,ger
-11,Automobili Pininfarina,ita
+99,Automobiles Ettore Bugatti,fra,Bugatti
+11,Automobili Pininfarina,ita,Pininfarina
 12,BAC,gbr
 13,Bentley,gbr
 14,BMW,ger
 15,Brabham,gbr
+100,Brabham Automotive,aus,Brabham
 16,BRM,gbr
 17,Bugatti,fra
-93,Bugatti Automobili,ita
+93,Bugatti Automobili,ita,Bugatti
 18,Buick,usa
 19,Cadillac,usa
 20,Caterham,gbr
@@ -24,27 +27,28 @@
 22,Chevrolet,usa
 94,Chevron,gbr
 23,Chrysler,usa
-98,Chrysler Australia,aus
+98,Chrysler Australia,aus,Chrysler
 24,Citroën,fra
+102,Cosworth,gbr
 25,Datsun,jpn
 26,Dodge,usa
 27,Donkervoort,ned
 28,Eagle,usa
-29,Eagle-Weslake,usa
+29,Eagle-Weslake,usa,Eagle
 92,Elemental,gbr
 30,Exomotive,usa
 31,Ferrari,ita
 32,Ford,usa
-85,Ford Australia,aus
-84,Ford of Europe,gbr
-95,Formula Drift,usa
+85,Ford Australia,aus,Ford
+84,Ford of Europe,eur,Ford
+95,Formula Drift,usa,
 81,Ginetta,gbr
-86,Gordon Murray Automotive,gbr
-97,HDT,aus
+86,Gordon Murray Automotive,gbr,Gordon Murray
+97,HDT,aus,Holden HDT
 96,Hennessey,usa
 33,Holden,aus
 34,Honda,jpn
-35,HSV,aus
+35,HSV,aus,Holden HSV
 36,Hyundai,kor
 37,Infiniti,usa
 38,Jaguar,gbr
@@ -61,7 +65,7 @@
 90,Matra-Simca,fra
 47,Mazda,jpn
 48,McLaren,gbr
-49,Mercedes-AMG,ger
+49,Mercedes-AMG,ger,AMG
 50,Mercedes-Benz,ger
 51,Mercury,usa
 52,Merkur,usa
@@ -85,7 +89,7 @@
 69,Saleen,usa
 70,Shelby,usa
 87,Spania GTA,esp
-83,SRT,usa
+83,SRT,usa,Dodge SRT
 71,Subaru,jpn
 72,Toyota,jpn
 73,TVR,gbr
