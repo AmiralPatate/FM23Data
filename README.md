@@ -83,7 +83,7 @@ int MakeID, string Name, string CountryCode(, string Alias)
 Alias is optional, and maybe a string.Empty value. I consider this to be different from having no value.
 
 ### models.csv
-int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nickname, string ModelExtra, int DivisionID, string[] Tags, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Mass_kg, int Torque_Nm, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC/PDS,CS,T4,EV], bool IsTopless, enum DriverPosition [L,C,R], enum Cockpit [Open,Closed,Door23,Door45,Other]
+int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nickname, string ModelExtra, int DivisionID, string[] Tags, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Mass_kg, int Torque_Nm, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA,Dual], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC/PDS,CS,T4,EV], bool IsTopless, enum DriverPosition [L,C,R], enum Cockpit [Open,Closed,Door23,Door45,Other]
 
 MakeID may have up to 3 values: In-game make, "actual" make, and "secondary" make. All models have an in-game make. The rest is optional, and may be neither, either, or both.
 
@@ -103,6 +103,7 @@ int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, s
 - MF: Mid front (does not appear in-game, not used)
 - F: Front
 - NA: Not applicable (does not appear in-game, not used)
+- Dual: Dual engine (appears for EVs)
 
 ### EngineConfiguration
 - I: Inline
