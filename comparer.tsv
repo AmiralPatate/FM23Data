@@ -2,7 +2,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2017 Abarth 124 Spider                                             	Power	123	186 hp | 139 kW	123	
 2017 Abarth 124 Spider                                             	Torque	250	184 ftlb | 249 Nm		
 2017 Abarth 124 Spider                                             	SpecType	Road	Factory		
-2018 Acura #36 NSX GT3                                             	Division	Forza GT3	Forza GT	Forza GT	Forza GT3
+2018 Acura #36 NSX GT3                                             	Division	Forza GT3	Forza GT3	Forza GT	Forza GT3
 2018 Acura #36 NSX GT3                                             	Torque	550	405 ftlb | 549 Nm		
 2017 Acura NSX                                                     	SpecType	Road	Factory		
 2001 Acura Integra Type R                                          	Model	Integra Type R	Integra Type R	Integra Type R	Integra Type-R
@@ -32,8 +32,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2019 Aston Martin Valhalla Concept Car                             	SpecType	Road	Factory		
 2019 Aston Martin Vantage                                          	Mass	1585	3494 lb | 1585 kg	1586	
 2019 Aston Martin Vantage                                          	SpecType	Road	Factory		
-2018 Aston Martin #97 AMR Vantage GTE                              	Division	Forza GT2	Forza GT		Forza GT2
-2017 Aston Martin #7 Aston Martin Racing V12 Vantage GT3           	Division	Forza GT3	Forza GT	Forza GT	Forza GT3
+2017 Aston Martin #7 Aston Martin Racing V12 Vantage GT3           	Division	Forza GT3	Forza GT3	Forza GT	Forza GT3
 2017 Aston Martin #7 Aston Martin Racing V12 Vantage GT3           	Power	447	600 hp | 447 kW	448	
 2017 Aston Martin #7 Aston Martin Racing V12 Vantage GT3           	Mass	1335	2943 lb | 1335 kg	1338	
 2017 Aston Martin Vanquish Zagato Coupe                            	Model	Vanquish Zagato Coupe	Vanquish Zagato Coupe	Vanquish Zagato Coupe	Vanquish Zagato Coupé
@@ -71,13 +70,12 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2020 Audi R8 V10 performance (Type 4S)                             	SpecType	Road	Factory		
 2020 Audi RS 3 Sedan (8Y)                                          	SpecType	Road	Factory		
 2020 Audi TT RS Coupe (Mk3 8S)                                     	SpecType	Road	Factory		
-2018 Audi #44 R8 LMS GT3 (Type 4S)                                 	Division	Forza GT3	Forza GT		Forza GT3
 2018 Audi RS 4 Avant (B9/8W)                                       	Torque	600	442 ftlb | 599 Nm		
 2018 Audi RS 4 Avant (B9/8W)                                       	SpecType	Road	Factory		
 2018 Audi RS 5 Coupe (F5)                                          	Model	RS 5 Coupe	RS 5 Coupe		RS 5 Coupé
 2018 Audi RS 5 Coupe (F5)                                          	SpecType	Road	Factory		
 2018 Audi TT RS (Mk3 8S)                                           	SpecType	Road	Factory		
-2016 Audi #17 Rotek Racing TT RS                                   	Division	Forza GT4	Forza GT	Forza GT	Forza GT4
+2016 Audi #17 Rotek Racing TT RS                                   	Division	Forza GT4	Forza GT4	Forza GT	Forza GT4
 2016 Audi #17 Rotek Racing TT RS                                   	Mass	1080	2381 lb | 1080 kg	1100	
 2016 Audi R8 V10 plus (Type 4S)                                    	SpecType	Road	Factory		
 2015 Audi RS 6 Avant (C7/4G)                                       	SpecType	Road	Factory		
@@ -113,8 +111,9 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2014 BAC Mono                                                      	SpecType	Track	Factory		
 2017 Bentley Continental Supersports                               	Torque	1017	749 ftlb | 1016 Nm		
 2017 Bentley Continental Supersports                               	SpecType	Road	Factory		
-2014 Bentley #17 M-Sport Bentley Continental GT3                   	Division	Forza GT3	Forza GT		Forza GT3
 2003 Bentley #7 Team Bentley Speed 8                               	Torque	800	589 ftlb | 799 Nm		
+2023 BMW #25 BMW Team RLL M Hybrid V8                              	Torque	650	479 ftlb | 649 Nm		
+2023 BMW #25 BMW Team RLL M Hybrid V8                              	Ind	TT	NA		
 2023 BMW M2 (G87)                                                  	SpecType	Road	Factory		
 2021 BMW M3 Competition Sedan (G80)                                	SpecType	Road	Factory		
 2021 BMW M4 Competition Coupé (G82)                                	SpecType	Road	Factory		
@@ -125,20 +124,37 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2019 BMW Z4 Roadster (G29)                                         	Torque	501	369 ftlb | 500 Nm		
 2019 BMW Z4 Roadster (G29)                                         	SpecType	Road	Factory		
 2019 BMW Z4 Roadster (G29)                                         	Topless	False	True		
-2018 BMW #1 BMW M Motorsport M8 GTE                                	Division	Forza GT2	Forza GT		Forza GT2
 2018 BMW M5 (F90)                                                  	SpecType	Road	Factory		
-2017 BMW #24 BMW Team RLL M6 GTLM                                  	Division	Forza GT2	Forza GT		Forza GT2
 2016 BMW M4 GTS (F82)                                              	SpecType	Road	Factory		
 2015 BMW i8                                                        	Torque	570	420 ftlb | 569 Nm		
 2015 BMW i8                                                        	SpecType	Road	Factory		
+2014 BMW M4 Coupé (F82)                                            	Torque	551	406 ftlb | 550 Nm		
+2014 BMW M4 Coupé (F82)                                            	SpecType	Road	Factory		
 2013 BMW M6 Coupé (F13)                                            	SpecType	Road	Factory		
 2012 BMW M5 (F10)                                                  	SpecType	Road	Factory		
 2011 BMW 1 Series M Coupé                                          	Model	1 Series M Coupé	1 Series M Coupé		1 Series M Coupe
 2011 BMW 1 Series M Coupé                                          	SpecType	Road	Factory		
 2010 BMW M3 GTS (E92)                                              	Torque	440	324 ftlb | 439 Nm		
 2010 BMW M3 GTS (E92)                                              	SpecType	Road	Factory		
-2010 BMW M6 Coupé (E63)                                            	Model	M6 Coupé			M6 Coupe
+2010 BMW M6 Coupé (E63)                                            	Model	M6 Coupé	M6 Coupé		M6 Coupe
+2010 BMW M6 Coupé (E63)                                            	Torque	520	383 ftlb | 519 Nm		
+2010 BMW M6 Coupé (E63)                                            	SpecType	Road	Factory		
+2009 BMW M5 (E60)                                                  	PI	563	719		563
+2009 BMW M5 (E60)                                                  	S	6	7.1		6.0
+2009 BMW M5 (E60)                                                  	B	2.8	4.4		2.8
+2009 BMW M5 (E60)                                                  	H	2.5	5.9		2.5
+2009 BMW M5 (E60)                                                  	A	4.1	5.1		4.1
+2009 BMW M5 (E60)                                                  	Torque	520	383 ftlb | 519 Nm		
+2009 BMW M5 (E60)                                                  	SpecType	Road	Factory		
+2008 BMW M3 (E92)                                                  	SpecType	Road	Factory		
 2005 BMW M3 (E46)                                                  	SpecType	Road	Factory		
+2003 BMW M5 (E39)                                                  	PI	495	694		495
+2003 BMW M5 (E39)                                                  	S	5.3	6.4		5.3
+2003 BMW M5 (E39)                                                  	B	2.2	4.3		2.2
+2003 BMW M5 (E39)                                                  	H	2.1	5.8		2.1
+2003 BMW M5 (E39)                                                  	A	3.5	5.4		3.5
+2003 BMW M5 (E39)                                                  	Mass	1750	3900 lb | 1769 kg		
+2003 BMW M5 (E39)                                                  	SpecType	Road	Factory		
 2002 BMW M3-GTR (E46)                                              	Power	279	375 hp | 280 kW		
 2002 BMW M3-GTR (E46)                                              	Torque	390	287 ftlb | 389 Nm		
 2002 BMW M3-GTR (E46)                                              	SpecType	Road	Factory		
@@ -147,11 +163,16 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2000 BMW 323ti Sport (E46/5)                                       	SpecType	Road	Factory		
 1999 BMW #15 BMW Motorsport V12 LMR                                	Power	432	580 hp | 433 kW		
 1999 BMW #15 BMW Motorsport V12 LMR                                	Mass	967	2133 lb | 968 kg		
-1999 BMW #16 BMW Motorsport V12 LMR                                	EngPos	F			M
+1999 BMW #16 BMW Motorsport V12 LMR                                	Model	#16 BMW Motorsport V12 LMR	#16 BMW V12 LMR		#16 BMW Motorsport V12 LMR
+1999 BMW #16 BMW Motorsport V12 LMR                                	Power	432	580 hp | 433 kW		
+1999 BMW #16 BMW Motorsport V12 LMR                                	Mass	967	1984 lb | 900 kg		
+1999 BMW #16 BMW Motorsport V12 LMR                                	EngPos	F	F		M
 1997 BMW M3 (E36)                                                  	SpecType	Road	Factory		
 1995 BMW 850CSi (E31)                                              	SpecType	Road	Factory		
 1991 BMW M3 (E30)                                                  	SpecType	Road	Factory		
 1988 BMW M5 (E28)                                                  	SpecType	Road	Factory		
+1986 BMW M635 CSi (E24)                                            	Torque	341	251 ftlb | 340 Nm		
+1986 BMW M635 CSi (E24)                                            	SpecType	Road	Factory		
 1981 BMW M1 (E26)                                                  	SpecType	Road	Factory		
 1979 BMW #6 BMW Motorsport M1 Procar                               	Torque	390	287 ftlb | 389 Nm		
 1973 BMW 2002 Turbo                                                	SpecType	Road	Factory		
@@ -185,18 +206,16 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2022 Cadillac CT5-V Blackwing                                      	Ind	PDS	DSC		
 2022 Cadillac CT5-V Blackwing                                      	SpecType	Road	Factory		
 2021 Cadillac #31 Whelen Racing DPi-V.R                            	Power	432	580 hp | 433 kW		
-2018 Cadillac #57 TA CTS-V                                         	Division	Forza T/A	Forza GT		Forza T/A
 2016 Cadillac ATS-V                                                	Torque	603	444 ftlb | 602 Nm		
 2016 Cadillac ATS-V                                                	SpecType	Road	Factory		
 2016 Cadillac CTS-V Sedan                                          	Ind	PDS	DSC		
 2016 Cadillac CTS-V Sedan                                          	SpecType	Road	Factory		
-2015 Cadillac #3 Cadillac Racing ATS-V.R                           	Division	Forza GT3	Forza GT		Forza GT3
 2015 Cadillac #3 Cadillac Racing ATS-V.R                           	Torque	706	520 ftlb | 705 Nm		
 2013 Caterham Superlight R500                                      	SpecType	Track	Factory		
 1966 Chaparral #66 Chaparral Cars 2E                               	Torque	577	425 ftlb | 576 Nm		
 2024 Chevrolet Corvette E-Ray (C8)                                 	SpecType	Road	Factory		
+2024 Chevrolet NASCAR Next Gen Camaro ZL1                          	Torque	638	470 ftlb | 637 Nm		
 2023 Chevrolet Corvette Z06 (C8)                                   	SpecType	Road	Factory		
-2020 Chevrolet #3 Corvette Racing C8.R                             	Division	Forza GT2	Forza GT		Forza GT2
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	PI	678	678		700
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	S	4.8	4.8		4.3
 2020 Chevrolet Corvette Stingray Coupe (C8)                        	B	3.7	3.7		4.3
@@ -208,7 +227,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2020 Chevrolet Corvette Stingray Coupe Forza Edition (C8)          	SpecType	Special	Upgraded		
 2019 Chevrolet Corvette ZR1 (C7)                                   	Ind	PDS	DSC		
 2019 Chevrolet Corvette ZR1 (C7)                                   	SpecType	Road	Factory		
-2018 Chevrolet #23 Ruman Racing TA Corvette                        	Division	Forza T/A	Forza GT		Forza T/A
 2018 Chevrolet Camaro ZL1 1LE                                      	PI	667	667		700
 2018 Chevrolet Camaro ZL1 1LE                                      	S	5.3	5.3		4.9
 2018 Chevrolet Camaro ZL1 1LE                                      	B	4	4.0		4.6
@@ -224,7 +242,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2015 Chevrolet #10 Konica Minolta Corvette Daytona Prototype       	Power	432	580 hp | 433 kW		
 2015 Chevrolet Corvette Z06 (C7)                                   	Ind	PDS	DSC		
 2015 Chevrolet Corvette Z06 (C7)                                   	SpecType	Road	Factory		
-2014 Chevrolet #3 Corvette Racing Corvette C7.R                    	Division	Forza GT2	Forza GT		Forza GT2
 2010 Chevrolet #55 Level 5 Motorsports Oreca FLM09                 	Torque	630	464 ftlb | 629 Nm		
 2009 Chevrolet Corvette ZR1 (C6)                                   	Ind	PDS	DSC		
 2009 Chevrolet Corvette ZR1 (C6)                                   	SpecType	Road	Factory		
@@ -232,6 +249,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2002 Chevrolet Corvette Z06 (C5)                                   	SpecType	Road	Factory		
 1995 Chevrolet Corvette ZR-1 (C4)                                  	SpecType	Road	Factory		
 1990 Chevrolet Camaro IROC-Z                                       	SpecType	Road	Factory		
+1988 Chevrolet #77 Beretta Trans Am                                	Displ	4,5	2750		
 1988 Chevrolet Monte Carlo Super Sport                             	SpecType	Road	Factory		
 1976 Chevrolet #76 Greenwood Corvette (C3)                         	Power	552	700 hp | 522 kW		
 1970 Chevrolet Camaro Z28                                          	SpecType	Road	Factory		
@@ -250,7 +268,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1979 Datsun #33 280ZX Turbo (S130)                                 	Mass	1164	2565 lb | 1163 kg		
 1970 Datsun 510                                                    	SpecType	Road	Factory		
 1969 Datsun 2000 Roadster                                          	SpecType	Road	Factory		
-2019 Dodge #9 American V8 Road Racing TA Challenger                	Division	Forza T/A	Forza GT		Forza T/A
 2018 Dodge Challenger SRT Demon                                    	Torque	1045	770 ftlb | 1044 Nm		
 2018 Dodge Challenger SRT Demon                                    	Mass	1941	4248 lb | 1927 kg		
 2018 Dodge Challenger SRT Demon                                    	Ind	PDS	DSC		
@@ -258,7 +275,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2016 Dodge Viper ACR (VX)                                          	SpecType	Road	Factory		
 2015 Dodge Charger SRT Hellcat                                     	Ind	PDS	DSC		
 2015 Dodge Charger SRT Hellcat                                     	SpecType	Road	Factory		
-2014 Dodge #93 SRT Motorsports Viper GTS-R (VX)                    	Division	Forza GT2	Forza GT		Forza GT2
 2014 Dodge #93 SRT Motorsports Viper GTS-R (VX)                    	Torque	706	520 ftlb | 705 Nm		
 2013 Dodge Dart GT                                                 	SpecType	Road	Factory		
 2012 Dodge Challenger SRT8                                         	Model	Challenger SRT8	Challenger SRT8		Challenger SRT8 392
@@ -287,7 +303,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2020 Ferrari Roma (F169)                                           	SpecType	Road	Factory		
 2020 Ferrari SF90 Stradale (F173)                                  	Torque	1238	912 ftlb | 1237 Nm		
 2020 Ferrari SF90 Stradale (F173)                                  	SpecType	Road	Factory		
-2019 Ferrari #62 Risi Competizione 488 GTE (F142M)                 	Division	Forza GT2	Forza GT		Forza GT2
 2019 Ferrari #62 Risi Competizione 488 GTE (F142M)                 	Torque	730	538 ftlb | 729 Nm		
 2019 Ferrari 488 Pista (F142M)                                     	SpecType	Road	Factory		
 2019 Ferrari F8 Tributo (F142FML)                                  	Torque	770	567 ftlb | 769 Nm		
@@ -298,7 +313,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2018 Ferrari FXX-K Evo (F150)                                      	SpecType	Track	Race		
 2018 Ferrari Portofino (F164)                                      	SpecType	Road	Factory		
 2018 Ferrari Portofino (F164)                                      	Topless	False	True		
-2017 Ferrari #25 Corse Clienti 488 Challenge (F148M)               	Division	488 Challenge Spec	Forza GT		488 Challenge Spec
 2017 Ferrari #25 Corse Clienti 488 Challenge (F148M)               	Torque	760	560 ftlb | 759 Nm		
 2017 Ferrari 812 Superfast (F152M)                                 	SpecType	Road	Factory		
 2017 Ferrari J50 (F142M)                                           	SpecType	Road	Factory		
@@ -317,7 +331,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2013 Ferrari LaFerrari (F150)                                      	SpecType	Road	Factory		
 2012 Ferrari 599XX Evolution (F141)                                	SpecType	Track	Race		
 2011 Ferrari #62 Risi Competizione 458 Italia GTC (F142)           	Model	#62 Risi Competizione 458 Italia GTC	#62 Risi Competizione F458 Italia GTC		#62 Risi Competizione 458 Italia GTC
-2011 Ferrari #62 Risi Competizione 458 Italia GTC (F142)           	Division	Forza GT3	Forza GT		Forza GT3
 2011 Ferrari #62 Risi Competizione 458 Italia GTC (F142)           	Torque	520	383 ftlb | 519 Nm		
 2011 Ferrari #62 Risi Competizione 458 Italia GTC (F142)           	Mass	1313	2775 lb | 1259 kg		
 2010 Ferrari 599XX (F141)                                          	Torque	650	479 ftlb | 649 Nm		
@@ -363,22 +376,36 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	B	4.5	4.5		4.6
 2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	H	4.6	4.6		4.5
 2024 Ford #88 Mustang RTR (S650 - Chelsea DeNofa)                  	Torque	1262	930 ftlb | 1261 Nm		
-2024 Ford Mustang Dark Horse (S650)                                	SpecType	Road	Factory		
+2024 Ford Mustang Dark Horse (S650)                                	Model	Mustang Dark Horse	NASCAR Next Gen Mustang Dark Horse		Mustang Dark Horse
+2024 Ford Mustang Dark Horse (S650)                                	Division	Modern Sport Touring	NASCAR		Modern Sport Touring
+2024 Ford Mustang Dark Horse (S650)                                	PI	633	855		633
+2024 Ford Mustang Dark Horse (S650)                                	S	5.4	6.0		5.4
+2024 Ford Mustang Dark Horse (S650)                                	B	3.8	7.0		3.8
+2024 Ford Mustang Dark Horse (S650)                                	H	3.5	7.0		3.5
+2024 Ford Mustang Dark Horse (S650)                                	A	4	5.5		4.0
+2024 Ford Mustang Dark Horse (S650)                                	Power	373	670 hp | 500 kW		
+2024 Ford Mustang Dark Horse (S650)                                	Torque	567	470 ftlb | 637 Nm		
+2024 Ford Mustang Dark Horse (S650)                                	Mass	1791	3325 lb | 1508 kg		
+2024 Ford Mustang Dark Horse (S650)                                	Displ	5	5900		
+2024 Ford Mustang Dark Horse (S650)                                	SpecType	Road	Race		
 2024 Ford Mustang GT (S650)                                        	SpecType	Road	Factory		
 2020 Ford Mustang Shelby GT500 (S550)                              	Ind	PDS	DSC		
 2020 Ford Mustang Shelby GT500 (S550)                              	SpecType	Road	Factory		
-2018 Ford #98 Breathless Pro Racing TA Mustang                     	Division	Forza T/A	Forza GT		Forza T/A
 2018 Ford Mustang GT (S550)                                        	SpecType	Road	Factory		
-2017 Ford #17 Shell V-Power Racing Team Falcon FG X                	Division	Forza AUS	Forza GT		Forza AUS
 2017 Ford Focus RS (C346 MkIII)                                    	SpecType	Road	Factory		
 2017 Ford GT                                                       	SpecType	Road	Factory		
-2016 Ford #66 Ford Racing GT Le Mans                               	Division	Forza GT2	Forza GT		Forza GT2
 2016 Ford Shelby GT-350R (S550)                                    	SpecType	Road	Factory		
 2015 Ford #02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype  	Torque	733	540 ftlb | 732 Nm		
 2015 Ford Falcon GT F 351                                          	Ind	PDS	DSC		
 2015 Ford Falcon GT F 351                                          	SpecType	Road	Factory		
-2014 Ford FPV Limited Edition Pursuit Ute                          	B	2.2			2.0
-2014 Ford FPV Limited Edition Pursuit Ute                          	H	2			2.2
+2014 Ford FPV Limited Edition Pursuit Ute                          	PI	479	685		479
+2014 Ford FPV Limited Edition Pursuit Ute                          	S	4.3	6.3		4.3
+2014 Ford FPV Limited Edition Pursuit Ute                          	B	2.2	3.7		2.0
+2014 Ford FPV Limited Edition Pursuit Ute                          	H	2	5.0		2.2
+2014 Ford FPV Limited Edition Pursuit Ute                          	A	3.3	4.7		3.3
+2014 Ford FPV Limited Edition Pursuit Ute                          	Ind	PDS	DSC		
+2014 Ford FPV Limited Edition Pursuit Ute                          	SpecType	Road	Factory		
+2014 Ford FPV Limited Edition Pursuit Ute                          	Steering	L	R		
 2013 Ford Shelby GT500                                             	Ind	PDS	DSC		
 2013 Ford Shelby GT500                                             	SpecType	Road	Factory		
 2009 Ford Focus RS (C307 MkII)                                     	SpecType	Road	Factory		
@@ -407,6 +434,13 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1973 Ford Escort RS1600 (MkI)                                      	Power	85	113 hp | 84 kW		
 1973 Ford Escort RS1600 (MkI)                                      	SpecType	Road	Factory		
 1973 Ford XB Falcon GT                                             	SpecType	Road	Factory		
+1972 Ford Falcon XA GT-HO                                          	PI	374	624		374
+1972 Ford Falcon XA GT-HO                                          	S	3.5	6.3		3.5
+1972 Ford Falcon XA GT-HO                                          	B	1.3	2.9		1.3
+1972 Ford Falcon XA GT-HO                                          	H	1.4	4.2		1.4
+1972 Ford Falcon XA GT-HO                                          	A	2.8	4.0		2.8
+1972 Ford Falcon XA GT-HO                                          	SpecType	Road	Factory		
+1970 Ford #15 Mustang Boss 302 Trans Am                            	Torque	489	360 ftlb | 488 Nm		
 1969 Ford Mustang Boss 302                                         	SpecType	Road	Factory		
 1968 Ford Mustang GT 2+2 Fastback                                  	SpecType	Road	Factory		
 1966 Ford #2 GT40 Mk II Le Mans                                    	Model	#2 GT40 Mk II Le Mans	#2 GT40 MkII Le Mans		#2 GT40 Mk II Le Mans
@@ -418,8 +452,12 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2020 Formula Drift #151 Toyota GR Supra (Mk5 J29 - Fredric Aasbø)  	B	4.2	4.2		4.4
 2020 Formula Drift #151 Toyota GR Supra (Mk5 J29 - Fredric Aasbø)  	H	4.4	4.4		4.2
 2020 Formula Drift #151 Toyota GR Supra (Mk5 J29 - Fredric Aasbø)  	Torque	1232	908 ftlb | 1231 Nm		
-2016 Formula Drift #530 HSV Maloo GEN-F                            	B	3.8			3.7
-2016 Formula Drift #530 HSV Maloo GEN-F                            	H	3.7			3.8
+2020 Formula Drift #91 BMW M2                                      	Torque	920	678 ftlb | 919 Nm		
+2016 Formula Drift #530 HSV Maloo GEN-F                            	Model	#530 HSV Maloo GEN-F	#530 HSV Maloo Gen-F		#530 HSV Maloo GEN-F
+2016 Formula Drift #530 HSV Maloo GEN-F                            	B	3.8	3.8		3.7
+2016 Formula Drift #530 HSV Maloo GEN-F                            	H	3.7	3.7		3.8
+2016 Formula Drift #530 HSV Maloo GEN-F                            	Torque	1221	900 ftlb | 1220 Nm		
+2016 Formula Drift #530 HSV Maloo GEN-F                            	Ind	PDS	DSC		
 2015 Formula Drift #13 Ford Mustang (S550 - Justin Pawlak)         	Ind	CS	DSC		
 2006 Formula Drift #43 Dodge Viper SRT10 (ZB I - Dean Kearney)     	B	4.6	4.6		4.7
 2006 Formula Drift #43 Dodge Viper SRT10 (ZB I - Dean Kearney)     	H	4.7	4.7		4.6
@@ -429,16 +467,24 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1997 Formula Drift #777 Nissan 240SX (S14 - Matt Field)            	Torque	1372	1011 ftlb | 1371 Nm		
 1997 Formula Drift #777 Nissan 240SX (S14 - Matt Field)            	Ind	PDS	CS		
 2019 Ginetta #6 Team LNT Ginetta G60-LT-P1                         	Torque	850	626 ftlb | 849 Nm		
-2019 Ginetta G40 Junior                                            	Division	G40 Junior Spec	Forza Touring Cars		G40 Junior Spec
-2019 Ginetta G55 GT4                                               	Division	Forza GT4	Forza GT		Forza GT4
 2022 Gordon Murray Automotive T.50                                 	Power	489	655 hp | 488 kW		
 2022 Gordon Murray Automotive T.50                                 	Torque	467	344 ftlb | 466 Nm		
 2022 Gordon Murray Automotive T.50                                 	SpecType	Road	Factory		
-1985 HDT VK Commodore Group A                                      	B	1.6			1.7
-1985 HDT VK Commodore Group A                                      	H	1.7			1.6
-2019 Hennessey Camaro Exorcist                                     	B	3.9			3.7
-2019 Hennessey Camaro Exorcist                                     	H	3.7			3.9
-2017 Holden #22 Walkinshaw Performance VF Commodore                	Division	Forza AUS	Forza GT		Forza AUS
+1985 HDT VK Commodore Group A                                      	PI	359	550		359
+1985 HDT VK Commodore Group A                                      	S	1.9	5.1		1.9
+1985 HDT VK Commodore Group A                                      	B	1.6	2.7		1.7
+1985 HDT VK Commodore Group A                                      	H	1.7	4.2		1.6
+1985 HDT VK Commodore Group A                                      	A	2.4	3.7		2.4
+1985 HDT VK Commodore Group A                                      	SpecType	Road	Factory		
+2019 Hennessey Camaro Exorcist                                     	B	3.9	3.9		3.7
+2019 Hennessey Camaro Exorcist                                     	H	3.7	3.7		3.9
+2019 Hennessey Camaro Exorcist                                     	Torque	1198	883 ftlb | 1197 Nm		
+2019 Hennessey Camaro Exorcist                                     	Mass	1750	3867 lb | 1754 kg		
+2019 Hennessey Camaro Exorcist                                     	Ind	PDS	DSC		
+2019 Hennessey Camaro Exorcist                                     	SpecType	Road	Tuner		
+2013 Holden #10 Holden Xbox Racing Team Commodore VG               	Model	#10 Holden Xbox Racing Team Commodore VG	#10 Holden Xbox Racing Team Commodore VF		
+2013 Holden #10 Holden Xbox Racing Team Commodore VG               	Torque	650	479 ftlb | 649 Nm		
+1991 Holden HSV Commodore Group A SV                               	SpecType	Road	Factory		
 1988 Holden VL Commodore Group A SV                                	SpecType	Road	Factory		
 1977 Holden Torana A9X                                             	SpecType	Road	Factory		
 1973 Holden HQ Monaro GTS 350                                      	SpecType	Road	Factory		
@@ -454,14 +500,26 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1970 Honda S800                                                    	SpecType	Road	Factory		
 2014 HSV GEN-F GTS                                                 	Ind	PDS	DSC		
 2014 HSV GEN-F GTS                                                 	SpecType	Road	Factory		
-2014 HSV Limited Edition GEN-F GTS Maloo                           	Model	Limited Edition GEN-F GTS Maloo			Limited Edition Gen-F GTS Maloo
-2011 HSV GTS                                                       	B	2.5			2.4
-2011 HSV GTS                                                       	H	2.4			2.5
+2014 HSV Limited Edition GEN-F GTS Maloo                           	Model	Limited Edition GEN-F GTS Maloo	Limited Edition Gen-F GTS Maloo		Limited Edition Gen-F GTS Maloo
+2014 HSV Limited Edition GEN-F GTS Maloo                           	Torque	740	545 ftlb | 739 Nm		
+2014 HSV Limited Edition GEN-F GTS Maloo                           	Ind	PDS	DSC		
+2014 HSV Limited Edition GEN-F GTS Maloo                           	SpecType	Road	Factory		
+2011 HSV GTS                                                       	B	2.5	2.5		2.4
+2011 HSV GTS                                                       	H	2.4	2.4		2.5
+2011 HSV GTS                                                       	Torque	550	405 ftlb | 549 Nm		
+2011 HSV GTS                                                       	SpecType	Road	Factory		
 1996 HSV GTSR                                                      	SpecType	Road	Factory		
-2023 Hyundai Ioniq 5 N                                             	Model	Ioniq 5 N			IONIQ 5 N
-2023 Hyundai Ioniq 5 N                                             	EngPos	D			M
-2023 Hyundai Ioniq 5 N                                             	Displ	0			
-2021 Hyundai i20 N                                                 	Drive	RWD			FWD
+2023 Hyundai Ioniq 5 N                                             	Model	Ioniq 5 N	IONIQ 5 N		IONIQ 5 N
+2023 Hyundai Ioniq 5 N                                             	EngPos	D	D		M
+2023 Hyundai Ioniq 5 N                                             	Displ	0	NaN		
+2023 Hyundai Ioniq 5 N                                             	EngCfg	E	 		
+2023 Hyundai Ioniq 5 N                                             	SpecType	Road	Factory		
+2022 Hyundai Elantra N                                             	EngCfg	I	 		
+2022 Hyundai Elantra N                                             	SpecType	Road	Factory		
+2021 Hyundai i20 N                                                 	Drive	RWD	FWD		FWD
+2021 Hyundai i20 N                                                 	SpecType	Road	Factory		
+2020 Hyundai i30 N                                                 	EngCfg	I	 		
+2020 Hyundai i30 N                                                 	SpecType	Road	Factory		
 2019 Hyundai Veloster N                                            	PI	468	468		497
 2019 Hyundai Veloster N                                            	S	3.6	3.6		2.8
 2019 Hyundai Veloster N                                            	B	2.6	2.6		3.3
@@ -495,22 +553,18 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2020 Koenigsegg Jesko                                              	SpecType	Road	Factory		
 2017 Koenigsegg Agera RS                                           	Torque	1371	1010 ftlb | 1369 Nm		
 2017 Koenigsegg Agera RS                                           	SpecType	Road	Factory		
-2020 KTM X-Bow GT2                                                 	Division	Modern Factory Racecars	Forza GT		Modern Factory Racecars
 2020 KTM X-Bow GT2                                                 	SpecType	Track	Race		
-2018 KTM X-Bow GT4                                                 	Division	Forza GT4	Forza GT		Forza GT4
 2013 KTM X-Bow R                                                   	SpecType	Track	Factory		
 2022 Lamborghini Huracán EVO Spyder                                	Torque	600	442 ftlb | 599 Nm		
 2022 Lamborghini Huracán EVO Spyder                                	SpecType	Road	Factory		
 2022 Lamborghini Huracán EVO Spyder                                	Topless	False	True		
 2020 Lamborghini Essenza SCV12                                     	Year	2020	2020		2021 
-2020 Lamborghini Essenza SCV12                                     	Division	Modern Factory Racecars	Forza GT		Modern Factory Racecars
 2020 Lamborghini Essenza SCV12                                     	SpecType	Track	Factory		
 2020 Lamborghini Huracán EVO                                       	Torque	600	442 ftlb | 599 Nm		
 2020 Lamborghini Huracán EVO                                       	SpecType	Road	Factory		
 2020 Lamborghini Huracán STO                                       	Torque	565	416 ftlb | 564 Nm		
 2020 Lamborghini Huracán STO                                       	SpecType	Road	Factory		
 2019 Lamborghini Sián FKP 37                                       	SpecType	Road	Factory		
-2018 Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo        	Division	Super Trofeo	Forza GT		Super Trofeo
 2018 Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo        	Torque	570	420 ftlb | 569 Nm		
 2018 Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo        	Mass	1358	2995 lb | 1359 kg		
 2018 Lamborghini Aventador SVJ                                     	SpecType	Road	Factory		
@@ -522,7 +576,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2016 Lamborghini Centenario LP 770-4                               	Torque	690	508 ftlb | 689 Nm		
 2016 Lamborghini Centenario LP 770-4                               	SpecType	Road	Factory		
 2015 Lamborghini #63 Squadra Corse Huracán LP620-2 Super Trofeo    	Model	#63 Squadra Corse Huracán LP620-2 Super Trofeo	#63 Squadra Corse Huracan LP620-2 Super Trofeo		#63 Squadra Corse Huracán LP620-2 Super Trofeo
-2015 Lamborghini #63 Squadra Corse Huracán LP620-2 Super Trofeo    	Division	Super Trofeo	Forza GT		Super Trofeo
 2015 Lamborghini #63 Squadra Corse Huracán LP620-2 Super Trofeo    	PI	814	815		814
 2015 Lamborghini #63 Squadra Corse Huracán LP620-2 Super Trofeo    	Torque	570	420 ftlb | 569 Nm		
 2015 Lamborghini #63 Squadra Corse Huracán LP620-2 Super Trofeo    	Mass	1358	2995 lb | 1359 kg		
@@ -547,7 +600,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1967 Lamborghini Miura P400                                        	SpecType	Road	Factory		
 1992 Lancia Delta HF Integrale EVO                                 	SpecType	Road	Factory		
 2021 Lexus LC 500                                                  	SpecType	Road	Factory		
-2020 Lexus #14 VASSER SULLIVAN RC F GT3                            	Division	Forza GT3	Forza GT		Forza GT3
 2020 Lexus RC F Track Edition                                      	SpecType	Road	Factory		
 2015 Lexus RC F                                                    	SpecType	Road	Factory		
 2014 Lexus IS 350 F Sport                                          	SpecType	Road	Factory		
@@ -581,20 +633,35 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1953 Maserati A6GCS/53 PininFarina Berlinetta                      	SpecType	Track	Factory		
 1939 Maserati 8CTF                                                 	Ind	PDS	DSC		
 2022 Mazda MX-5 Miata RF                                           	A	0			
+2022 Mazda MX-5 Miata RF                                           	EngCfg	I	 		
+2022 Mazda MX-5 Miata RF                                           	SpecType	Road	Factory		
 2016 Mazda MX-5 (ND)                                               	SpecType	Road	Factory		
+2015 Mazda Formula Mazda                                           	Cyl	2	R2		
 2014 Mazda #70 SpeedSource Lola B12/80                             	Mass	952	2100 lb | 953 kg		
 2013 Mazda MX-5 (NC)                                               	SpecType	Road	Factory		
+2011 Mazda RX-8 R3                                                 	Cyl	2	R2		
 2011 Mazda RX-8 R3                                                 	SpecType	Road	Factory		
+2010 Mazda #16 Mazda Racing B09/86                                 	Torque	551	406 ftlb | 550 Nm		
+2010 Mazda #16 Mazda Racing B09/86                                 	Mass	885	1973 lb | 895 kg		
+2010 Mazda #16 Mazda Racing B09/86                                 	Steering	L	R		
+2002 Mazda RX-7 Spirit R Type-A (FD)                               	Cyl	2	R2		
 2002 Mazda RX-7 Spirit R Type-A (FD)                               	SpecType	Road	Factory		
+1997 Mazda RX-7 (FD)                                               	Cyl	2	R2		
 1997 Mazda RX-7 (FD)                                               	SpecType	Road	Factory		
 1994 Mazda MX-5 Miata (NA)                                         	SpecType	Road	Factory		
 1992 Mazda 323 GT-R                                                	SpecType	Road	Factory		
 1991 Mazda #55 Mazda 787B                                          	Torque	608	448 ftlb | 607 Nm		
+1991 Mazda #55 Mazda 787B                                          	Cyl	4	R4		
+1991 Mazda #62 RX-7 (FC)                                           	Cyl	4	R4		
 1990 Mazda MX-5 Miata (NA)                                         	Power	86	116 hp | 87 kW		
 1990 Mazda MX-5 Miata (NA)                                         	SpecType	Road	Factory		
+1990 Mazda Savanna RX-7 (FC)                                       	Cyl	2	R2		
 1990 Mazda Savanna RX-7 (FC)                                       	SpecType	Road	Factory		
+1985 Mazda RX-7 GSL-SE (FB)                                        	Cyl	2	R2		
 1985 Mazda RX-7 GSL-SE (FB)                                        	SpecType	Road	Factory		
+1973 Mazda RX-3                                                    	Cyl	2	R2		
 1973 Mazda RX-3                                                    	SpecType	Road	Factory		
+1972 Mazda Cosmo 110S Series II                                    	Cyl	2	R2		
 1972 Mazda Cosmo 110S Series II                                    	SpecType	Road	Factory		
 2023 McLaren Artura                                                	Torque	720	530 ftlb | 719 Nm		
 2023 McLaren Artura                                                	SpecType	Road	Factory		
@@ -604,7 +671,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2021 McLaren Sabre                                                 	Torque	801	590 ftlb | 800 Nm		
 2021 McLaren Sabre                                                 	SpecType	Road	Factory		
 2020 McLaren GT                                                    	SpecType	Road	Factory		
-2019 McLaren #03 720S GT3                                          	Division	Forza GT3	Forza GT		Forza GT3
 2019 McLaren 720S Spider                                           	Torque	770	567 ftlb | 769 Nm		
 2019 McLaren 720S Spider                                           	Mass	1473	3157 lb | 1432 kg		
 2019 McLaren 720S Spider                                           	SpecType	Road	Factory		
@@ -633,7 +699,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2020 Mercedes-AMG GT Black Series (R190)                           	SpecType	Road	Factory		
 2018 Mercedes-AMG E 63 S (W213)                                    	SpecType	Road	Factory		
 2018 Mercedes-AMG GT 4-Door Coupé (X290)                           	SpecType	Road	Factory		
-2018 Mercedes-AMG GT3                                              	Division	Forza GT3	Forza GT		Forza GT3
 2017 Mercedes-AMG GT R (R190)                                      	SpecType	Road	Factory		
 2016 Mercedes-AMG C 63 S Coupé (W205)                              	PI	601	601		700
 2016 Mercedes-AMG C 63 S Coupé (W205)                              	S	5.5	5.5		5.2
@@ -703,7 +768,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2020 Nissan GT-R NISMO (R35)                                       	SpecType	Road	Factory		
 2019 Nissan 370Z Nismo (Z34)                                       	SpecType	Road	Factory		
 2018 Nissan Sentra NISMO                                           	SpecType	Road	Factory		
-2017 Nissan Altima Racecar                                         	Division	Forza AUS	Forza GT		Forza AUS
 2017 Nissan GT-R (R35)                                             	SpecType	Road	Factory		
 2015 Nissan #23 GT-R LM NISMO                                      	Torque	1206	889 ftlb | 1205 Nm		
 2003 Nissan Fairlady Z (Z33)                                       	SpecType	Road	Factory		
@@ -741,7 +805,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1990 Oldsmobile #75 Cutlass Supreme Trans Am                       	Torque	706	520 ftlb | 705 Nm		
 1969 Oldsmobile Hurst/Olds 442                                     	SpecType	Road	Factory		
 1979 Opel Kadett C GT/E                                            	SpecType	Road	Factory		
-2022 Pagani Huayra R                                               	Division	Modern Hypercars	Modern Hypercars		Modern Factory Racecars
+2022 Pagani Huayra R                                               	Division	Modern Hypercars	Modern Factory Racecars		Modern Factory Racecars
 2022 Pagani Huayra R                                               	SpecType	Road	Race		
 2016 Pagani Huayra BC                                              	SpecType	Road	Factory		
 2009 Pagani Zonda Cinque Roadster                                  	Power	498	678 hp | 506 kW		
@@ -772,7 +836,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2021 Porsche Mission R                                             	Displ	0	0		
 2020 Porsche Taycan Turbo S                                        	Displ	0	0		
 2020 Porsche Taycan Turbo S                                        	SpecType	Road	Factory		
-2019 Porsche #70 Porsche Motorsport 935                            	Division	Modern Factory Racecars	Forza GT		Modern Factory Racecars
 2019 Porsche #70 Porsche Motorsport 935                            	SpecType	Track	Race		
 2019 Porsche 911 Carrera S (992)                                   	Mass	1480	3261 lb | 1479 kg		
 2019 Porsche 911 Carrera S (992)                                   	SpecType	Road	Factory		
@@ -781,7 +844,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2019 Porsche 911 Speedster (991.2)                                 	Torque	470	346 ftlb | 469 Nm		
 2019 Porsche 911 Speedster (991.2)                                 	SpecType	Road	Factory		
 2019 Porsche 911 Speedster (991.2)                                 	Topless	False	True		
-2018 Porsche #73 Park Place Motorsports 911 GT3 R (991.2)          	Division	Forza GT3	Forza GT		Forza GT3
 2018 Porsche 718 Cayman GTS (982)                                  	SpecType	Road	Factory		
 2018 Porsche 911 GT2 RS (991.2)                                    	PI	803	803		900
 2018 Porsche 911 GT2 RS (991.2)                                    	S	7.1	7.1		9.1
@@ -793,11 +855,9 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2017 Porsche #2 Porsche Team 919 Hybrid                            	Power	671	790 hp | 589 kW		
 2017 Porsche #2 Porsche Team 919 Hybrid                            	Torque	1493	965 ftlb | 1308 Nm		
 2017 Porsche #2 Porsche Team 919 Hybrid                            	Mass	922	2043 lb | 927 kg		
-2017 Porsche #92 Porsche GT Team 911 RSR (991.2)                   	Division	Forza GT2	Forza GT		Forza GT2
 2017 Porsche #92 Porsche GT Team 911 RSR (991.2)                   	Torque	462	340 ftlb | 461 Nm		
 2017 Porsche Panamera Turbo (971)                                  	SpecType	Road	Factory		
 2016 Porsche 911 GT3 RS (991.1)                                    	SpecType	Road	Factory		
-2015 Porsche #91 Porsche Team Manthey 991 RSR (991.1)              	Division	Forza GT2	Forza GT		Forza GT2
 2015 Porsche Cayman GTS                                            	SpecType	Road	Factory		
 2014 Porsche 911 Turbo S (991.1)                                   	SpecType	Road	Factory		
 2014 Porsche 918 Spyder                                            	Power	666	887 hp | 661 kW		
@@ -849,6 +909,9 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2019 Rimac Concept Two                                             	Displ	0	0		
 2019 Rimac Concept Two                                             	SpecType	Road	Factory		
 2018 Saleen S1                                                     	SpecType	Road	Factory		
+2018 Saleen S302 Black Label                                       	Torque	855	630 ftlb | 854 Nm		
+2018 Saleen S302 Black Label                                       	Displ	5	3785		
+2018 Saleen S302 Black Label                                       	Ind	PDS	DSC		
 2018 Saleen S302 Black Label                                       	SpecType	Road	Factory		
 2017 Saleen S7 LM                                                  	Torque	1153	850 ftlb | 1152 Nm		
 2017 Saleen S7 LM                                                  	SpecType	Road	Factory		
@@ -901,6 +964,12 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1990 Subaru LEGACY RS                                              	Make	Subaru	SUBARU		Subaru
 1990 Subaru LEGACY RS                                              	Model	LEGACY RS	LEGACY RS		Legacy RS
 1990 Subaru LEGACY RS                                              	SpecType	Road	Factory		
+2024 Toyota NASCAR Next Gen Camry XSE                              	Torque	638	470 ftlb | 637 Nm		
+2023 Toyota Camry TRD                                              	SpecType	Road	Factory		
+2022 Toyota GR86                                                   	Torque	250	184 ftlb | 249 Nm		
+2022 Toyota GR86                                                   	SpecType	Road	Factory		
+2021 Toyota GR Yaris                                               	EngCfg	I	 		
+2021 Toyota GR Yaris                                               	SpecType	Road	Factory		
 2020 Toyota GR Supra (Mk5 J29)                                     	SpecType	Road	Factory		
 2019 Toyota 86 TRD SE (ZN8)                                        	SpecType	Road	Factory		
 2014 Toyota #8 Toyota Racing TS040 HYBRID                          	Torque	1000	737 ftlb | 999 Nm		
