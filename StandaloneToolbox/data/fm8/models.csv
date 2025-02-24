@@ -504,9 +504,9 @@
 381,2840,57,#33 Bob Sharp Racing 300ZX,1988,Nis. #33 300ZX,,15,GTX2;Nissan Z,815,5.6,5.9,6.1,5.7,507,1245,690,RWD,F,3,V,6,T,False,L,Door23
 380,2512,57,Skyline GTS-R (HR31),1987,Nissan GT-R '87,HR31,30,Nissan GT-R,333,3.1,1.7,1.9,2.1,154,1345,245,RWD,F,2,I,6,T,False,R,Door23
 379,3018,57,#83 GTP ZX-Turbo,1985,Nissan #83 GTP,,14,,944,6.4,9.6,10,7.5,478,951,686,RWD,MR,3,V,6,TT,False,R,Closed
-377,2801,57,#11 Tomica Skyline Turbo Super Silhouette,1984,#11 Skyline '84,R30,15,GTX2;Nissan GT-R,803,4.4,6.3,6.5,5.8,419,1005,539,RWD,F,2.1,I,4,T,False,R,Door23
-378,2482,57,#20 Bluebird Super Silhouette,1984,#20 Bluebird,,15,GTX2,808,4.9,6.1,6.3,6.1,419,1000,539,RWD,F,2.1,I,4,T,False,R,Door23
-568,3362,57,#23 Nissan Motorsports Silvia Super Silhouette,1983,Nis. #23 Silvia,S12,15,GTX2;S-chassis,800,5.2,5.8,6.1,5.9,419,1050,539,RWD,F,2.1,I,4,T,False,R,Door23
+377,2801,57,#11 Tomica Skyline Turbo Super Silhouette,1984,#11 Skyline '84,R30,15,GTXSS;Nissan GT-R,803,4.4,6.3,6.5,5.8,419,1005,539,RWD,F,2.1,I,4,T,False,R,Door23
+378,2482,57,#20 Bluebird Super Silhouette,1984,#20 Bluebird,,15,GTXSS,808,4.9,6.1,6.3,6.1,419,1000,539,RWD,F,2.1,I,4,T,False,R,Door23
+568,3362,57,#23 Nissan Motorsports Silvia Super Silhouette,1983,Nis. #23 Silvia,S12,15,GTXSS;S-chassis,800,5.2,5.8,6.1,5.9,419,1050,539,RWD,F,2.1,I,4,T,False,R,Door23
 376,2270,57,Skyline H/T 2000GT-R,1973,Nissan GT-R '73,KPGC110 "Kenmeri",38,Nissan GT-R,275,1,1,1.1,1.9,118,1145,176,RWD,F,2,I,6,NA,False,R,Door23
 375,1042,57,Skyline 2000GT-R,1971,Nissan GT-R '71,PGC10 "Hakosuka",38,Nissan GT-R,279,1.2,1,1.1,2,119,1100,180,RWD,F,2,I,6,NA,False,R,Door23
 373,2269,57,#21 Nissan Racing R382,1969,Nissan #21 R382,,26,,816,6,5.9,6.3,7.1,441,966,608,RWD,MR,6,V,12,NA,True,R,Open
