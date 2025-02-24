@@ -80,7 +80,7 @@ int EngineID, string EngineCode [e.g. 2.6L I6TT], int StockPower_hp, int StockTo
 ### makes.csv
 int MakeID, string Name, string CountryCode(, string Alias)
 
-Alias is optional, and maybe a string.Empty value. I consider this to be different from having no value.
+Alias is optional, and maybe a string.Empty value. I consider this to be different from having no value (e.g. no value means no alias, while empty value means a model should use an alternate make name instead).
 
 ### models.csv
 int ModelID, int CarOrdinal, int[] MakeID, string Name, int Year, string Nickname, string ModelExtra, int DivisionID, string[] Tags, int PI, double Speed, double Braking, double Handling, double Acceleration, int Power_kW, int Mass_kg, int Torque_Nm, enum Drivetrain [RWD,AWD,FWD], enum EnginePosition [R,MR,MF,F,NA,Dual], double Displacement_L, enum EngineConfiguration [I,F,V,VR,R,W,E], int Cylinders, enum Induction [NA,T,TT,DSC/PDS,CS,T4,EV], bool IsTopless, enum DriverPosition [L,C,R], enum Cockpit [Open,Closed,Door23,Door45,Other]
