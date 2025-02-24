@@ -123,7 +123,7 @@ int TrackOrdinal, string EnvironmentName, string Location, string CountryCode, s
 - T4: Quad-turbo (does not appear in-game, used for Bugatti W16 engines)
 - EV: Electric / other not applicable
 
-### ModelType
+### ModelType / CarType
 - Road: Road/production car
 - Race: Race-spec model
 - Track: Track-focused or non-road-legal production car, not quite race cars
