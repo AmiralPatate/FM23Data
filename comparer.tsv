@@ -65,6 +65,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1958 Aston Martin DBR1                                             	SpecType	Track	Factory		
 2021 Audi RS 6 Avant (C8/5G)                                       	SpecType	Road	Factory		
 2021 Audi RS 7 Sportback (4K8)                                     	SpecType	Road	Factory		
+2021 Audi RS e-tron GT                                             	EngPos	D	D		M
 2021 Audi RS e-tron GT                                             	Displ	0	0		
 2021 Audi RS e-tron GT                                             	SpecType	Road	Factory		
 2020 Audi R8 V10 performance (Type 4S)                             	SpecType	Road	Factory		
@@ -105,6 +106,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1984 Audi Sport quattro (B2/85)                                    	SpecType	Road	Factory		
 1965 Austin-Healey 3000 MkIII                                      	SpecType	Road	Factory		
 1939 Auto Union Type D                                             	Ind	PDS	DSC		
+2020 Automobili Pininfarina Battista                               	EngPos	D	D		M
 2020 Automobili Pininfarina Battista                               	Displ	0	0		
 2020 Automobili Pininfarina Battista                               	SpecType	Road	Factory		
 2014 BAC Mono                                                      	Torque	280	206 ftlb | 279 Nm		
@@ -145,6 +147,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2000 BMW 323ti Sport (E46/5)                                       	SpecType	Road	Factory		
 1999 BMW #15 BMW Motorsport V12 LMR                                	Power	432	580 hp | 433 kW		
 1999 BMW #15 BMW Motorsport V12 LMR                                	Mass	967	2133 lb | 968 kg		
+1999 BMW #16 BMW Motorsport V12 LMR                                	EngPos	F			M
 1997 BMW M3 (E36)                                                  	SpecType	Road	Factory		
 1995 BMW 850CSi (E31)                                              	SpecType	Road	Factory		
 1991 BMW M3 (E30)                                                  	SpecType	Road	Factory		
@@ -455,6 +458,10 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2011 HSV GTS                                                       	B	2.5			2.4
 2011 HSV GTS                                                       	H	2.4			2.5
 1996 HSV GTSR                                                      	SpecType	Road	Factory		
+2023 Hyundai Ioniq 5 N                                             	Model	Ioniq 5 N			IONIQ 5 N
+2023 Hyundai Ioniq 5 N                                             	EngPos	D			M
+2023 Hyundai Ioniq 5 N                                             	Displ	0			
+2021 Hyundai i20 N                                                 	Drive	RWD			FWD
 2019 Hyundai Veloster N                                            	PI	468	468		497
 2019 Hyundai Veloster N                                            	S	3.6	3.6		2.8
 2019 Hyundai Veloster N                                            	B	2.6	2.6		3.3
@@ -486,6 +493,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1956 Jaguar D-Type                                                 	SpecType	Track	Race		
 2020 Koenigsegg Jesko                                              	Torque	1500	1105 ftlb | 1498 Nm		
 2020 Koenigsegg Jesko                                              	SpecType	Road	Factory		
+2017 Koenigsegg Agera RS                                           	Torque	1371	1010 ftlb | 1369 Nm		
 2017 Koenigsegg Agera RS                                           	SpecType	Road	Factory		
 2020 KTM X-Bow GT2                                                 	Division	Modern Factory Racecars	Forza GT		Modern Factory Racecars
 2020 KTM X-Bow GT2                                                 	SpecType	Track	Race		
@@ -548,6 +556,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2016 Ligier #11 Eurointernational JS P3                            	Model	#11 Eurointernational JS P3	#11 Euro International JS P3		#11 Eurointernational JS P3
 2023 Lotus Emira                                                   	Ind	PDS	DSC		
 2023 Lotus Emira                                                   	SpecType	Road	Factory		
+2020 Lotus Evija                                                   	EngPos	D	D		M
 2020 Lotus Evija                                                   	Displ	0	0		
 2020 Lotus Evija                                                   	SpecType	Road	Factory		
 2016 Lotus 3-Eleven                                                	Torque	417	308 ftlb | 418 Nm		
@@ -571,6 +580,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1957 Maserati 300 S                                                	SpecType	Track	Factory		
 1953 Maserati A6GCS/53 PininFarina Berlinetta                      	SpecType	Track	Factory		
 1939 Maserati 8CTF                                                 	Ind	PDS	DSC		
+2022 Mazda MX-5 Miata RF                                           	A	0			
 2016 Mazda MX-5 (ND)                                               	SpecType	Road	Factory		
 2014 Mazda #70 SpeedSource Lola B12/80                             	Mass	952	2100 lb | 953 kg		
 2013 Mazda MX-5 (NC)                                               	SpecType	Road	Factory		
@@ -686,6 +696,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1995 Mitsubishi Eclipse GSX                                        	SpecType	Road	Factory		
 1995 Mitsubishi Lancer Evolution III GSR                           	SpecType	Road	Factory		
 1992 Mitsubishi Galant VR-4                                        	SpecType	Road	Factory		
+2016 NIO EP9                                                       	EngPos	D	D		M
 2016 NIO EP9                                                       	Displ	0	0		
 2016 NIO EP9                                                       	SpecType	Road	Factory		
 2023 Nissan Z (RZ34)                                               	SpecType	Road	Factory		
@@ -757,6 +768,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2024 Porsche #5 Porsche Penske Motorsport 963                      	Torque	660	486 ftlb | 659 Nm		
 2022 Porsche 718 Cayman GT4 RS (982)                               	SpecType	Road	Factory		
 2021 Porsche 911 GT3 (992)                                         	SpecType	Road	Factory		
+2021 Porsche Mission R                                             	EngPos	D	D		M
 2021 Porsche Mission R                                             	Displ	0	0		
 2020 Porsche Taycan Turbo S                                        	Displ	0	0		
 2020 Porsche Taycan Turbo S                                        	SpecType	Road	Factory		
@@ -816,6 +828,7 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1955 Porsche 550 Spyder                                            	SpecType	Road	Factory		
 2015 Radical RXC Turbo                                             	SpecType	Track	Factory		
 2019 RAESR Tachyon Speed                                           	Torque	4953	3650 ftlb | 4949 Nm		
+2019 RAESR Tachyon Speed                                           	EngPos	D	D		M
 2019 RAESR Tachyon Speed                                           	Displ	0	0		
 2019 RAESR Tachyon Speed                                           	SpecType	Road	Factory		
 2018 Renault Megane R.S.                                           	SpecType	Road	Factory		
@@ -829,8 +842,10 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1967 Renault 8 Gordini                                             	SpecType	Road	Factory		
 2021 Rimac Nevera                                                  	Power	1408	1893 hp | 1412 kW		
 2021 Rimac Nevera                                                  	Torque	2360	1739 ftlb | 2358 Nm		
+2021 Rimac Nevera                                                  	EngPos	D	D		M
 2021 Rimac Nevera                                                  	Displ	0	0		
 2021 Rimac Nevera                                                  	SpecType	Road	Factory		
+2019 Rimac Concept Two                                             	EngPos	D	D		M
 2019 Rimac Concept Two                                             	Displ	0	0		
 2019 Rimac Concept Two                                             	SpecType	Road	Factory		
 2018 Saleen S1                                                     	SpecType	Road	Factory		
@@ -843,7 +858,6 @@ Car	Key	Me	Manteo	Kudos	Wiki
 1965 Shelby Cobra 427 S/C                                          	SpecType	Track	Factory		
 1965 Shelby Cobra Daytona Coupe                                    	Torque	463	341 ftlb | 462 Nm		
 1965 Shelby Cobra Daytona Coupe                                    	SpecType	Track	Factory		
-2016 Spania GTA GTA Spano                                          	Model	GTA Spano	GTA Spano		Spano
 2016 Spania GTA GTA Spano                                          	Torque	1220	899 ftlb | 1219 Nm		
 2016 Spania GTA GTA Spano                                          	SpecType	Road	Factory		
 2013 SRT Viper GTS (VX)                                            	SpecType	Road	Factory		
@@ -862,6 +876,8 @@ Car	Key	Me	Manteo	Kudos	Wiki
 2018 Subaru #1 Adrian Flux SUBARU Racing Levorg GT                 	Make	Subaru	SUBARU		Subaru
 2018 Subaru #1 Adrian Flux SUBARU Racing Levorg GT                 	Model	#1 Adrian Flux SUBARU Racing Levorg GT	#1 Adrian Flux SUBARU Racing Levorg GT		#1 Adrian Flux Subaru Racing Levorg GT
 2015 Subaru WRX STI (VA)                                           	Make	Subaru	SUBARU		Subaru
+2015 Subaru WRX STI (VA)                                           	Power	230	305 hp | 227 kW		
+2015 Subaru WRX STI (VA)                                           	Torque	1778	290 ftlb | 393 Nm		
 2015 Subaru WRX STI (VA)                                           	SpecType	Road	Factory		
 2013 Subaru BRZ (ZC6)                                              	Make	Subaru	SUBARU		Subaru
 2013 Subaru BRZ (ZC6)                                              	SpecType	Road	Factory		
