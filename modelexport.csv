@@ -238,7 +238,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 3916,Ford,#130 Mustang RTR,2024,#130 Mustang RTR,Formula Drift,USA,837,5.6,4.5,4.6,6.8,864,1175,1159,1493,3292,1235,911,RWD,F,7.5,V,8,NA,Race,False,R,Door23
 3870,Ford,#25 Mustang RTR,2024,#25 Mustang RTR,Formula Drift,USA,810,6.8,4.5,4.6,6.2,844,1148,1132,1469,3239,1262,931,RWD,F,7.5,V,8,NA,Race,False,L,Door23
 3868,Ford,#88 Mustang RTR,2024,#88 Mustang RTR,Formula Drift,USA,810,6.8,4.5,4.6,6.1,844,1148,1132,1469,3239,1262,931,RWD,F,7.5,V,8,NA,Race,False,L,Door23
-3847,Ford,Mustang Dark Horse,2024,Ford Dark Horse,Modern Sport Touring,USA,633,5.4,3.8,3.5,4,373,507,500,1791,3948,567,418,RWD,F,5,V,8,NA,Road,False,L,Door23
+3847,Ford,Mustang Dark Horse,2024,NASCAR Mustang,Modern Sport Touring,USA,633,5.4,3.8,3.5,4,373,507,500,1791,3948,567,418,RWD,F,5,V,8,NA,Road,False,L,Door23
 3846,Ford,Mustang GT,2024,Ford Mustang '24,Modern Sport Touring,USA,579,4.9,2.8,2.8,3.8,362,492,485,1736,3827,567,418,RWD,F,5,V,8,NA,Road,False,L,Door23
 3995,Ford,NASCAR Next Gen Mustang Dark Horse,2024,NASCAR Mustang,NASCAR,USA,855,6,7,7,5.5,500,680,671,1508,3325,638,471,RWD,F,5.9,V,8,NA,Race,False,L,Closed
 3277,Ford,Mustang Shelby GT500,2020,Ford GT500 '20,Modern Sport Touring,USA,724,6.4,4.1,3.9,5.3,567,771,760,1892,4171,847,625,RWD,F,5.2,V,8,PDS,Road,False,L,Door23
@@ -259,7 +259,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 2019,Ford,Focus RS,2003,Ford Focus '03,Modern Hot Hatch,USA,384,1.9,2.1,2.1,2.6,158,215,212,1280,2822,309,228,FWD,F,2,I,4,T,Road,False,L,Door23
 405,Ford,SVT Cobra R,2000,Ford Cobra R '00,Sport Touring Classics,USA,533,4.3,3.1,3,3.2,287,390,385,1637,3609,522,385,RWD,F,5.4,V,8,NA,Road,False,L,Door23
 3228,Ford,Racing Puma,1999,Ford Puma '99,Early Sport Compact,USA,303,1.4,2.1,2.2,1.7,114,155,153,1174,2588,161,119,FWD,F,1.7,I,4,NA,Road,False,R,Door23
-1510,Ford,Mustang SVT Cobra R,1995,Ford Mustang '95,Sport Touring Classics,USA,443,3.5,2.4,2.5,2.8,224,305,300,1509,3327,495,365,RWD,F,5.8,V,8,NA,Road,False,L,Door23
+1510,Ford,Mustang SVT Cobra R,1995,Ford Cobra R '95,Sport Touring Classics,USA,443,3.5,2.4,2.5,2.8,224,305,300,1509,3327,495,365,RWD,F,5.8,V,8,NA,Road,False,L,Door23
 1041,Ford,SVT Cobra R,1993,Ford Cobra R '93,Sport Touring Classics,USA,374,2.2,2.2,2.4,2.3,175,238,235,1417,3124,380,280,RWD,F,4.9,V,8,NA,Road,False,L,Door23
 1272,Ford,Escort RS Cosworth,1992,Ford Escort '92,Hot Hatch Icons,USA,421,2.7,2.5,2.8,2.4,167,227,224,1275,2811,304,224,AWD,F,2,I,4,T,Road,False,R,Door23
 2514,Ford,Falcon GT,1992,Ford Falcon '92,Sport Touring Classics,USA,396,3.5,1.8,2,2.6,200,272,268,1647,3631,420,310,RWD,F,4.9,V,8,NA,Road,False,R,Door45
@@ -281,12 +281,12 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 1486,Ford,Lotus Cortina,1966,Ford Cortina '66,Vintage Sport Compact,USA,248,1,1.1,1.1,1.4,86,117,115,934,2059,146,108,RWD,F,1.6,I,4,NA,Road,False,L,Door23
 1355,Ford,Mustang GT Coupe,1965,Ford Mustang '65,Vintage Muscle,USA,338,2.3,1.1,1.2,2.9,202,275,271,1162,2562,423,312,RWD,F,4.7,V,8,NA,Road,False,L,Door23
 2980,Ford,GT40 MKI,1964,Ford GT40 Mk I,Vintage Le Mans Prototypes,USA,691,5.3,4,4.4,4.4,291,396,390,1005,2216,427,315,RWD,MR,4.7,V,8,NA,Race,False,R,Door23
-3523,Formula Drift,#151 Toyota GR Supra,2020,#151 FD Supra,Formula Drift,USA,801,4.1,4.2,4.4,5.7,770,1047,1033,1432,3157,1232,909,RWD,F,3,I,6,T,Race,False,L,Door23
+3523,Formula Drift,#151 Toyota GR Supra,2020,FD #151 GR Supra,Formula Drift,USA,801,4.1,4.2,4.4,5.7,770,1047,1033,1432,3157,1232,909,RWD,F,3,I,6,T,Race,False,L,Door23
 3551,Formula Drift,#91 BMW M2,2020,#91 BMW M2,Formula Drift,USA,801,4.9,4.3,4.3,6.3,613,833,822,1292,2848,920,679,RWD,F,6.2,V,8,NA,Race,False,L,Door23
 2997,Formula Drift,#530 HSV Maloo GEN-F,2016,#530 HSV Maloo,Formula Drift,USA,768,6.6,3.8,3.7,5.4,746,1014,1000,1300,2866,1221,901,RWD,F,6.2,V,8,PDS,Race,False,R,Door23
 2996,Formula Drift,#13 Ford Mustang,2015,#13 Ford Mustang,Formula Drift,USA,767,3.3,4.1,4.2,5.6,735,999,986,1388,3060,1128,832,RWD,F,5,V,8,CS,Race,False,L,Door23
 3003,Formula Drift,#43 Dodge Viper SRT10,2006,#43 Dodge Viper,Formula Drift,USA,816,6.1,4.6,4.7,6.1,1007,1369,1350,1297,2859,1900,1401,RWD,F,8.3,V,10,TT,Race,False,L,Door23
-3000,Formula Drift,#777 Nissan 240SX,1997,#777 Nissan 240,Formula Drift,USA,799,5,3.9,4.1,6.5,938,1275,1258,1391,3067,1372,1012,RWD,F,7,V,8,PDS,Race,False,L,Door23
+3000,Formula Drift,#777 Nissan 240SX,1997,FD #777 240SX,Formula Drift,USA,799,5,3.9,4.1,6.5,938,1275,1258,1391,3067,1372,1012,RWD,F,7,V,8,PDS,Race,False,L,Door23
 3460,Ginetta,#6 Team LNT Ginetta G60-LT-P1,2019,Ginetta #6 G60,Forza P1,GBR,981,7.1,10,10,8.1,537,730,720,886,1953,850,627,RWD,MR,2.4,V,6,TT,Race,False,L,Closed
 3429,Ginetta,G40 Junior,2019,Ginetta G40 Jr,G40 Junior Spec,GBR,300,1,2.8,2.8,1.6,75,102,101,864,1905,140,103,RWD,F,1.8,I,4,NA,Race,False,R,Door23
 3427,Ginetta,G55 GT4,2019,Ginetta G55 GT4,Forza GT4,GBR,723,3.4,5.3,5.4,4.7,283,385,380,1165,2568,434,320,RWD,F,3.7,V,6,NA,Race,False,L,Door23
@@ -608,7 +608,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 364,Subaru,IMPREZA WRX STI,2004,SUBARU WRX '04,Early Sport Compact,JPN,490,3.3,2.2,2.2,3.3,207,281,278,1460,3219,394,291,AWD,F,2,F,4,T,Road,False,R,Door45
 363,Subaru,Impreza 22B-STi Version,1998,SUBARU 22B '98,Early Sport Compact,JPN,511,2.6,2.7,2.8,3.2,206,280,276,1270,2800,360,266,AWD,F,2.2,F,4,T,Road,False,R,Door23
 1382,Subaru,LEGACY RS,1990,SUBARU LEGACY 90,Early Sport Compact,JPN,323,2.2,1.4,1.6,1.9,162,220,217,1355,2987,270,199,AWD,F,2,F,4,T,Road,False,R,Door45
-3993,Toyota,NASCAR Next Gen Camry XSE,2024,NASCAR Camry XSE,NASCAR,JPN,855,6,7,7,5.5,500,680,671,1508,3325,638,471,RWD,F,5.9,V,8,NA,Race,False,L,Closed
+3993,Toyota,NASCAR Next Gen Camry XSE,2024,NASCAR Camry,NASCAR,JPN,855,6,7,7,5.5,500,680,671,1508,3325,638,471,RWD,F,5.9,V,8,NA,Race,False,L,Closed
 3848,Toyota,Camry TRD,2023,Toyota Camry '23,Modern Sport Compact,JPN,412,4.2,1.9,2,2.6,224,305,300,1622,3576,362,267,FWD,F,3.5,V,6,NA,Road,False,L,Door45
 3761,Toyota,GR86,2022,Toyota GR86 '22,Modern Sport Compact,JPN,404,2.6,2.2,2.3,2.8,170,231,228,1275,2811,250,184,RWD,F,2.4,F,4,NA,Road,False,L,Door23
 3629,Toyota,GR Yaris,2021,Toyota GR Yaris,Modern Hot Hatch,JPN,539,2.8,2.9,2.7,3.3,192,261,257,1310,2888,360,266,AWD,F,1.6,I,3,T,Road,False,R,Door23
