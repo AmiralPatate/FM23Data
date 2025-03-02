@@ -491,7 +491,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 441,Nissan,Silvia Spec-R,2000,Nissan Silvia 0,Early Sport Compact,JPN,399,3.3,1.9,2.2,2.6,186,253,249,1240,2734,275,203,RWD,F,2,I,4,T,Road,False,R,Door23
 3497,Nissan,#23 NISMO Clarion R391,1999,Nissan #23 R391,Early LMP,JPN,955,6.5,9.8,10,7.5,447,608,599,967,2132,618,456,RWD,MR,5,V,8,NA,Race,True,R,Open
 3363,Nissan,#23 Pennzoil NISMO Skyline GT-R,1998,Nis. #23 GT-R,GTX Sportscars,JPN,811,4,7,7.2,5.7,368,500,493,1200,2646,706,521,RWD,F,2.7,I,6,TT,Race,False,R,Door23
-567,Nissan,R390 (GT1),1998,Nissan R390 '98,Exotic GT Classics,JPN,796,7.2,4.5,4.8,7.2,410,557,550,1027,2264,639,471,RWD,MR,3.5,V,8,TT,Road,False,R,Door23
+567,Nissan,R390 (GT1),1998,Nissan R390 '98,Early Factory Racecars,JPN,796,7.2,4.5,4.8,7.2,410,557,550,1027,2264,639,471,RWD,MR,3.5,V,8,TT,Track,False,R,Door23
 2659,Nissan,Silvia K's Aero,1998,Nissan Silvia 98,Early Sport Compact,JPN,380,3.1,1.8,2.1,2.7,162,220,217,1265,2789,274,202,RWD,F,2,I,4,T,Road,False,R,Door23
 1043,Nissan,Skyline GT-R V-Spec,1997,Nissan GT-R '97,Sport GT Icons,JPN,485,4.1,2.4,2.5,3,207,281,278,1539,3393,367,271,AWD,F,2.6,I,6,TT,Road,False,R,Door23
 345,Nissan,Fairlady Z Version S Twin Turbo,1994,Nissan Z '94,Sport GT Icons,JPN,398,3.7,1.8,2.2,2.8,206,280,276,1520,3351,384,283,RWD,F,3,V,6,TT,Road,False,R,Door23
@@ -644,7 +644,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 309,Volkswagen,Corrado VR6,1995,VW Corrado '95,Hot Hatch Icons,GER,340,2.5,1.6,1.9,2,133,181,178,1240,2734,240,177,FWD,F,2.8,VR,6,NA,Road,False,L,Door23
 353,Volkswagen,Golf Gti 16v Mk2,1992,VW GTI Mk2 '92,Hot Hatch Icons,GER,286,1,1.4,1.6,1.7,104,141,139,1001,2207,163,120,FWD,F,1.8,I,4,NA,Road,False,L,Door23
 1612,Volkswagen,Scirocco 16v,1988,VW Scirocco '88,Hot Hatch Icons,GER,263,1,1.3,1.5,1.3,92,125,123,1073,2366,163,120,FWD,F,1.8,I,4,NA,Road,False,L,Door23
-2995,Volkswagen,Golf GTI,1983,VW GTI Mk1 '83,Hot Hatch Icons,GER,264,1,1.3,1.5,1.4,84,114,113,866,1909,148,109,FWD,F,1.8,I,4,NA,Road,False,L,Door23
+2995,Volkswagen,Golf GTI,1983,VW GTI Mk1 '83,Hot Hatch Icons,GER,264,1,1.3,1.5,1.4,84,114,113,866,1909,148,109,FWD,F,1.8,I,4,NA,Road,False,R,Door23
 1380,Volkswagen,Scirocco S,1981,VW Scirocco '81,Hot Hatch Icons,GER,222,1,1,1.2,1,55,75,74,914,2015,121,89,FWD,F,1.7,I,4,NA,Road,False,L,Door23
 1387,Volvo,850 R,1997,Volvo 850 R '97,Sport Touring Classics,SWE,332,2.8,1.6,1.8,2.3,179,243,240,1465,3230,300,221,FWD,F,2.3,I,5,T,Road,False,L,Door45
 2844,VUHL,05RR,2017,Vuhl 05RR '17,Track Toys,MEX,785,3.9,5.2,5.2,7,298,405,400,695,1532,500,369,RWD,MR,2.3,I,4,T,Track,True,L,Open
