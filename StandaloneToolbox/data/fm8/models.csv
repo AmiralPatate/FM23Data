@@ -319,7 +319,7 @@
 648,3827,36,Ioniq 5 N,2023,Ioniq 5 N '23,,20,,683,3.2,2.7,2.6,4.5,478,2214,770,AWD,Dual,0,E,0,EV,False,L,Door45
 656,3862,36,Elantra N,2022,Elantra N '22,,22,,480,3.8,2.2,2.5,3,206,1495,392,FWD,F,2,I,4,T,False,L,Door45
 643,3676,36,#98 Bryan Herta Autosport Elantra N,2021,#98 Elantra,,12,,670,3.2,5,5.1,4,261,1415,450,FWD,F,2,I,4,T,False,L,Door45
-644,3928,36,i20 N,2021,Hyundai i20 N,,20,,438,2.3,2.4,2.7,2.6,150,1190,304,RWD,F,1.6,I,4,T,False,R,Door45
+644,3928,36,i20 N,2021,Hyundai i20 N,,20,,438,2.3,2.4,2.7,2.6,150,1190,304,FWD,F,1.6,I,4,T,False,R,Door45
 244,3532,36,#98 Bryan Herta Autosport Veloster N,2020,#98 Veloster,,12,,692,3.3,5.2,5.4,4.3,261,1315,460,FWD,F,2,I,4,T,False,L,Door23
 647,3678,36,i30 N,2020,Hyundai i30 N,,20,,466,3.4,2.5,2.5,2.8,202,1429,378,FWD,F,2,I,4,T,False,L,Door45
 242,2872,36,Veloster N,2019,Veloster N '19,,20,,468,3.6,2.6,2.7,2.7,205,1409,353,FWD,F,2,I,4,T,False,L,Door23
