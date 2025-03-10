@@ -320,7 +320,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 3827,Hyundai,Ioniq 5 N,2023,Ioniq 5 N '23,Modern Hot Hatch,KOR,683,3.2,2.7,2.6,4.5,478,650,641,2214,4881,770,568,AWD,Dual,0,E,0,EV,Road,False,L,Door45
 3862,Hyundai,Elantra N,2022,Elantra N '22,Modern Sport Compact,KOR,480,3.8,2.2,2.5,3,206,280,276,1495,3296,392,289,FWD,F,2,I,4,T,Road,False,L,Door45
 3676,Hyundai,#98 Bryan Herta Autosport Elantra N,2021,#98 Elantra,Forza Touring Cars,KOR,670,3.2,5,5.1,4,261,355,350,1415,3120,450,332,FWD,F,2,I,4,T,Race,False,L,Door45
-3928,Hyundai,i20 N,2021,Hyundai i20 N,Modern Hot Hatch,KOR,438,2.3,2.4,2.7,2.6,150,204,201,1190,2624,304,224,RWD,F,1.6,I,4,T,Road,False,R,Door45
+3928,Hyundai,i20 N,2021,Hyundai i20 N,Modern Hot Hatch,KOR,438,2.3,2.4,2.7,2.6,150,204,201,1190,2624,304,224,FWD,F,1.6,I,4,T,Road,False,R,Door45
 3532,Hyundai,#98 Bryan Herta Autosport Veloster N,2020,#98 Veloster,Forza Touring Cars,KOR,692,3.3,5.2,5.4,4.3,261,355,350,1315,2899,460,339,FWD,F,2,I,4,T,Race,False,L,Door23
 3678,Hyundai,i30 N,2020,Hyundai i30 N,Modern Hot Hatch,KOR,466,3.4,2.5,2.5,2.8,202,275,271,1429,3150,378,279,FWD,F,2,I,4,T,Road,False,L,Door45
 2872,Hyundai,Veloster N,2019,Veloster N '19,Modern Hot Hatch,KOR,468,3.6,2.6,2.7,2.7,205,279,275,1409,3106,353,260,FWD,F,2,I,4,T,Road,False,L,Door23
