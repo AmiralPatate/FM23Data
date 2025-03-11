@@ -348,7 +348,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 3891,Lamborghini,Revuelto,2024,Revuelto '24,Modern Exotic GT,ITA,834,8.5,4.5,4.3,7.9,746,1014,1000,1836,4048,1003,740,AWD,Dual,6.5,V,12,NA,Road,False,L,Door23
 3874,Lamborghini,SC63,2024,Lambo. SC63 '24,Forza Proto-H,ITA,956,6.9,9.9,9.9,8.2,500,680,671,1105,2436,630,465,RWD,MR,3.8,V,8,TT,Race,False,L,Closed
 3759,Lamborghini,Huracán EVO Spyder,2022,Huracán Spyder,Modern Sport GT,ITA,736,6.3,3.9,3.6,5.5,470,639,630,1785,3935,600,443,AWD,MR,5.2,V,10,NA,Road,False,L,Door23
-3774,Lamborghini,Countach LPI 800-4,2021,L. Countach '21,Modern Hypercars,ITA,780,7.1,4.1,3.8,6.8,602,818,807,1867,4116,755,557,RWD,Dual,6.5,V,12,NA,Road,False,L,Door23
+3774,Lamborghini,Countach LPI 800-4,2021,L. Countach '21,Modern Hypercars,ITA,780,7.1,4.1,3.8,6.8,602,818,807,1867,4116,755,557,AWD,Dual,6.5,V,12,NA,Road,False,L,Door23
 3606,Lamborghini,Essenza SCV12,2020,L. Essenza SCV12,Modern Factory Racecars,ITA,923,7.2,8.3,8.2,6.9,610,829,818,1447,3190,800,590,RWD,MR,6.5,V,12,NA,Track,False,L,Door23
 3371,Lamborghini,Huracán EVO,2020,L. Huracán E '20,Modern Sport GT,ITA,752,6.3,4.1,3.8,5.8,470,639,630,1665,3671,600,443,AWD,MR,5.2,V,10,NA,Road,False,L,Door23
 3672,Lamborghini,Huracán STO,2020,L. Huracán S '20,Modern Sport GT,ITA,766,6,5,4.7,6.4,470,639,630,1512,3333,565,417,RWD,MR,5.2,V,10,NA,Road,False,L,Door23
