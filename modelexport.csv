@@ -218,7 +218,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 524,Ferrari,#12 Risi Competizione F333 SP,1998,Ferrari #12 F333,Early LMP,ITA,935,5.5,8.9,9.3,7.7,485,659,650,935,2061,448,330,RWD,MR,4,V,12,NA,Race,True,R,Open
 1020,Ferrari,F50 GT,1996,Ferrari F50 GT,Early Factory Racecars,ITA,913,7.7,7,7.2,7.5,559,760,750,935,2061,520,384,RWD,MR,4.7,V,12,NA,Track,False,L,Door23
 342,Ferrari,F50,1995,Ferrari F50 '95,Exotic GT Classics,ITA,683,5.9,4.1,4.4,4.4,383,521,514,1309,2886,470,347,RWD,MR,4.7,V,12,NA,Road,False,L,Door23
-253,Ferrari,F355 Berlinetta,1994,Ferrari F355,Sport GT Icons,ITA,568,5.2,2.7,3,3.6,280,381,375,1416,3122,363,268,RWD,MR,3.5,V,8,NA,Road,False,L,Door23
+253,Ferrari,F355 Berlinetta,1994,Ferrari F355,Sport GT Icons,ITA,568,5.2,2.7,3,3.6,280,381,375,1416,3122,364,268,RWD,MR,3.5,V,8,NA,Road,False,L,Door23
 255,Ferrari,512 TR,1992,Ferrari 512 '92,Exotic GT Classics,ITA,533,5.2,2.5,2.9,3.2,314,427,421,1674,3691,488,360,RWD,MR,4.9,F,12,NA,Road,False,L,Door23
 2126,Ferrari,#1 Scuderia Ferrari 641,1990,Ferrari #1 641,Grand Prix Rivals,ITA,999,6.8,10,10,10,507,689,680,668,1473,434,320,RWD,MR,3.5,V,12,NA,Race,True,C,Open
 1023,Ferrari,F40 Competizione,1989,Ferrari F40 Comp,Early Factory Racecars,ITA,874,7.8,6.6,7.1,6.5,515,700,691,1040,2293,714,527,RWD,MR,2.9,V,8,TT,Track,False,L,Door23
