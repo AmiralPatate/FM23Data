@@ -540,7 +540,9 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 1337,Pontiac,Firebird Trans Am,1969,Pontiac T/A '69,Vintage Muscle,USA,345,1.9,1.1,1.2,2.7,257,349,345,1552,3422,584,431,RWD,F,6.6,V,8,NA,Road,False,L,Door23
 1309,Pontiac,GTO Judge,1969,Pontiac GTO '69,Street Drag Racers,USA,349,1.5,1.1,1.2,2.7,272,370,365,1654,3646,604,445,RWD,F,6.5,V,8,NA,Road,False,L,Door23
 3876,Porsche,#5 Porsche Penske Motorsport 963,2024,#5 Porsche 963,Forza Proto-H,GER,957,7,9.7,9.8,8.2,500,680,671,1120,2469,660,487,RWD,MR,4.6,V,8,TT,Race,False,L,Door23
+3951,Porsche,911 GT3 R,2023,911 GT3 R '24,Forza GT3,GER,820,4.8,6.6,6.5,6.4,416,566,558,1338,2950,489,361,RWD,R,4.2,F,6,NA,Race,False,L,Door23
 3781,Porsche,911 GT3 RS,2023,P. 911 GT3 RS 23,Modern Sport GT,GER,783,5.4,6.1,5.8,5.7,386,525,518,1450,3197,465,343,RWD,R,4,F,6,NA,Road,False,L,Door23
+3953,Porsche,911 Turbo S,2023,911 Turbo S '23,Modern Sport GT,GER,789,6.7,4.3,3.8,6.7,478,650,641,1565,3450,800,590,AWD,R,3.8,F,6,TT,Road,False,L,Door23
 3760,Porsche,718 Cayman GT4 RS,2022,P. 718 GT4 '22,Modern Sport Coupe,GER,730,6.3,4.3,4.3,5.5,368,500,493,1415,3120,450,332,RWD,MR,4,F,6,NA,Road,False,R,Door23
 3667,Porsche,911 GT3,2021,P. 911 GT3 '21,Modern Sport GT,GER,737,6.1,4.7,4.5,5.4,375,510,503,1435,3164,469,346,RWD,R,4,F,6,NA,Road,False,L,Door23
 3698,Porsche,Mission R,2021,Porsche MissionR,Mission R Spec,GER,879,4.2,6,5.9,6.1,500,680,671,1500,3307,1005,741,AWD,Dual,0,E,0,EV,Race,False,L,Door23
@@ -557,6 +559,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 2775,Porsche,#92 Porsche GT Team 911 RSR,2017,Porsche #92 RSR,Forza GT2,GER,811,4.7,6.6,6.7,5.9,375,510,503,1319,2908,462,341,RWD,MR,4,F,6,NA,Race,False,L,Door23
 2741,Porsche,Panamera Turbo,2017,P. Panamera '17,Sport Luxury,GER,643,6.8,3,2.6,4.9,410,557,550,1995,4398,769,567,AWD,F,4,V,8,TT,Road,False,L,Door45
 2528,Porsche,911 GT3 RS,2016,911 GT3 RS '16,Modern Sport GT,GER,748,5.8,5,4.7,5.7,368,500,493,1420,3131,460,339,RWD,R,4,F,6,NA,Road,False,L,Door23
+2529,Porsche,Cayman GT4,2016,Porsche Cayman,Modern Sport Coupe,GER,668,5,4.3,4,4.3,287,390,385,1340,2954,419,309,RWD,MR,3.8,F,6,NA,Road,False,L,Door23
 2538,Porsche,#91 Porsche Team Manthey 991 RSR,2015,Porsche #91 RSR,Forza GT2,GER,806,4.5,6.3,6.4,6.2,365,496,489,1306,2879,447,330,RWD,R,4,F,6,NA,Race,False,L,Door23
 2293,Porsche,Cayman GTS,2015,Porsche Cayman,Modern Sport Coupe,GER,585,4.7,3.1,3,4.1,254,345,341,1345,2965,380,280,RWD,MR,3.4,F,6,NA,Road,False,L,Door23
 2289,Porsche,911 Turbo S,2014,911 Turbo '14,Modern Sport GT,GER,717,7,3.6,3.3,5.5,418,568,561,1636,3607,750,553,AWD,R,3.8,F,6,TT,Road,False,L,Door23
@@ -572,12 +575,17 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 2534,Porsche,968 Turbo S,1993,P. 968 Turbo '93,Sport Touring Classics,GER,534,4.2,2.6,2.8,3.7,227,309,304,1300,2866,500,369,RWD,F,3,I,4,T,Road,False,L,Door23
 268,Porsche,944 Turbo,1989,P. 944 Turbo '89,Sport Touring Classics,GER,429,3.3,2.1,2.3,3.1,184,250,247,1413,3115,350,258,RWD,F,2.5,I,4,T,Road,False,L,Door23
 540,Porsche,#17 Porsche AG 962C,1987,Porsche #17 962C,GTP/C,GER,971,8.9,9.1,9.6,8.3,537,730,720,890,1962,801,591,RWD,MR,3,F,6,TT,Race,False,R,Closed
+3282,Porsche,#203 Porsche AG 961,1987,#203 Porsche 961,GTX Sportscars/GTX1,GER,825,5.9,4.9,5,6.8,471,640,632,1150,2535,630,465,AWD,R,2.8,F,6,TT,Race,False,L,Door23
 269,Porsche,959,1987,P. 959 '87,Exotic GT Classics,GER,687,6,3.2,3.1,5.1,336,457,451,1447,3190,500,369,AWD,R,2.8,F,6,TT,Road,False,L,Door23
 3023,Porsche,#11 John Fitzpatrick Racing 956,1983,Porsche #11 956,GTP/C,GER,959,9,8.7,9.4,8.2,462,628,620,894,1971,601,443,RWD,MR,2.6,F,6,TT,Race,False,L,Closed
 265,Porsche,911 Turbo 3.3,1982,P. 911 Turbo '82,Sport GT Icons,GER,448,2.9,2,2,3.5,221,300,296,1300,2866,412,304,RWD,R,3.3,F,6,T,Road,False,L,Door23
+3298,Porsche,#1 Porsche System Engineering 924 GTP Le Mans,1981,Porsche #1 924,GTX Sportscars/GTX3,GER,727,5,4.2,4.5,5.6,301,409,404,1046,2306,487,359,RWD,F,2.5,I,4,T,Race,False,L,Other
 2532,Porsche,924 Carrera GTS,1980,P. 924 GTS '80,Sport Touring Classics,GER,427,3.5,1.9,2.1,3.1,183,249,245,1120,2469,335,247,RWD,F,2,I,4,T,Road,False,L,Door23
+2298,Porsche,#43 Porsche Racing 935/78,1978,#43 935/78,GTX Sportscars/GTXS,GER,873,5.9,6.5,6.4,8.5,630,857,845,1115,2458,784,578,RWD,R,3.2,F,6,TT,Race,False,R,Other
+2548,Porsche,#78 MOMO 935/78,1978,Porsche 935/78,GTX Sportscars/GTXS,GER,873,7.9,6,6.4,7.3,630,857,845,1115,2458,784,578,RWD,R,3.2,F,6,TT,Race,False,R,Door23
 3506,Porsche,#1 911 RSR,1974,#1 Porsche 911,GTX Sportscars/GTX3,GER,705,3.5,5.3,5.3,5,246,334,330,982,2165,314,232,RWD,R,3,F,6,NA,Race,False,L,Door23
 260,Porsche,911 Carrera RS,1973,P. 911 RS '73,Vintage Sport Compact,GER,371,2.3,1.6,1.8,2.9,154,209,207,1111,2449,255,188,RWD,R,2.7,F,6,NA,Road,False,L,Door23
+2869,Porsche,#23 917/20,1971,Porsche 917/20,Vintage Le Mans Prototypes,GER,871,7.7,5.8,6.3,8.6,441,600,591,918,2024,563,415,RWD,MR,4.9,F,12,NA,Race,False,R,Closed
 2549,Porsche,#3 917 LH,1970,Porsche 917 LH,Vintage Le Mans Prototypes,GER,857,8.7,5.3,5.8,9.2,448,609,601,927,2044,563,415,RWD,MR,5,F,12,NA,Race,False,R,Closed
 266,Porsche,914/6,1970,P. 914/6 '70,Vintage Sport Compact,GER,265,1,1.2,1.3,1.6,93,126,125,996,2196,178,131,RWD,MR,2,F,6,NA,Road,False,L,Door23
 2537,Porsche,718 RS 60,1960,Porsche 718,Vintage Le Mans Sportscars,GER,536,2.7,2.7,3,3.8,119,162,160,581,1281,163,120,RWD,MR,1.6,F,4,NA,Track,True,L,Door23
