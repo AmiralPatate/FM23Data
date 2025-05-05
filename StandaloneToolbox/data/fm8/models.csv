@@ -1,4 +1,5 @@
 553,2740,89,124 Spider,2017,Abarth 124 '17,,22,,360,2.1,2.3,2.4,2.2,123,1124,250,RWD,F,1.4,I,4,T,True,L,Door23,False
+669,3767,1,NSX Type S,2022,Acura NSX '22,,24,NSX,737,6.1,3.7,3.3,6.3,447,1770,668,AWD,Dual,3.5,V,6,TT,False,L,Door23,True
 525,3420,1;;34,#6 ARX-05 DPi,2020,Acura #6 ARX-05,,11,,943,6,9.5,9.6,7.7,447,986,678,RWD,MR,3.5,V,6,TT,False,L,Closed,False
 3,3240,1;;34,#36 NSX GT3,2018,Acura #36 NSX,,45,NSX,819,4.7,6.7,6.9,6.3,389,1320,550,RWD,MR,3.5,V,6,TT,False,L,Door23,False
 2,2352,1;;34,NSX,2017,Acura NSX '17,,24,NSX,731,5.2,3.8,3.3,6.1,427,1725,845,AWD,MR,3.5,V,6,TT,False,L,Door23,True
@@ -53,6 +54,7 @@
 36,1607,8,RS 4 Avant,2013,Audi RS 4 '13,B8/8K,25,,591,5.6,2.9,2.5,3.9,331,1795,430,AWD,F,4.2,V,8,NA,False,L,Door45,False
 564,2009,8,RS 7 Sportback,2013,Audi RS 7,4G8,29,,613,6.5,2.8,2.4,4.5,412,2030,750,AWD,F,4,V,8,TT,False,L,Door45,False
 34,1216,8,RS 3 Sportback,2011,Audi RS 3 '11,8P,20,,470,3.7,2.3,2.3,2.8,250,1575,450,AWD,F,2.5,I,5,T,False,L,Door45,False
+679,1117,8,R8 Coupé 5.2 FSI quattro,2010,Audi R8 5.2,,24,,680,6,3.3,3.2,4.3,386,1690,530,AWD,F,5.2,V,10,NA,False,L,Door23,False
 33,419,8,RS 4,2006,Audi RS 4 '06,B7/8E,30,,564,5.4,2.3,2.4,3.6,313,1650,430,AWD,F,4.2,V,8,NA,False,L,Door45,False
 32,428,8,S4,2004,Audi S4 '04,B7/8E,30,,467,4.6,1.9,1.9,3,254,1735,409,AWD,F,4.2,V,8,NA,False,L,Door45,False
 31,420,8,RS 6,2003,Audi RS 6 '03,C5/4B,30,,537,5.3,2.5,2.3,3.6,336,1840,563,AWD,F,4.2,V,8,TT,False,L,Door45,False
@@ -115,7 +117,7 @@
 87,1219,17;93,EB110 Super Sport,1992,Bugatti EB110 92,,4,,697,7.6,3.2,3.2,4.7,456,1637,651,AWD,MR,3.5,V,12,TT,False,L,Door23,False
 86,2066,17;99,Type 35 C,1926,Bugatti Type 35,,32,,263,1,1.8,2,1.4,71,760,129,RWD,F,2,I,8,DSC,True,R,Open,False
 91,1329,18,Regal GNX,1987,Buick GNX '87,,30,,421,3.1,1.9,2.1,3.2,224,1608,515,RWD,F,3.8,V,6,T,False,L,Door23,False
-542,3316,18,#6 Performance Motorsports Somerset Regal Trans-Am,1985,Buick #6 Regal,,53,GTX2,771,5,5.6,5.8,5,378,1225,521,RWD,F,4.5,V,6,NA,False,L,Door23,False
+542,3316,18,#6 Performance Motorsports Somerset Regal Trans-Am,1985,Buick #6 Regal,,52,GTX2,771,5,5.6,5.8,5,378,1225,521,RWD,F,4.5,V,6,NA,False,L,Door23,False
 90,417,18,GSX,1970,Buick GSX '70,,31,,377,2,1.2,1.2,3.3,268,1757,691,RWD,F,7.5,V,8,NA,False,L,Door23,False
 96,3866,19,#01 Cadillac Racing V-Series.R,2023,Cadillac #01 LM,,11,,941,6.9,9.8,9.7,8.2,500,1105,632,RWD,MR,5.5,V,8,NA,False,L,Closed,True
 97,3867,19,#2 Cadillac Racing V-Series.R,2023,Cadillac #2 LM,,11,,941,6.9,9.8,9.7,8.2,500,1105,632,RWD,MR,5.5,V,8,NA,False,L,Closed,True
@@ -151,7 +153,7 @@
 112,314,22,Corvette Z06,2002,Chev. C4 Z06 '02,C5,28,Corvette,599,6,2.7,3.3,3.6,302,1414,542,RWD,F,5.7,V,8,NA,False,L,Door23,False
 110,2006,22,Corvette ZR-1,1995,Chev. C4 ZR1 '95,C4,28,Corvette,579,5,2.6,3,3.6,302,1590,522,RWD,F,5.7,V,8,NA,False,L,Door23,False
 109,1033,22,Camaro IROC-Z,1990,Chev. Camaro '90,,30,Camaro,367,3.2,1.8,2.1,2.4,183,1645,468,RWD,F,5.7,V,8,NA,False,L,Door23,False
-623,3435,22,#77 Beretta Trans Am,1988,Chev #77 Beretta,,54,GTX3,758,4.1,5.7,5.7,5.3,384,1247,548,RWD,F,4.5,V,6,NA,False,L,Closed,False
+623,3435,22,#77 Beretta Trans Am,1988,Chev #77 Beretta,,52,GTX3,758,4.1,5.7,5.7,5.3,384,1247,548,RWD,F,4.5,V,6,NA,False,L,Closed,False
 108,1575,22,Monte Carlo Super Sport,1988,Chev. MC '88,,30,,255,1,1.4,1.5,1.3,134,1598,305,RWD,F,5,V,8,NA,False,L,Door23,False
 107,2776,22,#76 Greenwood Corvette,1976,Chev. #76 C3,C3,54,Corvette;GTX3,811,7.5,5.2,5.5,7,552,1270,853,RWD,F,7.7,V,8,NA,False,L,Door23,False
 104,1330,22,Camaro Z28,1970,Chev. Camaro '70,,37,Camaro,353,1.9,1,1.1,2.9,268,1610,515,RWD,F,5.7,V,8,NA,False,L,Door23,False
@@ -164,9 +166,10 @@
 592,3541,94,B16,1970,Chevron B16,,35,,654,3.1,5.3,5.3,4.2,160,695,210,RWD,MR,2,I,4,NA,False,R,Closed,False
 128,2581,23;98,VH Valiant Charger R/T E49,1972,Chry. Valiant 72,,31,,361,1.9,1,1.1,3,225,1375,441,RWD,F,4.3,I,6,NA,False,R,Door23,False
 129,1665,24,DS 3 Racing,2011,Citroen DS 3 '11,,20,,379,1.8,2.3,2.3,2.4,152,1221,275,FWD,F,1.6,I,4,T,False,L,Door23,False
-132,2488,25;57,#33 280ZX Turbo,1979,Datsun #33 280ZX,S130,55,GTXS;Nissan Z,842,6.3,6,6.1,7.4,559,1164,882,RWD,F,4.2,V,8,TT,False,L,Door23,False
+132,2488,25;57,#33 280ZX Turbo,1979,Datsun #33 280ZX,S130,52,GTXS;Nissan Z,842,6.3,6,6.1,7.4,559,1164,882,RWD,F,4.2,V,8,TT,False,L,Door23,False
 131,1104,25;57,510,1970,Datsun 510 '70,,38,,223,1,1,1,1.2,72,930,136,RWD,F,1.6,I,4,NA,False,L,Door23,False
 130,2272,25;57,2000 Roadster,1969,Datsun 2000,,27,,251,1,1,1.1,1.4,101,968,179,RWD,F,2,I,4,NA,True,L,Door23,False
+678,3198,104,Pantera GT5,1984,Pantera GT5,,34,,502,3.1,2.8,2.9,3.1,231,1482,448,RWD,F,5.8,V,8,NA,False,L,Door23,False
 515,3292,26,#9 American V8 Road Racing TA Challenger,2019,Dodge #9 C,,48,,898,5.4,7.2,7.3,7,638,1321,786,RWD,F,5.8,V,8,NA,False,L,Door23,False
 518,2909,26,Challenger SRT Demon,2018,D. Challenger 18,,25,,679,7.2,5.5,2.5,5.1,626,1941,1045,RWD,F,6.2,V,8,DSC,False,L,Door23,False
 147,2544,26,Viper ACR,2016,Dodge Viper '16,VX,24,Viper,767,4.1,6.1,5.6,5.5,481,1528,813,RWD,F,8.4,V,10,NA,False,L,Door23,False
@@ -240,6 +243,7 @@
 609,3868,32;;95,#88 Mustang RTR,2024,#88 Mustang RTR,S650 - Chelsea DeNofa,42,Mustang,810,6.8,4.5,4.6,6.1,844,1469,1262,RWD,F,7.5,V,8,NA,False,L,Door23,False
 611,3847,32,Mustang Dark Horse,2024,NASCAR Mustang,S650,25,Mustang,633,5.4,3.8,3.5,4,373,1791,567,RWD,F,5,V,8,NA,False,L,Door23,False
 612,3846,32,Mustang GT,2024,Ford Mustang '24,S650,25,Mustang,579,4.9,2.8,2.8,3.8,362,1736,567,RWD,F,5,V,8,NA,False,L,Door23,False
+672,4026,32,Mustang GT3,2024,Ford Mustang GT3,S650,45,Mustang,829,5,6.9,6.8,6.1,442,1370,650,RWD,F,5.4,V,8,NA,False,L,Other,False
 618,3995,32,NASCAR Next Gen Mustang Dark Horse,2024,NASCAR Mustang,,43,,855,6,7,7,5.5,500,1508,638,RWD,F,5.9,V,8,NA,False,L,Closed,False
 223,3277,32;;70,Mustang Shelby GT500,2020,Ford GT500 '20,S550,25,Mustang,724,6.4,4.1,3.9,5.3,567,1892,847,RWD,F,5.2,V,8,DSC,False,L,Door23,False
 562,3251,32,#98 Breathless Pro Racing TA Mustang,2018,Ford #98 Mustang,,48,Mustang,897,5.5,7.1,7.2,6.7,634,1321,746,RWD,F,5.9,V,8,NA,False,L,Door23,False
@@ -286,7 +290,9 @@
 624,2997,95;33;35,#530 HSV Maloo GEN-F,2016,#530 HSV Maloo,,42,,768,6.6,3.8,3.7,5.4,746,1300,1221,RWD,F,6.2,V,8,DSC,False,R,Door23,False
 605,2996,95;32,#13 Ford Mustang,2015,#13 Ford Mustang,S550 - Justin Pawlak,42,Mustang,767,3.3,4.1,4.2,5.6,735,1388,1128,RWD,F,5,V,8,CS,False,L,Door23,False
 606,3003,95;26,#43 Dodge Viper SRT10,2006,#43 Dodge Viper,ZB I - Dean Kearney,42,Viper,816,6.1,4.6,4.7,6.1,1007,1297,1900,RWD,F,8.3,V,10,TT,False,L,Door23,False
+670,3392,95;57,#215 Nissan Silvia Spec-R,2001,#215 FD Silvia,S15,42,S-Chassis,801,6.1,3.9,4.1,6.4,746,1451,1004,RWD,F,3,I,6,T,False,L,Door23,False
 607,3000,95;57,#777 Nissan 240SX,1997,FD #777 240SX,S14 - Matt Field,42,S-Chassis,799,5,3.9,4.1,6.5,938,1391,1372,RWD,F,7,V,8,DSC,False,L,Door23,False
+671,3411,95;72,#34 Toyota Supra MkIV,1995,FD #34 Supra,,42,Supra,813,7,4,4.1,6.1,772,1292,1248,RWD,F,3.4,I,6,T,False,L,Door23,False
 660,3529,103;57;25,Nissan 'Gold Leader' Datsun 280Z,1975,Gold Leader 280Z,,42,Nissan Z,633,5.1,3,3,4.5,316,1114,480,RWD,F,2.5,I,6,T,False,L,Door23,False
 524,3460,81,#6 Team LNT Ginetta G60-LT-P1,2019,Ginetta #6 G60,,9,,981,7.1,10,10,8.1,537,886,850,RWD,MR,2.4,V,6,TT,False,L,Closed,False
 580,3429,81,G40 Junior,2019,Ginetta G40 Jr,,49,,300,1,2.8,2.8,1.6,75,864,140,RWD,F,1.8,I,4,NA,False,R,Door23,False
@@ -412,6 +418,7 @@
 315,2004,47,MX-5,2013,Mazda MX-5 '13,NC,22,Miata,345,2.4,1.9,2.3,2,125,1176,190,RWD,F,2,I,4,NA,False,L,Door23,False
 314,1426,47,RX-8 R3,2011,Mazda RX-8 '11,,22,RX,369,2.8,2.1,2.3,2.1,173,1390,216,RWD,F,1.3,R,2,NA,False,L,Door23,False
 622,1403,47,#16 Mazda Racing B09/86,2010,Mazda #16 B09/86,,10,,939,5.1,9.8,9.9,7.3,391,885,551,RWD,MR,2,I,4,T,False,L,Closed,False
+675,1229,47,Furai,2008,Mazda Furai,,19,,931,5,10,10,7.5,342,675,377,RWD,F,2,R,3,NA,False,R,Door23,False
 313,425,47,RX-7 Spirit R Type-A,2002,Mazda RX-7 '02,FD,3,RX,519,4.7,2.6,2.9,3.2,206,1270,313,RWD,F,1.3,R,2,TT,False,R,Door23,False
 312,424,47,RX-7,1997,Mazda RX-7 '97,FD,3,RX,462,4.7,2.2,2.4,2.9,195,1284,294,RWD,F,1.3,R,2,TT,False,R,Door23,False
 311,1110,47,MX-5 Miata,1994,Mazda MX-5 '94,NA,3,Miata,287,1,1.8,2.1,1.6,95,1057,149,RWD,F,1.8,I,4,NA,False,L,Door23,False
@@ -477,6 +484,7 @@
 360,1662,54,Cooper S,1965,MINI Cooper '65,,38,,219,1,1.3,1.1,1.2,56,671,108,FWD,F,1.3,I,4,NA,False,R,Door23,False
 370,1009,55,Lancer Evolution X GSR,2008,Mit. Evo X '08,,22,Evo,496,3,2.8,2.8,3.2,227,1540,427,AWD,F,2,I,4,T,False,R,Door45,False
 369,374,55,Lancer Evolution IX MR,2006,Mit. Evo IX '06,,22,Evo,490,3.7,2.7,2.7,2.9,213,1490,392,AWD,F,2,I,4,T,False,L,Door45,False
+673,3554,55,#1 Sierra Sierra Enterprises Lancer Evolution Time Attack,2005,#1 Evolution TA,,39,,940,4.5,7.8,8,10,708,1256,954,AWD,F,2.2,I,4,T,False,L,Door45,False
 368,378,55,Lancer Evolution VIII MR,2004,Mit. Evo VIII 04,,3,Evo,496,3.2,2.8,2.8,3,206,1400,400,AWD,F,2,I,4,T,False,R,Door45,False
 367,375,55,Lancer Evolution VI GSR,1999,Mit. Evo VI '99,,3,Evo,496,2.7,2.6,2.7,3.1,209,1280,407,AWD,F,2,I,4,T,False,R,Door45,False
 366,349,55,FTO GP Version R,1998,Mit. FTO '98,,3,,355,2.9,1.6,2,2,147,1150,199,FWD,F,2,V,6,NA,False,R,Door23,False
@@ -485,6 +493,7 @@
 595,3886,55,Lancer Evolution III GSR,1995,Mit. Evo III '95,,3,Evo,449,3.1,1.8,2,3,199,1260,309,AWD,F,2,I,4,T,False,R,Door45,False
 363,1381,55,Galant VR-4,1992,Mit. Galant '92,,3,,341,2.2,1.4,1.5,2.2,177,1483,304,AWD,F,2,I,4,T,False,R,Door23,False
 371,3366,56,EP9,2016,NIO EP9 '16,,21,,961,5.5,9.4,8.9,5.2,1000,1750,1479,AWD,Dual,0,E,0,EV,False,L,Door23,False
+676,3921,57,Z NISMO,2024,Z NISMO '24,RZ34,23,Z-Car,588,5.8,3,3.2,3.5,313,1680,521,RWD,F,3,V,6,TT,False,L,Door23,False
 401,3620,57,Z,2023,Nissan Z '23,RZ34,23,Nissan Z,546,5.8,2.6,2.9,3.5,298,1604,475,RWD,F,3,V,6,TT,False,L,Door23,False
 400,3622,57,GT-R NISMO (R35),2020,Nissan GT-R N 20,R35,24,Nissan GT-R,722,6.6,3.5,3.3,5.6,447,1754,652,AWD,F,3.8,V,6,TT,False,L,Door23,False
 399,3307,57,370Z Nismo,2019,Nissan 370Z N 19,Z34,23,Nissan Z,525,4.7,2.8,3,3.1,261,1537,374,RWD,F,3.7,V,6,NA,False,L,Door23,False
@@ -496,7 +505,7 @@
 393,445,57,Skyline GT-R V-Spec II,2002,Nissan GT-R '02,R34,28,Nissan GT-R,535,4.5,2.7,2.9,3.1,206,1550,392,AWD,F,2.6,I,6,TT,False,R,Door23,False
 392,441,57,Silvia Spec-R,2000,Nissan Silvia 0,S15,3,S-chassis,399,3.3,1.9,2.2,2.6,186,1240,275,RWD,F,2,I,4,T,False,R,Door23,False
 519,3497,57,#23 NISMO Clarion R391,1999,Nissan #23 R391,,2,,955,6.5,9.8,10,7.5,447,967,618,RWD,MR,5,V,8,NA,True,R,Open,False
-598,3363,57,#23 Pennzoil NISMO Skyline GT-R,1998,Nis. #23 GT-R,R33,52,GTX1,811,4,7,7.2,5.7,368,1200,706,RWD,F,2.7,I,6,TT,False,R,Door23,False
+598,3363,57,#23 Pennzoil NISMO Skyline GT-R,1998,Nis. #23 GT-R,R33,55,GTX1,811,4,7,7.2,5.7,368,1200,706,RWD,F,2.7,I,6,TT,False,R,Door23,False
 390,567,57,R390 (GT1),1998,Nissan R390 '98,,1,,796,7.2,4.5,4.8,7.2,410,1027,639,RWD,MR,3.5,V,8,TT,False,R,Door23,False
 391,2659,57,Silvia K's Aero,1998,Nissan Silvia 98,S14 "Kouki",3,S-chassis,380,3.1,1.8,2.1,2.7,162,1265,274,RWD,F,2,I,4,T,False,R,Door23,False
 389,1043,57,Skyline GT-R V-Spec,1997,Nissan GT-R '97,R33,28,Nissan GT-R,485,4.1,2.4,2.5,3,207,1539,367,AWD,F,2.6,I,6,TT,False,R,Door23,False
@@ -525,7 +534,7 @@
 652,3652,82,#38 Performance Tech Motorsports Oreca 07,2020,#38 Oreca 07 '20,,10,,940,6.5,9,9.1,7.7,450,986,555,RWD,MR,4.2,V,8,NA,False,L,Closed,False
 526,2967,82,#38 Jackie Chan DC Racing Oreca 07,2017,Oreca #38 07,,10,,938,6.5,9.3,9.4,7.6,450,956,555,RWD,MR,4.2,V,8,NA,False,L,Closed,False
 547,3543,60,Huayra R,2022,Pagani Huayra 22,,21,,925,8.7,7,7.2,8,625,1110,750,RWD,MR,6,V,12,NA,False,L,Door23,False
-405,2647,60,Huayra BC,2016,Pagani Huayra 16,,21,,871,8.1,5.8,5.9,7.7,552,1218,999,RWD,MR,6,V,12,TT,False,L,Door23,False
+405,2647,60,Huayra BC Coupe,2016,Pagani Huayra 16,,21,,871,8.1,5.8,5.9,7.7,552,1218,999,RWD,MR,6,V,12,TT,False,L,Door23,False
 574,1369,60,Zonda Cinque Roadster,2009,Pagani Zonda C,,21,,821,6.2,5.3,5.4,6.7,498,1280,780,RWD,MR,7.3,V,12,NA,False,L,Door23,False
 533,3243,61,#7 DG Sport Compétition 308,2018,Peugeot #7 308,,12,,716,2.8,5.4,5.5,4.7,256,1265,420,FWD,F,1.6,I,4,T,False,L,Door45,False
 408,1348,61,308 GTI,2011,Peugeot 308 '11,,20,,302,2.2,1.5,1.6,1.9,147,1412,275,FWD,F,1.6,I,4,T,False,L,Door45,False
@@ -574,7 +583,7 @@
 429,2534,64,968 Turbo S,1993,P. 968 Turbo '93,,30,,534,4.2,2.6,2.8,3.7,227,1300,500,RWD,F,3,I,4,T,False,L,Door23,False
 426,268,64,944 Turbo,1989,P. 944 Turbo '89,,30,,429,3.3,2.1,2.3,3.1,184,1413,350,RWD,F,2.5,I,4,T,False,L,Door23,False
 424,540,64,#17 Porsche AG 962C,1987,Porsche #17 962C,,14,,971,8.9,9.1,9.6,8.3,537,890,801,RWD,MR,3,F,6,TT,False,R,Closed,False
-664,3282,64,#203 Porsche AG 961,1987,#203 Porsche 961,,52,GTX1,825,5.9,4.9,5,6.8,471,1150,630,AWD,R,2.8,F,6,TT,False,L,Door23,False
+664,3282,64,#203 Porsche AG 961,1987,#203 Porsche 961,,55,GTX1,825,5.9,4.9,5,6.8,471,1150,630,AWD,R,2.8,F,6,TT,False,L,Door23,False
 425,269,64,959,1987,P. 959 '87,,4,,687,6,3.2,3.1,5.1,336,1447,500,AWD,R,2.8,F,6,TT,False,L,Door23,False
 546,3023,64,#11 John Fitzpatrick Racing 956,1983,Porsche #11 956,,14,,959,9,8.7,9.4,8.2,462,894,601,RWD,MR,2.6,F,6,TT,False,L,Closed,False
 423,265,64,911 Turbo 3.3,1982,P. 911 Turbo '82,930,28,911,448,2.9,2,2,3.5,221,1300,412,RWD,R,3.3,F,6,T,False,L,Door23,False
@@ -634,6 +643,7 @@
 489,295,72,Celica Sport Specialty II,2003,Toyota Celica 03,T230,3,Celica,329,2.3,1.5,1.8,2,140,1120,180,FWD,F,1.8,I,4,NA,False,R,Door23,False
 488,555,72,#3 Toyota Motorsports GT-ONE TS020,1999,#3 Toyota GT-ONE,,2,,943,6.6,9.1,9.3,7.7,447,970,650,RWD,R,3.6,V,8,TT,False,R,Closed,False
 487,461,72,Supra RZ,1998,Toyota Supra '98,Mk4 A80,28,Supra,470,4.5,2.2,2.4,3.1,239,1510,427,RWD,F,3,I,6,TT,False,R,Door23,False
+677,3915,72,Mark II Tourer JZX100,1997,Mk2 Tourer V '97,,30,,381,3.1,1.6,1.8,2.9,206,1480,378,RWD,F,2.5,I,6,T,False,R,Door45,False
 486,398,72,MR2 GT,1995,Toyota MR2 '95,W20,3,,375,3.4,1.6,1.9,2.6,180,1260,309,RWD,MR,2,I,4,T,False,R,Door23,False
 485,1034,72,Celica GT-Four ST205,1994,Toyota Celica 94,T200,3,Celica,368,3.1,1.8,1.9,2.2,190,1440,304,AWD,F,2,I,4,T,False,R,Door23,False
 482,2434,72;101,#99 All American Racers Toyota Eagle Mk III,1992,Toyota #99 Eagle,,14,,981,5.6,10,10,8.3,560,920,780,RWD,MR,2.1,I,4,T,False,L,Closed,False
@@ -641,6 +651,7 @@
 484,460,72,Supra 2.0 GT,1992,Toyota Supra '92,Mk3 A70,3,Supra,327,2.6,1.7,1.9,2.1,154,1510,275,RWD,F,2,I,6,TT,False,R,Door23,False
 481,1395,72,MR2 SC,1989,Toyota MR2 '89,W10,3,,296,1.9,1.5,1.7,1.9,108,1188,190,RWD,MR,1.6,I,4,DSC,False,L,Door23,False
 480,455,72,Sprinter Trueno GT Apex,1985,Toyota AE86 '85,AE86,16,Toyota 86,270,1,1.3,1.5,1.5,95,950,149,RWD,F,1.6,I,4,NA,False,R,Door23,False
+674,3521,72,#25 Horsepower Techs Starlet Time Attack,1984,#25 Starlet TA,,39,,801,3.6,7,6.4,5.9,485,937,550,RWD,F,2,I,4,T,False,L,Door23,False
 478,1592,72,Celica GT,1974,Toyota Celica 74,A30,38,Celica,227,1,1.1,1.2,1.1,72,1085,144,RWD,F,2,I,4,NA,False,L,Door23,False
 479,1537,72,Corolla SR5,1974,Toyota Corolla74,,38,,181,1,1.2,1,1,66,937,123,RWD,F,1.6,I,4,NA,False,L,Door23,False
 477,247,72,2000GT,1969,Toyota 2000 '69,,27,,265,1.2,1,1.2,1.5,112,1157,176,RWD,F,2,I,6,NA,False,R,Door23,False
