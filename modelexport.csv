@@ -133,6 +133,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 3242,Cadillac,CTS-V Sport Wagon,2014,CTS-V Wagon '14,Modern Sport Touring,USA,555,6.7,2.7,2.4,3.9,415,564,557,1994,4396,747,551,RWD,F,6.2,V,8,PDS,Road,False,L,Door45
 1652,Caterham,Superlight R500,2013,Caterham '13,Track Toys,GBR,669,2.9,3.5,3.4,5.5,196,266,263,506,1116,240,177,RWD,F,2,I,4,NA,Track,True,L,Open
 1553,Chaparral,#66 Chaparral Cars 2E,1966,Chaparral #66 2E,Prototype Group Racing,USA,818,4.2,6.9,6.8,5.9,354,481,475,800,1764,577,426,RWD,MR,5.4,V,8,NA,Race,True,R,Open
+4209,Chevrolet,IndyCar,2025,Chevy Indy '25,IndyCar,USA,993,0,0,0,0,593,806,795,907,2000,480,354,RWD,MR,2.2,V,6,TT,Race,True,C,Open
 3771,Chevrolet,Corvette E-Ray,2024,Chev. E-Ray '24,Modern Sport GT,USA,759,6.1,4.3,4,5.8,481,654,645,1764,3889,801,591,AWD,MR,6.2,V,8,NA,Road,False,L,Door23
 3994,Chevrolet,NASCAR Next Gen Camaro ZL1,2024,NASCAR Camaro,NASCAR,USA,855,6,7,7,5.5,500,680,671,1508,3325,638,471,RWD,F,5.9,V,8,NA,Race,False,L,Closed
 3766,Chevrolet,Corvette Z06,2023,Chev. C8 Z06 '23,Modern Sport GT,USA,757,5.1,5.1,4.5,6.2,500,680,671,1613,3556,624,460,RWD,MR,5.5,V,8,NA,Road,False,L,Door23
@@ -308,6 +309,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 1533,Holden,Torana A9X,1977,Holden Torana 77,Vintage Sport Compact,AUS,298,1.4,1,1.1,2.6,161,219,216,1183,2608,400,295,RWD,F,5,V,8,NA,Road,False,R,Door23
 2417,Holden,HQ Monaro GTS 350,1973,Holden Monaro 73,Vintage Muscle,AUS,321,1.3,1.1,1.2,2.6,205,279,275,1429,3150,488,360,RWD,F,5.7,V,8,NA,Road,False,R,Door23
 1511,Holden,Monaro GTS 327,1968,Holden Monaro 68,Street Drag Racers,AUS,282,1.3,1,1,2.4,186,253,249,1488,3280,441,325,RWD,F,5.4,V,8,NA,Road,False,R,Door23
+4208,Honda,IndyCar,2025,Honda Indy '25,IndyCar,JPN,993,8.2,10,10,7.1,593,806,795,907,2000,480,354,RWD,MR,2.2,V,6,TT,Race,True,C,Open
 3545,Honda,#73 LA Honda World Racing Civic,2020,Honda #73 Civic,Forza Touring Cars,JPN,693,2.9,5.3,5.4,4.3,254,345,341,1305,2877,420,310,FWD,F,2,I,4,T,Race,False,L,Door45
 2870,Honda,Civic Type R,2018,Honda Civic '18,Modern Hot Hatch,JPN,571,4.9,2.8,3.1,3.5,228,310,306,1414,3117,400,295,FWD,F,2,I,4,T,Road,False,L,Door45
 2005,Honda,S2000 CR,2009,Honda S2000 '09,Modern Sport Compact,JPN,405,3,2.2,2.5,2.4,177,241,237,1276,2813,220,162,RWD,F,2.2,I,4,NA,Road,False,L,Door23
