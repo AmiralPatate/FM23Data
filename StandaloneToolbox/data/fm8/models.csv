@@ -132,6 +132,7 @@
 659,3242,19,CTS-V Sport Wagon,2014,CTS-V Wagon '14,,25,,555,6.7,2.7,2.4,3.9,415,1994,747,RWD,F,6.2,V,8,DSC,False,L,Door45,False
 99,1652,20,Superlight R500,2013,Caterham '13,,33,,669,2.9,3.5,3.4,5.5,196,506,240,RWD,F,2,I,4,NA,True,L,Open,False
 100,1553,21,#66 Chaparral Cars 2E,1966,Chaparral #66 2E,,26,,818,4.2,6.9,6.8,5.9,354,800,577,RWD,MR,5.4,V,8,NA,True,R,Open,False
+681,4209,22,IndyCar,2025,Chevy Indy '25,,56,,993,0,0,0,0,593,907,480,RWD,MR,2.2,V,6,TT,True,C,Open,True
 127,3771,22,Corvette E-Ray,2024,Chev. E-Ray '24,C8,24,Corvette,759,6.1,4.3,4,5.8,481,1764,801,AWD,MR,6.2,V,8,NA,False,L,Door23,False
 617,3994,22,NASCAR Next Gen Camaro ZL1,2024,NASCAR Camaro,,43,,855,6,7,7,5.5,500,1508,638,RWD,F,5.9,V,8,NA,False,L,Closed,False
 126,3766,22,Corvette Z06,2023,Chev. C8 Z06 '23,C8,24,Corvette,757,5.1,5.1,4.5,6.2,500,1613,624,RWD,MR,5.5,V,8,NA,False,L,Door23,False
@@ -307,6 +308,7 @@
 226,1533,33,Torana A9X,1977,Holden Torana 77,,38,,298,1.4,1,1.1,2.6,161,1183,400,RWD,F,5,V,8,NA,False,R,Door23,False
 225,2417,33,HQ Monaro GTS 350,1973,Holden Monaro 73,HQ,37,,321,1.3,1.1,1.2,2.6,205,1429,488,RWD,F,5.7,V,8,NA,False,R,Door23,False
 224,1511,33,Monaro GTS 327,1968,Holden Monaro 68,HK,31,,282,1.3,1,1,2.4,186,1488,441,RWD,F,5.4,V,8,NA,False,R,Door23,False
+680,4208,34,IndyCar,2025,Honda Indy '25,,56,,993,8.2,10,10,7.1,593,907,480,RWD,MR,2.2,V,6,TT,True,C,Open,True
 239,3545,34,#73 LA Honda World Racing Civic,2020,Honda #73 Civic,FK8,12,Civic,693,2.9,5.3,5.4,4.3,254,1305,420,FWD,F,2,I,4,T,False,L,Door45,False
 238,2870,34,Civic Type R,2018,Honda Civic '18,FK8,20,Civic,571,4.9,2.8,3.1,3.5,228,1414,400,FWD,F,2,I,4,T,False,L,Door45,False
 237,2005,34,S2000 CR,2009,Honda S2000 '09,,22,,405,3,2.2,2.5,2.4,177,1276,220,RWD,F,2.2,I,4,NA,False,L,Door23,False
