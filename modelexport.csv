@@ -457,7 +457,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 3650,Mercedes-AMG,Mercedes-AMG ONE,2021,M-AMG ONE '21,Modern Hypercars,GER,912,7.6,6,6.1,10,654,889,877,1695,3737,725,535,AWD,MR,1.6,V,6,T,Road,False,L,Door23
 3616,Mercedes-AMG,GT Black Series,2020,M-AMG GT '20,Modern Sport GT,GER,801,6.1,5.3,4.9,6.8,537,730,720,1640,3616,800,590,RWD,F,4,V,8,TT,Road,False,L,Door23
 3250,Mercedes-AMG,E 63 S,2018,M-AMG E 63 '18,Sport Luxury,GER,676,6.7,2.8,2.5,5.6,450,612,603,2048,4515,849,626,AWD,F,4,V,8,TT,Road,False,L,Door45
-3064,Mercedes-AMG,GT 4-Door Coupé,2018,AMG GT Coupe '18,Sport Luxury,GER,684,7.4,2.8,2.6,5.4,470,639,630,2045,4508,899,663,AWD,F,4,V,8,TT,Road,False,L,Door45
+3064,Mercedes-AMG,GT 4-Door Coupé,2018,AMG GT Coupe '18,Sport Luxury,GER,684,7.4,2.8,2.6,5.4,470,639,630,2045,4508,900,664,AWD,F,4,V,8,TT,Road,False,L,Door45
 3197,Mercedes-AMG,GT3,2018,M-AMG GT3,Forza GT3,GER,817,5,6.4,6.7,6.1,404,549,542,1375,3031,599,442,RWD,F,6.2,V,8,NA,Race,False,L,Door23
 2654,Mercedes-AMG,GT R,2017,AMG GT R '17,Modern Sport GT,GER,728,6.5,4.5,4.3,5.7,430,585,577,1555,3428,700,516,RWD,F,4,V,8,TT,Road,False,L,Door23
 2471,Mercedes-AMG,C 63 S Coupé,2016,AMG C 63 '16,Modern Sport Touring,GER,601,5.5,3.3,2.9,4.4,375,510,503,1800,3968,700,516,RWD,F,4,V,8,TT,Road,False,L,Door23
@@ -568,7 +568,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 3807,Porsche,911 GT2 RS Forza Edition,2018,Porsche 911 FE,Modern Sport GT,GER,900,9.1,5.9,5.6,8.3,780,1061,1046,1465,3230,1079,796,RWD,R,3.8,F,6,TT,Special,False,L,Door23
 2774,Porsche,#2 Porsche Team 919 Hybrid,2017,Porsche #2 919,Forza P1,GER,999,6.7,10,10,10,671,912,900,922,2033,1493,1101,AWD,MR,2,V,4,T,Race,False,L,Closed
 2775,Porsche,#92 Porsche GT Team 911 RSR,2017,Porsche #92 RSR,Forza GT2,GER,811,4.7,6.6,6.7,5.9,375,510,503,1319,2908,462,341,RWD,MR,4,F,6,NA,Race,False,L,Door23
-2741,Porsche,Panamera Turbo,2017,P. Panamera '17,Sport Luxury,GER,643,6.8,3,2.6,4.9,410,557,550,1995,4398,769,567,AWD,F,4,V,8,TT,Road,False,L,Door45
+2741,Porsche,Panamera Turbo,2017,P. Panamera '17,Sport Luxury,GER,643,6.8,3,2.6,4.9,410,557,550,1995,4398,770,568,RWD,F,4,V,8,TT,Road,False,L,Door45
 2528,Porsche,911 GT3 RS,2016,911 GT3 RS '16,Modern Sport GT,GER,748,5.8,5,4.7,5.7,368,500,493,1420,3131,460,339,RWD,R,4,F,6,NA,Road,False,L,Door23
 2529,Porsche,Cayman GT4,2016,Porsche Cayman,Modern Sport Coupe,GER,668,5,4.3,4,4.3,287,390,385,1340,2954,419,309,RWD,MR,3.8,F,6,NA,Road,False,L,Door23
 2538,Porsche,#91 Porsche Team Manthey 991 RSR,2015,Porsche #91 RSR,Forza GT2,GER,806,4.5,6.3,6.4,6.2,365,496,489,1306,2879,447,330,RWD,R,4,F,6,NA,Race,False,L,Door23
