@@ -119,7 +119,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 2066,Bugatti,Type 35 C,1926,Bugatti Type 35,The Birth of Grand Prix,FRA,263,1,1.8,2,1.4,71,97,95,760,1676,129,95,RWD,F,2,I,8,PDS,Race,True,R,Open
 1329,Buick,Regal GNX,1987,Buick GNX '87,Sport Touring Classics,USA,421,3.1,1.9,2.1,3.2,224,305,300,1608,3545,515,380,RWD,F,3.8,V,6,T,Road,False,L,Door23
 3316,Buick,#6 Performance Motorsports Somerset Regal Trans-Am,1985,Buick #6 Regal,GTX Sportscars/GTX1,USA,771,5,5.6,5.8,5,378,514,507,1225,2701,521,384,RWD,F,4.5,V,6,NA,Race,False,L,Door23
-417,Buick,GSX,1970,Buick GSX '70,Street Drag Racers,USA,377,2,1.2,1.2,3.3,268,364,359,1757,3874,691,510,RWD,F,7.5,V,8,NA,Road,False,L,Door23
+417,Buick,GSX,1970,Buick GSX '70,Street Drag Racers,USA,377,2,1.2,1.2,3.3,268,364,359,1757,3874,692,510,RWD,F,7.5,V,8,NA,Road,False,L,Door23
 3866,Cadillac,#01 Cadillac Racing V-Series.R,2023,Cadillac #01 LM,Forza Proto-H,USA,941,6.9,9.8,9.7,8.2,500,680,671,1105,2436,632,466,RWD,MR,5.5,V,8,NA,Race,False,L,Closed
 3867,Cadillac,#2 Cadillac Racing V-Series.R,2023,Cadillac #2 LM,Forza Proto-H,USA,941,6.9,9.8,9.7,8.2,500,680,671,1105,2436,632,466,RWD,MR,5.5,V,8,NA,Race,False,L,Closed
 3792,Cadillac,#31 Whelen Engineering Cadillac Racing V-Series.R,2023,Cadillac #31 LM,Forza Proto-H,USA,941,6.9,9.8,9.7,8.2,500,680,671,1105,2436,632,466,RWD,MR,5.5,V,8,NA,Race,False,L,Closed
@@ -185,7 +185,7 @@ Ordinal,Make,Model,Year,Nickname,Division,Country,PI,S,B,H,A,Pwr kW, Pwr PS,Pwr 
 457,Dodge,Stealth R/T Turbo,1996,Dodge Stealth 96,Early Sport Compact,USA,449,4.3,2,2.3,2.6,239,325,321,1735,3825,427,315,AWD,F,3,V,6,TT,Road,False,L,Door23
 1292,Dodge,Shelby Omni GLHS,1986,Dodge Shelby '86,Hot Hatch Icons,USA,306,1.2,1.6,1.6,2.2,130,177,174,1152,2540,237,175,FWD,F,2.2,I,4,T,Road,False,L,Door45
 639,Dodge,Challenger R/T,1970,D. Challenger 70,Street Drag Racers,USA,395,2.9,1.2,1.3,3.2,317,431,425,1591,3508,665,490,RWD,F,7,V,8,NA,Road,False,L,Door23
-1352,Dodge,Coronet Super Bee,1970,Dodge Coronet 70,Street Drag Racers,USA,398,3.2,1.3,1.4,3.1,317,431,425,1551,3419,664,490,RWD,F,7,V,8,NA,Road,False,L,Door23
+1352,Dodge,Coronet Super Bee,1970,Dodge Coronet 70,Street Drag Racers,USA,398,3.2,1.3,1.4,3.1,317,431,425,1551,3419,665,490,RWD,F,7,V,8,NA,Road,False,L,Door23
 1063,Dodge,Charger Daytona HEMI,1969,Charger Daytona,Vintage Muscle,USA,392,2.1,1.4,1.5,3.2,317,431,425,1758,3876,664,490,RWD,F,7,V,8,NA,Road,False,L,Door23
 513,Dodge,Charger R/T,1969,Dodge Charger 69,Vintage Muscle,USA,376,3,1.1,1.2,3,317,431,425,1665,3671,664,490,RWD,F,7,V,8,NA,Road,False,L,Door23
 2105,Donkervoort,D8 GTO,2013,Donkervoort GTO,Track Toys,NED,717,3.5,4.6,4.5,5.2,280,381,375,695,1532,475,350,RWD,F,2.5,I,5,T,Track,True,L,Door23
