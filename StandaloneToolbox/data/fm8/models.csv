@@ -118,7 +118,7 @@
 86,2066,17;99,Type 35 C,1926,Bugatti Type 35,,32,,263,1,1.8,2,1.4,71,760,129,RWD,F,2,I,8,DSC,True,R,Open,False
 91,1329,18,Regal GNX,1987,Buick GNX '87,,30,,421,3.1,1.9,2.1,3.2,224,1608,515,RWD,F,3.8,V,6,T,False,L,Door23,False
 542,3316,18,#6 Performance Motorsports Somerset Regal Trans-Am,1985,Buick #6 Regal,,52,GTX2,771,5,5.6,5.8,5,378,1225,521,RWD,F,4.5,V,6,NA,False,L,Door23,False
-90,417,18,GSX,1970,Buick GSX '70,,31,,377,2,1.2,1.2,3.3,268,1757,691,RWD,F,7.5,V,8,NA,False,L,Door23,False
+90,417,18,GSX,1970,Buick GSX '70,,31,,377,2,1.2,1.2,3.3,268,1757,692,RWD,F,7.5,V,8,NA,False,L,Door23,False
 96,3866,19,#01 Cadillac Racing V-Series.R,2023,Cadillac #01 LM,,11,,941,6.9,9.8,9.7,8.2,500,1105,632,RWD,MR,5.5,V,8,NA,False,L,Closed,True
 97,3867,19,#2 Cadillac Racing V-Series.R,2023,Cadillac #2 LM,,11,,941,6.9,9.8,9.7,8.2,500,1105,632,RWD,MR,5.5,V,8,NA,False,L,Closed,True
 98,3792,19,#31 Whelen Engineering Cadillac Racing V-Series.R,2023,Cadillac #31 LM,,11,,941,6.9,9.8,9.7,8.2,500,1105,632,RWD,MR,5.5,V,8,NA,False,L,Closed,True
@@ -184,7 +184,7 @@
 138,457,26,Stealth R/T Turbo,1996,Dodge Stealth 96,,3,,449,4.3,2,2.3,2.6,239,1735,427,AWD,F,3,V,6,TT,False,L,Door23,False
 137,1292,26;;70,Shelby Omni GLHS,1986,Dodge Shelby '86,,16,,306,1.2,1.6,1.6,2.2,130,1152,237,FWD,F,2.2,I,4,T,False,L,Door45,False
 135,639,26,Challenger R/T,1970,D. Challenger 70,,31,,395,2.9,1.2,1.3,3.2,317,1591,665,RWD,F,7,V,8,NA,False,L,Door23,False
-136,1352,26,Coronet Super Bee,1970,Dodge Coronet 70,,31,,398,3.2,1.3,1.4,3.1,317,1551,664,RWD,F,7,V,8,NA,False,L,Door23,False
+136,1352,26,Coronet Super Bee,1970,Dodge Coronet 70,,31,,398,3.2,1.3,1.4,3.1,317,1551,665,RWD,F,7,V,8,NA,False,L,Door23,False
 133,1063,26,Charger Daytona HEMI,1969,Charger Daytona,,37,,392,2.1,1.4,1.5,3.2,317,1758,664,RWD,F,7,V,8,NA,False,L,Door23,False
 134,513,26,Charger R/T,1969,Dodge Charger 69,,37,,376,3,1.1,1.2,3,317,1665,664,RWD,F,7,V,8,NA,False,L,Door23,False
 148,2105,27,D8 GTO,2013,Donkervoort GTO,,33,,717,3.5,4.6,4.5,5.2,280,695,475,RWD,F,2.5,I,5,T,True,L,Door23,False
